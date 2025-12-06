@@ -1,0 +1,120 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Kuczynski Philosophical Database v2",
+  "description": "Hierarchical claim-argument-quote structure for Kuczynski's works",
+  "type": "object",
+  "properties": {
+    "version": {
+      "type": "string",
+      "description": "Database version"
+    },
+    "last_updated": {
+      "type": "string",
+      "format": "date-time"
+    },
+    "works": {
+      "type": "array",
+      "items": {
+        "$ref": "#/definitions/Work"
+      }
+    },
+    "positions": {
+      "type": "array",
+      "items": {
+        "$ref": "#/definitions/Position"
+      }
+    }
+  },
+  "definitions": {
+    "Work": {
+      "type": "object",
+      "required": ["work_id", "title"],
+      "properties": {
+        "work_id": {
+          "type": "string",
+          "description": "Unique identifier for the work (e.g., 'KUC-PROP-COMPOSITION')"
+        },
+        "title": {
+          "type": "string",
+          "description": "Full title of the work"
+        },
+        "year": {
+          "type": "integer",
+          "description": "Publication year"
+        },
+        "source_type": {
+          "type": "string",
+          "enum": ["book", "article", "chapter", "lecture", "manuscript"]
+        },
+        "position_count": {
+          "type": "integer",
+          "description": "Number of positions extracted from this work"
+        }
+      }
+    },
+    "Position": {
+      "type": "object",
+      "required": ["position_id", "work_id", "claim", "quote", "position_type"],
+      "properties": {
+        "position_id": {
+          "type": "string",
+          "description": "Unique identifier (e.g., 'KUC-PROP-001')"
+        },
+        "work_id": {
+          "type": "string",
+          "description": "Reference to parent work"
+        },
+        "position_type": {
+          "type": "string",
+          "enum": ["major_claim", "supporting_argument", "sub_argument", "example", "definition", "objection_response"],
+          "description": "Type of philosophical position"
+        },
+        "claim": {
+          "type": "string",
+          "description": "The philosophical claim or argument (can be paraphrase of key point)"
+        },
+        "quote": {
+          "type": "string",
+          "description": "VERBATIM quote from the text supporting this claim"
+        },
+        "quote_context": {
+          "type": "string",
+          "description": "Surrounding context for the quote (paragraph or section)"
+        },
+        "domain": {
+          "type": "string",
+          "description": "Philosophical domain (e.g., 'metaphysics', 'epistemology', 'philosophy_of_language')"
+        },
+        "topics": {
+          "type": "array",
+          "items": {"type": "string"},
+          "description": "Specific topics covered (e.g., ['propositions', 'composition', 'instantiation'])"
+        },
+        "supports": {
+          "type": "array",
+          "items": {"type": "string"},
+          "description": "Position IDs that this position supports/argues for"
+        },
+        "supported_by": {
+          "type": "array",
+          "items": {"type": "string"},
+          "description": "Position IDs that support this position"
+        },
+        "is_major_claim": {
+          "type": "boolean",
+          "description": "True if this is a thesis-level major claim"
+        },
+        "argument_chain": {
+          "type": "array",
+          "items": {"type": "string"},
+          "description": "Path from this position up to the major claim it ultimately supports"
+        },
+        "keywords": {
+          "type": "array",
+          "items": {"type": "string"},
+          "description": "Key terms for search optimization"
+        }
+      }
+    }
+  }
+}
