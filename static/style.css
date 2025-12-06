@@ -411,8 +411,8 @@ body::before {
 
 .message-text {
     font-family: var(--font-quote);
-    font-size: 1.05em;
-    line-height: 1.75;
+    font-size: 0.85em;
+    line-height: 1.6;
     color: var(--text-primary);
     white-space: pre-wrap;
 }
@@ -504,10 +504,12 @@ body::before {
 
 .source-text {
     font-family: var(--font-quote);
-    font-size: 0.95em;
-    line-height: 1.6;
+    font-size: 0.75em;
+    line-height: 1.45;
     color: var(--text-secondary);
     font-style: italic;
+    word-wrap: break-word;
+    overflow-wrap: break-word;
 }
 
 .source-attribution {
@@ -1239,8 +1241,8 @@ body::before {
 .quote-text {
     font-family: var(--font-quote);
     color: var(--text-secondary);
-    font-size: 0.85em;
-    line-height: 1.5;
+    font-size: 0.7em;
+    line-height: 1.45;
     font-style: normal;
     margin-bottom: 0;
 }

@@ -161,12 +161,12 @@ class ThinkerWorkshop {
     
     applyArchiveFontSize() {
         const scale = this.archiveFontSize / 100;
-        const baseFontSize = 0.85 * scale;
+        const baseFontSize = 0.7 * scale;
         document.querySelectorAll('.quote-text').forEach(el => {
             el.style.fontSize = baseFontSize + 'em';
         });
         document.querySelectorAll('.source-text').forEach(el => {
-            el.style.fontSize = (0.9 * scale) + 'em';
+            el.style.fontSize = (0.75 * scale) + 'em';
         });
     }
     
@@ -188,9 +188,9 @@ class ThinkerWorkshop {
     
     applyFontSize(sizePercent) {
         const scale = sizePercent / 100;
-        const dialogueFontSize = (1.05 * scale) + 'em';
-        const archiveFontSize = (0.95 * scale) + 'em';
-        const archiveIdSize = (0.75 * scale) + 'em';
+        const dialogueFontSize = (0.85 * scale) + 'em';
+        const archiveFontSize = (0.75 * scale) + 'em';
+        const archiveIdSize = (0.65 * scale) + 'em';
         
         document.querySelectorAll('.message-text').forEach(el => {
             el.style.fontSize = dialogueFontSize;
