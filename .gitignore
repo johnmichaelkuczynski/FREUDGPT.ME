@@ -30,8 +30,7 @@ env/
 instance/
 .webassets-cache
 
-# Embedding files - hosted externally, downloaded during Render build
-data/*_embeddings*.pkl
+# Embedding archive (not needed - chunk files tracked in git)
 embeddings.tar.gz
 
 # IDE
