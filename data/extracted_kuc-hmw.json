@@ -1,0 +1,1701 @@
+[
+  {
+    "position_id": "KUC-HMW-001",
+    "work_id": "KUC-HMW",
+    "work_title": "Heed My Wisdom",
+    "position_type": "major_claim",
+    "claim": "Payment of bonuses enormously improves productivity without any doubt",
+    "text": "Payment of bonuses enormously improves productivity without any doubt",
+    "quote": "Does the payment of bonuses really improve productivity? Yes, enormously, without any doubt.",
+    "domain": "economics",
+    "topics": [
+      "productivity",
+      "incentives",
+      "bonuses"
+    ],
+    "is_major_claim": true,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-HMW-002",
+    "work_id": "KUC-HMW",
+    "work_title": "Heed My Wisdom",
+    "position_type": "supporting_argument",
+    "claim": "Bonuses work differently for creative versus low-level workers - talent must be rewarded while low-level workers are less motivated by bonuses",
+    "text": "Bonuses work differently for creative versus low-level workers - talent must be rewarded while low-level workers are less motivated by bonuses",
+    "quote": "If you are dealing with low level workersboozers who are putting rocks in a bagthen not so much, since they are more interested in how little they can do and get by than they are in moving forward. But with talentgotta reward it.",
+    "domain": "economics",
+    "topics": [
+      "worker motivation",
+      "talent management",
+      "incentive structures"
+    ],
+    "is_major_claim": false,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-HMW-003",
+    "work_id": "KUC-HMW",
+    "work_title": "Heed My Wisdom",
+    "position_type": "definition",
+    "claim": "A consistent set of sentences can be extended to a maximal consistent set through a specific construction",
+    "text": "A consistent set of sentences can be extended to a maximal consistent set through a specific construction",
+    "quote": "Let S be a consistent statement set, and let s1 be an arbitrary statement not in S. If s1 is consistent with S, then the union of S and s1 is consistent; otherwise, the union of S and not s1 is consistent.",
+    "domain": "logic",
+    "topics": [
+      "consistency",
+      "maximal sets",
+      "formal logic"
+    ],
+    "is_major_claim": false,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-HMW-004",
+    "work_id": "KUC-HMW",
+    "work_title": "Heed My Wisdom",
+    "position_type": "major_claim",
+    "claim": "The distinction between good and bad clients is utterly sharp and predictable",
+    "text": "The distinction between good and bad clients is utterly sharp and predictable",
+    "quote": "The line good between clients and dirty clients is utterly sharp. There are good clients who are annoying and may even be bad people in some contexts, but they pay and they are honest about what you have done for them.",
+    "domain": "economics",
+    "topics": [
+      "business relationships",
+      "client management",
+      "professional ethics"
+    ],
+    "is_major_claim": true,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-HMW-005",
+    "work_id": "KUC-HMW",
+    "work_title": "Heed My Wisdom",
+    "position_type": "supporting_argument",
+    "claim": "Bad clients reveal themselves quickly through dishonesty about work performed",
+    "text": "Bad clients reveal themselves quickly through dishonesty about work performed",
+    "quote": "The dirty clients lie about what you done-and they show their true colors pretty much right away (after one or two meetings, sometimes one or two minutes).",
+    "domain": "economics",
+    "topics": [
+      "client assessment",
+      "professional relationships"
+    ],
+    "is_major_claim": false,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-HMW-006",
+    "work_id": "KUC-HMW",
+    "work_title": "Heed My Wisdom",
+    "position_type": "major_claim",
+    "claim": "Social media influencers provide value by facilitating information flow",
+    "text": "Social media influencers provide value by facilitating information flow",
+    "quote": "Social media facilitates the flow of information, and social media influencers can help people benefit from that increased flow",
+    "domain": "philosophy_of_mind",
+    "topics": [
+      "information theory",
+      "social media",
+      "communication"
+    ],
+    "is_major_claim": true,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-HMW-007",
+    "work_id": "KUC-HMW",
+    "work_title": "Heed My Wisdom",
+    "position_type": "major_claim",
+    "claim": "Starting a startup straight out of college is advisable if you have a legitimate business idea",
+    "text": "Starting a startup straight out of college is advisable if you have a legitimate business idea",
+    "quote": "If you have a legitimate business idea, then you have more answers than just about anyone you come across, and you should go for it.",
+    "domain": "economics",
+    "topics": [
+      "entrepreneurship",
+      "business strategy",
+      "risk assessment"
+    ],
+    "is_major_claim": true,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-HMW-008",
+    "work_id": "KUC-HMW",
+    "work_title": "Heed My Wisdom",
+    "position_type": "supporting_argument",
+    "claim": "People in miserable jobs tend to discourage others from pursuing good business ideas",
+    "text": "People in miserable jobs tend to discourage others from pursuing good business ideas",
+    "quote": "if you ask other people if your idea is good, they are likely to say no if it is good and yes if it is bad, because they are stuck at miserable jobs and want you to be stuck with them.",
+    "domain": "psychology",
+    "topics": [
+      "social psychology",
+      "motivation",
+      "career advice"
+    ],
+    "is_major_claim": false,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-HMW-009",
+    "work_id": "KUC-HMW",
+    "work_title": "Heed My Wisdom",
+    "position_type": "example",
+    "claim": "Facebook demonstrates that ideas that seem bad on paper can still succeed",
+    "text": "Facebook demonstrates that ideas that seem bad on paper can still succeed",
+    "quote": "Considered on paper, is Facebook a good idea? Probably not, but it worked, and thats the end of it.",
+    "domain": "economics",
+    "topics": [
+      "business success",
+      "entrepreneurship",
+      "innovation"
+    ],
+    "is_major_claim": false,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-HMW-010",
+    "work_id": "KUC-HMW",
+    "work_title": "Heed My Wisdom",
+    "position_type": "example",
+    "claim": "Several scientific paradoxes were later proven logical, including framework invariance of speed of light",
+    "text": "Several scientific paradoxes were later proven logical, including framework invariance of speed of light",
+    "quote": "1. Framework invariance of speed of light 2. Non-additivity of length and mass 3. Existence of unconscious 4. Absence of deterministic model of quantum phenomena",
+    "domain": "philosophy_of_science",
+    "topics": [
+      "scientific paradoxes",
+      "physics",
+      "psychology"
+    ],
+    "is_major_claim": false,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-HMW-011",
+    "work_id": "KUC-HMW",
+    "work_title": "Heed My Wisdom",
+    "position_type": "major_claim",
+    "claim": "Species-level fitness is often opposite to individual-level fitness",
+    "text": "Species-level fitness is often opposite to individual-level fitness",
+    "quote": "Species level fitness often opposite of individual level fitness (cows as a species highly successful, even though any given cow is heading to the slaughter house; genius members of homo sapiens very successful even though the genius subpopulation is proving not so good at keeping itself going)",
+    "domain": "philosophy_of_science",
+    "topics": [
+      "evolutionary biology",
+      "fitness",
+      "group selection"
+    ],
+    "is_major_claim": true,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-HMW-012",
+    "work_id": "KUC-HMW",
+    "work_title": "Heed My Wisdom",
+    "position_type": "major_claim",
+    "claim": "Procuring/pimping doesn't deserve its bad reputation when conducted properly",
+    "text": "Procuring/pimping doesn't deserve its bad reputation when conducted properly",
+    "quote": "procuring, meaning being a pimp or madam. those professions, when conducted properly, minimize the spread of disease and provide healthy outlets for energies that are otherwise expressed neurotically.",
+    "domain": "ethics",
+    "topics": [
+      "professional ethics",
+      "social judgment",
+      "harm reduction"
+    ],
+    "is_major_claim": true,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-HMW-013",
+    "work_id": "KUC-HMW",
+    "work_title": "Heed My Wisdom",
+    "position_type": "major_claim",
+    "claim": "It is absolutely acceptable for a man to hit a woman in self-defense without qualifications",
+    "text": "It is absolutely acceptable for a man to hit a woman in self-defense without qualifications",
+    "quote": "Is it ever acceptable for a man to hit a woman in self-defense? Absolutely. 100%. No qualifications.",
+    "domain": "ethics",
+    "topics": [
+      "self-defense",
+      "gender",
+      "moral permissibility"
+    ],
+    "is_major_claim": true,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-HMW-014",
+    "work_id": "KUC-HMW",
+    "work_title": "Heed My Wisdom",
+    "position_type": "major_claim",
+    "claim": "Mathematical logic is sterile and poorly taught, which explains lack of interest",
+    "text": "Mathematical logic is sterile and poorly taught, which explains lack of interest",
+    "quote": "Mathematical logic is a bit sterile, and thats probably what youre picking up on. Plus, the people who teach it are kind of in the weeds, in terms of ability-level and vision.",
+    "domain": "philosophy_of_mathematics",
+    "topics": [
+      "mathematical logic",
+      "education",
+      "pedagogy"
+    ],
+    "is_major_claim": true,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-HMW-015",
+    "work_id": "KUC-HMW",
+    "work_title": "Heed My Wisdom",
+    "position_type": "major_claim",
+    "claim": "No single case exists of an anomaly being definitively resolved by two incompatible hypotheses",
+    "text": "No single case exists of an anomaly being definitively resolved by two incompatible hypotheses",
+    "quote": "Identify a single case of a given anomaly being definitively resolved by two incompatible hypotheses. No such case exists.",
+    "domain": "philosophy_of_science",
+    "topics": [
+      "scientific method",
+      "hypothesis testing",
+      "anomalies"
+    ],
+    "is_major_claim": true,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-HMW-016",
+    "work_id": "KUC-HMW",
+    "work_title": "Heed My Wisdom",
+    "position_type": "major_claim",
+    "claim": "Nothing mathematically proven is false, though there are counterintuitive models of axioms",
+    "text": "Nothing mathematically proven is false, though there are counterintuitive models of axioms",
+    "quote": "Short answer-no: since nothing proven is false. Long answer-there have turned out to be models of axioms that seem self-evidently false.",
+    "domain": "philosophy_of_mathematics",
+    "topics": [
+      "mathematical proof",
+      "axioms",
+      "models"
+    ],
+    "is_major_claim": true,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-HMW-017",
+    "work_id": "KUC-HMW",
+    "work_title": "Heed My Wisdom",
+    "position_type": "example",
+    "claim": "Non-Euclidean geometry provides models where the parallel axiom is false and describes actual space",
+    "text": "Non-Euclidean geometry provides models where the parallel axiom is false and describes actual space",
+    "quote": "There are models in which the parallel axiom (parallels dont intersect) is false, and one of those models describes actual space.",
+    "domain": "philosophy_of_mathematics",
+    "topics": [
+      "geometry",
+      "parallel postulate",
+      "physical space"
+    ],
+    "is_major_claim": false,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-HMW-018",
+    "work_id": "KUC-HMW",
+    "work_title": "Heed My Wisdom",
+    "position_type": "major_claim",
+    "claim": "Macroeconomics is social psychology insofar as it relates to commercial behavior",
+    "text": "Macroeconomics is social psychology insofar as it relates to commercial behavior",
+    "quote": "Macroeconomics is social psychology, in so far as the latter relates to commercial behavior.",
+    "domain": "economics",
+    "topics": [
+      "macroeconomics",
+      "social psychology",
+      "commercial behavior"
+    ],
+    "is_major_claim": true,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-HMW-019",
+    "work_id": "KUC-HMW",
+    "work_title": "Heed My Wisdom",
+    "position_type": "major_claim",
+    "claim": "Randomness is not more important than effort and talent in determining life outcomes",
+    "text": "Randomness is not more important than effort and talent in determining life outcomes",
+    "quote": "How important is randomness in life? Is it more important than effort and talent? Absolutely not. It is is very hard to keep someone down if he has talent and character.",
+    "domain": "philosophy_of_life",
+    "topics": [
+      "randomness",
+      "talent",
+      "character",
+      "success"
+    ],
+    "is_major_claim": true,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-HMW-020",
+    "work_id": "KUC-HMW",
+    "work_title": "Heed My Wisdom",
+    "position_type": "major_claim",
+    "claim": "Standardized tests are efficient for approximate knowledge but limited for individuals",
+    "text": "Standardized tests are efficient for approximate knowledge but limited for individuals",
+    "quote": "Standardized tests are extraordinarily efficient and are indicated in contexts where only very approximate knowledge is necessary or where knowledge about whole populations (e.g. people who may have been exposed to toxins leading to psychological impairments) are necessary. With individuals, they are of limited use",
+    "domain": "education",
+    "topics": [
+      "standardized testing",
+      "assessment",
+      "individual differences"
+    ],
+    "is_major_claim": true,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-HMW-021",
+    "work_id": "KUC-HMW",
+    "work_title": "Heed My Wisdom",
+    "position_type": "major_claim",
+    "claim": "Bad thoughts about Allah occur because religious tyranny constrains freedom",
+    "text": "Bad thoughts about Allah occur because religious tyranny constrains freedom",
+    "quote": "You think bad thoughts about Allah because you want to be free and somebody is using religious tyranny to constrain you. Accept that, and your intrusive thoughts about Allah will vanish.",
+    "domain": "psychology",
+    "topics": [
+      "religious psychology",
+      "freedom",
+      "intrusive thoughts"
+    ],
+    "is_major_claim": true,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-HMW-022",
+    "work_id": "KUC-HMW",
+    "work_title": "Heed My Wisdom",
+    "position_type": "major_claim",
+    "claim": "All people understand mathematics; mathematical talent is about operationalizing this understanding in new contexts",
+    "text": "All people understand mathematics; mathematical talent is about operationalizing this understanding in new contexts",
+    "quote": "I think that all people do understand it. What we refer to as mathematical talent is about being able to operationalize mathematical intelligence outside of those contexts in which it is automatically operational.",
+    "domain": "philosophy_of_mathematics",
+    "topics": [
+      "mathematical understanding",
+      "talent",
+      "intelligence"
+    ],
+    "is_major_claim": true,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-HMW-023",
+    "work_id": "KUC-HMW",
+    "work_title": "Heed My Wisdom",
+    "position_type": "major_claim",
+    "claim": "School does not provide the tools needed for adulthood",
+    "text": "School does not provide the tools needed for adulthood",
+    "quote": "Does school give us the tools we need in our adulthood? No it doesnt. It doesnt give us the requisite technical skills. Nor does it give us the requisite understanding of the economy or of its psychological underpinnings.",
+    "domain": "education",
+    "topics": [
+      "education",
+      "life skills",
+      "economic understanding"
+    ],
+    "is_major_claim": true,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-HMW-024",
+    "work_id": "KUC-HMW",
+    "work_title": "Heed My Wisdom",
+    "position_type": "major_claim",
+    "claim": "Simply viewing websites cannot lead to arrest; transactional engagement is required",
+    "text": "Simply viewing websites cannot lead to arrest; transactional engagement is required",
+    "quote": "you have to make a purchase or otherwise engage the website in a transactional manner. otherwise no.",
+    "domain": "ethics",
+    "topics": [
+      "internet law",
+      "legal liability",
+      "website browsing"
+    ],
+    "is_major_claim": true,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-HMW-025",
+    "work_id": "KUC-HMW",
+    "work_title": "Heed My Wisdom",
+    "position_type": "supporting_argument",
+    "claim": "It is a moral obligation to visit morally questionable websites to resist bureaucratic control",
+    "text": "It is a moral obligation to visit morally questionable websites to resist bureaucratic control",
+    "quote": "you should actually see it as your moral obligation to visit as many morally questionable websites as possible , since not doing so means conceding moral legitimacy to blockhead bureaucrats and moralizing phonies.",
+    "domain": "ethics",
+    "topics": [
+      "moral obligation",
+      "internet freedom",
+      "authority resistance"
+    ],
+    "is_major_claim": false,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-HMW-026",
+    "work_id": "KUC-HMW",
+    "work_title": "Heed My Wisdom",
+    "position_type": "major_claim",
+    "claim": "It is not essential to study the same subject for PhD as for master's thesis",
+    "text": "It is not essential to study the same subject for PhD as for master's thesis",
+    "quote": "absolutely not. my masters thesis was on definite descriptions, and my doctoral thesis was on legal positivism.",
+    "domain": "education",
+    "topics": [
+      "graduate education",
+      "academic specialization",
+      "thesis topics"
+    ],
+    "is_major_claim": true,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-HMW-027",
+    "work_id": "KUC-HMW",
+    "work_title": "Heed My Wisdom",
+    "position_type": "major_claim",
+    "claim": "Being able to financially destroy someone through marriage is morally wrong but legal",
+    "text": "Being able to financially destroy someone through marriage is morally wrong but legal",
+    "quote": "Being able to destroy somebody financially simply because you were married to them.",
+    "domain": "ethics",
+    "topics": [
+      "marriage",
+      "financial obligations",
+      "moral vs legal"
+    ],
+    "is_major_claim": true,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-HMW-028",
+    "work_id": "KUC-HMW",
+    "work_title": "Heed My Wisdom",
+    "position_type": "major_claim",
+    "claim": "Thoughts of hurting a cat are the mind's way of indicating sexual needs",
+    "text": "Thoughts of hurting a cat are the mind's way of indicating sexual needs",
+    "quote": "You want to hurt your cat-your minds way of telling you that you need to pound some p*ssy. Not hard to decrypt.",
+    "domain": "psychoanalysis",
+    "topics": [
+      "dream interpretation",
+      "unconscious desires",
+      "symbolism"
+    ],
+    "is_major_claim": true,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-HMW-029",
+    "work_id": "KUC-HMW",
+    "work_title": "Heed My Wisdom",
+    "position_type": "major_claim",
+    "claim": "Men and women cannot be friends because they want different things from each other",
+    "text": "Men and women cannot be friends because they want different things from each other",
+    "quote": "Because men dont want friendship from women, and women dont want friendship from men. Men want sex and love (in that order) from women, and women want love and sex (in that order) from men.",
+    "domain": "psychology",
+    "topics": [
+      "gender relations",
+      "friendship",
+      "sexual psychology"
+    ],
+    "is_major_claim": true,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-HMW-030",
+    "work_id": "KUC-HMW",
+    "work_title": "Heed My Wisdom",
+    "position_type": "major_claim",
+    "claim": "OCD can recrudesce at any point but is unlikely to originate after adolescence",
+    "text": "OCD can recrudesce at any point but is unlikely to originate after adolescence",
+    "quote": "It can certainly recrudesce at any juncture in life. But it is not likely to come into existence after adolescence.",
+    "domain": "psychology",
+    "topics": [
+      "OCD",
+      "developmental psychology",
+      "mental illness"
+    ],
+    "is_major_claim": true,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-HMW-031",
+    "work_id": "KUC-HMW",
+    "work_title": "Heed My Wisdom",
+    "position_type": "major_claim",
+    "claim": "Identity has a fixed true self; what is fluid is how one lives out this true self",
+    "text": "Identity has a fixed true self; what is fluid is how one lives out this true self",
+    "quote": "What is fluid is how your live out your true self, not what your true self is.",
+    "domain": "philosophy_of_mind",
+    "topics": [
+      "personal identity",
+      "authentic self",
+      "change"
+    ],
+    "is_major_claim": true,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-HMW-032",
+    "work_id": "KUC-HMW",
+    "work_title": "Heed My Wisdom",
+    "position_type": "major_claim",
+    "claim": "Teachers will be the next major job replaced by robots",
+    "text": "Teachers will be the next major job replaced by robots",
+    "quote": "The next big oneteachers. Most of that is best automated.",
+    "domain": "education",
+    "topics": [
+      "automation",
+      "teaching",
+      "artificial intelligence"
+    ],
+    "is_major_claim": true,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-HMW-033",
+    "work_id": "KUC-HMW",
+    "work_title": "Heed My Wisdom",
+    "position_type": "major_claim",
+    "claim": "Philosophers abandoned logical atomism because physical simplicity doesn't equal conceptual simplicity",
+    "text": "Philosophers abandoned logical atomism because physical simplicity doesn't equal conceptual simplicity",
+    "quote": "Two reasons. (1) Physical simplicity doesnt equate to conceptual simplicity. (2) Whether a given statement is to be regarded as complex, and how exactly it is to be regarded as complex, depends on the dialectical context.",
+    "domain": "philosophy_of_language",
+    "topics": [
+      "logical atomism",
+      "complexity",
+      "conceptual analysis"
+    ],
+    "is_major_claim": true,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-HMW-034",
+    "work_id": "KUC-HMW",
+    "work_title": "Heed My Wisdom",
+    "position_type": "supporting_argument",
+    "claim": "There are no ultimate foundational truths because any truth entails and is entailed by infinitely many others",
+    "text": "There are no ultimate foundational truths because any truth entails and is entailed by infinitely many others",
+    "quote": "Any given truth is entailed by infinitely many others and itself entails infinitely many truths. And since a statements entailment-relations (what it entails and what it entails it) reflect its structure, there are no ultimate, foundational truths.",
+    "domain": "philosophy_of_language",
+    "topics": [
+      "foundationalism",
+      "entailment",
+      "logical structure"
+    ],
+    "is_major_claim": false,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-HMW-035",
+    "work_id": "KUC-HMW",
+    "work_title": "Heed My Wisdom",
+    "position_type": "major_claim",
+    "claim": "Men can mature emotionally in the sense of learning how their welfare connects to others",
+    "text": "Men can mature emotionally in the sense of learning how their welfare connects to others",
+    "quote": "If by mature, you mean learn how their own welfare is tied to that of other people, including, in some cases, that of their significant other, then, not so sadly, the answer, once again, is yes.",
+    "domain": "psychology",
+    "topics": [
+      "emotional maturity",
+      "relationships",
+      "male psychology"
+    ],
+    "is_major_claim": true,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-HMW-036",
+    "work_id": "KUC-HMW",
+    "work_title": "Heed My Wisdom",
+    "position_type": "major_claim",
+    "claim": "Someone's weaknesses are found by comparing what they are to what they want to be",
+    "text": "Someone's weaknesses are found by comparing what they are to what they want to be",
+    "quote": "Know what they are and what they want to be. If they fall short, that is their weakness. If they dont, they have no weaknesses.",
+    "domain": "psychology",
+    "topics": [
+      "personality assessment",
+      "weaknesses",
+      "self-concept"
+    ],
+    "is_major_claim": true,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-HMW-037",
+    "work_id": "KUC-HMW",
+    "work_title": "Heed My Wisdom",
+    "position_type": "major_claim",
+    "claim": "Women would design the perfect woman for men to be like an actual woman in the first 18 months",
+    "text": "Women would design the perfect woman for men to be like an actual woman in the first 18 months",
+    "quote": "Like an actual woman during the first 18 months of the relationship.",
+    "domain": "psychology",
+    "topics": [
+      "relationship dynamics",
+      "gender psychology",
+      "romantic relationships"
+    ],
+    "is_major_claim": true,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-HMW-038",
+    "work_id": "KUC-HMW",
+    "work_title": "Heed My Wisdom",
+    "position_type": "major_claim",
+    "claim": "Being a member of a set does not imply being a subset",
+    "text": "Being a member of a set does not imply being a subset",
+    "quote": "No, at least not in general. You are a member of the set of people, but you are not a set or therefore a subset.",
+    "domain": "logic",
+    "topics": [
+      "set theory",
+      "membership",
+      "subset relations"
+    ],
+    "is_major_claim": true,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-HMW-039",
+    "work_id": "KUC-HMW",
+    "work_title": "Heed My Wisdom",
+    "position_type": "major_claim",
+    "claim": "Formal study of economics at any level is a waste of time",
+    "text": "Formal study of economics at any level is a waste of time",
+    "quote": "The formal study of economics at any level is the very definition of a waste of time.",
+    "domain": "economics",
+    "topics": [
+      "economic education",
+      "academic economics",
+      "practical application"
+    ],
+    "is_major_claim": true,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-HMW-040",
+    "work_id": "KUC-HMW",
+    "work_title": "Heed My Wisdom",
+    "position_type": "supporting_argument",
+    "claim": "Academic economics involves useless models with zero predictive power that rewire the brain destructively",
+    "text": "Academic economics involves useless models with zero predictive power that rewire the brain destructively",
+    "quote": "when you study economics in a classroom, all you are doing is doing monkey math that relates to monkey models that have zero predictive or explanatory power and will just rewire your brain in a way that makes it useless to everybody, especially employers.",
+    "domain": "economics",
+    "topics": [
+      "economic models",
+      "education",
+      "predictive power"
+    ],
+    "is_major_claim": false,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-HMW-041",
+    "work_id": "KUC-HMW",
+    "work_title": "Heed My Wisdom",
+    "position_type": "supporting_argument",
+    "claim": "Pan-handlers are more likely to predict economic outcomes than economists",
+    "text": "Pan-handlers are more likely to predict economic outcomes than economists",
+    "quote": "If you ask a pan-handler and an economist what will happen to the local (or national or international) economy in one week/month/year/decade, the pan-handler is more likely to be right.",
+    "domain": "economics",
+    "topics": [
+      "economic prediction",
+      "expertise",
+      "practical knowledge"
+    ],
+    "is_major_claim": false,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-HMW-042",
+    "work_id": "KUC-HMW",
+    "work_title": "Heed My Wisdom",
+    "position_type": "major_claim",
+    "claim": "Descartes claimed ideas cannot be false when considered solely in themselves because truth requires an external referent",
+    "text": "Descartes claimed ideas cannot be false when considered solely in themselves because truth requires an external referent",
+    "quote": "Truth is a relationship between idea and external referent. Descartes is saying that he will discard the referent; and in the absence of said referent, it cannot be said whether or not the idea is true or false.",
+    "domain": "epistemology",
+    "topics": [
+      "truth",
+      "ideas",
+      "external world",
+      "Cartesian philosophy"
+    ],
+    "is_major_claim": true,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-HMW-043",
+    "work_id": "KUC-HMW",
+    "work_title": "Heed My Wisdom",
+    "position_type": "major_claim",
+    "claim": "The genius paradox is that intellectual advantage is outweighed by social disadvantage",
+    "text": "The genius paradox is that intellectual advantage is outweighed by social disadvantage",
+    "quote": "Your intellectual advantage is outweighed by your social disadvantage.",
+    "domain": "psychology",
+    "topics": [
+      "intelligence",
+      "social dynamics",
+      "giftedness"
+    ],
+    "is_major_claim": true,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-HMW-044",
+    "work_id": "KUC-HMW",
+    "work_title": "Heed My Wisdom",
+    "position_type": "major_claim",
+    "claim": "Psychosis involves garbling mental representations while dissociation suppresses emotional accompaniments",
+    "text": "Psychosis involves garbling mental representations while dissociation suppresses emotional accompaniments",
+    "quote": "Psychosis involves a garbling or scrambling of ones mental representations of external reality... Dissociation does not necessarily involve such distortions; it involves a suppression of the emotional accompaniments of ones representations of the world",
+    "domain": "psychology",
+    "topics": [
+      "psychosis",
+      "dissociation",
+      "mental representations"
+    ],
+    "is_major_claim": true,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-HMW-045",
+    "work_id": "KUC-HMW",
+    "work_title": "Heed My Wisdom",
+    "position_type": "major_claim",
+    "claim": "The most dangerous question in philosophy is whether political solutions can address biological or cultural problems",
+    "text": "The most dangerous question in philosophy is whether political solutions can address biological or cultural problems",
+    "quote": "The most dangerous question in philosophy is whether there can be political solutions to biologically or culturally rooted problems.",
+    "domain": "philosophy",
+    "topics": [
+      "political philosophy",
+      "biological determinism",
+      "cultural problems"
+    ],
+    "is_major_claim": true,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-HMW-046",
+    "work_id": "KUC-HMW",
+    "work_title": "Heed My Wisdom",
+    "position_type": "major_claim",
+    "claim": "Zeno's paradox shows motion presupposes prior motion, leading to the conclusion nothing moves",
+    "text": "Zeno's paradox shows motion presupposes prior motion, leading to the conclusion nothing moves",
+    "quote": "In order to travel a distance of n yards, it is necessary to travel a distance of n/10 yards... (i) one cannot travel any distance at all without already having traveled some smaller distance. Consequently, (ii) Any given motion presupposes a prior motion... (v) Nothing moves.",
+    "domain": "philosophy_of_mathematics",
+    "topics": [
+      "Zeno's paradox",
+      "motion",
+      "infinity",
+      "logical reasoning"
+    ],
+    "is_major_claim": true,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-HMW-047",
+    "work_id": "KUC-HMW",
+    "work_title": "Heed My Wisdom",
+    "position_type": "supporting_argument",
+    "claim": "Mills' solution to Zeno's paradox fails because it eliminates continuity of identity",
+    "text": "Mills' solution to Zeno's paradox fails because it eliminates continuity of identity",
+    "quote": "If you are obliterated and some person who is exactly like you appears a moment later right next to where you were standing, that person isnt you.",
+    "domain": "philosophy_of_mathematics",
+    "topics": [
+      "personal identity",
+      "continuity",
+      "Zeno's paradox"
+    ],
+    "is_major_claim": false,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-HMW-048",
+    "work_id": "KUC-HMW",
+    "work_title": "Heed My Wisdom",
+    "position_type": "supporting_argument",
+    "claim": "Russell's solution fails because it doesn't explain how the first step can be taken",
+    "text": "Russell's solution fails because it doesn't explain how the first step can be taken",
+    "quote": "Zeno is asking how a given object can take that first step... Russell hasnt answered that question. He has only made the irrelevant point that if a given object can move that first inch, then it can, after an infinite series of further motions, move a second inch.",
+    "domain": "philosophy_of_mathematics",
+    "topics": [
+      "Zeno's paradox",
+      "infinite series",
+      "Russell's solution"
+    ],
+    "is_major_claim": false,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-HMW-049",
+    "work_id": "KUC-HMW",
+    "work_title": "Heed My Wisdom",
+    "position_type": "major_claim",
+    "claim": "The actual solution to Zeno's paradox is that all position is relative and motion is systemic change",
+    "text": "The actual solution to Zeno's paradox is that all position is relative and motion is systemic change",
+    "quote": "All position is relative position. Therefore, changes in position are changes in relative position... What we think of as a case of motion on the part of a given object xi is really a change undergone by x1xn collectively.",
+    "domain": "philosophy_of_mathematics",
+    "topics": [
+      "relative position",
+      "systemic change",
+      "Zeno's paradox"
+    ],
+    "is_major_claim": true,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-HMW-050",
+    "work_id": "KUC-HMW",
+    "work_title": "Heed My Wisdom",
+    "position_type": "major_claim",
+    "claim": "Gödel was not influenced by Wittgenstein because they held opposite views on mathematical realism",
+    "text": "Gödel was not influenced by Wittgenstein because they held opposite views on mathematical realism",
+    "quote": "He was not. Godel an arch-Platonist and arch-realist about mathematical entities... Wittgenstein, by contrast, was a radical anti-realist. His position was that mathematical truths are pure conventionsmere games.",
+    "domain": "philosophy_of_mathematics",
+    "topics": [
+      "Gödel",
+      "Wittgenstein",
+      "mathematical realism",
+      "Platonism"
+    ],
+    "is_major_claim": true,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-HMW-051",
+    "work_id": "KUC-HMW",
+    "work_title": "Heed My Wisdom",
+    "position_type": "major_claim",
+    "claim": "Logic as taught is a heap of artifacts that fails to automate thought effectively",
+    "text": "Logic as taught is a heap of artifacts that fails to automate thought effectively",
+    "quote": "logic, as it is taught in philosophy and even in math departments, is a heap of artifacts. supposedly the discipline is meant to discover ways to automate thought, but the algorithms it produces to that end require more thought to use than they succeed in automating.",
+    "domain": "logic",
+    "topics": [
+      "formal logic",
+      "automation",
+      "thought processes"
+    ],
+    "is_major_claim": true,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-HMW-052",
+    "work_id": "KUC-HMW",
+    "work_title": "Heed My Wisdom",
+    "position_type": "major_claim",
+    "claim": "Academic papers are useless because nobody reads them and they contain no meaningful content",
+    "text": "Academic papers are useless because nobody reads them and they contain no meaningful content",
+    "quote": "Yes. Nobody reads them. Ever. Unless theyre looking for a lead-in for their own never-to-be-read (because not worthy of being read) recycle-job.",
+    "domain": "education",
+    "topics": [
+      "academic publishing",
+      "scholarly communication",
+      "research value"
+    ],
+    "is_major_claim": true,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-HMW-053",
+    "work_id": "KUC-HMW",
+    "work_title": "Heed My Wisdom",
+    "position_type": "major_claim",
+    "claim": "Incompleteness implies mechanical but not absolute undecidability",
+    "text": "Incompleteness implies mechanical but not absolute undecidability",
+    "quote": "Incompleteness implies mechanical but not absolute undecidability. For a statement-set to be incomplete is for there to be no recursion that generates it.",
+    "domain": "logic",
+    "topics": [
+      "incompleteness",
+      "undecidability",
+      "recursion"
+    ],
+    "is_major_claim": true,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-HMW-054",
+    "work_id": "KUC-HMW",
+    "work_title": "Heed My Wisdom",
+    "position_type": "major_claim",
+    "claim": "One must necessarily be a Platonist to believe in mathematics or logic",
+    "text": "One must necessarily be a Platonist to believe in mathematics or logic",
+    "quote": "One must necessarily be a Platonist. There is no way to replace references to numbers, mathematical operations, or other mathematical structures with references to spatiotemporal entities.",
+    "domain": "philosophy_of_mathematics",
+    "topics": [
+      "Platonism",
+      "mathematical ontology",
+      "abstract objects"
+    ],
+    "is_major_claim": true,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-HMW-055",
+    "work_id": "KUC-HMW",
+    "work_title": "Heed My Wisdom",
+    "position_type": "supporting_argument",
+    "claim": "Physical operations alter operands while mathematical operations do not",
+    "text": "Physical operations alter operands while mathematical operations do not",
+    "quote": "Proof is that any physical alteration alters the operands, whereas no arithmetical operation does so. (Rocks are altered when moved; numbers are not altered when added.)",
+    "domain": "philosophy_of_mathematics",
+    "topics": [
+      "mathematical operations",
+      "physical processes",
+      "abstract vs concrete"
+    ],
+    "is_major_claim": false,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-HMW-056",
+    "work_id": "KUC-HMW",
+    "work_title": "Heed My Wisdom",
+    "position_type": "major_claim",
+    "claim": "High IQ university graduates strongly tend to out-earn IQ-comparable non-graduates",
+    "text": "High IQ university graduates strongly tend to out-earn IQ-comparable non-graduates",
+    "quote": "High IQ university graduates strongly tend to out-earn IQ-comparable non-graduates.",
+    "domain": "economics",
+    "topics": [
+      "education",
+      "income",
+      "intelligence"
+    ],
+    "is_major_claim": true,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-HMW-057",
+    "work_id": "KUC-HMW",
+    "work_title": "Heed My Wisdom",
+    "position_type": "major_claim",
+    "claim": "Low IQ vocationally trained non-graduates strongly tend to out-earn IQ-comparable college graduates and non-graduates without vocational training",
+    "text": "Low IQ vocationally trained non-graduates strongly tend to out-earn IQ-comparable college graduates and non-graduates without vocational training",
+    "quote": "Low IQ vocationally trained non-graduates strongly tend to out-earn IQ-comparable college graduates and non-graduates without vocational training.",
+    "domain": "economics",
+    "topics": [
+      "vocational_training",
+      "income",
+      "intelligence",
+      "education"
+    ],
+    "is_major_claim": true,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-HMW-058",
+    "work_id": "KUC-HMW",
+    "work_title": "Heed My Wisdom",
+    "position_type": "supporting_argument",
+    "claim": "Medium-IQ graduates marginally tend to out-earn IQ-comparable vocationally trained non-graduates, but vocationally trained non-graduates have dramatically higher levels of fulfillment",
+    "text": "Medium-IQ graduates marginally tend to out-earn IQ-comparable vocationally trained non-graduates, but vocationally trained non-graduates have dramatically higher levels of fulfillment",
+    "quote": "Medium-IQ graduates marginally tend to out-earn IQ-comparable vocationally trained non-graduates, with the qualification that that medium-IQ vocationally trained non-graduates have dramatically higher levels of fulfillment.",
+    "domain": "economics",
+    "topics": [
+      "income",
+      "fulfillment",
+      "vocational_training",
+      "education"
+    ],
+    "is_major_claim": false,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-HMW-059",
+    "work_id": "KUC-HMW",
+    "work_title": "Heed My Wisdom",
+    "position_type": "supporting_argument",
+    "claim": "Non-vocationally trained non-graduates are at the bottom of the hierarchy",
+    "text": "Non-vocationally trained non-graduates are at the bottom of the hierarchy",
+    "quote": "Non-vocationally trained non-graduates are at the bottom of the hierarchy.",
+    "domain": "economics",
+    "topics": [
+      "education",
+      "income",
+      "hierarchy"
+    ],
+    "is_major_claim": false,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-HMW-060",
+    "work_id": "KUC-HMW",
+    "work_title": "Heed My Wisdom",
+    "position_type": "major_claim",
+    "claim": "College is a sham that will become obsolete due to digital resources",
+    "text": "College is a sham that will become obsolete due to digital resources",
+    "quote": "College is a sham, and within a few years, judicious use of already existing digital resources will see to it that it is a distant memory.",
+    "domain": "education",
+    "topics": [
+      "higher_education",
+      "technology",
+      "digital_learning"
+    ],
+    "is_major_claim": true,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-HMW-061",
+    "work_id": "KUC-HMW",
+    "work_title": "Heed My Wisdom",
+    "position_type": "definition",
+    "claim": "An incompleteness theorem is one that shows there is no recursive definition of a given statement-class",
+    "text": "An incompleteness theorem is one that shows there is no recursive definition of a given statement-class",
+    "quote": "An incompleteness theorem is one to the effect that there is no recursive definition of a given statement-class.",
+    "domain": "logic",
+    "topics": [
+      "incompleteness",
+      "recursive_definition",
+      "mathematics"
+    ],
+    "is_major_claim": false,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-HMW-062",
+    "work_id": "KUC-HMW",
+    "work_title": "Heed My Wisdom",
+    "position_type": "supporting_argument",
+    "claim": "The first incompleteness theorem was Cantor's proof that there is no recursive definition of the class of truths about real numbers",
+    "text": "The first incompleteness theorem was Cantor's proof that there is no recursive definition of the class of truths about real numbers",
+    "quote": "The first such theorem was that there is no recursive definition of the class of truths of the form x is a real number. This was proved by George Cantor in the 1870s, and the proof involved a technique known as diagonalization.",
+    "domain": "logic",
+    "topics": [
+      "Cantor",
+      "real_numbers",
+      "diagonalization",
+      "incompleteness"
+    ],
+    "is_major_claim": false,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-HMW-063",
+    "work_id": "KUC-HMW",
+    "work_title": "Heed My Wisdom",
+    "position_type": "supporting_argument",
+    "claim": "Godel tried to create a recursive definition of arithmetical truths, failed, then proved it was impossible using diagonalization",
+    "text": "Godel tried to create a recursive definition of arithmetical truths, failed, then proved it was impossible using diagonalization",
+    "quote": "Fifty years later, Godel tried to come up with a recursive definition of the class of arithmetical truths. He couldnt and then decided to prove that no such definition was possible. He succeeded. His proof involved an exotic form of diagonalization.",
+    "domain": "logic",
+    "topics": [
+      "Godel",
+      "arithmetic",
+      "incompleteness",
+      "diagonalization"
+    ],
+    "is_major_claim": false,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-HMW-064",
+    "work_id": "KUC-HMW",
+    "work_title": "Heed My Wisdom",
+    "position_type": "major_claim",
+    "claim": "Nothing flies in the face of logic but is still true, because contradictions between facts and logic mean the wrong logic is being used",
+    "text": "Nothing flies in the face of logic but is still true, because contradictions between facts and logic mean the wrong logic is being used",
+    "quote": "Nothing, since contradictions between facts and logic means that the wrong logic is being used.",
+    "domain": "logic",
+    "topics": [
+      "contradiction",
+      "logic",
+      "truth"
+    ],
+    "is_major_claim": true,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-HMW-065",
+    "work_id": "KUC-HMW",
+    "work_title": "Heed My Wisdom",
+    "position_type": "major_claim",
+    "claim": "Deductive reasoning yields insight but not knowledge",
+    "text": "Deductive reasoning yields insight but not knowledge",
+    "quote": "It yields insight but not knowledge.",
+    "domain": "epistemology",
+    "topics": [
+      "deductive_reasoning",
+      "knowledge",
+      "insight"
+    ],
+    "is_major_claim": true,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-HMW-066",
+    "work_id": "KUC-HMW",
+    "work_title": "Heed My Wisdom",
+    "position_type": "example",
+    "claim": "Post hoc ergo propter hoc fallacy: Jim got sick after showing up to work, therefore going to work caused his sickness",
+    "text": "Post hoc ergo propter hoc fallacy: Jim got sick after showing up to work, therefore going to work caused his sickness",
+    "quote": "Jim got sick after he showed up to work. Therefore, going to work is what caused Him to get sick.",
+    "domain": "logic",
+    "topics": [
+      "fallacies",
+      "causation",
+      "post_hoc"
+    ],
+    "is_major_claim": false,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-HMW-067",
+    "work_id": "KUC-HMW",
+    "work_title": "Heed My Wisdom",
+    "position_type": "example",
+    "claim": "Correlation-causation fallacy: atheists are statistically more intelligent, therefore atheism is a sign of intelligence",
+    "text": "Correlation-causation fallacy: atheists are statistically more intelligent, therefore atheism is a sign of intelligence",
+    "quote": "Statistically, people who believe in God are on average less intelligent than atheists. Therefore, atheism is a sign of intelligence.",
+    "domain": "logic",
+    "topics": [
+      "fallacies",
+      "correlation",
+      "causation",
+      "atheism"
+    ],
+    "is_major_claim": false,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-HMW-068",
+    "work_id": "KUC-HMW",
+    "work_title": "Heed My Wisdom",
+    "position_type": "example",
+    "claim": "False linear extrapolation fallacy: one pill makes you twice as good, therefore ten pills make you ten times better",
+    "text": "False linear extrapolation fallacy: one pill makes you twice as good, therefore ten pills make you ten times better",
+    "quote": "Taking one pill makes you twice as good. Therefore, taking 10 pills makes you feel 10 times better.",
+    "domain": "logic",
+    "topics": [
+      "fallacies",
+      "extrapolation",
+      "dosage"
+    ],
+    "is_major_claim": false,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-HMW-069",
+    "work_id": "KUC-HMW",
+    "work_title": "Heed My Wisdom",
+    "position_type": "definition",
+    "claim": "Abductive reasoning is simply hypothesis-formation",
+    "text": "Abductive reasoning is simply hypothesis-formation",
+    "quote": "Abductive reasoning is simply hypothesis-formation.",
+    "domain": "logic",
+    "topics": [
+      "abduction",
+      "hypothesis",
+      "reasoning"
+    ],
+    "is_major_claim": false,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-HMW-070",
+    "work_id": "KUC-HMW",
+    "work_title": "Heed My Wisdom",
+    "position_type": "example",
+    "claim": "Abductive reasoning example: cheese disappearing with mouse-sized bites and footprints leads to hypothesis that a mouse is eating the cheese",
+    "text": "Abductive reasoning example: cheese disappearing with mouse-sized bites and footprints leads to hypothesis that a mouse is eating the cheese",
+    "quote": "Your cheese is vanishing. You notice an increasing number of mouse-size bites out of your hunk of cheddar cheese and an increasing number of mouse-size footprints in vicinity of said cheese. You hypothesize, i.e. abductively reason, that a mouse is eating your cheese. This is abductive inference.",
+    "domain": "logic",
+    "topics": [
+      "abduction",
+      "hypothesis",
+      "inference"
+    ],
+    "is_major_claim": false,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-HMW-071",
+    "work_id": "KUC-HMW",
+    "work_title": "Heed My Wisdom",
+    "position_type": "supporting_argument",
+    "claim": "Abductive reasoning has innumerable benefits over deduction because you cannot deduce many empirical conclusions",
+    "text": "Abductive reasoning has innumerable benefits over deduction because you cannot deduce many empirical conclusions",
+    "quote": "As for its benefits over deduction, they are innumerable. You cannot deduce that a mouse is eating your cheese.",
+    "domain": "logic",
+    "topics": [
+      "abduction",
+      "deduction",
+      "empirical_reasoning"
+    ],
+    "is_major_claim": false,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-HMW-072",
+    "work_id": "KUC-HMW",
+    "work_title": "Heed My Wisdom",
+    "position_type": "supporting_argument",
+    "claim": "Deductive reasoning works when conclusions are analytically contained in premises, but not for empirical hypotheses",
+    "text": "Deductive reasoning works when conclusions are analytically contained in premises, but not for empirical hypotheses",
+    "quote": "If you can know that x is a triangle, you can deduce that x has three sides, since x is a triangle is analytically incompatible with x does not have three sides. But a mouse is not eating my cheese is not analytically compatible with the aforementioned data.",
+    "domain": "logic",
+    "topics": [
+      "deduction",
+      "analytic_truths",
+      "empirical_claims"
+    ],
+    "is_major_claim": false,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-HMW-073",
+    "work_id": "KUC-HMW",
+    "work_title": "Heed My Wisdom",
+    "position_type": "major_claim",
+    "claim": "It is impossible to create a logical system without modus ponens because it is essential for inference",
+    "text": "It is impossible to create a logical system without modus ponens because it is essential for inference",
+    "quote": "Not possible. Modus ponens is basically to the effect that you can infer it if it follows. Without it, you are in dry dock, inference-wise.",
+    "domain": "logic",
+    "topics": [
+      "modus_ponens",
+      "inference_rules",
+      "logical_systems"
+    ],
+    "is_major_claim": true,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-HMW-074",
+    "work_id": "KUC-HMW",
+    "work_title": "Heed My Wisdom",
+    "position_type": "supporting_argument",
+    "claim": "Alternative formulations of modus ponens don't eliminate it since they rely on definitional equivalences",
+    "text": "Alternative formulations of modus ponens don't eliminate it since they rely on definitional equivalences",
+    "quote": "Of course, you can always tinker with the way it is expressed. Instead of saying ((P->Q) &P)->Q, you can say: -((-P or Q)&Q)&-Q) But given that P->Q is definitionally equivalent with -P or Q, this isnt exactly a way to get rid of modus ponens.",
+    "domain": "logic",
+    "topics": [
+      "modus_ponens",
+      "logical_equivalence",
+      "formalization"
+    ],
+    "is_major_claim": false,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-HMW-075",
+    "work_id": "KUC-HMW",
+    "work_title": "Heed My Wisdom",
+    "position_type": "major_claim",
+    "claim": "An MBA is worth it for corporate bureaucracy but not for entrepreneurship",
+    "text": "An MBA is worth it for corporate bureaucracy but not for entrepreneurship",
+    "quote": "Yes-if your objective is to be a corporate bureaucrat who who earns five to six figures. Noif your objective is to be an entrepreneur.",
+    "domain": "education",
+    "topics": [
+      "MBA",
+      "business_education",
+      "entrepreneurship",
+      "corporate_work"
+    ],
+    "is_major_claim": true,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-HMW-076",
+    "work_id": "KUC-HMW",
+    "work_title": "Heed My Wisdom",
+    "position_type": "supporting_argument",
+    "claim": "Business school work has nothing to do with creating or running a business and is purely academic",
+    "text": "Business school work has nothing to do with creating or running a business and is purely academic",
+    "quote": "None of it has anything to do with the realities of creating or actually running a business. It is a 100% academic degreea piece of paper.",
+    "domain": "education",
+    "topics": [
+      "business_school",
+      "entrepreneurship",
+      "academic_credentials"
+    ],
+    "is_major_claim": false,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-HMW-077",
+    "work_id": "KUC-HMW",
+    "work_title": "Heed My Wisdom",
+    "position_type": "supporting_argument",
+    "claim": "MBA proves you can do middle-management work and that you're 'housebroken'",
+    "text": "MBA proves you can do middle-management work and that you're 'housebroken'",
+    "quote": "But the work that it proves that you can do is middle-management work at a large corporation. It proves that youre housebroken, in other words.",
+    "domain": "education",
+    "topics": [
+      "MBA",
+      "middle_management",
+      "corporate_culture"
+    ],
+    "is_major_claim": false,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-HMW-078",
+    "work_id": "KUC-HMW",
+    "work_title": "Heed My Wisdom",
+    "position_type": "supporting_argument",
+    "claim": "When MBA holders succeed as entrepreneurs, it's not due to business school learning",
+    "text": "When MBA holders succeed as entrepreneurs, it's not due to business school learning",
+    "quote": "There are MBAs who are brilliant and who start and/or run great companies. But when that happens, it is to no degree a consequence of what they learned in business school",
+    "domain": "education",
+    "topics": [
+      "MBA",
+      "entrepreneurship",
+      "business_success"
+    ],
+    "is_major_claim": false,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-HMW-079",
+    "work_id": "KUC-HMW",
+    "work_title": "Heed My Wisdom",
+    "position_type": "supporting_argument",
+    "claim": "MBA jobs provide security but destroy your soul with meaningless corporate work",
+    "text": "MBA jobs provide security but destroy your soul with meaningless corporate work",
+    "quote": "Yesan MBA will help with job security. Nothose jobs will not leave any part of your soul intact. Youll make $85,000/year sitting on five hour meetings listening to somebody give a presentation about how subsidiaries can teach employees of their Cincinnati office to use PowerPoint in a culturally sensitive manner.",
+    "domain": "education",
+    "topics": [
+      "MBA",
+      "job_security",
+      "corporate_culture",
+      "meaninglessness"
+    ],
+    "is_major_claim": false,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-HMW-080",
+    "work_id": "KUC-HMW",
+    "work_title": "Heed My Wisdom",
+    "position_type": "supporting_argument",
+    "claim": "Socrates tried to improve the world by making it more logical, while Jesus tried to make it more emotional and less legalistic",
+    "text": "Socrates tried to improve the world by making it more logical, while Jesus tried to make it more emotional and less legalistic",
+    "quote": "Socrates was trying to improve the world making it less emotional and more logical, whereas Jesus was trying to improve it by making more emotional and less legalistic.",
+    "domain": "philosophy",
+    "topics": [
+      "Socrates",
+      "Jesus",
+      "emotion",
+      "logic",
+      "ethics"
+    ],
+    "is_major_claim": false,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-HMW-081",
+    "work_id": "KUC-HMW",
+    "work_title": "Heed My Wisdom",
+    "position_type": "major_claim",
+    "claim": "Identity is about continuity, not material composition - a ship remains the same ship even if all parts are replaced",
+    "text": "Identity is about continuity, not material composition - a ship remains the same ship even if all parts are replaced",
+    "quote": "Same ship. A given flower today does not consist of the same particles that it consisted of two days ago. Your bodysame story. Identity is about continuity.",
+    "domain": "metaphysics",
+    "topics": [
+      "identity",
+      "continuity",
+      "ship_of_theseus",
+      "material_composition"
+    ],
+    "is_major_claim": true,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-HMW-082",
+    "work_id": "KUC-HMW",
+    "work_title": "Heed My Wisdom",
+    "position_type": "major_claim",
+    "claim": "A psychopath-free society would be a society of eunuchs and would not be better",
+    "text": "A psychopath-free society would be a society of eunuchs and would not be better",
+    "quote": "Absolutely not. A psychopath-free society would be a society of eunuchs.",
+    "domain": "ethics",
+    "topics": [
+      "psychopathy",
+      "society",
+      "moral_psychology"
+    ],
+    "is_major_claim": true,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-HMW-083",
+    "work_id": "KUC-HMW",
+    "work_title": "Heed My Wisdom",
+    "position_type": "major_claim",
+    "claim": "Wittgenstein's Rule Following Paradox doesn't exist",
+    "text": "Wittgenstein's Rule Following Paradox doesn't exist",
+    "quote": "Wittgensteins so-called Rule Following Paradox doesnt exist.",
+    "domain": "philosophy_of_language",
+    "topics": [
+      "Wittgenstein",
+      "rule_following",
+      "paradox"
+    ],
+    "is_major_claim": true,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-HMW-084",
+    "work_id": "KUC-HMW",
+    "work_title": "Heed My Wisdom",
+    "position_type": "supporting_argument",
+    "claim": "Wittgenstein has an absurdly constricted conception of mental states",
+    "text": "Wittgenstein has an absurdly constricted conception of mental states",
+    "quote": "Wittgenstein holds this because he has an absurdly constricted conception of what counts as a mental state, believing that the mental comprises little behind a few itches and tickles and other sensations.",
+    "domain": "philosophy_of_mind",
+    "topics": [
+      "Wittgenstein",
+      "mental_states",
+      "consciousness"
+    ],
+    "is_major_claim": false,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-HMW-085",
+    "work_id": "KUC-HMW",
+    "work_title": "Heed My Wisdom",
+    "position_type": "supporting_argument",
+    "claim": "In a world of zombies like Wittgenstein believes humans to be, there are no social contexts",
+    "text": "In a world of zombies like Wittgenstein believes humans to be, there are no social contexts",
+    "quote": "Wittgenstein also fails to take into account that in a world of zombies, such as he believes human beings to be, there are no social contexts.",
+    "domain": "philosophy_of_mind",
+    "topics": [
+      "zombies",
+      "social_context",
+      "consciousness"
+    ],
+    "is_major_claim": false,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-HMW-086",
+    "work_id": "KUC-HMW",
+    "work_title": "Heed My Wisdom",
+    "position_type": "supporting_argument",
+    "claim": "Behaviors involved in following different rules are distinguishable except in artificially circumscribed contexts",
+    "text": "Behaviors involved in following different rules are distinguishable except in artificially circumscribed contexts",
+    "quote": "Finally, given any two rules, the behaviors involved in following them are utterly distinguishable except, as previously indicated, artificially circumscribed contextsand usually even then.",
+    "domain": "philosophy_of_language",
+    "topics": [
+      "rule_following",
+      "behavior",
+      "context"
+    ],
+    "is_major_claim": false,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-HMW-087",
+    "work_id": "KUC-HMW",
+    "work_title": "Heed My Wisdom",
+    "position_type": "supporting_argument",
+    "claim": "The truth-values of antecedent and consequent are irrelevant to conditional truth, only their relationship matters",
+    "text": "The truth-values of antecedent and consequent are irrelevant to conditional truth, only their relationship matters",
+    "quote": "All that matters is the relationship between antecedent and consequent. The truth-values of antecedent and consequent are irrelevant, with the qualification that, if the conditional is true, then the consequent cannot be false if the antecedent is true.",
+    "domain": "logic",
+    "topics": [
+      "conditionals",
+      "truth_values",
+      "logical_relationships"
+    ],
+    "is_major_claim": false,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-HMW-088",
+    "work_id": "KUC-HMW",
+    "work_title": "Heed My Wisdom",
+    "position_type": "supporting_argument",
+    "claim": "Even conditionals with true antecedents and consequents can be false",
+    "text": "Even conditionals with true antecedents and consequents can be false",
+    "quote": "By the same token, even if both antecedent and consequent are true, the conditional may be false. For example, if Warren Buffet is from Nebraska, then Warren Buffet is a billionaire is a false conditional with a true antecedent and a true consequent.",
+    "domain": "logic",
+    "topics": [
+      "conditionals",
+      "truth_conditions",
+      "logical_relationships"
+    ],
+    "is_major_claim": false,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-HMW-089",
+    "work_id": "KUC-HMW",
+    "work_title": "Heed My Wisdom",
+    "position_type": "major_claim",
+    "claim": "Any given body of truths is necessarily internally consistent, therefore mathematics is consistent",
+    "text": "Any given body of truths is necessarily internally consistent, therefore mathematics is consistent",
+    "quote": "Any given body of truths is necessarily internally consistent. Therefore mathematics, setting aside the odd screw-up, is consistent.",
+    "domain": "logic",
+    "topics": [
+      "consistency",
+      "mathematics",
+      "truth"
+    ],
+    "is_major_claim": true,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-HMW-090",
+    "work_id": "KUC-HMW",
+    "work_title": "Heed My Wisdom",
+    "position_type": "supporting_argument",
+    "claim": "People mistakenly assume that consistent means capable of being axiomatized",
+    "text": "People mistakenly assume that consistent means capable of being axiomatized",
+    "quote": "People make the mistake of assuming that consistent means capable of being axiomatized.",
+    "domain": "logic",
+    "topics": [
+      "consistency",
+      "axiomatization",
+      "mathematics"
+    ],
+    "is_major_claim": false,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-HMW-091",
+    "work_id": "KUC-HMW",
+    "work_title": "Heed My Wisdom",
+    "position_type": "major_claim",
+    "claim": "Consistency is a consequence of truth, not vice versa",
+    "text": "Consistency is a consequence of truth, not vice versa",
+    "quote": "The truth is that, in mathematics as in other domains, consistency is a consequence of truth, not vice versa.",
+    "domain": "logic",
+    "topics": [
+      "consistency",
+      "truth",
+      "mathematics"
+    ],
+    "is_major_claim": true,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-HMW-092",
+    "work_id": "KUC-HMW",
+    "work_title": "Heed My Wisdom",
+    "position_type": "supporting_argument",
+    "claim": "Camus wrongly concluded that morality is categorically an illusion because his parents' morality lost its hold",
+    "text": "Camus wrongly concluded that morality is categorically an illusion because his parents' morality lost its hold",
+    "quote": "Camus held that, since the morality of his parents was now losing its hold, morality was categorically an illusion",
+    "domain": "ethics",
+    "topics": [
+      "Camus",
+      "morality",
+      "nihilism"
+    ],
+    "is_major_claim": false,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-HMW-093",
+    "work_id": "KUC-HMW",
+    "work_title": "Heed My Wisdom",
+    "position_type": "supporting_argument",
+    "claim": "Life is inherently meaningful and doesn't require moral codes to make it meaningful",
+    "text": "Life is inherently meaningful and doesn't require moral codes to make it meaningful",
+    "quote": "life is inherently meaningful and doesnt require some moral code to make it meaningful",
+    "domain": "ethics",
+    "topics": [
+      "meaning",
+      "life",
+      "morality"
+    ],
+    "is_major_claim": false,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-HMW-094",
+    "work_id": "KUC-HMW",
+    "work_title": "Heed My Wisdom",
+    "position_type": "supporting_argument",
+    "claim": "Nietzsche believed conventional moralities separate us from our true selves and the good life",
+    "text": "Nietzsche believed conventional moralities separate us from our true selves and the good life",
+    "quote": "Nietzsche believed convention to separate us from our true selves and, therefore, from the good life.",
+    "domain": "ethics",
+    "topics": [
+      "Nietzsche",
+      "convention",
+      "authenticity",
+      "good_life"
+    ],
+    "is_major_claim": false,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-HMW-095",
+    "work_id": "KUC-HMW",
+    "work_title": "Heed My Wisdom",
+    "position_type": "major_claim",
+    "claim": "Sartre's philosophy is superior to Camus' because it embraces freedom while Camus just complains about meaninglessness",
+    "text": "Sartre's philosophy is superior to Camus' because it embraces freedom while Camus just complains about meaninglessness",
+    "quote": "Sartre, hands down. Sartres message is: |You are free; deal with it; make the mot of it. Life is a roller-coaster; dont water down the experience with false attachments. Which is a good message.",
+    "domain": "philosophy",
+    "topics": [
+      "Sartre",
+      "Camus",
+      "existentialism",
+      "freedom"
+    ],
+    "is_major_claim": true,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-HMW-096",
+    "work_id": "KUC-HMW",
+    "work_title": "Heed My Wisdom",
+    "position_type": "supporting_argument",
+    "claim": "Camus is more of a non-existentialist who believes he's stuck in an existentialist world",
+    "text": "Camus is more of a non-existentialist who believes he's stuck in an existentialist world",
+    "quote": "Camus is described as an existentialist, but he is more of a non-existentialist who believes that he is stuck in an existentialist world.",
+    "domain": "philosophy",
+    "topics": [
+      "Camus",
+      "existentialism",
+      "philosophical_classification"
+    ],
+    "is_major_claim": false,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-HMW-097",
+    "work_id": "KUC-HMW",
+    "work_title": "Heed My Wisdom",
+    "position_type": "supporting_argument",
+    "claim": "Sartre's main message 'existence precedes essence' is the right message for our time and all times",
+    "text": "Sartre's main message 'existence precedes essence' is the right message for our time and all times",
+    "quote": "his main message existence precedes essenceis, at the end of the day, the right message for our timeand all other times too, probably.",
+    "domain": "philosophy",
+    "topics": [
+      "Sartre",
+      "existence",
+      "essence",
+      "existentialism"
+    ],
+    "is_major_claim": false,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-HMW-098",
+    "work_id": "KUC-HMW",
+    "work_title": "Heed My Wisdom",
+    "position_type": "supporting_argument",
+    "claim": "The empty set is a subset of any given set because it has no members that don't belong to other sets",
+    "text": "The empty set is a subset of any given set because it has no members that don't belong to other sets",
+    "quote": "In order for a given set C not to be a sub that there at least one member of C that empty set has no members, there is noth does not also belong to any other given s subset of any given set.",
+    "domain": "logic",
+    "topics": [
+      "empty_set",
+      "subsets",
+      "set_theory"
+    ],
+    "is_major_claim": false,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-HMW-099",
+    "work_id": "KUC-HMW",
+    "work_title": "Heed My Wisdom",
+    "position_type": "major_claim",
+    "claim": "You cannot change your sexuality, only accept it and alter how you channel it",
+    "text": "You cannot change your sexuality, only accept it and alter how you channel it",
+    "quote": "No. You cannot change your sexuality. What you can do is accept it and, on that basis, alter how you channel it. But you like what you like, and thats the end of it.",
+    "domain": "psychology",
+    "topics": [
+      "sexuality",
+      "identity",
+      "change"
+    ],
+    "is_major_claim": true,
+    "extraction_date": "2025-12-06"
+  }
+]

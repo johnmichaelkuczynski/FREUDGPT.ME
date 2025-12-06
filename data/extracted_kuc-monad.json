@@ -1,0 +1,1738 @@
+[
+  {
+    "position_id": "KUC-MONAD-001",
+    "work_id": "KUC-MONAD",
+    "work_title": "Analytic Summary of Leibniz's Monadology",
+    "position_type": "major_claim",
+    "claim": "The monad is the fundamental simple substance that has no parts",
+    "text": "The monad is the fundamental simple substance that has no parts",
+    "quote": "The monad is simple. it has no parts.",
+    "domain": "metaphysics",
+    "topics": [
+      "monads",
+      "substance",
+      "simplicity"
+    ],
+    "is_major_claim": true,
+    "supports": null,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-MONAD-002",
+    "work_id": "KUC-MONAD",
+    "work_title": "Analytic Summary of Leibniz's Monadology",
+    "position_type": "supporting_argument",
+    "claim": "Composite substances require simple substances as their constituents",
+    "text": "Composite substances require simple substances as their constituents",
+    "quote": "There must simple substances, since composite ones consist of them.",
+    "domain": "metaphysics",
+    "topics": [
+      "composition",
+      "substance",
+      "necessity"
+    ],
+    "is_major_claim": false,
+    "supports": 1,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-MONAD-003",
+    "work_id": "KUC-MONAD",
+    "work_title": "Analytic Summary of Leibniz's Monadology",
+    "position_type": "supporting_argument",
+    "claim": "Simple substances have no extension or shape and are the true atoms of nature",
+    "text": "Simple substances have no extension or shape and are the true atoms of nature",
+    "quote": "What is simple has no extension and therefore no shape. Monads are the true atoms of nature.",
+    "domain": "metaphysics",
+    "topics": [
+      "extension",
+      "atomism",
+      "shape"
+    ],
+    "is_major_claim": false,
+    "supports": 1,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-MONAD-004",
+    "work_id": "KUC-MONAD",
+    "work_title": "Analytic Summary of Leibniz's Monadology",
+    "position_type": "supporting_argument",
+    "claim": "Monads cannot be destroyed because destruction requires taking apart parts",
+    "text": "Monads cannot be destroyed because destruction requires taking apart parts",
+    "quote": "Monads cannot be destroyed, since to destroy is to take apart and monads have no parts.",
+    "domain": "metaphysics",
+    "topics": [
+      "destruction",
+      "parts",
+      "indestructibility"
+    ],
+    "is_major_claim": false,
+    "supports": 1,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-MONAD-005",
+    "work_id": "KUC-MONAD",
+    "work_title": "Analytic Summary of Leibniz's Monadology",
+    "position_type": "supporting_argument",
+    "claim": "Monads cannot be created by composition for the same reason they cannot be destroyed",
+    "text": "Monads cannot be created by composition for the same reason they cannot be destroyed",
+    "quote": "For the same reason mutatis mutandis, monads cannot be created.",
+    "domain": "metaphysics",
+    "topics": [
+      "creation",
+      "composition"
+    ],
+    "is_major_claim": false,
+    "supports": 1,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-MONAD-006",
+    "work_id": "KUC-MONAD",
+    "work_title": "Analytic Summary of Leibniz's Monadology",
+    "position_type": "supporting_argument",
+    "claim": "Monads come into and depart from existence instantaneously through annihilation or ex nihilo creation",
+    "text": "Monads come into and depart from existence instantaneously through annihilation or ex nihilo creation",
+    "quote": "Therefore, monads come into, and depart from, existence instantaneously; they can be destroyed only be being annihilated, not decomposed, and they come into existence ex nihilo, and not in the gradual manner of composites.",
+    "domain": "metaphysics",
+    "topics": [
+      "instantaneous existence",
+      "annihilation",
+      "ex nihilo creation"
+    ],
+    "is_major_claim": false,
+    "supports": 5,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-MONAD-007",
+    "work_id": "KUC-MONAD",
+    "work_title": "Analytic Summary of Leibniz's Monadology",
+    "position_type": "major_claim",
+    "claim": "Monads cannot undergo internal change and nothing can change them",
+    "text": "Monads cannot undergo internal change and nothing can change them",
+    "quote": "It follows that monads cannot undergo internal change. Internal change requires internal parts, and monads have no parts. It also follows that nothing can change a monad. To be changed is for one's internal parts to be rearranged, and monads have no such parts.",
+    "domain": "metaphysics",
+    "topics": [
+      "change",
+      "internal parts",
+      "immutability"
+    ],
+    "is_major_claim": true,
+    "supports": null,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-MONAD-008",
+    "work_id": "KUC-MONAD",
+    "work_title": "Analytic Summary of Leibniz's Monadology",
+    "position_type": "supporting_argument",
+    "claim": "Monads have qualities despite lacking parts and must differ qualitatively",
+    "text": "Monads have qualities despite lacking parts and must differ qualitatively",
+    "quote": "Even though monads don't have parts, they do have qualities. Monads do not differ in respect of size from one another, as there are no quantitative differences between any two monads. So if there are any such differences, they must be qualitative.",
+    "domain": "metaphysics",
+    "topics": [
+      "qualities",
+      "qualitative differences",
+      "quantitative differences"
+    ],
+    "is_major_claim": false,
+    "supports": null,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-MONAD-009",
+    "work_id": "KUC-MONAD",
+    "work_title": "Analytic Summary of Leibniz's Monadology",
+    "position_type": "supporting_argument",
+    "claim": "Monads cannot be qualitatively identical because this would make change impossible",
+    "text": "Monads cannot be qualitatively identical because this would make change impossible",
+    "quote": "But monads cannot possibly be qualitatively identical. Given that there is no empty space, it follows that each point in space is occupied by a monad and that change involves monads switching places. But if monads are all the same, then the state of the universe before two monads switch places is just like the state of the universe after they do so. Wherefore, unless monads differ in quality, there is no such thing as change.",
+    "domain": "metaphysics",
+    "topics": [
+      "qualitative identity",
+      "change",
+      "space"
+    ],
+    "is_major_claim": false,
+    "supports": 8,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-MONAD-010",
+    "work_id": "KUC-MONAD",
+    "work_title": "Analytic Summary of Leibniz's Monadology",
+    "position_type": "major_claim",
+    "claim": "No two monads are the same because no two objects are the same and differences are rooted in natures",
+    "text": "No two monads are the same because no two objects are the same and differences are rooted in natures",
+    "quote": "It follows that some monads are different from some monads. But a stronger claim is warranted, namely, no two monads are the same. This is because no two objects are the same. And the differences between any two objects are rooted in the natures of those objects. It is not simply that those objects differ in respect of their relations to other objects. It is that those two objects have different natures.",
+    "domain": "metaphysics",
+    "topics": [
+      "uniqueness",
+      "nature",
+      "identity"
+    ],
+    "is_major_claim": true,
+    "supports": null,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-MONAD-011",
+    "work_id": "KUC-MONAD",
+    "work_title": "Analytic Summary of Leibniz's Monadology",
+    "position_type": "major_claim",
+    "claim": "Every created being can change and monads are always changing",
+    "text": "Every created being can change and monads are always changing",
+    "quote": "Every created being can change. Therefore, monads can change. In fact, monads are always changing.",
+    "domain": "metaphysics",
+    "topics": [
+      "change",
+      "created beings",
+      "constant change"
+    ],
+    "is_major_claim": true,
+    "supports": null,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-MONAD-012",
+    "work_id": "KUC-MONAD",
+    "work_title": "Analytic Summary of Leibniz's Monadology",
+    "position_type": "supporting_argument",
+    "claim": "Changes in monads come from within because nothing external can affect them",
+    "text": "Changes in monads come from within because nothing external can affect them",
+    "quote": "These changes come from within. This is because nothing can affect a monad, as we saw in proposition 7.",
+    "domain": "metaphysics",
+    "topics": [
+      "internal change",
+      "external influence"
+    ],
+    "is_major_claim": false,
+    "supports": 11,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-MONAD-013",
+    "work_id": "KUC-MONAD",
+    "work_title": "Analytic Summary of Leibniz's Monadology",
+    "position_type": "supporting_argument",
+    "claim": "Each monad must change in its own unique way",
+    "text": "Each monad must change in its own unique way",
+    "quote": "And each monad must change in its own way. This is a consequence of the fact that each monad is unique.",
+    "domain": "metaphysics",
+    "topics": [
+      "unique change",
+      "individuality"
+    ],
+    "is_major_claim": false,
+    "supports": 11,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-MONAD-014",
+    "work_id": "KUC-MONAD",
+    "work_title": "Analytic Summary of Leibniz's Monadology",
+    "position_type": "supporting_argument",
+    "claim": "Monads are qualitatively internally differentiated and change continuously in some respects",
+    "text": "Monads are qualitatively internally differentiated and change continuously in some respects",
+    "quote": "It follows that even though monads do not consist of parts, there is a respect in which they are internally differentiated. They are qualitatively internally differentiated. And when a given monad changes, it must do so in some respects, and not others, since total change would be tantamount to annihilated, and it must do so continuously, since all changes are continuous.",
+    "domain": "metaphysics",
+    "topics": [
+      "internal differentiation",
+      "continuous change",
+      "qualitative change"
+    ],
+    "is_major_claim": false,
+    "supports": 11,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-MONAD-015",
+    "work_id": "KUC-MONAD",
+    "work_title": "Analytic Summary of Leibniz's Monadology",
+    "position_type": "definition",
+    "claim": "Perception is change-within-unity in a monad, distinct from thought or consciousness",
+    "text": "Perception is change-within-unity in a monad, distinct from thought or consciousness",
+    "quote": "Thus, when a monad changes, the change is internal to a being that remains fundamentally unified. Such changes-within-unity are nothing other than we call perception. Perception is not the same thing as thought. Nor is it the same thing as consciousness.",
+    "domain": "philosophy_of_mind",
+    "topics": [
+      "perception",
+      "consciousness",
+      "thought",
+      "unity"
+    ],
+    "is_major_claim": false,
+    "supports": 14,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-MONAD-016",
+    "work_id": "KUC-MONAD",
+    "work_title": "Analytic Summary of Leibniz's Monadology",
+    "position_type": "objection_response",
+    "claim": "Cartesians wrongly identify consciousness with mind and deny unconscious mental content",
+    "text": "Cartesians wrongly identify consciousness with mind and deny unconscious mental content",
+    "quote": "Cartesians hold that consciousness and mind are the same thing, and they deny that there is anything in one's mind of which one is not conscious. For this reason, they wrongly hold that mind and body are distinct and that the soul can perish.",
+    "domain": "philosophy_of_mind",
+    "topics": [
+      "Cartesianism",
+      "consciousness",
+      "mind-body problem"
+    ],
+    "is_major_claim": false,
+    "supports": 15,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-MONAD-017",
+    "work_id": "KUC-MONAD",
+    "work_title": "Analytic Summary of Leibniz's Monadology",
+    "position_type": "definition",
+    "claim": "Appetition is the force that drives internal changes in monads",
+    "text": "Appetition is the force that drives internal changes in monads",
+    "quote": "The force that drives a monad's internal changes may be referred to as appetition. Any given change in a monad begins with one perception and strives towards a different perception. The target-perception is never reached, but a perception approximating to it is reached, and new perceptions are generated in the course of this transition.",
+    "domain": "philosophy_of_mind",
+    "topics": [
+      "appetition",
+      "striving",
+      "perception"
+    ],
+    "is_major_claim": false,
+    "supports": null,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-MONAD-018",
+    "work_id": "KUC-MONAD",
+    "work_title": "Analytic Summary of Leibniz's Monadology",
+    "position_type": "supporting_argument",
+    "claim": "We are simple substances but can perceive complexity because we are internally differentiated",
+    "text": "We are simple substances but can perceive complexity because we are internally differentiated",
+    "quote": "The soul is simple. Therefore, we are simple substances. And we find that the object of even the simplest of our perceptions is internally differentiated. It follows that we are internally differentiated, since we could not be aware complexity without ourselves being complex.",
+    "domain": "philosophy_of_mind",
+    "topics": [
+      "soul",
+      "perception",
+      "complexity"
+    ],
+    "is_major_claim": false,
+    "supports": null,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-MONAD-019",
+    "work_id": "KUC-MONAD",
+    "work_title": "Analytic Summary of Leibniz's Monadology",
+    "position_type": "major_claim",
+    "claim": "Perception cannot be explained mechanically because machines cannot create perceptions",
+    "text": "Perception cannot be explained mechanically because machines cannot create perceptions",
+    "quote": "Perception cannot be explained mechanically. Suppose that some machine could create perceptions. That machine could be expanded, so that we could walk around inside it. If we did so, we would see cogs and levers and pulleys; we would see various interacting objects, as in a factory. But we certainly we would not see perceptions or thoughts or feelings. Interacting objects do not create perceptions. Therefore, multiplicities of objects do not have perceptions. Therefore, perceptions are had by simple beings.",
+    "domain": "philosophy_of_mind",
+    "topics": [
+      "mechanical explanation",
+      "perception",
+      "machines"
+    ],
+    "is_major_claim": true,
+    "supports": null,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-MONAD-020",
+    "work_id": "KUC-MONAD",
+    "work_title": "Analytic Summary of Leibniz's Monadology",
+    "position_type": "definition",
+    "claim": "An entelechy is a self-powering being, which souls and monads are",
+    "text": "An entelechy is a self-powering being, which souls and monads are",
+    "quote": "An entelechy is a self-powering being. Souls are entelechies, and so therefore are monads.",
+    "domain": "metaphysics",
+    "topics": [
+      "entelechy",
+      "self-powering",
+      "souls"
+    ],
+    "is_major_claim": false,
+    "supports": null,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-MONAD-021",
+    "work_id": "KUC-MONAD",
+    "work_title": "Analytic Summary of Leibniz's Monadology",
+    "position_type": "definition",
+    "claim": "Minds exist where there is perception; souls exist where perception is accompanied by memory",
+    "text": "Minds exist where there is perception; souls exist where perception is accompanied by memory",
+    "quote": "We must distinguish between minds and souls. Where there is perception, there is a mind. But it is only where perception is accompanied by memory that there is a soul.",
+    "domain": "philosophy_of_mind",
+    "topics": [
+      "mind",
+      "soul",
+      "perception",
+      "memory"
+    ],
+    "is_major_claim": false,
+    "supports": null,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-MONAD-022",
+    "work_id": "KUC-MONAD",
+    "work_title": "Analytic Summary of Leibniz's Monadology",
+    "position_type": "definition",
+    "claim": "Mere monads are beings with perception but without memory",
+    "text": "Mere monads are beings with perception but without memory",
+    "quote": "Henceforth, I refer to mere monads, I am referring to beings that have perception but not memory.",
+    "domain": "philosophy_of_mind",
+    "topics": [
+      "mere monads",
+      "perception",
+      "memory"
+    ],
+    "is_major_claim": false,
+    "supports": 20,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-MONAD-023",
+    "work_id": "KUC-MONAD",
+    "work_title": "Analytic Summary of Leibniz's Monadology",
+    "position_type": "example",
+    "claim": "Our condition in dreamless sleep is like that of a mere monad but different because we wake up",
+    "text": "Our condition in dreamless sleep is like that of a mere monad but different because we wake up",
+    "quote": "When we are in a dreamless sleep, our condition is more like that of a mere monad than it is otherwise. But we wake up from even the deepest sleep, showing that our condition is different from that of a mere monad even when we are in the depths of the deepest sleep.",
+    "domain": "philosophy_of_mind",
+    "topics": [
+      "sleep",
+      "consciousness",
+      "mere monads"
+    ],
+    "is_major_claim": false,
+    "supports": 20,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-MONAD-024",
+    "work_id": "KUC-MONAD",
+    "work_title": "Analytic Summary of Leibniz's Monadology",
+    "position_type": "supporting_argument",
+    "claim": "Monads have perceptions but they are weak and confused",
+    "text": "Monads have perceptions but they are weak and confused",
+    "quote": "But it does not follow that monads have no perceptions. They obviously do. What follows is that their perceptions are weak and confused, as we are during a dizzy spell or period of delirium.",
+    "domain": "philosophy_of_mind",
+    "topics": [
+      "weak perceptions",
+      "confusion",
+      "delirium"
+    ],
+    "is_major_claim": false,
+    "supports": 21,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-MONAD-025",
+    "work_id": "KUC-MONAD",
+    "work_title": "Analytic Summary of Leibniz's Monadology",
+    "position_type": "supporting_argument",
+    "claim": "A monad's present condition determines its future condition",
+    "text": "A monad's present condition determines its future condition",
+    "quote": "A monad's condition at any given moment is a consequence of its earlier condition. It follows that a monad's future condition is implicit in its present condition.",
+    "domain": "metaphysics",
+    "topics": [
+      "temporal sequence",
+      "determinism",
+      "causation"
+    ],
+    "is_major_claim": false,
+    "supports": null,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-MONAD-026",
+    "work_id": "KUC-MONAD",
+    "work_title": "Analytic Summary of Leibniz's Monadology",
+    "position_type": "supporting_argument",
+    "claim": "Unconscious perceptions must exist because we remember confused states",
+    "text": "Unconscious perceptions must exist because we remember confused states",
+    "quote": "When you recover from a dizzy spell, you remember what it was like. You therefore must have been taking a mental note of your condition, even though you were not aware of doing so while you were in your delirium. It follows that you were having these perceptions unconsciously. Also, perceptions must arise from other perceptions, just as motions must be caused by other motions, and it follows that conscious perceptions are unconscious perceptions that have become conscious.",
+    "domain": "philosophy_of_mind",
+    "topics": [
+      "unconscious perception",
+      "memory",
+      "consciousness"
+    ],
+    "is_major_claim": false,
+    "supports": null,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-MONAD-027",
+    "work_id": "KUC-MONAD",
+    "work_title": "Analytic Summary of Leibniz's Monadology",
+    "position_type": "supporting_argument",
+    "claim": "Mental lucidity depends on the articulation and accenting of perceptions",
+    "text": "Mental lucidity depends on the articulation and accenting of perceptions",
+    "quote": "When we are lucid, it is because our mental state is appropriately articulated, some of our perceptions being more intense, or otherwise more accented, than others. And when we are in a stupor, it is because our perceptions are not thus distinguished from one another. Mental haziness is identical with this absence of internal psychological structure.",
+    "domain": "philosophy_of_mind",
+    "topics": [
+      "lucidity",
+      "perception",
+      "mental structure"
+    ],
+    "is_major_claim": false,
+    "supports": 25,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-MONAD-028",
+    "work_id": "KUC-MONAD",
+    "work_title": "Analytic Summary of Leibniz's Monadology",
+    "position_type": "supporting_argument",
+    "claim": "Animal sensory abilities depend on bodily organization of stimuli",
+    "text": "Animal sensory abilities depend on bodily organization of stimuli",
+    "quote": "Animals often have enormous powerful sensory modalities. The reason an eagle sees so well is that its eyes do such a good job of organize the light rays that strike, and the reason a bat hears so well is that its ears do such a good job of organizing the undulations that affect it. Whenever a creature is possessed of a given sensory modality, it is because his body is structured in a very particular way.",
+    "domain": "philosophy_of_mind",
+    "topics": [
+      "sensory perception",
+      "bodily organization",
+      "animals"
+    ],
+    "is_major_claim": false,
+    "supports": null,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-MONAD-029",
+    "work_id": "KUC-MONAD",
+    "work_title": "Analytic Summary of Leibniz's Monadology",
+    "position_type": "supporting_argument",
+    "claim": "Memory and reason enable creatures to be changed by experience",
+    "text": "Memory and reason enable creatures to be changed by experience",
+    "quote": "If a creature has neither memory nor reason, experiences do not change it. If it has either memory or reason, experiences do change it. And in some cases, memory-based changes mimic reason-based changes.",
+    "domain": "philosophy_of_mind",
+    "topics": [
+      "memory",
+      "reason",
+      "experience",
+      "change"
+    ],
+    "is_major_claim": false,
+    "supports": null,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-MONAD-030",
+    "work_id": "KUC-MONAD",
+    "work_title": "Analytic Summary of Leibniz's Monadology",
+    "position_type": "example",
+    "claim": "A dog's conditioned behavior is memory-based and reflexive, not rational",
+    "text": "A dog's conditioned behavior is memory-based and reflexive, not rational",
+    "quote": "A dog that has been beaten enough times will cringe at the mere sight of the stick used to beat it. The dog's behavior is similar to that of a person who deduces that he is in danger. But the dog's behavior is reflexive, being purely memory-based, and does not embody any actual thought.",
+    "domain": "philosophy_of_mind",
+    "topics": [
+      "conditioning",
+      "memory",
+      "reason",
+      "animals"
+    ],
+    "is_major_claim": false,
+    "supports": 27,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-MONAD-031",
+    "work_id": "KUC-MONAD",
+    "work_title": "Analytic Summary of Leibniz's Monadology",
+    "position_type": "supporting_argument",
+    "claim": "Multiple mild perceptions can have the same effect as few intense ones",
+    "text": "Multiple mild perceptions can have the same effect as few intense ones",
+    "quote": "A dog that has suffered a few severe beatings may cringe when it sees its master's stick, and so may a dog that has suffered many mild beatings. Sometimes a long series of mild perceptions has the same effect as a few intense ones.",
+    "domain": "philosophy_of_mind",
+    "topics": [
+      "perception",
+      "intensity",
+      "conditioning"
+    ],
+    "is_major_claim": false,
+    "supports": 28,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-MONAD-032",
+    "work_id": "KUC-MONAD",
+    "work_title": "Analytic Summary of Leibniz's Monadology",
+    "position_type": "supporting_argument",
+    "claim": "Most human beliefs are based on experience rather than rational inference",
+    "text": "Most human beliefs are based on experience rather than rational inference",
+    "quote": "Most of our beliefs are based solely on past experience, there being no element of rational inference. We believe that the sun will rise because experience has conditioned us to believe it. Only the astronomer believes it on the basis of reason.",
+    "domain": "epistemology",
+    "topics": [
+      "belief",
+      "experience",
+      "reason",
+      "conditioning"
+    ],
+    "is_major_claim": false,
+    "supports": null,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-MONAD-033",
+    "work_id": "KUC-MONAD",
+    "work_title": "Analytic Summary of Leibniz's Monadology",
+    "position_type": "major_claim",
+    "claim": "Humans are distinguished from animals by awareness of necessary truths and logical dependence",
+    "text": "Humans are distinguished from animals by awareness of necessary truths and logical dependence",
+    "quote": "What distinguishes us from animals is that we are aware of necessary truths. Unlike animals, we grasp the concept of logical dependence, and this is what makes us rational. Because we are rational, we think about the world in a scientific manner. Because we are rational, we are able to think about ourselves and about God.",
+    "domain": "philosophy_of_mind",
+    "topics": [
+      "rationality",
+      "necessary truths",
+      "logical dependence"
+    ],
+    "is_major_claim": true,
+    "supports": null,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-MONAD-034",
+    "work_id": "KUC-MONAD",
+    "work_title": "Analytic Summary of Leibniz's Monadology",
+    "position_type": "supporting_argument",
+    "claim": "Grasping necessary truths enables self-reflection and the concept of God",
+    "text": "Grasping necessary truths enables self-reflection and the concept of God",
+    "quote": "It is because we grasp necessary truths that we can think about ourselves. And because we can think about ourselves, we can think about simples, composites, mind, and matter. We thereby learn that what limits one being may not limit another. On this basis, we learn that what limits us need not limit some other being. On this basis, we learn that what limits any finite being need not limit some other being. And on this basis, we grasp the concept of God, that is, of an unlimited being.",
+    "domain": "philosophy_of_mind",
+    "topics": [
+      "self-reflection",
+      "God",
+      "limitation",
+      "unlimited being"
+    ],
+    "is_major_claim": false,
+    "supports": 30,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-MONAD-035",
+    "work_id": "KUC-MONAD",
+    "work_title": "Analytic Summary of Leibniz's Monadology",
+    "position_type": "major_claim",
+    "claim": "All reasoning is based on the Principle of Non-contradiction",
+    "text": "All reasoning is based on the Principle of Non-contradiction",
+    "quote": "All reasoning is based on two principles. First, the Principle of Non-contradition. Self-contradictory statements are always false, and the negation of such a statement is always true.",
+    "domain": "logic",
+    "topics": [
+      "reasoning",
+      "non-contradiction",
+      "logical principles"
+    ],
+    "is_major_claim": true,
+    "supports": null,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-MONAD-036",
+    "work_id": "KUC-MONAD",
+    "work_title": "Analytic Summary of Leibniz's Monadology",
+    "position_type": "major_claim",
+    "claim": "All reasoning is based on the Principle of Sufficient Reason",
+    "text": "All reasoning is based on the Principle of Sufficient Reason",
+    "quote": "Second, the Principle of Sufficient Reason. No statement can be true, no fact can exist, unless there is an adequate reason. In most cases, we do not know the reason.",
+    "domain": "logic",
+    "topics": [
+      "sufficient reason",
+      "adequate reason",
+      "truth"
+    ],
+    "is_major_claim": true,
+    "supports": null,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-MONAD-037",
+    "work_id": "KUC-MONAD",
+    "work_title": "Analytic Summary of Leibniz's Monadology",
+    "position_type": "major_claim",
+    "claim": "There are two kinds of truths: Truths of Reason and Truths of Fact",
+    "text": "There are two kinds of truths: Truths of Reason and Truths of Fact",
+    "quote": "Also, there are two kinds of truths: Truths of Reason and Truths of Fact. Truths of reason are necessary, and their negations cannot possibly be true. Truths of fact are contingent, and their negations can be true.",
+    "domain": "epistemology",
+    "topics": [
+      "truth types",
+      "necessity",
+      "contingency"
+    ],
+    "is_major_claim": true,
+    "supports": null,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-MONAD-038",
+    "work_id": "KUC-MONAD",
+    "work_title": "Analytic Summary of Leibniz's Monadology",
+    "position_type": "supporting_argument",
+    "claim": "Necessary truths can be understood through analysis into simple constituents",
+    "text": "Necessary truths can be understood through analysis into simple constituents",
+    "quote": "When a truth is necessary, we can learn why it is true by analyzing it. Analyzing a statement involves decomposing it into its simple constitutents.",
+    "domain": "epistemology",
+    "topics": [
+      "analysis",
+      "necessary truth",
+      "decomposition"
+    ],
+    "is_major_claim": false,
+    "supports": 34,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-MONAD-039",
+    "work_id": "KUC-MONAD",
+    "work_title": "Analytic Summary of Leibniz's Monadology",
+    "position_type": "example",
+    "claim": "Mathematical derivation from axioms exemplifies analysis of necessary truths",
+    "text": "Mathematical derivation from axioms exemplifies analysis of necessary truths",
+    "quote": "This is what a mathematician is doing when he derives a truth of mathematics from a body of axioms.",
+    "domain": "epistemology",
+    "topics": [
+      "mathematics",
+      "axioms",
+      "derivation"
+    ],
+    "is_major_claim": false,
+    "supports": 35,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-MONAD-040",
+    "work_id": "KUC-MONAD",
+    "work_title": "Analytic Summary of Leibniz's Monadology",
+    "position_type": "supporting_argument",
+    "claim": "Analysis terminates in basic principles whose negations are explicitly self-contradictory",
+    "text": "Analysis terminates in basic principles whose negations are explicitly self-contradictory",
+    "quote": "Analysis reaches an end with these basic principles---these axioms, as it were---and the mark of a basic principle is that its negation is explicitly self-contradictory. These basic principles are always identities, that is, truths of the form x=x.",
+    "domain": "epistemology",
+    "topics": [
+      "basic principles",
+      "axioms",
+      "identity",
+      "self-contradiction"
+    ],
+    "is_major_claim": false,
+    "supports": 35,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-MONAD-041",
+    "work_id": "KUC-MONAD",
+    "work_title": "Analytic Summary of Leibniz's Monadology",
+    "position_type": "supporting_argument",
+    "claim": "Contingent truths also have sufficient reasons though we may not know them",
+    "text": "Contingent truths also have sufficient reasons though we may not know them",
+    "quote": "Mathematicians give reasons for necessary truths. But there are sufficient reasons for contingent truths, as well.",
+    "domain": "epistemology",
+    "topics": [
+      "contingent truth",
+      "sufficient reason"
+    ],
+    "is_major_claim": false,
+    "supports": 33,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-MONAD-042",
+    "work_id": "KUC-MONAD",
+    "work_title": "Analytic Summary of Leibniz's Monadology",
+    "position_type": "example",
+    "claim": "Present behavior results from infinitely complex chains of past events and mental states",
+    "text": "Present behavior results from infinitely complex chains of past events and mental states",
+    "quote": "Consider the movements I am now making with my pen. These movements are the end-result of an infinitely long chain of events, and any given link in that chain is of infinite internal complexity. Moreover, innumerably many past mental states of mine are responsible for my having the motivation to make these markings.",
+    "domain": "metaphysics",
+    "topics": [
+      "causation",
+      "infinite complexity",
+      "behavior"
+    ],
+    "is_major_claim": false,
+    "supports": 37,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-MONAD-043",
+    "work_id": "KUC-MONAD",
+    "work_title": "Analytic Summary of Leibniz's Monadology",
+    "position_type": "supporting_argument",
+    "claim": "Contingent chains of events require looking outside contingencies for sufficient reason",
+    "text": "Contingent chains of events require looking outside contingencies for sufficient reason",
+    "quote": "But each of these various antecedents of my behavior leads simply to more antecedents, and each of the internal nuances of any such antecedent refers us simply to more internal structure. No matter how far back in time we follow this chain of events, and no matter how intensively we scrutinize any given one of its links, we fail to encounter a sufficient reason for my behavior. To find such a reason, we must look outside this sequence of contingencies.",
+    "domain": "metaphysics",
+    "topics": [
+      "contingency",
+      "sufficient reason",
+      "infinite regress"
+    ],
+    "is_major_claim": false,
+    "supports": 39,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-MONAD-044",
+    "work_id": "KUC-MONAD",
+    "work_title": "Analytic Summary of Leibniz's Monadology",
+    "position_type": "major_claim",
+    "claim": "God is the necessary being sufficient for all contingencies",
+    "text": "God is the necessary being sufficient for all contingencies",
+    "quote": "This necessary being is sufficient for all of these contingencies, which are all interconnected. So there is one God and this God is sufficient.",
+    "domain": "metaphysics",
+    "topics": [
+      "God",
+      "necessary being",
+      "contingency"
+    ],
+    "is_major_claim": true,
+    "supports": null,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-MONAD-045",
+    "work_id": "KUC-MONAD",
+    "work_title": "Analytic Summary of Leibniz's Monadology",
+    "position_type": "supporting_argument",
+    "claim": "God's existence is universally implicated and necessary",
+    "text": "God's existence is universally implicated and necessary",
+    "quote": "There is nothing distinct from this being that does not depend for its existence on it. Therefore, this being is, quite literally, universally, in that its existence is implicated in that of every aspect of everything in the universe. Moreover, this being cannot be possible without being actual. Therefore, its existence is necessary.",
+    "domain": "metaphysics",
+    "topics": [
+      "divine existence",
+      "necessity",
+      "universality"
+    ],
+    "is_major_claim": false,
+    "supports": 40,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-MONAD-046",
+    "work_id": "KUC-MONAD",
+    "work_title": "Analytic Summary of Leibniz's Monadology",
+    "position_type": "supporting_argument",
+    "claim": "God is unlimited because limitation would compromise sufficiency",
+    "text": "God is unlimited because limitation would compromise sufficiency",
+    "quote": "If this being were limited in any way, it would not be sufficient. But it is sufficient, so it is not limited, and it is therefore unlimited in respect of how much reality is in it.",
+    "domain": "metaphysics",
+    "topics": [
+      "divine unlimited nature",
+      "sufficiency",
+      "reality"
+    ],
+    "is_major_claim": false,
+    "supports": 40,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-MONAD-047",
+    "work_id": "KUC-MONAD",
+    "work_title": "Analytic Summary of Leibniz's Monadology",
+    "position_type": "supporting_argument",
+    "claim": "God is responsible for perfections while creatures are responsible for their own imperfections",
+    "text": "God is responsible for perfections while creatures are responsible for their own imperfections",
+    "quote": "It follows that God is responsible for each creature's perfections. It also follows that each creature is itself responsible for its own imperfections. A creature's imperfections are what limit it, and what limits it is what distinguishes it from God.",
+    "domain": "metaphysics",
+    "topics": [
+      "divine responsibility",
+      "perfection",
+      "imperfection"
+    ],
+    "is_major_claim": false,
+    "supports": 41,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-MONAD-048",
+    "work_id": "KUC-MONAD",
+    "work_title": "Analytic Summary of Leibniz's Monadology",
+    "position_type": "major_claim",
+    "claim": "God is the source of both actualities and possibilities, grounding essences in His mind",
+    "text": "God is the source of both actualities and possibilities, grounding essences in His mind",
+    "quote": "It also follows that God is the source not only of what is actual, but of what is possible, and that he is therefore responsible for the existence of essences. For it is in God's mind, and nowhere else, that possibilities exist, and without God there would be no possibilities, and therefore no actualities either.",
+    "domain": "metaphysics",
+    "topics": [
+      "divine mind",
+      "possibility",
+      "actuality",
+      "essences"
+    ],
+    "is_major_claim": true,
+    "supports": null,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-MONAD-049",
+    "work_id": "KUC-MONAD",
+    "work_title": "Analytic Summary of Leibniz's Monadology",
+    "position_type": "supporting_argument",
+    "claim": "Possibilities must be grounded in actualities and therefore in necessary being",
+    "text": "Possibilities must be grounded in actualities and therefore in necessary being",
+    "quote": "This is because possibilities do not exist unless grounded in actualities and must therefore grounded in necessary and eternal truths and, therefore, in a being whose essence involves existence. It follows that God's being possible is sufficient for His being actual.",
+    "domain": "metaphysics",
+    "topics": [
+      "possibility",
+      "actuality",
+      "necessary being"
+    ],
+    "is_major_claim": false,
+    "supports": 43,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-MONAD-050",
+    "work_id": "KUC-MONAD",
+    "work_title": "Analytic Summary of Leibniz's Monadology",
+    "position_type": "major_claim",
+    "claim": "Only of God can it be said that He must exist if He can exist",
+    "text": "Only of God can it be said that He must exist if He can exist",
+    "quote": "Of God and God alone can it be said that He must exist if He can exist. God is unlimited and his existence is in no way negated. Nothing contradicts his existence and it therefore does not self-contradict. Since what is not self-contradictory is possible, God is possible and, since possible, existent. Here, then, is a second proof of God's existence.",
+    "domain": "metaphysics",
+    "topics": [
+      "divine existence",
+      "ontological argument",
+      "possibility"
+    ],
+    "is_major_claim": true,
+    "supports": null,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-MONAD-051",
+    "work_id": "KUC-MONAD",
+    "work_title": "Analytic Summary of Leibniz's Monadology",
+    "position_type": "objection_response",
+    "claim": "Against Descartes: God's will affects contingent truths, His intellect constitutes necessary truths",
+    "text": "Against Descartes: God's will affects contingent truths, His intellect constitutes necessary truths",
+    "quote": "According to Descartes, necessary truths depend on God's will and are therefore arbitrary. This is a mistake. God's will is responsible for contingent truths. God's intellect is responsible for necessary truths. Such truths constitute His intellect.",
+    "domain": "metaphysics",
+    "topics": [
+      "divine will",
+      "divine intellect",
+      "necessary truth"
+    ],
+    "is_major_claim": false,
+    "supports": null,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-MONAD-052",
+    "work_id": "KUC-MONAD",
+    "work_title": "Analytic Summary of Leibniz's Monadology",
+    "position_type": "supporting_argument",
+    "claim": "God is the ultimate simple substance who creates all other monads",
+    "text": "God is the ultimate simple substance who creates all other monads",
+    "quote": "Thus, God is the ultimate simple substance. All other monads are His creations. They are continuously created by the silent flashes of lightning that God gives off. Finite beings are affected by these flashes of lightning and to that extent, and only to that are they limited.",
+    "domain": "metaphysics",
+    "topics": [
+      "divine simplicity",
+      "creation",
+      "limitation"
+    ],
+    "is_major_claim": false,
+    "supports": 46,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-MONAD-053",
+    "work_id": "KUC-MONAD",
+    "work_title": "Analytic Summary of Leibniz's Monadology",
+    "position_type": "supporting_argument",
+    "claim": "Divine attributes correspond to monad faculties but only God has them unlimitedly",
+    "text": "Divine attributes correspond to monad faculties but only God has them unlimitedly",
+    "quote": "In God, there is *Power, which is the source of everything, *Knowledge, which contains every truth, and *Will, which produces changes, as God sees fit. These correspond, respectively, to *The monad's basic nature, *The monad's perceptual faculty, and *The monad's appetitive faculty. Some derived monads have these attributes to a higher degree than others, but all such monads have them a finite degree. Only God has them to an unlimited degree.",
+    "domain": "metaphysics",
+    "topics": [
+      "divine attributes",
+      "monad faculties",
+      "degrees of perfection"
+    ],
+    "is_major_claim": false,
+    "supports": 47,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-MONAD-054",
+    "work_id": "KUC-MONAD",
+    "work_title": "Analytic Summary of Leibniz's Monadology",
+    "position_type": "supporting_argument",
+    "claim": "A being's perfection corresponds to its activity and clear perceptions",
+    "text": "A being's perfection corresponds to its activity and clear perceptions",
+    "quote": "A being is perfect so far as it acts and imperfect so far as it is acted on. For reasons that I will now explain, it follows that a monad acts in so far as it has clear perceptions and is acted on in so far as it has confused ones.",
+    "domain": "metaphysics",
+    "topics": [
+      "perfection",
+      "activity",
+      "clear perception"
+    ],
+    "is_major_claim": false,
+    "supports": null,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-MONAD-055",
+    "work_id": "KUC-MONAD",
+    "work_title": "Analytic Summary of Leibniz's Monadology",
+    "position_type": "supporting_argument",
+    "claim": "Clear perceptions enable one monad to be responsible for another's states",
+    "text": "Clear perceptions enable one monad to be responsible for another's states",
+    "quote": "To the extent that one monad has clear perceptions and another confused ones, the states of the former can be responsible for those of the latter and the states of the latter cannot be responsible for those of the former. And one created being is more perfect than another to the extent that what happens in it can be said a priori to be responsible for what happens in the second, this being what it means to say that the first 'acts on' the second and the second is 'acted on' by the first.",
+    "domain": "metaphysics",
+    "topics": [
+      "clear perception",
+      "responsibility",
+      "perfection hierarchy"
+    ],
+    "is_major_claim": false,
+    "supports": 49,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-MONAD-056",
+    "work_id": "KUC-MONAD",
+    "work_title": "Analytic Summary of Leibniz's Monadology",
+    "position_type": "major_claim",
+    "claim": "No monad directly acts on any other; God pre-arranges apparent causal relations",
+    "text": "No monad directly acts on any other; God pre-arranges apparent causal relations",
+    "quote": "No monad directly acts on any other. But God so arranges things that the conditions of lesser monads can be inferred from those of higher monads but not vice versa, wherefore God so pre-arranges things that this inferential asymmetry between higher and lesser monads is made to appear as a causal asymmetry between them.",
+    "domain": "metaphysics",
+    "topics": [
+      "pre-established harmony",
+      "causation",
+      "inferential asymmetry"
+    ],
+    "is_major_claim": true,
+    "supports": null,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-MONAD-057",
+    "work_id": "KUC-MONAD",
+    "work_title": "Analytic Summary of Leibniz's Monadology",
+    "position_type": "supporting_argument",
+    "claim": "Causal interaction is really explainability in terms of perception clarity",
+    "text": "Causal interaction is really explainability in terms of perception clarity",
+    "quote": "For x to act on y, as it were, is for y's condition to be explained in terms of x's, and it is therefore for y's perceptions to lower resolution than, but otherwise comparable to, x's perceptions. If x and y affect each other, that is because x is superior to y in some respects and inferior to y in others, and God so pre-arranged their interactions as to reflect that fact.",
+    "domain": "metaphysics",
+    "topics": [
+      "causation",
+      "explanation",
+      "perception resolution"
+    ],
+    "is_major_claim": false,
+    "supports": 51,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-MONAD-058",
+    "work_id": "KUC-MONAD",
+    "work_title": "Analytic Summary of Leibniz's Monadology",
+    "position_type": "supporting_argument",
+    "claim": "God must have had a reason for choosing this universe among infinite possibilities",
+    "text": "God must have had a reason for choosing this universe among infinite possibilities",
+    "quote": "Since there are infinitely many possible universes and only one actual one, God must have had a reason for choosing this universe to create.",
+    "domain": "metaphysics",
+    "topics": [
+      "possible worlds",
+      "divine choice",
+      "sufficient reason"
+    ],
+    "is_major_claim": false,
+    "supports": null,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-MONAD-059",
+    "work_id": "KUC-MONAD",
+    "work_title": "Analytic Summary of Leibniz's Monadology",
+    "position_type": "supporting_argument",
+    "claim": "Only if one universe is better than another is it more worthy of creation",
+    "text": "Only if one universe is better than another is it more worthy of creation",
+    "quote": "It is only if one universe is better than another that it is more worthy of being created.",
+    "domain": "metaphysics",
+    "topics": [
+      "comparative goodness",
+      "worthiness",
+      "creation"
+    ],
+    "is_major_claim": false,
+    "supports": 53,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-MONAD-060",
+    "work_id": "KUC-MONAD",
+    "work_title": "Analytic Summary of Leibniz's Monadology",
+    "position_type": "major_claim",
+    "claim": "This is the best of all possible worlds",
+    "text": "This is the best of all possible worlds",
+    "quote": "Since ours is the only universe that God created, it follows that it is better than every other possible universe. This is the best of all worlds.",
+    "domain": "metaphysics",
+    "topics": [
+      "best possible world",
+      "divine perfection",
+      "optimism"
+    ],
+    "is_major_claim": true,
+    "supports": null,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-MONAD-061",
+    "work_id": "KUC-MONAD",
+    "work_title": "Analytic Summary of Leibniz's Monadology",
+    "position_type": "major_claim",
+    "claim": "Each monad is a mirror of the universe reflecting its intrinsic properties",
+    "text": "Each monad is a mirror of the universe reflecting its intrinsic properties",
+    "quote": "Given that the relations of monads are pre-arranged in such as a way as to reflect the differences between them, it follows that a monad's relational properties can be read off of its intrinsic properties. Equivalently, each monad's intrinsic properties can be read off of its relational properties, and each monad is therefore a mirror of the universe.",
+    "domain": "metaphysics",
+    "topics": [
+      "mirroring",
+      "intrinsic properties",
+      "relational properties"
+    ],
+    "is_major_claim": true,
+    "supports": null,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-MONAD-062",
+    "work_id": "KUC-MONAD",
+    "work_title": "Analytic Summary of Leibniz's Monadology",
+    "position_type": "supporting_argument",
+    "claim": "Different monads provide different perspectives on the universe like observers of a town",
+    "text": "Different monads provide different perspectives on the universe like observers of a town",
+    "quote": "And just as a town appears differently to differently situated observers, so there are as many reflections of the universe as there are monads.",
+    "domain": "metaphysics",
+    "topics": [
+      "perspective",
+      "reflection",
+      "multiplicity"
+    ],
+    "is_major_claim": false,
+    "supports": 56,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-MONAD-063",
+    "work_id": "KUC-MONAD",
+    "work_title": "Analytic Summary of Leibniz's Monadology",
+    "position_type": "supporting_argument",
+    "claim": "God maximized both variety and order by making monads varied and prohibiting direct interaction",
+    "text": "God maximized both variety and order by making monads varied and prohibiting direct interaction",
+    "quote": "In this way, there is a maximum of variety in the universe, as well as a maximum of order. The fewer the differences between the monads in a given universe, the more those monads must interact with one another if that universe is to be internally differentiated. But the more they interact, the less orderly that universe is. By making monads as varied as possible, and by so pre-arranging their mutual relations as to reflect those differences, while prohibiting actual interactions from taking place, God endowed our universe with a maximum of variety and a maximum of order.",
+    "domain": "metaphysics",
+    "topics": [
+      "variety",
+      "order",
+      "interaction",
+      "optimization"
+    ],
+    "is_major_claim": false,
+    "supports": 58,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-MONAD-064",
+    "work_id": "KUC-MONAD",
+    "work_title": "Analytic Summary of Leibniz's Monadology",
+    "position_type": "supporting_argument",
+    "claim": "This theory is the only one that does God justice and cannot be refuted",
+    "text": "This theory is the only one that does God justice and cannot be refuted",
+    "quote": "This theory, which I have rigorously proved, is the only one that does God justice. Even Bayle, who criticized it, saying that I had attributed too much to God, could not find any reason to reject it.",
+    "domain": "metaphysics",
+    "topics": [
+      "divine justice",
+      "proof",
+      "criticism"
+    ],
+    "is_major_claim": false,
+    "supports": 58,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-MONAD-065",
+    "work_id": "KUC-MONAD",
+    "work_title": "Analytic Summary of Leibniz's Monadology",
+    "position_type": "major_claim",
+    "claim": "Each monad reflects the universe with perspectival accuracy based on proximity and size",
+    "text": "Each monad reflects the universe with perspectival accuracy based on proximity and size",
+    "quote": "The condition of any given monad reflects that of the entire universe. The more internally differentiated a given monad is, the more accurate a mirror it is of the universe. Each monad reflects what is close more accurately than it reflects what is far, and it more accurately reflects what is large than it does what is small. This is because each monad is a picture, and it is inherent in the nature of pictorial representation that it be perspectival.",
+    "domain": "metaphysics",
+    "topics": [
+      "perspectival representation",
+      "accuracy",
+      "proximity"
+    ],
+    "is_major_claim": true,
+    "supports": null,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-MONAD-066",
+    "work_id": "KUC-MONAD",
+    "work_title": "Analytic Summary of Leibniz's Monadology",
+    "position_type": "supporting_argument",
+    "claim": "No empty space means everything affects everything else; monads differ in clarity not information",
+    "text": "No empty space means everything affects everything else; monads differ in clarity not information",
+    "quote": "Because there is no such thing as empty space, there is nothing in the universe whose changes are not without an effect on everything else. If there were empty space, this would not be so, but there isn't, so it is. Thus each monad contains within itself a complete record of everything that happens in the universe. Thus, monads vary not in respect of the information that they bear, but in respect of how clearly they bear it.",
+    "domain": "metaphysics",
+    "topics": [
+      "no empty space",
+      "universal connection",
+      "clarity"
+    ],
+    "is_major_claim": false,
+    "supports": 60,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-MONAD-067",
+    "work_id": "KUC-MONAD",
+    "work_title": "Analytic Summary of Leibniz's Monadology",
+    "position_type": "supporting_argument",
+    "claim": "Monads represent their assigned bodies most clearly as entelechies",
+    "text": "Monads represent their assigned bodies most clearly as entelechies",
+    "quote": "And although each monad represents the whole universe, it represents the body assigned to it---the one of which it is the entelechy---more clearly than it represents others. And just as that body reflects the whole universe through its interconnections with other monads, so that soul represents the whole universe by representing that body.",
+    "domain": "metaphysics",
+    "topics": [
+      "body representation",
+      "entelechy",
+      "universal reflection"
+    ],
+    "is_major_claim": false,
+    "supports": 61,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-MONAD-068",
+    "work_id": "KUC-MONAD",
+    "work_title": "Analytic Summary of Leibniz's Monadology",
+    "position_type": "definition",
+    "claim": "A living thing is a body with a monad-soul that has memory",
+    "text": "A living thing is a body with a monad-soul that has memory",
+    "quote": "A body that has a monad as its soul, taken in conjunction with that monad, is what we call a living thing. And we call a body a living thing if the monad that animates it is itself a soul, meaning that it is a mind that has memory.",
+    "domain": "metaphysics",
+    "topics": [
+      "living things",
+      "soul",
+      "memory"
+    ],
+    "is_major_claim": false,
+    "supports": null,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-MONAD-069",
+    "work_id": "KUC-MONAD",
+    "work_title": "Analytic Summary of Leibniz's Monadology",
+    "position_type": "supporting_argument",
+    "claim": "Animal bodies are highly organized because they mirror the orderly universe",
+    "text": "Animal bodies are highly organized because they mirror the orderly universe",
+    "quote": "Any given animal's body is highly organized, the reason being: 1. The universe is regulated in a perfectly orderly manner. 2. Each monad mirrors the universe in its own way. 3. The representing monad must be orderly to the extent that it is a good picture of the universe. 4. The body that it represents must to that extent itself be orderly.",
+    "domain": "metaphysics",
+    "topics": [
+      "bodily organization",
+      "universal order",
+      "representation"
+    ],
+    "is_major_claim": false,
+    "supports": 63,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-MONAD-070",
+    "work_id": "KUC-MONAD",
+    "work_title": "Analytic Summary of Leibniz's Monadology",
+    "position_type": "major_claim",
+    "claim": "Every living thing is a divine automaton with parts that reflect its organization",
+    "text": "Every living thing is a divine automaton with parts that reflect its organization",
+    "quote": "Thus, every living thing is a kind of divine automaton. And whereas the constituents of an artificial automaton are not themselves artifices, and are therefore not reflective of that automaton's mode of organization, there is no part of an animal that does not itself partake of that animal's mode of organization.",
+    "domain": "metaphysics",
+    "topics": [
+      "divine automaton",
+      "organization",
+      "parts"
+    ],
+    "is_major_claim": true,
+    "supports": null,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-MONAD-071",
+    "work_id": "KUC-MONAD",
+    "work_title": "Analytic Summary of Leibniz's Monadology",
+    "position_type": "supporting_argument",
+    "claim": "Infinite subdivision makes each unit of matter autonomous and reflective",
+    "text": "Infinite subdivision makes each unit of matter autonomous and reflective",
+    "quote": "And this is possible because each unit of matter not only can be, but is subdivided without end. And for this reason, each is autonomous, being its own source of motion and vitality, and not having, like a cog in a man-machine, to await an impulse from some other body. It is only because there is no end to these subdivisions that any given part of the universe is able to be a reflection of the rest.",
+    "domain": "metaphysics",
+    "topics": [
+      "infinite subdivision",
+      "autonomy",
+      "reflection"
+    ],
+    "is_major_claim": false,
+    "supports": 64,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-MONAD-072",
+    "work_id": "KUC-MONAD",
+    "work_title": "Analytic Summary of Leibniz's Monadology",
+    "position_type": "supporting_argument",
+    "claim": "There is a world of living creatures within the smallest fragment of matter",
+    "text": "There is a world of living creatures within the smallest fragment of matter",
+    "quote": "It follows that there is a world of animals---of living things and souls, of entelechies and minds---within the smallest fragment of matter.",
+    "domain": "metaphysics",
+    "topics": [
+      "infinite life",
+      "matter",
+      "souls"
+    ],
+    "is_major_claim": false,
+    "supports": 65,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-MONAD-073",
+    "work_id": "KUC-MONAD",
+    "work_title": "Analytic Summary of Leibniz's Monadology",
+    "position_type": "supporting_argument",
+    "claim": "Every particle contains infinite nested worlds of living creatures",
+    "text": "Every particle contains infinite nested worlds of living creatures",
+    "quote": "Every particle is a pond of full of living creatures, and every particle within each such creature, yet another such pond.",
+    "domain": "metaphysics",
+    "topics": [
+      "infinite nesting",
+      "living creatures",
+      "particles"
+    ],
+    "is_major_claim": false,
+    "supports": 66,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-MONAD-074",
+    "work_id": "KUC-MONAD",
+    "work_title": "Analytic Summary of Leibniz's Monadology",
+    "position_type": "supporting_argument",
+    "claim": "Non-animal matter still contains animals too small to see",
+    "text": "Non-animal matter still contains animals too small to see",
+    "quote": "And although the earth and air separating animals are not themselves animals, they do yet contain animals, albeit ones too small for us to see in most cases.",
+    "domain": "metaphysics",
+    "topics": [
+      "invisible life",
+      "matter",
+      "scale"
+    ],
+    "is_major_claim": false,
+    "supports": 67,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-MONAD-075",
+    "work_id": "KUC-MONAD",
+    "work_title": "Analytic Summary of Leibniz's Monadology",
+    "position_type": "major_claim",
+    "claim": "Nothing is truly dead or chaotic in the universe; apparent confusion is perceptual",
+    "text": "Nothing is truly dead or chaotic in the universe; apparent confusion is perceptual",
+    "quote": "There is therefore nothing dead or barren in the universe; nothing chaotic or confused, except in appearance. For example, if you look at a pond teeming with fish from a certain distance, you will see various motions on the part of fish but will not able to pick out any individual fish. You will therefore see these motions as confused, but it is not the motions themselves that are confused, but rather your perception of them.",
+    "domain": "metaphysics",
+    "topics": [
+      "universal life",
+      "order",
+      "perceptual confusion"
+    ],
+    "is_major_claim": true,
+    "supports": null,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-MONAD-076",
+    "work_id": "KUC-MONAD",
+    "work_title": "Analytic Summary of Leibniz's Monadology",
+    "position_type": "supporting_argument",
+    "claim": "Every living body has a dominant soul while its parts contain other animals with souls",
+    "text": "Every living body has a dominant soul while its parts contain other animals with souls",
+    "quote": "It follows that every living body has a dominant entelechy or soul, which in the case of animals is itself an entelechy or soul. And each part of an animal is teeming with animals, each which itself has a soul.",
+    "domain": "metaphysics",
+    "topics": [
+      "dominant soul",
+      "hierarchy",
+      "nested life"
+    ],
+    "is_major_claim": false,
+    "supports": 69,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-MONAD-077",
+    "work_id": "KUC-MONAD",
+    "work_title": "Analytic Summary of Leibniz's Monadology",
+    "position_type": "supporting_argument",
+    "claim": "Bodies and souls are in constant flux with souls entering and leaving",
+    "text": "Bodies and souls are in constant flux with souls entering and leaving",
+    "quote": "If a body has a soul, it does not have that soul forever. Bodies are in constant flux, and souls therefore enter and leave them.",
+    "domain": "metaphysics",
+    "topics": [
+      "flux",
+      "soul-body relation",
+      "temporality"
+    ],
+    "is_major_claim": false,
+    "supports": null,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-MONAD-078",
+    "work_id": "KUC-MONAD",
+    "work_title": "Analytic Summary of Leibniz's Monadology",
+    "position_type": "supporting_argument",
+    "claim": "Souls change bodies gradually and never lose all organs instantly",
+    "text": "Souls change bodies gradually and never lose all organs instantly",
+    "quote": "Thus, the soul changes its body only gradually, and no soul is ever instantly stripped of its bodily organs. So animals change form, but souls do not travel between them, as between distinct empty vessells.",
+    "domain": "metaphysics",
+    "topics": [
+      "gradual change",
+      "organs",
+      "soul continuity"
+    ],
+    "is_major_claim": false,
+    "supports": 71,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-MONAD-079",
+    "work_id": "KUC-MONAD",
+    "work_title": "Analytic Summary of Leibniz's Monadology",
+    "position_type": "supporting_argument",
+    "claim": "Birth and death are rapid development and decline, not creation and annihilation",
+    "text": "Birth and death are rapid development and decline, not creation and annihilation",
+    "quote": "Another consequence is that life never comes into existence ex nihilo nor completely goes out of existence. What we call conception is simply unusually rapid development, and what we call death is unusually negative development.",
+    "domain": "metaphysics",
+    "topics": [
+      "birth",
+      "death",
+      "development",
+      "continuity"
+    ],
+    "is_major_claim": false,
+    "supports": 72,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-MONAD-080",
+    "work_id": "KUC-MONAD",
+    "work_title": "Analytic Summary of Leibniz's Monadology",
+    "position_type": "supporting_argument",
+    "claim": "Apparent spontaneous generation actually involves undetectable seeds or spores",
+    "text": "Apparent spontaneous generation actually involves undetectable seeds or spores",
+    "quote": "It used to be thought that animals came from nothing. We now know this to be false. Wherever there seems to be a case of spontaneous generation, there was in a fact a seed or spore, too small for us to detect, from which the animal in question developed. It follows that conception and death are not creation and annihilation, respectively, but are rather unusually rapid and involved forms of development and enfeeblement.",
+    "domain": "metaphysics",
+    "topics": [
+      "spontaneous generation",
+      "seeds",
+      "development"
+    ],
+    "is_major_claim": false,
+    "supports": 73,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-MONAD-081",
+    "work_id": "KUC-MONAD",
+    "work_title": "Analytic Summary of Leibniz's Monadology",
+    "position_type": "supporting_argument",
+    "claim": "Tiny animals can become larger through spermatic conception",
+    "text": "Tiny animals can become larger through spermatic conception",
+    "quote": "These days we are discovering that tiny animals that could become larger animals do so through a process of 'spermatic conception.' Most animals that can do so do not, it being a select few that make that transition.",
+    "domain": "metaphysics",
+    "topics": [
+      "spermatic conception",
+      "development",
+      "selection"
+    ],
+    "is_major_claim": false,
+    "supports": 74,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-MONAD-082",
+    "work_id": "KUC-MONAD",
+    "work_title": "Analytic Summary of Leibniz's Monadology",
+    "position_type": "supporting_argument",
+    "claim": "Animals have no beginning or end, consistent with no creation or annihilation",
+    "text": "Animals have no beginning or end, consistent with no creation or annihilation",
+    "quote": "But this is only half the story. An animal that has no way of starting also has no way of ending. These zoological discoveries of ours are therefore consistent with what we know a priori, that there is neither creation nor annihilation.",
+    "domain": "metaphysics",
+    "topics": [
+      "no beginning",
+      "no end",
+      "a priori knowledge"
+    ],
+    "is_major_claim": false,
+    "supports": 75,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-MONAD-083",
+    "work_id": "KUC-MONAD",
+    "work_title": "Analytic Summary of Leibniz's Monadology",
+    "position_type": "supporting_argument",
+    "claim": "Both souls and animals are indestructible though mechanisms may end",
+    "text": "Both souls and animals are indestructible though mechanisms may end",
+    "quote": "So not only is the soul indestructible, so too is the animal itself, though its particular mechanism may come to an end, and either throw off or take on organic coating.",
+    "domain": "metaphysics",
+    "topics": [
+      "indestructibility",
+      "mechanism",
+      "organic coating"
+    ],
+    "is_major_claim": false,
+    "supports": 76,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-MONAD-084",
+    "work_id": "KUC-MONAD",
+    "work_title": "Analytic Summary of Leibniz's Monadology",
+    "position_type": "major_claim",
+    "claim": "Mind-body harmony results from pre-established harmony without direct interaction",
+    "text": "Mind-body harmony results from pre-established harmony without direct interaction",
+    "quote": "The conformity of mind and body to one another is a consequence of the pre-established harmony discussed earlier. Mind and body do not interact, but mind reflects body and body reflects the universe. Hence the appearance of interaction.",
+    "domain": "philosophy_of_mind",
+    "topics": [
+      "mind-body problem",
+      "pre-established harmony",
+      "reflection"
+    ],
+    "is_major_claim": true,
+    "supports": null,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-MONAD-085",
+    "work_id": "KUC-MONAD",
+    "work_title": "Analytic Summary of Leibniz's Monadology",
+    "position_type": "supporting_argument",
+    "claim": "Animate and inanimate body behavior harmonizes despite different causal types",
+    "text": "Animate and inanimate body behavior harmonizes despite different causal types",
+    "quote": "For this very reason, the behavior of animate bodies harmonizes with that of inanimate bodies, even though the former is driven by final causes and the latter by efficient causes.",
+    "domain": "philosophy_of_mind",
+    "topics": [
+      "final causes",
+      "efficient causes",
+      "harmony"
+    ],
+    "is_major_claim": false,
+    "supports": 78,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-MONAD-086",
+    "work_id": "KUC-MONAD",
+    "work_title": "Analytic Summary of Leibniz's Monadology",
+    "position_type": "objection_response",
+    "claim": "Against Descartes: minds cannot redirect motions without violating conservation laws",
+    "text": "Against Descartes: minds cannot redirect motions without violating conservation laws",
+    "quote": "Descartes was aware that the total amount of energy in the universe remains the same. From this he inferred that minds could not cause bodies to move, but he did believe that minds could redirect existing motions. We now know this this too would violate the conservation-principle in question, and had Descartes known this, he would have opted for my system.",
+    "domain": "philosophy_of_mind",
+    "topics": [
+      "conservation laws",
+      "mind-body interaction",
+      "Cartesian system"
+    ],
+    "is_major_claim": false,
+    "supports": 78,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-MONAD-087",
+    "work_id": "KUC-MONAD",
+    "work_title": "Analytic Summary of Leibniz's Monadology",
+    "position_type": "supporting_argument",
+    "claim": "Leibniz's system allows behavior to be both physically and psychologically caused",
+    "text": "Leibniz's system allows behavior to be both physically and psychologically caused",
+    "quote": "Our system is consistent with the supposition that the movements of an animal's body have strictly physical causes, and it is also consistent with the supposition that they have psychological causes. Our system therefore explains how it is that strictly physics-governed behavior can also be reason-governed.",
+    "domain": "philosophy_of_mind",
+    "topics": [
+      "dual causation",
+      "physics",
+      "psychology",
+      "reason"
+    ],
+    "is_major_claim": false,
+    "supports": 80,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-MONAD-088",
+    "work_id": "KUC-MONAD",
+    "work_title": "Analytic Summary of Leibniz's Monadology",
+    "position_type": "supporting_argument",
+    "claim": "All souls can feel but only some can reason; none are created or destroyed",
+    "text": "All souls can feel but only some can reason; none are created or destroyed",
+    "quote": "No living soul is created and no living soul is destroyed. But whereas all living souls can feel, only some can reason.",
+    "domain": "philosophy_of_mind",
+    "topics": [
+      "soul immortality",
+      "feeling",
+      "reason"
+    ],
+    "is_major_claim": false,
+    "supports": null,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-MONAD-089",
+    "work_id": "KUC-MONAD",
+    "work_title": "Analytic Summary of Leibniz's Monadology",
+    "position_type": "supporting_argument",
+    "claim": "Rational souls resemble God and enter into community with Him",
+    "text": "Rational souls resemble God and enter into community with Him",
+    "quote": "A given soul resembles God to the extent that it is rational. On this basis, God enters into community with his subjects, relating to them not just as an inventor relates to his machines, but also a prince relates to his subjects and as a father relates to his children.",
+    "domain": "metaphysics",
+    "topics": [
+      "divine resemblance",
+      "rationality",
+      "divine community"
+    ],
+    "is_major_claim": false,
+    "supports": null,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-MONAD-090",
+    "work_id": "KUC-MONAD",
+    "work_title": "Analytic Summary of Leibniz's Monadology",
+    "position_type": "major_claim",
+    "claim": "The totality of monads constitutes the City of God, the most perfect kingdom",
+    "text": "The totality of monads constitutes the City of God, the most perfect kingdom",
+    "quote": "It follows that the totality of monads is the City of God, this being the most perfect kingdom imaginable.",
+    "domain": "metaphysics",
+    "topics": [
+      "City of God",
+      "perfect kingdom",
+      "monads"
+    ],
+    "is_major_claim": true,
+    "supports": null,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-MONAD-091",
+    "work_id": "KUC-MONAD",
+    "work_title": "Analytic Summary of Leibniz's Monadology",
+    "position_type": "supporting_argument",
+    "claim": "The City of God is a moral world within the natural world",
+    "text": "The City of God is a moral world within the natural world",
+    "quote": "This City of God is a moral world within the natural world.",
+    "domain": "metaphysics",
+    "topics": [
+      "moral world",
+      "natural world",
+      "City of God"
+    ],
+    "is_major_claim": false,
+    "supports": 85,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-MONAD-092",
+    "work_id": "KUC-MONAD",
+    "work_title": "Analytic Summary of Leibniz's Monadology",
+    "position_type": "supporting_argument",
+    "claim": "Efficient and final causes align as do Nature and Grace realms",
+    "text": "Efficient and final causes align as do Nature and Grace realms",
+    "quote": "Just as efficient causes align with final causes, so too, in this City of God, does the natural realm align with the Realm of Grace, and so therewith are the deeds of God as Designer brought into coincidence with those of God as Divine Monarch.",
+    "domain": "metaphysics",
+    "topics": [
+      "efficient causes",
+      "final causes",
+      "Realm of Grace"
+    ],
+    "is_major_claim": false,
+    "supports": 86,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-MONAD-093",
+    "work_id": "KUC-MONAD",
+    "work_title": "Analytic Summary of Leibniz's Monadology",
+    "position_type": "supporting_argument",
+    "claim": "Divine Moral Law requires physical events through Nature-Grace coincidence",
+    "text": "Divine Moral Law requires physical events through Nature-Grace coincidence",
+    "quote": "Divine Moral Law requires that there be events of a purely physical or natural variety, and this is indeed possible, owing to coincidence of the Realm of Nature with the City of God.",
+    "domain": "metaphysics",
+    "topics": [
+      "Divine Moral Law",
+      "physical events",
+      "coincidence"
+    ],
+    "is_major_claim": false,
+    "supports": 87,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-MONAD-094",
+    "work_id": "KUC-MONAD",
+    "work_title": "Analytic Summary of Leibniz's Monadology",
+    "position_type": "supporting_argument",
+    "claim": "Evil actions bring their own punishment and good deeds their own reward",
+    "text": "Evil actions bring their own punishment and good deeds their own reward",
+    "quote": "Owing to this same coincidence, evil actions bring their own punishment and good deeds lead to their own reward.",
+    "domain": "ethics",
+    "topics": [
+      "punishment",
+      "reward",
+      "moral consequences"
+    ],
+    "is_major_claim": false,
+    "supports": 88,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-MONAD-095",
+    "work_id": "KUC-MONAD",
+    "work_title": "Analytic Summary of Leibniz's Monadology",
+    "position_type": "major_claim",
+    "claim": "We live in a maximally good world where virtue and vice receive due consequences",
+    "text": "We live in a maximally good world where virtue and vice receive due consequences",
+    "quote": "We therefore live in a maximally good world, in which virtue is duly rewarded and vice duly punished, and it is only because we are ignorant, and do not see reality clearly, that things seem to us to be otherwise.",
+    "domain": "ethics",
+    "topics": [
+      "best possible world",
+      "virtue",
+      "vice",
+      "ignorance"
+    ],
+    "is_major_claim": true,
+    "supports": null,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-MONAD-096",
+    "work_id": "KUC-MONAD",
+    "work_title": "Analytic Summary of Leibniz's Monadology",
+    "position_type": "major_claim",
+    "claim": "There are contradictions in the Monadology itself that this work reflects",
+    "text": "There are contradictions in the Monadology itself that this work reflects",
+    "quote": "There are contradictions in the following work, for example, in section it is said that monads cannot change, and in section 11 it is said that they can change. But these contradictions are present in the Monadology itself, and they are present in this work only because the present work is an elucidation of the Monadology.",
+    "domain": "philosophy_of_language",
+    "topics": [
+      "contradictions",
+      "interpretation",
+      "elucidation"
+    ],
+    "is_major_claim": true,
+    "supports": null,
+    "extraction_date": "2025-12-06"
+  }
+]

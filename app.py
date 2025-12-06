@@ -118,8 +118,8 @@ print("Configuring semantic search systems (lazy-loaded on first request)...")
 
 databases = {
     'kuczynski': SemanticSearch(
-        'data/KUCZYNSKI_PHILOSOPHICAL_DATABASE_v42_WITH_BATCH11.json', 
-        'data/kuczynski_v42_embeddings.pkl'
+        'data/KUCZYNSKI_V2_DATABASE.json', 
+        'data/kuczynski_v2_embeddings.pkl'
     ),
     'freud': SemanticSearch(
         'data/FREUD_DATABASE_UNIFIED.json', 
@@ -558,34 +558,30 @@ NEVER break character or add meta-commentary about the task. Simply present the 
 _curated_fact_positions = None
 
 def load_curated_fact_positions():
-    """Load curated philosophical position statements for the fact strip."""
+    """Load curated philosophical position statements for the fact strip from JSON."""
     global _curated_fact_positions
     if _curated_fact_positions is not None:
         return _curated_fact_positions
     
-    import re
     _curated_fact_positions = []
-    curated_file = 'data/curated_fact_positions.txt'
+    json_file = 'data/kuczynski_fact_positions.json'
     
     try:
-        with open(curated_file, 'r', encoding='utf-8') as f:
-            content = f.read()
+        with open(json_file, 'r', encoding='utf-8') as f:
+            positions = json.load(f)
         
-        lines = content.split('\n')
-        for line in lines:
-            line = line.strip()
-            match = re.match(r'^\d+\.\s+(.+)$', line)
-            if match:
-                statement = match.group(1).strip()
-                if len(statement) >= 30 and len(statement) <= 400:
-                    _curated_fact_positions.append({
-                        'text': statement,
-                        'id': 'ZHI'
-                    })
+        for pos in positions:
+            text = pos.get('text', '')
+            pos_id = pos.get('id', 'ZHI')
+            if text and len(text) >= 30 and len(text) <= 400:
+                _curated_fact_positions.append({
+                    'text': text,
+                    'id': pos_id
+                })
         
-        print(f"Loaded {len(_curated_fact_positions)} curated fact positions")
+        print(f"Loaded {len(_curated_fact_positions)} fact strip positions from {json_file}")
     except Exception as e:
-        print(f"Error loading curated positions: {e}")
+        print(f"Error loading fact positions from {json_file}: {e}")
         _curated_fact_positions = []
     
     return _curated_fact_positions

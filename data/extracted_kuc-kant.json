@@ -1,0 +1,1638 @@
+[
+  {
+    "position_id": "KUC-KANT-001",
+    "work_id": "KUC-KANT",
+    "work_title": "Kant and Hume on Induction",
+    "position_type": "major_claim",
+    "claim": "Kant's arguments concerning causation and induction are spurious because they rest on the erroneous assumption that all non-empirical truths are trivial",
+    "text": "Kant's arguments concerning causation and induction are spurious because they rest on the erroneous assumption that all non-empirical truths are trivial",
+    "quote": "Those arguments are spurious, we will find, because they all rest on the erroneous assumption that all non-empirical truths are trivial.",
+    "domain": "epistemology",
+    "topics": [
+      "causation",
+      "induction",
+      "Kant",
+      "transcendental arguments"
+    ],
+    "is_major_claim": true,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-KANT-002",
+    "work_id": "KUC-KANT",
+    "work_title": "Kant and Hume on Induction",
+    "position_type": "major_claim",
+    "claim": "Each of Kant's spurious arguments corresponds to a cogent argument that does not involve the assumption that all non-empirical truths are trivial",
+    "text": "Each of Kant's spurious arguments corresponds to a cogent argument that does not involve the assumption that all non-empirical truths are trivial",
+    "quote": "At the same time, so we will also find, each of those arguments corresponds to a cogent argument that does not involve that assumption.",
+    "domain": "epistemology",
+    "topics": [
+      "Kant",
+      "transcendental arguments",
+      "argument reconstruction"
+    ],
+    "is_major_claim": true,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-KANT-003",
+    "work_id": "KUC-KANT",
+    "work_title": "Kant and Hume on Induction",
+    "position_type": "major_claim",
+    "claim": "Hume's analyses of causation and induction are fallacious",
+    "text": "Hume's analyses of causation and induction are fallacious",
+    "quote": "It is argued that those analyses are fallacious, and an attempt is made to identify the relevant fallacies.",
+    "domain": "epistemology",
+    "topics": [
+      "Hume",
+      "causation",
+      "induction",
+      "skepticism"
+    ],
+    "is_major_claim": true,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-KANT-004",
+    "work_id": "KUC-KANT",
+    "work_title": "Kant and Hume on Induction",
+    "position_type": "definition",
+    "claim": "A proposition is the non-linguistic entity meant by a complete sentence, not the sentence itself",
+    "text": "A proposition is the non-linguistic entity meant by a complete sentence, not the sentence itself",
+    "quote": "By a \"proposition\" I mean the non-linguistic entity meant by a complete sentence. I do not mean the sentence itself.",
+    "domain": "philosophy of language",
+    "topics": [
+      "propositions",
+      "meaning",
+      "sentences"
+    ],
+    "is_major_claim": false,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-KANT-005",
+    "work_id": "KUC-KANT",
+    "work_title": "Kant and Hume on Induction",
+    "position_type": "major_claim",
+    "claim": "Kant's contention that some propositions are both synthetic and a posteriori is the heart of the Critique of Pure Reason",
+    "text": "Kant's contention that some propositions are both synthetic and a posteriori is the heart of the Critique of Pure Reason",
+    "quote": "Kant held that some propositions are both synthetic and also a posteriori. (We will soon define these terms.)This contention is the heart of the system of thought set forth in the Critique of Pure Reason.",
+    "domain": "metaphysics",
+    "topics": [
+      "Kant",
+      "synthetic a priori",
+      "Critique of Pure Reason"
+    ],
+    "is_major_claim": true,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-KANT-006",
+    "work_id": "KUC-KANT",
+    "work_title": "Kant and Hume on Induction",
+    "position_type": "major_claim",
+    "claim": "Kant's contention about synthetic a priori propositions is false and his argument for it is spurious",
+    "text": "Kant's contention about synthetic a priori propositions is false and his argument for it is spurious",
+    "quote": "I will now argue that this contention of Kant's is false and that his argument for it is spurious.",
+    "domain": "epistemology",
+    "topics": [
+      "Kant",
+      "synthetic a priori",
+      "critique"
+    ],
+    "is_major_claim": true,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-KANT-007",
+    "work_id": "KUC-KANT",
+    "work_title": "Kant and Hume on Induction",
+    "position_type": "supporting_argument",
+    "claim": "Kant's false contention can be turned into a correct one and his spurious argument into a cogent one through terminological changes",
+    "text": "Kant's false contention can be turned into a correct one and his spurious argument into a cogent one through terminological changes",
+    "quote": "But I will also argue that Kant's false contention can readily be turned into a correct one and that his spurious argument can readily be turned into a cogent one. Nothing more than a few terminological changes are needed to accomplish this.",
+    "domain": "epistemology",
+    "topics": [
+      "Kant",
+      "argument reconstruction",
+      "terminology"
+    ],
+    "is_major_claim": false,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-KANT-008",
+    "work_id": "KUC-KANT",
+    "work_title": "Kant and Hume on Induction",
+    "position_type": "supporting_argument",
+    "claim": "The premises of Kant's argument entail the opposite of the thesis that there are synthetic a priori truths",
+    "text": "The premises of Kant's argument entail the opposite of the thesis that there are synthetic a priori truths",
+    "quote": "First, I will argue that the premises of Kant's argument turn out to entail the opposite of the thesis that there are synthetic a priori truths.",
+    "domain": "epistemology",
+    "topics": [
+      "Kant",
+      "synthetic a priori",
+      "logical consistency"
+    ],
+    "is_major_claim": false,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-KANT-009",
+    "work_id": "KUC-KANT",
+    "work_title": "Kant and Hume on Induction",
+    "position_type": "supporting_argument",
+    "claim": "Kant's premises entail that there are virtually no a priori truths, making him more of an opponent of a priori truth than John Stuart Mill",
+    "text": "Kant's premises entail that there are virtually no a priori truths, making him more of an opponent of a priori truth than John Stuart Mill",
+    "quote": "Those premises entail that there are virtually no a priori truths, let alone synthetic a priori truths. Kant turns out to be even more of an opponent of a priori truth than John Stuart Mill.",
+    "domain": "epistemology",
+    "topics": [
+      "Kant",
+      "a priori truth",
+      "Mill",
+      "empiricism"
+    ],
+    "is_major_claim": false,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-KANT-010",
+    "work_id": "KUC-KANT",
+    "work_title": "Kant and Hume on Induction",
+    "position_type": "supporting_argument",
+    "claim": "Kant's reasoning involves confusion about two different epistemological roles of mental imagery",
+    "text": "Kant's reasoning involves confusion about two different epistemological roles of mental imagery",
+    "quote": "Second, I will argue that Kant's reasoning involves a confusion concerning the two different epistemological roles that mental imagery can play.",
+    "domain": "epistemology",
+    "topics": [
+      "mental imagery",
+      "epistemology",
+      "conceptual analysis"
+    ],
+    "is_major_claim": false,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-KANT-011",
+    "work_id": "KUC-KANT",
+    "work_title": "Kant and Hume on Induction",
+    "position_type": "sub_argument",
+    "claim": "Mental imagery can serve as a vehicle for conceptual analysis",
+    "text": "Mental imagery can serve as a vehicle for conceptual analysis",
+    "quote": "On the one hand, mental imagery can serve as a vehicle for conceptual analysis.",
+    "domain": "epistemology",
+    "topics": [
+      "mental imagery",
+      "conceptual analysis"
+    ],
+    "is_major_claim": false,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-KANT-012",
+    "work_id": "KUC-KANT",
+    "work_title": "Kant and Hume on Induction",
+    "position_type": "sub_argument",
+    "claim": "Mental images are spatiotemporal phenomena that can be the object of empirical study",
+    "text": "Mental images are spatiotemporal phenomena that can be the object of empirical study",
+    "quote": "On the other hand, mental images are spatiotemporal phenomena in their own right, and can thus be the object of empirical study.",
+    "domain": "philosophy of mind",
+    "topics": [
+      "mental imagery",
+      "empirical study",
+      "spatiotemporal phenomena"
+    ],
+    "is_major_claim": false,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-KANT-013",
+    "work_id": "KUC-KANT",
+    "work_title": "Kant and Hume on Induction",
+    "position_type": "supporting_argument",
+    "claim": "Despite problems with synthetic a priori, the important parts of the Critique are successful",
+    "text": "Despite problems with synthetic a priori, the important parts of the Critique are successful",
+    "quote": "But I will also argue that, despite the problems just discussed, the important parts of the Critique are a success.",
+    "domain": "metaphysics",
+    "topics": [
+      "Kant",
+      "Critique of Pure Reason",
+      "success"
+    ],
+    "is_major_claim": false,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-KANT-014",
+    "work_id": "KUC-KANT",
+    "work_title": "Kant and Hume on Induction",
+    "position_type": "supporting_argument",
+    "claim": "Kant's claims about causality, personal identity, and rationality are correct and founded on cogent arguments",
+    "text": "Kant's claims about causality, personal identity, and rationality are correct and founded on cogent arguments",
+    "quote": "Kant's astonishing claims about causality, personal identity, and rationality turn out to be correct and founded on cogent arguments.",
+    "domain": "metaphysics",
+    "topics": [
+      "causality",
+      "personal identity",
+      "rationality"
+    ],
+    "is_major_claim": false,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-KANT-015",
+    "work_id": "KUC-KANT",
+    "work_title": "Kant and Hume on Induction",
+    "position_type": "supporting_argument",
+    "claim": "Kant's reasoning must be 'de-psychologized' by reinterpreting psychological statements as logical statements",
+    "text": "Kant's reasoning must be 'de-psychologized' by reinterpreting psychological statements as logical statements",
+    "quote": "But if this is to be made apparent, Kant's reasoning must be \"de-psychologized\", i.e. his statements about psychology must be reinterpreted as statements about logic.",
+    "domain": "philosophy of logic",
+    "topics": [
+      "psychology",
+      "logic",
+      "interpretation"
+    ],
+    "is_major_claim": false,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-KANT-016",
+    "work_id": "KUC-KANT",
+    "work_title": "Kant and Hume on Induction",
+    "position_type": "definition",
+    "claim": "The word 'concept' has two meanings - one logical, one psychological",
+    "text": "The word 'concept' has two meanings - one logical, one psychological",
+    "quote": "The word \"concept\" has two meanings – one logical, one psychological.",
+    "domain": "philosophy of mind",
+    "topics": [
+      "concepts",
+      "logic",
+      "psychology"
+    ],
+    "is_major_claim": false,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-KANT-017",
+    "work_id": "KUC-KANT",
+    "work_title": "Kant and Hume on Induction",
+    "position_type": "example",
+    "claim": "In 'Little Timmy doesn't have a concept of an irrational number', concept refers to a psychological entity",
+    "text": "In 'Little Timmy doesn't have a concept of an irrational number', concept refers to a psychological entity",
+    "quote": "Consider the sentence \"Little Timmy doesn't have a concept of an irrational number.\" In this sentence, the word \"concept\" refers to a certain kind of psychological entity.",
+    "domain": "philosophy of mind",
+    "topics": [
+      "concepts",
+      "psychology",
+      "examples"
+    ],
+    "is_major_claim": false,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-KANT-018",
+    "work_id": "KUC-KANT",
+    "work_title": "Kant and Hume on Induction",
+    "position_type": "example",
+    "claim": "In logical statements about concepts, the word refers to non-psychological, presumably platonic entities",
+    "text": "In logical statements about concepts, the word refers to non-psychological, presumably platonic entities",
+    "quote": "Now consider the sentence \"for any x, if x falls under the concept triangle, then x falls under the concept closed figure.\" In this sentence, the word \"concept\" obviously does not refer to a mental entity of any kind, but rather to some kind of non-psychological, presumably platonic, entity.",
+    "domain": "philosophy of logic",
+    "topics": [
+      "concepts",
+      "logic",
+      "platonism"
+    ],
+    "is_major_claim": false,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-KANT-019",
+    "work_id": "KUC-KANT",
+    "work_title": "Kant and Hume on Induction",
+    "position_type": "definition",
+    "claim": "A proposition is conceptually necessary if it holds entirely in virtue of facts about concepts in the non-psychological sense",
+    "text": "A proposition is conceptually necessary if it holds entirely in virtue of facts about concepts in the non-psychological sense",
+    "quote": "when I describe a proposition as \"conceptually necessary\", I mean that it holds entirely in virtue of facts about concepts in the non-psychological sense of the word.",
+    "domain": "metaphysics",
+    "topics": [
+      "conceptual necessity",
+      "concepts",
+      "necessity"
+    ],
+    "is_major_claim": false,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-KANT-020",
+    "work_id": "KUC-KANT",
+    "work_title": "Kant and Hume on Induction",
+    "position_type": "example",
+    "claim": "The proposition 'triangles have three sides' is conceptually necessary",
+    "text": "The proposition 'triangles have three sides' is conceptually necessary",
+    "quote": "Consider the proposition triangles have three sides. It is clear that the truth of that proposition has nothing to do with psychology, since it would be true in a world devoid of sentient beings.",
+    "domain": "logic",
+    "topics": [
+      "triangles",
+      "conceptual necessity",
+      "examples"
+    ],
+    "is_major_claim": false,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-KANT-021",
+    "work_id": "KUC-KANT",
+    "work_title": "Kant and Hume on Induction",
+    "position_type": "definition",
+    "claim": "Representational necessity refers to propositions that are necessarily true in virtue of facts about our minds",
+    "text": "Representational necessity refers to propositions that are necessarily true in virtue of facts about our minds",
+    "quote": "As we will see, Kant recognizes a different category of necessary truth. In his view, some propositions are necessarily true in virtue of facts about our minds. When I wish to discuss that kind of necessity, I will use the term \"representational necessity.\"",
+    "domain": "epistemology",
+    "topics": [
+      "necessity",
+      "mind",
+      "representation"
+    ],
+    "is_major_claim": false,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-KANT-022",
+    "work_id": "KUC-KANT",
+    "work_title": "Kant and Hume on Induction",
+    "position_type": "definition",
+    "claim": "For Kant, a proposition is a priori if it is known in some way other than through empirical work",
+    "text": "For Kant, a proposition is a priori if it is known in some way other than through empirical work",
+    "quote": "If a proposition is known to be true in some way other than through empirical work, Kant describes it as \"a priori.\"",
+    "domain": "epistemology",
+    "topics": [
+      "a priori",
+      "empirical",
+      "knowledge"
+    ],
+    "is_major_claim": false,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-KANT-023",
+    "work_id": "KUC-KANT",
+    "work_title": "Kant and Hume on Induction",
+    "position_type": "example",
+    "claim": "1+1=2 is a priori because knowing its truth doesn't require empirical work",
+    "text": "1+1=2 is a priori because knowing its truth doesn't require empirical work",
+    "quote": "Consider the proposition 1+1=2. To know that is it true, one doesn't do empirical work; one doesn't perform experiments or make observations. 1+1=2 is thus a priori.",
+    "domain": "mathematics",
+    "topics": [
+      "arithmetic",
+      "a priori",
+      "examples"
+    ],
+    "is_major_claim": false,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-KANT-024",
+    "work_id": "KUC-KANT",
+    "work_title": "Kant and Hume on Induction",
+    "position_type": "definition",
+    "claim": "For Kant, a priority is a property of our knowledge of propositions, not propositions themselves",
+    "text": "For Kant, a priority is a property of our knowledge of propositions, not propositions themselves",
+    "quote": "For Kant, a priority is a property of our knowledge of propositions. Of course, Kant does describe propositions themselves as \"a priori.\" But when Kant does so, he is really making a statement about our knowledge of those propositions.",
+    "domain": "epistemology",
+    "topics": [
+      "a priori",
+      "knowledge",
+      "propositions"
+    ],
+    "is_major_claim": false,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-KANT-025",
+    "work_id": "KUC-KANT",
+    "work_title": "Kant and Hume on Induction",
+    "position_type": "supporting_argument",
+    "claim": "For Kant, a proposition is a priori based on how one comes to know it, not its intrinsic logical properties",
+    "text": "For Kant, a proposition is a priori based on how one comes to know it, not its intrinsic logical properties",
+    "quote": "For Kant, a proposition is a priori not in virtue of its intrinsic or strictly logical properties, but in virtue of facts about how one comes to know it.",
+    "domain": "epistemology",
+    "topics": [
+      "a priori",
+      "knowledge",
+      "logical properties"
+    ],
+    "is_major_claim": false,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-KANT-026",
+    "work_id": "KUC-KANT",
+    "work_title": "Kant and Hume on Induction",
+    "position_type": "supporting_argument",
+    "claim": "A given proposition could be a priori for one creature and a posteriori for another",
+    "text": "A given proposition could be a priori for one creature and a posteriori for another",
+    "quote": "A consequence of this conception of a priority – one that Kant himself draws -- is that a given proposition could, in principle, be a priori for one creature and a posteriori for another.",
+    "domain": "epistemology",
+    "topics": [
+      "a priori",
+      "relativity",
+      "creatures"
+    ],
+    "is_major_claim": false,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-KANT-027",
+    "work_id": "KUC-KANT",
+    "work_title": "Kant and Hume on Induction",
+    "position_type": "definition",
+    "claim": "For Kant, a proposition is a posteriori if it is not a priori",
+    "text": "For Kant, a proposition is a posteriori if it is not a priori",
+    "quote": "For Kant, a proposition is \"a posteriori\" if it is not a priori.",
+    "domain": "epistemology",
+    "topics": [
+      "a posteriori",
+      "a priori",
+      "definition"
+    ],
+    "is_major_claim": false,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-KANT-028",
+    "work_id": "KUC-KANT",
+    "work_title": "Kant and Hume on Induction",
+    "position_type": "example",
+    "claim": "'Smith weighs over 200 lbs' is a posteriori because knowing its truth requires empirical work",
+    "text": "'Smith weighs over 200 lbs' is a posteriori because knowing its truth requires empirical work",
+    "quote": "Consider the proposition Smith weighs over 200 lbs. To know that is true, one must do empirical work. So it is not a priori, and is therefore a posteriori.",
+    "domain": "epistemology",
+    "topics": [
+      "a posteriori",
+      "empirical",
+      "examples"
+    ],
+    "is_major_claim": false,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-KANT-029",
+    "work_id": "KUC-KANT",
+    "work_title": "Kant and Hume on Induction",
+    "position_type": "definition",
+    "claim": "Modern usage defines analytic sentences as those whose semantics guarantees their truth",
+    "text": "Modern usage defines analytic sentences as those whose semantics guarantees their truth",
+    "quote": "These days the term \"analytic\" is often used to describe sentences. A sentence is \"analytic\" exactly if its semantics guarantees its truth.",
+    "domain": "philosophy of language",
+    "topics": [
+      "analyticity",
+      "semantics",
+      "truth"
+    ],
+    "is_major_claim": false,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-KANT-030",
+    "work_id": "KUC-KANT",
+    "work_title": "Kant and Hume on Induction",
+    "position_type": "definition",
+    "claim": "Kant's official definition: a proposition is analytic if nothing is contained in the predicate which is not contained in the subject",
+    "text": "Kant's official definition: a proposition is analytic if nothing is contained in the predicate which is not contained in the subject",
+    "quote": "Kant's official definition of \"analytic\" is this: a proposition is analytic if \"nothing is contained in the predicate which is not contained in the subject.\"",
+    "domain": "logic",
+    "topics": [
+      "analyticity",
+      "Kant",
+      "predicate",
+      "subject"
+    ],
+    "is_major_claim": false,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-KANT-031",
+    "work_id": "KUC-KANT",
+    "work_title": "Kant and Hume on Induction",
+    "position_type": "objection_response",
+    "claim": "Quine identified two problems with Kant's definition of analyticity",
+    "text": "Quine identified two problems with Kant's definition of analyticity",
+    "quote": "As Quine pointed out, there are two problems with Kant's definition of analyticity.",
+    "domain": "philosophy of language",
+    "topics": [
+      "Quine",
+      "analyticity",
+      "problems"
+    ],
+    "is_major_claim": false,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-KANT-032",
+    "work_id": "KUC-KANT",
+    "work_title": "Kant and Hume on Induction",
+    "position_type": "sub_argument",
+    "claim": "The notion of containment is left at a metaphorical level",
+    "text": "The notion of containment is left at a metaphorical level",
+    "quote": "First, the notion of containment is \"left at a metaphorical level.\" Physical objects can contain other physical objects; but meanings don't contain meanings, at least not in the same sense.",
+    "domain": "philosophy of language",
+    "topics": [
+      "containment",
+      "metaphor",
+      "meaning"
+    ],
+    "is_major_claim": false,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-KANT-033",
+    "work_id": "KUC-KANT",
+    "work_title": "Kant and Hume on Induction",
+    "position_type": "sub_argument",
+    "claim": "Kant's formulation only applies to statements having subject-predicate form",
+    "text": "Kant's formulation only applies to statements having subject-predicate form",
+    "quote": "Second, Kant's formulation only applies to statements having subject-predicate form. So it isn't immediately obvious how to apply it to statements not having that form, for example: A=A or if p implies q, then p implies anything that q implies.",
+    "domain": "logic",
+    "topics": [
+      "subject-predicate",
+      "logical form",
+      "application"
+    ],
+    "is_major_claim": false,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-KANT-034",
+    "work_id": "KUC-KANT",
+    "work_title": "Kant and Hume on Induction",
+    "position_type": "supporting_argument",
+    "claim": "Kant's formulation can be adapted by focusing on whether concepts guarantee truth",
+    "text": "Kant's formulation can be adapted by focusing on whether concepts guarantee truth",
+    "quote": "But it isn't hard to adapt Kant's formulation to meet these two objections. Consider the proposition: a+b is larger than a. This proposition is composed of various concepts – a+b, larger than, and so on. By themselves, the structures of these concepts guarantee that a+b is larger than a is true.",
+    "domain": "logic",
+    "topics": [
+      "concepts",
+      "truth",
+      "adaptation"
+    ],
+    "is_major_claim": false,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-KANT-035",
+    "work_id": "KUC-KANT",
+    "work_title": "Kant and Hume on Induction",
+    "position_type": "supporting_argument",
+    "claim": "For Kant, a proposition is analytic exactly if it is conceptually true",
+    "text": "For Kant, a proposition is analytic exactly if it is conceptually true",
+    "quote": "These facts suggest that, for Kant, a proposition is analytic exactly if it is \"conceptually true\", i.e. exactly if it holds entirely in virtue of facts about the structures of concepts.",
+    "domain": "logic",
+    "topics": [
+      "analyticity",
+      "conceptual truth",
+      "concepts"
+    ],
+    "is_major_claim": false,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-KANT-036",
+    "work_id": "KUC-KANT",
+    "work_title": "Kant and Hume on Induction",
+    "position_type": "supporting_argument",
+    "claim": "Kant's description of A=A as analytic supports the conceptual truth interpretation",
+    "text": "Kant's description of A=A as analytic supports the conceptual truth interpretation",
+    "quote": "Consider the proposition A=A. Kant describes this very proposition as analytic. But in so doing, he is not being true to his official definition of analyticity, namely \"the predicate is contained in the subject\".",
+    "domain": "logic",
+    "topics": [
+      "identity",
+      "analyticity",
+      "interpretation"
+    ],
+    "is_major_claim": false,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-KANT-037",
+    "work_id": "KUC-KANT",
+    "work_title": "Kant and Hume on Induction",
+    "position_type": "definition",
+    "claim": "A proposition is synthetic a priori if it is known non-empirically but its truth is not guaranteed by conceptual structures",
+    "text": "A proposition is synthetic a priori if it is known non-empirically but its truth is not guaranteed by conceptual structures",
+    "quote": "A proposition is a priori if it is known in some way other than through empirical work. A proposition is synthetic if its truth is not guaranteed by the structures of the concepts composing it. A proposition is synthetic a priori if it has both these properties.",
+    "domain": "epistemology",
+    "topics": [
+      "synthetic a priori",
+      "knowledge",
+      "concepts"
+    ],
+    "is_major_claim": false,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-KANT-038",
+    "work_id": "KUC-KANT",
+    "work_title": "Kant and Hume on Induction",
+    "position_type": "example",
+    "claim": "According to Kant, 7+5=12 and 'a straight line is the shortest distance between two points' are synthetic a priori truths",
+    "text": "According to Kant, 7+5=12 and 'a straight line is the shortest distance between two points' are synthetic a priori truths",
+    "quote": "According to Kant, the propositions 7+5=12 and a straight line is the shortest distance between two points are synthetic a priori truths.",
+    "domain": "mathematics",
+    "topics": [
+      "arithmetic",
+      "geometry",
+      "synthetic a priori"
+    ],
+    "is_major_claim": false,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-KANT-039",
+    "work_id": "KUC-KANT",
+    "work_title": "Kant and Hume on Induction",
+    "position_type": "objection_response",
+    "claim": "Contrary to Kant, both 7+5=12 and the straight line proposition appear to be analytic",
+    "text": "Contrary to Kant, both 7+5=12 and the straight line proposition appear to be analytic",
+    "quote": "But it very much seems that, contrary to what Kant says, both of these propositions are analytic.",
+    "domain": "mathematics",
+    "topics": [
+      "analyticity",
+      "arithmetic",
+      "geometry"
+    ],
+    "is_major_claim": false,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-KANT-040",
+    "work_id": "KUC-KANT",
+    "work_title": "Kant and Hume on Induction",
+    "position_type": "supporting_argument",
+    "claim": "The truth of 7+5=12 is guaranteed by the constitutions of the concepts involved",
+    "text": "The truth of 7+5=12 is guaranteed by the constitutions of the concepts involved",
+    "quote": "The truth of 7+5=12 seems to be guaranteed by the constitutions of the concepts 7, 5, +, and so on.",
+    "domain": "mathematics",
+    "topics": [
+      "arithmetic",
+      "concepts",
+      "truth"
+    ],
+    "is_major_claim": false,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-KANT-041",
+    "work_id": "KUC-KANT",
+    "work_title": "Kant and Hume on Induction",
+    "position_type": "supporting_argument",
+    "claim": "Arthur Pap's argument shows that 7+5=12 should be analytic given Kant's premises",
+    "text": "Arthur Pap's argument shows that 7+5=12 should be analytic given Kant's premises",
+    "quote": "We find support for this line of thought in argument given by Arthur Pap. 1+1=2 is clearly analytic, as Kant himself acknowledges. 7+5=12 can be shown to follow analytically from 1+1=2 along with some other premises that Kant would regard as analytic.",
+    "domain": "mathematics",
+    "topics": [
+      "Pap",
+      "analyticity",
+      "logical consequence"
+    ],
+    "is_major_claim": false,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-KANT-042",
+    "work_id": "KUC-KANT",
+    "work_title": "Kant and Hume on Induction",
+    "position_type": "supporting_argument",
+    "claim": "Analyticity is hereditary with respect to logical consequence",
+    "text": "Analyticity is hereditary with respect to logical consequence",
+    "quote": "Anything that follows analytically from an analytic proposition is itself analytic: the property of analyticity is hereditary with respect to the relation of logical consequence.",
+    "domain": "logic",
+    "topics": [
+      "analyticity",
+      "logical consequence",
+      "inheritance"
+    ],
+    "is_major_claim": false,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-KANT-043",
+    "work_id": "KUC-KANT",
+    "work_title": "Kant and Hume on Induction",
+    "position_type": "supporting_argument",
+    "claim": "Kant's reasoning about 7+5 becomes fuzzy due to unclear use of 'concept'",
+    "text": "Kant's reasoning about 7+5 becomes fuzzy due to unclear use of 'concept'",
+    "quote": "But at this point, Kant's reasoning becomes fuzzy. The fuzziness is due to the fact that Kant is not clear, either in his thinking or in his exposition, about whether he is using the term \"concept\" in the logical, or the psychological sense; he goes back and forth.",
+    "domain": "philosophy of mind",
+    "topics": [
+      "concepts",
+      "reasoning",
+      "ambiguity"
+    ],
+    "is_major_claim": false,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-KANT-044",
+    "work_id": "KUC-KANT",
+    "work_title": "Kant and Hume on Induction",
+    "position_type": "supporting_argument",
+    "claim": "Kant infers from psychological facts about concept-grasping to logical facts about concepts themselves",
+    "text": "Kant infers from psychological facts about concept-grasping to logical facts about concepts themselves",
+    "quote": "From this Kant apparently infers that the concept 7+5 is entirely distinct from the concept =12. But this inference involves a muddle of the two meanings of the word \"concept\".",
+    "domain": "philosophy of mind",
+    "topics": [
+      "concepts",
+      "psychology",
+      "logic"
+    ],
+    "is_major_claim": false,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-KANT-045",
+    "work_id": "KUC-KANT",
+    "work_title": "Kant and Hume on Induction",
+    "position_type": "supporting_argument",
+    "claim": "Kant's argument requires a principle of conceptual transparency",
+    "text": "Kant's argument requires a principle of conceptual transparency",
+    "quote": "For Kant to make his case, he needs to appeal to some principle like the following: the structure of concepts (in the objective sense) of the word can be read off of the way in which they are represented in our minds.",
+    "domain": "philosophy of mind",
+    "topics": [
+      "concepts",
+      "transparency",
+      "representation"
+    ],
+    "is_major_claim": false,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-KANT-046",
+    "work_id": "KUC-KANT",
+    "work_title": "Kant and Hume on Induction",
+    "position_type": "supporting_argument",
+    "claim": "The transparency principle presupposes anti-realism about concepts",
+    "text": "The transparency principle presupposes anti-realism about concepts",
+    "quote": "That principle presupposes that concepts are completely transparent: you cannot grasp a concept without at once grasping everything definitive of it. There is no more to them than meets the eye. Their esse lies in their percipi. It thus seems to me that the principle in question presupposes, and is probably motivated by, a kind of anti-realism or psychologism with regard to concepts.",
+    "domain": "metaphysics",
+    "topics": [
+      "concepts",
+      "anti-realism",
+      "transparency"
+    ],
+    "is_major_claim": false,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-KANT-047",
+    "work_id": "KUC-KANT",
+    "work_title": "Kant and Hume on Induction",
+    "position_type": "supporting_argument",
+    "claim": "Synthetic a priori propositions raise difficult questions about what makes them true",
+    "text": "Synthetic a priori propositions raise difficult questions about what makes them true",
+    "quote": "The very existence of synthetic a priori propositions raises difficult questions. Such propositions do not hold wholly in virtue of facts about the structures of concepts. At the same time, they do not hold in virtue of the kinds of facts that can be discovered through empirical investigation. There thus doesn't seem to be anything left to make them true.",
+    "domain": "epistemology",
+    "topics": [
+      "synthetic a priori",
+      "truth",
+      "justification"
+    ],
+    "is_major_claim": false,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-KANT-048",
+    "work_id": "KUC-KANT",
+    "work_title": "Kant and Hume on Induction",
+    "position_type": "supporting_argument",
+    "claim": "According to Kant, we learn mathematical truths through acts of imagination",
+    "text": "According to Kant, we learn mathematical truths through acts of imagination",
+    "quote": "How do you know that 7+5=12? Not through conceptual analysis. Not through the senses. You learn it through an act of the imagination. You imagine seven objects laid next to five other objects, and then see that the resulting aggregate comprises exactly 12 objects.",
+    "domain": "epistemology",
+    "topics": [
+      "mathematics",
+      "imagination",
+      "knowledge"
+    ],
+    "is_major_claim": false,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-KANT-049",
+    "work_id": "KUC-KANT",
+    "work_title": "Kant and Hume on Induction",
+    "position_type": "definition",
+    "claim": "Kant uses 'intuition' to refer to para-sensory imaging experiences, not conceptual insights",
+    "text": "Kant uses 'intuition' to refer to para-sensory imaging experiences, not conceptual insights",
+    "quote": "Kant refers to images of this sort as \"intuitions.\" So it is through \"intuition\" that you learn the truth of 7+5=12. It must be made clear that Kant is not using this term in the way it is used today. These days, philosophers usually use the term to refer to a putative insight into concepts (\"my intuition is that killing someone is morally worse than passively allowing him to die\"). This is not what Kant means. By \"intuition\" Kant means an act of imaging: a kind of para-perception.",
+    "domain": "epistemology",
+    "topics": [
+      "intuition",
+      "Kant",
+      "imaging"
+    ],
+    "is_major_claim": false,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-KANT-050",
+    "work_id": "KUC-KANT",
+    "work_title": "Kant and Hume on Induction",
+    "position_type": "supporting_argument",
+    "claim": "Kantian intuitions show representational necessity, not conceptual or empirical necessity",
+    "text": "Kantian intuitions show representational necessity, not conceptual or empirical necessity",
+    "quote": "So, for Kant, these para-perceptual experiences show neither empirical truth nor conceptual necessity. What they show is representational necessity. They show us facts, not about the world or about concepts, but about how we must sense-perceive the world.",
+    "domain": "epistemology",
+    "topics": [
+      "intuition",
+      "representational necessity",
+      "perception"
+    ],
+    "is_major_claim": false,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-KANT-051",
+    "work_id": "KUC-KANT",
+    "work_title": "Kant and Hume on Induction",
+    "position_type": "supporting_argument",
+    "claim": "Intuitions show what we can and cannot represent in imagery",
+    "text": "Intuitions show what we can and cannot represent in imagery",
+    "quote": "These para-perceptual experiences show us what we can and cannot represent in imagery. We cannot form an image of a straight line between two points that is longer than some other line between those two points. We cannot form an image of four apples that isn't also an image of two apples and two other apples.",
+    "domain": "philosophy of mind",
+    "topics": [
+      "imagery",
+      "representation",
+      "limitations"
+    ],
+    "is_major_claim": false,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-KANT-052",
+    "work_id": "KUC-KANT",
+    "work_title": "Kant and Hume on Induction",
+    "position_type": "supporting_argument",
+    "claim": "For Kant, representational necessities are psychological rather than conceptual",
+    "text": "For Kant, representational necessities are psychological rather than conceptual",
+    "quote": "In Kant's view, these necessities are really of a psychological nature. Our \"forms of thought\" are such that we must see the world (literally see it) as being such that, in it, parallel lines don't meet, a straight line is the shortest distance between two points, two objects coupled with two other objects make four objects, and so on.",
+    "domain": "philosophy of mind",
+    "topics": [
+      "psychology",
+      "forms of thought",
+      "necessity"
+    ],
+    "is_major_claim": false,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-KANT-053",
+    "work_id": "KUC-KANT",
+    "work_title": "Kant and Hume on Induction",
+    "position_type": "major_claim",
+    "claim": "There is no room in Kant's picture for synthetic a priori truth or knowledge thereof",
+    "text": "There is no room in Kant's picture for synthetic a priori truth or knowledge thereof",
+    "quote": "Is there any room in this picture for synthetic a priori truth or for knowledge thereof? Both questions must be answered with a \"no\".",
+    "domain": "epistemology",
+    "topics": [
+      "synthetic a priori",
+      "knowledge",
+      "Kant"
+    ],
+    "is_major_claim": true,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-KANT-054",
+    "work_id": "KUC-KANT",
+    "work_title": "Kant and Hume on Induction",
+    "position_type": "supporting_argument",
+    "claim": "Psychological compulsion to see things a certain way doesn't prove they are that way",
+    "text": "Psychological compulsion to see things a certain way doesn't prove they are that way",
+    "quote": "Given only that we are psychologically compelled to see the world as being such that, in it, thus and such is the case, it doesn't follow that thus and such really is the case. A psychotic may be psychologically compelled to see pink elephants, but that doesn't mean there are pink elephants.",
+    "domain": "epistemology",
+    "topics": [
+      "psychology",
+      "reality",
+      "perception"
+    ],
+    "is_major_claim": false,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-KANT-055",
+    "work_id": "KUC-KANT",
+    "work_title": "Kant and Hume on Induction",
+    "position_type": "supporting_argument",
+    "claim": "Kant admits intuitions only tell us about the phenomenal world, not the noumenal world",
+    "text": "Kant admits intuitions only tell us about the phenomenal world, not the noumenal world",
+    "quote": "Actually, Kant himself admits this. These intuitions, he says, tell us about the \"phenomenal\" world, not the \"noumenal\" world. By Kant's own definition, the \"phenomenal world\" is just the world as it appears to us: it is how we see the world. The \"noumenal\" world is the actual world.",
+    "domain": "metaphysics",
+    "topics": [
+      "phenomenal",
+      "noumenal",
+      "appearance"
+    ],
+    "is_major_claim": false,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-KANT-056",
+    "work_id": "KUC-KANT",
+    "work_title": "Kant and Hume on Induction",
+    "position_type": "supporting_argument",
+    "claim": "On Kant's view, intuitions give us no knowledge of the external world or concepts",
+    "text": "On Kant's view, intuitions give us no knowledge of the external world or concepts",
+    "quote": "So, on Kant's view, intuitions don't tell us anything about the spatiotemporal world and they don't tell us anything about concepts. Thus, given only that intuition tells us that a straight line is the shortest distance between two points, we simply have no reason to believe that straight line is the shortest distance between two points.",
+    "domain": "epistemology",
+    "topics": [
+      "intuition",
+      "knowledge",
+      "justification"
+    ],
+    "is_major_claim": false,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-KANT-057",
+    "work_id": "KUC-KANT",
+    "work_title": "Kant and Hume on Induction",
+    "position_type": "supporting_argument",
+    "claim": "Kant's system makes supposedly a priori truths into empirical truths",
+    "text": "Kant's system makes supposedly a priori truths into empirical truths",
+    "quote": "So on Kant's view, followed to its logical conclusion, for us to know whether 7+5 really equaled 12, we'd have to learn some fact about the non-mental, non-platonic world (which, for reasons that are internal to Kant's system, Kant says we cannot do). 7+5=12 thus becomes a kind of empirical truth.",
+    "domain": "epistemology",
+    "topics": [
+      "a priori",
+      "empirical",
+      "knowledge"
+    ],
+    "is_major_claim": false,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-KANT-058",
+    "work_id": "KUC-KANT",
+    "work_title": "Kant and Hume on Induction",
+    "position_type": "supporting_argument",
+    "claim": "Mental imagery can serve as a vehicle for conceptual analysis",
+    "text": "Mental imagery can serve as a vehicle for conceptual analysis",
+    "quote": "When you learn through mental imagery that a straight line intersects a circle at no more than two points, you are learning something that holds entirely in virtue of facts about the structures of the concepts CIRCLE and LINE, and so forth. You are not learning something that holds in virtue of facts about our cognitive machinery.",
+    "domain": "epistemology",
+    "topics": [
+      "mental imagery",
+      "conceptual analysis",
+      "geometry"
+    ],
+    "is_major_claim": false,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-KANT-059",
+    "work_id": "KUC-KANT",
+    "work_title": "Kant and Hume on Induction",
+    "position_type": "supporting_argument",
+    "claim": "Kant failed to distinguish different epistemological roles of mental imagery",
+    "text": "Kant failed to distinguish different epistemological roles of mental imagery",
+    "quote": "What led Kant astray was a failure to distinguish the different roles that mental imagery can play in the acquisition of knowledge. Kant noted that mental imagery is a kind of para-perception. He concluded from this that, when mental imagery is involved in the discovery of some truth, that truth is synthetic – like those truths that we use perception to discover.",
+    "domain": "epistemology",
+    "topics": [
+      "mental imagery",
+      "epistemology",
+      "roles"
+    ],
+    "is_major_claim": false,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-KANT-060",
+    "work_id": "KUC-KANT",
+    "work_title": "Kant and Hume on Induction",
+    "position_type": "example",
+    "claim": "Determining the minimum number of sides a solid can have involves conceptual analysis via imagery",
+    "text": "Determining the minimum number of sides a solid can have involves conceptual analysis via imagery",
+    "quote": "If somebody asks me \"what is the minimum number of sides a solid can have?\", I base my answer on a mental image that I produce. I imagine trying to produce a solid out of four sides, then note that it doesn't work, then try to do the same thing with five sides, and note that it does work. But surely the fact that a solid has to have a minimum of five sides is not synthetic.",
+    "domain": "mathematics",
+    "topics": [
+      "geometry",
+      "mental imagery",
+      "conceptual analysis"
+    ],
+    "is_major_claim": false,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-KANT-061",
+    "work_id": "KUC-KANT",
+    "work_title": "Kant and Hume on Induction",
+    "position_type": "supporting_argument",
+    "claim": "Mental imagery can serve different epistemic roles - conceptual analysis vs. empirical observation",
+    "text": "Mental imagery can serve different epistemic roles - conceptual analysis vs. empirical observation",
+    "quote": "mental imagery can sometimes serve as a vehicle for conceptual analysis. But it can also play a very different epistemic role. Suppose I want to find out facts about my own psychology. Suppose, for example, that I want to find out whether I can imagine a 17-sided figure. Here I will, of course, generate mental imagery, and attend to the content of that imagery. But in this case, the imagery is not serving as a vehicle for conceptual analysis.",
+    "domain": "epistemology",
+    "topics": [
+      "mental imagery",
+      "conceptual analysis",
+      "empirical observation"
+    ],
+    "is_major_claim": false,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-KANT-062",
+    "work_id": "KUC-KANT",
+    "work_title": "Kant and Hume on Induction",
+    "position_type": "supporting_argument",
+    "claim": "Knowledge about representational limitations is a posteriori",
+    "text": "Knowledge about representational limitations is a posteriori",
+    "quote": "For Kant, you learn that you can't represent parallel lines as intersecting by noting that you cannot imagine it; you observe your own mental imagery. So you learn this putative fact about your representational powers through a kind of self-observation, and not through any kind of conceptual analysis. This knowledge turns out to be quite a posteriori.",
+    "domain": "epistemology",
+    "topics": [
+      "representation",
+      "a posteriori",
+      "self-observation"
+    ],
+    "is_major_claim": false,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-KANT-063",
+    "work_id": "KUC-KANT",
+    "work_title": "Kant and Hume on Induction",
+    "position_type": "supporting_argument",
+    "claim": "Leibniz argued that mathematical demonstrations don't derive their cogency from diagrams",
+    "text": "Leibniz argued that mathematical demonstrations don't derive their cogency from diagrams",
+    "quote": "But I do not agree with you what seems to be your [Locke's] view, that some kind of general certainty is provided in mathematics by \"particular demonstrations\" concerning the diagram that has been drawn. You must understand that geometers do not derive their proofs from diagrams, although the expository approach makes it seem so. The cogency of the demonstration is independent of the diagram, whose only role is to make it easier to understand what is meant and to fix one's attention.",
+    "domain": "mathematics",
+    "topics": [
+      "Leibniz",
+      "diagrams",
+      "mathematical proof"
+    ],
+    "is_major_claim": false,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-KANT-064",
+    "work_id": "KUC-KANT",
+    "work_title": "Kant and Hume on Induction",
+    "position_type": "supporting_argument",
+    "claim": "Peacocke's distinction between access and justification applies to mental imagery",
+    "text": "Peacocke's distinction between access and justification applies to mental imagery",
+    "quote": "When you come to know a logical truth by way of your having a proof of it, you may need to perceive the inscription of the proof, and you may need various perceptual capacities to appreciate that it is a proof. But the justification for your belief in the logical truth is the proof itself. Perceptual experience gives access to the proof, which provides an experience-independent justification for accepting its conclusion.",
+    "domain": "epistemology",
+    "topics": [
+      "Peacocke",
+      "access",
+      "justification"
+    ],
+    "is_major_claim": false,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-KANT-065",
+    "work_id": "KUC-KANT",
+    "work_title": "Kant and Hume on Induction",
+    "position_type": "objection_response",
+    "claim": "Transcendental necessity is either psychological or conceptual necessity",
+    "text": "Transcendental necessity is either psychological or conceptual necessity",
+    "quote": "In the end, \"transcendental\" necessity reduces either to mere psychological necessity or to conceptual necessity. We cannot coherently think of a world where triangles have two sides or where 2+2=3. That is because propositions like 2+2=3 and triangles have two sides are conceptually false and consequently draw a limit to what we can conceive of.",
+    "domain": "metaphysics",
+    "topics": [
+      "transcendental necessity",
+      "conceptual necessity",
+      "psychology"
+    ],
+    "is_major_claim": false,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-KANT-066",
+    "work_id": "KUC-KANT",
+    "work_title": "Kant and Hume on Induction",
+    "position_type": "supporting_argument",
+    "claim": "Conceptual necessities impose limits on visual representation",
+    "text": "Conceptual necessities impose limits on visual representation",
+    "quote": "What cannot be conceived cannot be perceived. Conceptual necessities thus impose sharp limits on how the world can be visually represented. So it is clear how conceptual falsity translates into representational impossibility.",
+    "domain": "epistemology",
+    "topics": [
+      "conceptual necessity",
+      "representation",
+      "perception"
+    ],
+    "is_major_claim": false,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-KANT-067",
+    "work_id": "KUC-KANT",
+    "work_title": "Kant and Hume on Induction",
+    "position_type": "supporting_argument",
+    "claim": "There is an incoherence in Kant's thinking about mathematical propositions",
+    "text": "There is an incoherence in Kant's thinking about mathematical propositions",
+    "quote": "There is an incoherence in Kant's thinking more radical than any mentioned so far. He rightly wants to hold that propositions like 7+2=9 and the area of a (Euclidean) triangle is ½ the base×height are a priori. But he also says that we sense-perceive the world as being such that these propositions are true in it.",
+    "domain": "epistemology",
+    "topics": [
+      "incoherence",
+      "mathematics",
+      "perception"
+    ],
+    "is_major_claim": false,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-KANT-068",
+    "work_id": "KUC-KANT",
+    "work_title": "Kant and Hume on Induction",
+    "position_type": "supporting_argument",
+    "claim": "Mathematical propositions don't describe the spatiotemporal world",
+    "text": "Mathematical propositions don't describe the spatiotemporal world",
+    "quote": "But, as Frege clearly stated, 7+2=9 doesn't say anything about the spatio-temporal world; it doesn't say that if you hold up two fingers and then hold up seven fingers, nine fingers are on display. For there could, in principle, be a causal law that falsified just that sort of statement – a law that didn't allow more than five fingers to be simultaneously on display in a certain region.",
+    "domain": "philosophy of mathematics",
+    "topics": [
+      "Frege",
+      "mathematics",
+      "spatiotemporal world"
+    ],
+    "is_major_claim": false,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-KANT-069",
+    "work_id": "KUC-KANT",
+    "work_title": "Kant and Hume on Induction",
+    "position_type": "supporting_argument",
+    "claim": "Kant's position requires mathematical propositions to be both descriptive and non-descriptive of the world",
+    "text": "Kant's position requires mathematical propositions to be both descriptive and non-descriptive of the world",
+    "quote": "So Kant's position is self-undermining. He needs mathematical propositions to be two things at once. They must be descriptive of the world: they must say something about beams of light. But they must also not be descriptive of the world: they must not be capable of falsification by anything having to do with beams of light and the like.",
+    "domain": "philosophy of mathematics",
+    "topics": [
+      "self-undermining",
+      "description",
+      "world"
+    ],
+    "is_major_claim": false,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-KANT-070",
+    "work_id": "KUC-KANT",
+    "work_title": "Kant and Hume on Induction",
+    "position_type": "objection_response",
+    "claim": "If a proposition is necessary, it doesn't describe the empirical world",
+    "text": "If a proposition is necessary, it doesn't describe the empirical world",
+    "quote": "But there is an inference from P is necessarily true to P doesn't describe the empirical world (in any way at all). If P is necessary, then P's being true in world 1 doesn't distinguish world 1 from world 2 or from world 897. P therefore doesn't say anything about the world that distinguishes it from other possible worlds.",
+    "domain": "metaphysics",
+    "topics": [
+      "necessity",
+      "description",
+      "possible worlds"
+    ],
+    "is_major_claim": false,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-KANT-071",
+    "work_id": "KUC-KANT",
+    "work_title": "Kant and Hume on Induction",
+    "position_type": "major_claim",
+    "claim": "Kant's conception of analyticity is too narrow, and this is the fundamental error in his system",
+    "text": "Kant's conception of analyticity is too narrow, and this is the fundamental error in his system",
+    "quote": "Ultimately, there is one thing wrong with Kant's view: his conception of analyticity is much too narrow. Everything else that is wrong about Kant's position can be traced back to this one mistake. A corollary is that everything that is wrong about his system can be corrected by correcting this one mistake.",
+    "domain": "philosophy of language",
+    "topics": [
+      "analyticity",
+      "Kant",
+      "fundamental error"
+    ],
+    "is_major_claim": true,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-KANT-072",
+    "work_id": "KUC-KANT",
+    "work_title": "Kant and Hume on Induction",
+    "position_type": "supporting_argument",
+    "claim": "Kant grants analytic status only to trivial propositions like 'circles are round'",
+    "text": "Kant grants analytic status only to trivial propositions like 'circles are round'",
+    "quote": "Kant grants analytic status only to propositions like (a) circles are round. He denies analytic status to propositions like (b) a circle is a class of points equidistant from a given point in a plane.",
+    "domain": "philosophy of language",
+    "topics": [
+      "analyticity",
+      "circles",
+      "definitions"
+    ],
+    "is_major_claim": false,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-KANT-073",
+    "work_id": "KUC-KANT",
+    "work_title": "Kant and Hume on Induction",
+    "position_type": "definition",
+    "claim": "Hard analytic truths are logically but not psychologically incoherent to deny",
+    "text": "Hard analytic truths are logically but not psychologically incoherent to deny",
+    "quote": "Let us set say that (b) and (e) are \"hard analytic\", and let us say that (a) and (h) are \"easy analytic\". It is hard to know that (b) and (e) are true. It is not hard to know (a) and (h) are analytic; a grasp of those propositions by itself suffices for a knowledge of their truth.",
+    "domain": "philosophy of language",
+    "topics": [
+      "hard analytic",
+      "easy analytic",
+      "knowledge"
+    ],
+    "is_major_claim": false,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-KANT-074",
+    "work_id": "KUC-KANT",
+    "work_title": "Kant and Hume on Induction",
+    "position_type": "major_claim",
+    "claim": "What Kant calls synthetic a priori truths are actually hard analytic truths",
+    "text": "What Kant calls synthetic a priori truths are actually hard analytic truths",
+    "quote": "What Kant refers to as \"synthetic a priori\" truths are nothing other than what we are describing as hard analytic truths. What Kant refers to as analytic truths are what we are describing as easy analytic truths.",
+    "domain": "philosophy of language",
+    "topics": [
+      "synthetic a priori",
+      "hard analytic",
+      "reinterpretation"
+    ],
+    "is_major_claim": true,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-KANT-075",
+    "work_id": "KUC-KANT",
+    "work_title": "Kant and Hume on Induction",
+    "position_type": "supporting_argument",
+    "claim": "Recognizing hard analytic truths eliminates the need for psychologistic analysis",
+    "text": "Recognizing hard analytic truths eliminates the need for psychologistic analysis",
+    "quote": "Once it is recognized that (b) and (e) are analytic, albeit hard analytic, we must say that they hold entirely in virtue of facts about the concepts that compose them; and there is no longer any temptation to say that they are made true by facts about the mind. So that obliterates any possible warrant that might otherwise be had by Kant's psychologistic analysis of those propositions.",
+    "domain": "epistemology",
+    "topics": [
+      "hard analytic",
+      "concepts",
+      "psychologism"
+    ],
+    "is_major_claim": false,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-KANT-076",
+    "work_id": "KUC-KANT",
+    "work_title": "Kant and Hume on Induction",
+    "position_type": "supporting_argument",
+    "claim": "Kant's main concern is understanding how the world must be structured for coherent experience to be possible",
+    "text": "Kant's main concern is understanding how the world must be structured for coherent experience to be possible",
+    "quote": "We have experience; we have sequences of thoughts and perceptions that cohere. The world is intelligible to us. We sense-perceive it and about it. Up to a point, our perceptions and thoughts are accurate. In Kant's view, given the very fact that these things are true, we can deduce certain things about the structure of the world.",
+    "domain": "metaphysics",
+    "topics": [
+      "experience",
+      "coherence",
+      "world structure"
+    ],
+    "is_major_claim": false,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-KANT-077",
+    "work_id": "KUC-KANT",
+    "work_title": "Kant and Hume on Induction",
+    "position_type": "definition",
+    "claim": "Transcendental conditions are necessarily satisfied by any world containing entities with coherent thoughts",
+    "text": "Transcendental conditions are necessarily satisfied by any world containing entities with coherent thoughts",
+    "quote": "Kant refers to those conditions as \"transcendental\": they are the conditions that are necessarily satisfied by any world in which there are entities that have coherent, if not always accurate, thoughts and representations.",
+    "domain": "metaphysics",
+    "topics": [
+      "transcendental conditions",
+      "coherent thoughts",
+      "necessity"
+    ],
+    "is_major_claim": false,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-KANT-078",
+    "work_id": "KUC-KANT",
+    "work_title": "Kant and Hume on Induction",
+    "position_type": "definition",
+    "claim": "A transcendental argument has the form: given experience of a certain kind, the world must have certain features",
+    "text": "A transcendental argument has the form: given experience of a certain kind, the world must have certain features",
+    "quote": "A \"transcendental argument\" is one having the form: given only that we have experiences of such and such a kind, it follows that the world must have thus and such features.",
+    "domain": "epistemology",
+    "topics": [
+      "transcendental arguments",
+      "experience",
+      "world features"
+    ],
+    "is_major_claim": false,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-KANT-079",
+    "work_id": "KUC-KANT",
+    "work_title": "Kant and Hume on Induction",
+    "position_type": "major_claim",
+    "claim": "There is a hard analytic connection between beings capable of metaphysical questions and propositions about world structure",
+    "text": "There is a hard analytic connection between beings capable of metaphysical questions and propositions about world structure",
+    "quote": "I will argue that there is an analytic connection – a hard analytic connection, but an analytic connection no less – between the proposition there exist beings who have the cognitive wherewithal to raise metaphysical questions and propositions concerning the structure of the world itself.",
+    "domain": "metaphysics",
+    "topics": [
+      "analytic connection",
+      "metaphysical questions",
+      "world structure"
+    ],
+    "is_major_claim": true,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-KANT-080",
+    "work_id": "KUC-KANT",
+    "work_title": "Kant and Hume on Induction",
+    "position_type": "supporting_argument",
+    "claim": "A world without causation would comprise nothing enduring",
+    "text": "A world without causation would comprise nothing enduring",
+    "quote": "Imagine a world where there is no causation, where there are merely sequences of events. Such a world would comprise nothing enduring. This is because persistence is itself a causal notion. If something persists, there is ipso facto a causal sequence of some kind.",
+    "domain": "metaphysics",
+    "topics": [
+      "causation",
+      "persistence",
+      "endurance"
+    ],
+    "is_major_claim": false,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-KANT-081",
+    "work_id": "KUC-KANT",
+    "work_title": "Kant and Hume on Induction",
+    "position_type": "supporting_argument",
+    "claim": "Coherent ideation requires persistence, which requires causation",
+    "text": "Coherent ideation requires persistence, which requires causation",
+    "quote": "Where there is no persistence, there is no coherent ideation. For surely, as a matter of necessity, a coherent thought process involves some kind of persistence. So given only the fact that there are beings who have the ability to raise questions about anything, let alone about the necessary preconditions for experience, it follows that causal relations do not consist in mere sequences of events, but in internal relations of some kind.",
+    "domain": "philosophy of mind",
+    "topics": [
+      "coherent ideation",
+      "persistence",
+      "causation"
+    ],
+    "is_major_claim": false,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-KANT-082",
+    "work_id": "KUC-KANT",
+    "work_title": "Kant and Hume on Induction",
+    "position_type": "supporting_argument",
+    "claim": "This transcendental argument relies on analytic connections, not synthetic a priori truths",
+    "text": "This transcendental argument relies on analytic connections, not synthetic a priori truths",
+    "quote": "But notice that this transcendental argument turns on the existence of entirely analytic connections among propositions; no \"synthetic a priori\" is involved. Given the very concept of a rational thought process, it follows that analytically there are causal relations among events.",
+    "domain": "epistemology",
+    "topics": [
+      "transcendental arguments",
+      "analytic connections",
+      "rational thought"
+    ],
+    "is_major_claim": false,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-KANT-083",
+    "work_id": "KUC-KANT",
+    "work_title": "Kant and Hume on Induction",
+    "position_type": "supporting_argument",
+    "claim": "Hume's induction problem: past experience cannot justify future expectations without circular reasoning",
+    "text": "Hume's induction problem: past experience cannot justify future expectations without circular reasoning",
+    "quote": "Suppose that such and such has always happened in the past. How does our knowledge of that fact warrant our believing that such and such will happen in the future? The warrant is not deductive. Given only that such and such happened before time t, there is no logical contradiction in saying that it won't happen after t.",
+    "domain": "epistemology",
+    "topics": [
+      "Hume",
+      "induction",
+      "circular reasoning"
+    ],
+    "is_major_claim": false,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-KANT-084",
+    "work_id": "KUC-KANT",
+    "work_title": "Kant and Hume on Induction",
+    "position_type": "supporting_argument",
+    "claim": "Justifying induction requires the principle that the future resembles the past, but this is itself empirical",
+    "text": "Justifying induction requires the principle that the future resembles the past, but this is itself empirical",
+    "quote": "To have an empirical justification for that inference, we'd have to know that, in general, the future resembles the past and that, consequently, knowledge of the past gives us a rational basis for beliefs about the future. But that is itself an empirical thesis, whose only possible justification lies in our past experience.",
+    "domain": "epistemology",
+    "topics": [
+      "induction",
+      "future",
+      "past",
+      "empirical justification"
+    ],
+    "is_major_claim": false,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-KANT-085",
+    "work_id": "KUC-KANT",
+    "work_title": "Kant and Hume on Induction",
+    "position_type": "supporting_argument",
+    "claim": "Hume's causation problem: there are no logical connections between distinct events",
+    "text": "Hume's causation problem: there are no logical connections between distinct events",
+    "quote": "Given two distinct states of affairs, one is not guilty of self-contradiction if one affirms the existence of the one but denies the existence of the other. Since causality holds between distinct states of affairs, there is no strictly logical connection between cause and effect.",
+    "domain": "metaphysics",
+    "topics": [
+      "Hume",
+      "causation",
+      "logical connections"
+    ],
+    "is_major_claim": false,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-KANT-086",
+    "work_id": "KUC-KANT",
+    "work_title": "Kant and Hume on Induction",
+    "position_type": "supporting_argument",
+    "claim": "Causal forces cannot be empirically justified because we only perceive events, not connections",
+    "text": "Causal forces cannot be empirically justified because we only perceive events, not connections",
+    "quote": "We perceive events and regularities among events. If they exist, forces are connections among events, and are not events themselves. What we perceive gives us a basis for believing that certain kinds of events are likely to accompany certain other kinds of events. But what we perceive does not give us any basis for perceiving that things altogether different from events are likely to accompany events.",
+    "domain": "epistemology",
+    "topics": [
+      "causal forces",
+      "empirical justification",
+      "perception"
+    ],
+    "is_major_claim": false,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-KANT-087",
+    "work_id": "KUC-KANT",
+    "work_title": "Kant and Hume on Induction",
+    "position_type": "supporting_argument",
+    "claim": "Hume's position must be qualified: logical relations hold between propositions, not events",
+    "text": "Hume's position must be qualified: logical relations hold between propositions, not events",
+    "quote": "Hume says that given any two distinct events, there is no strictly logical connection between them. This must be qualified. Logical relations hold, not between states of affairs, but between pieces of information. Typically, these pieces of information are held to be sentences or propositions.",
+    "domain": "logic",
+    "topics": [
+      "logical relations",
+      "propositions",
+      "events"
+    ],
+    "is_major_claim": false,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-KANT-088",
+    "work_id": "KUC-KANT",
+    "work_title": "Kant and Hume on Induction",
+    "position_type": "supporting_argument",
+    "claim": "Whether propositions about events are logically connected depends on how we describe the events",
+    "text": "Whether propositions about events are logically connected depends on how we describe the events",
+    "quote": "But this last statement, in its turn, is true only when subject to a heavy qualification. Depending on how we describe A and B, a proposition affirming the existence of the one might entail one affirming the existence of the other.",
+    "domain": "logic",
+    "topics": [
+      "logical connections",
+      "descriptions",
+      "events"
+    ],
+    "is_major_claim": false,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-KANT-089",
+    "work_id": "KUC-KANT",
+    "work_title": "Kant and Hume on Induction",
+    "position_type": "supporting_argument",
+    "claim": "That simple descriptions don't entail each other doesn't prove events lack internal connections",
+    "text": "That simple descriptions don't entail each other doesn't prove events lack internal connections",
+    "quote": "For similar reasons, given only that (*) doesn't entail (**), we cannot infer that A and B have only a contingent relation to each other. What we can infer is either that A is only contingently related to B or that (*) and (**) leave out the relevant data. I believe that (*) and (**) leave out the relevant data, and that the relation between A and B is in no way contingent.",
+    "domain": "metaphysics",
+    "topics": [
+      "internal connections",
+      "contingency",
+      "descriptions"
+    ],
+    "is_major_claim": false,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-KANT-090",
+    "work_id": "KUC-KANT",
+    "work_title": "Kant and Hume on Induction",
+    "position_type": "major_claim",
+    "claim": "There are no instantaneous states of affairs",
+    "text": "There are no instantaneous states of affairs",
+    "quote": "Are there instantaneous states of affairs? Is there anything that exists in three, but not in four, dimensions? Of course, we sometimes speak about instantaneous states of affairs. But, it is now generally held, such talk is elliptical for talk of arbitrarily short, non-instantaneous states of affairs.",
+    "domain": "metaphysics",
+    "topics": [
+      "instantaneous",
+      "states of affairs",
+      "time"
+    ],
+    "is_major_claim": true,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-KANT-091",
+    "work_id": "KUC-KANT",
+    "work_title": "Kant and Hume on Induction",
+    "position_type": "supporting_argument",
+    "claim": "Talk of instantaneous properties is elliptical for limit-statements about intervals",
+    "text": "Talk of instantaneous properties is elliptical for limit-statements about intervals",
+    "quote": "When we say that such that such and such is what obtains at a given instant t, we mean that what obtains during smaller and smaller intervals containing t approximates arbitrarily well to such and such.",
+    "domain": "metaphysics",
+    "topics": [
+      "instantaneous properties",
+      "limits",
+      "intervals"
+    ],
+    "is_major_claim": false,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-KANT-092",
+    "work_id": "KUC-KANT",
+    "work_title": "Kant and Hume on Induction",
+    "position_type": "supporting_argument",
+    "claim": "There are no strictly non-dynamic spatiotemporal properties",
+    "text": "There are no strictly non-dynamic spatiotemporal properties",
+    "quote": "But exactly similar considerations warrant the view that there can no instantaneous temperature, mass, color, shape, spin, and so on. There are no strictly non-dynamic spatiotemporal properties – no property such that possession of it doesn't involve movement.",
+    "domain": "metaphysics",
+    "topics": [
+      "properties",
+      "dynamic",
+      "spatiotemporal"
+    ],
+    "is_major_claim": false,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-KANT-093",
+    "work_id": "KUC-KANT",
+    "work_title": "Kant and Hume on Induction",
+    "position_type": "supporting_argument",
+    "claim": "No complete description of any state of affairs can avoid temporal duration",
+    "text": "No complete description of any state of affairs can avoid temporal duration",
+    "quote": "A corollary is that there is no complete description of any state of affairs that does not say what happens over a stretch of time.",
+    "domain": "metaphysics",
+    "topics": [
+      "complete description",
+      "temporal duration",
+      "states of affairs"
+    ],
+    "is_major_claim": false,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-KANT-094",
+    "work_id": "KUC-KANT",
+    "work_title": "Kant and Hume on Induction",
+    "position_type": "supporting_argument",
+    "claim": "Complete descriptions of events must include descriptions of subsequent events",
+    "text": "Complete descriptions of events must include descriptions of subsequent events",
+    "quote": "In that case, a complete description of the occurrences during int would include a description of occurrences happening after int. So a complete description of the relevant mass-energy displacement (the relevant electron-jump or whatnot) would include a description of some later event E.",
+    "domain": "metaphysics",
+    "topics": [
+      "complete descriptions",
+      "events",
+      "temporal extension"
+    ],
+    "is_major_claim": false,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-KANT-095",
+    "work_id": "KUC-KANT",
+    "work_title": "Kant and Hume on Induction",
+    "position_type": "supporting_argument",
+    "claim": "If complete descriptions include subsequent events, this shatters Hume's view of no necessary connections",
+    "text": "If complete descriptions include subsequent events, this shatters Hume's view of no necessary connections",
+    "quote": "This would have two consequences. First it would mean that any description of any given event would include a description of subsequent events. That by itself would shatter Hume's view that there is no necessary connection between any event and any subsequent event.",
+    "domain": "metaphysics",
+    "topics": [
+      "Hume",
+      "necessary connections",
+      "events"
+    ],
+    "is_major_claim": false,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-KANT-096",
+    "work_id": "KUC-KANT",
+    "work_title": "Kant and Hume on Induction",
+    "position_type": "supporting_argument",
+    "claim": "There would be logical connections between events connected by continuous series",
+    "text": "There would be logical connections between events connected by continuous series",
+    "quote": "By this reasoning, there is a strictly logical connection between (complete descriptions of) any two events that are connected by a continuous series of events.",
+    "domain": "metaphysics",
+    "topics": [
+      "logical connections",
+      "continuous series",
+      "events"
+    ],
+    "is_major_claim": false,
+    "extraction_date": "2025-12-06"
+  }
+]

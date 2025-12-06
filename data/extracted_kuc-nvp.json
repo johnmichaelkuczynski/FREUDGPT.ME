@@ -1,0 +1,1265 @@
+[
+  {
+    "position_id": "KUC-NVP-001",
+    "work_id": "KUC-NVP",
+    "work_title": "Neurosis vs. Psychosis",
+    "position_type": "definition",
+    "claim": "Psychosis is a mental impairment caused by a break with external reality",
+    "text": "Psychosis is a mental impairment caused by a break with external reality",
+    "quote": "Psychosis is a mental impairment that is precipitated and sustained by a break with external reality.",
+    "domain": "psychoanalysis",
+    "topics": [
+      "psychosis",
+      "mental_illness",
+      "reality"
+    ],
+    "is_major_claim": true,
+    "supports": null,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-NVP-002",
+    "work_id": "KUC-NVP",
+    "work_title": "Neurosis vs. Psychosis",
+    "position_type": "definition",
+    "claim": "Neurosis is a mental impairment caused by a break with one's emotional condition",
+    "text": "Neurosis is a mental impairment caused by a break with one's emotional condition",
+    "quote": "Neurosis is a mental impairment that is precipitated and sustained by a break with one's emotional condition.",
+    "domain": "psychoanalysis",
+    "topics": [
+      "neurosis",
+      "mental_illness",
+      "emotion"
+    ],
+    "is_major_claim": true,
+    "supports": null,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-NVP-003",
+    "work_id": "KUC-NVP",
+    "work_title": "Neurosis vs. Psychosis",
+    "position_type": "supporting_argument",
+    "claim": "Neurotics flee from emotions while psychotics flee from reality",
+    "text": "Neurotics flee from emotions while psychotics flee from reality",
+    "quote": "The neurotic flees from his emotions; the psychotic flees from reality.",
+    "domain": "psychoanalysis",
+    "topics": [
+      "neurosis",
+      "psychosis",
+      "avoidance"
+    ],
+    "is_major_claim": false,
+    "supports": [
+      1,
+      2
+    ],
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-NVP-004",
+    "work_id": "KUC-NVP",
+    "work_title": "Neurosis vs. Psychosis",
+    "position_type": "supporting_argument",
+    "claim": "Neurosis may affect awareness of external reality but this is secondary to emotional awareness loss",
+    "text": "Neurosis may affect awareness of external reality but this is secondary to emotional awareness loss",
+    "quote": "Neurosis may lead to a blunting of one's awareness of certain aspects of external reality, but any such loss of awareness is subordinate to loss of awareness of one's emotional condition.",
+    "domain": "psychoanalysis",
+    "topics": [
+      "neurosis",
+      "awareness",
+      "reality",
+      "emotion"
+    ],
+    "is_major_claim": false,
+    "supports": [
+      2
+    ],
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-NVP-005",
+    "work_id": "KUC-NVP",
+    "work_title": "Neurosis vs. Psychosis",
+    "position_type": "supporting_argument",
+    "claim": "Psychosis may affect emotional understanding but this is secondary to reality awareness loss",
+    "text": "Psychosis may affect emotional understanding but this is secondary to reality awareness loss",
+    "quote": "Similarly, psychosis may lead to a disruption of one's understanding of one's emotional condition, but any such disturbance is subordinate to the psychotic's loss of awareness of external reality.",
+    "domain": "psychoanalysis",
+    "topics": [
+      "psychosis",
+      "awareness",
+      "reality",
+      "emotion"
+    ],
+    "is_major_claim": false,
+    "supports": [
+      1
+    ],
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-NVP-006",
+    "work_id": "KUC-NVP",
+    "work_title": "Neurosis vs. Psychosis",
+    "position_type": "major_claim",
+    "claim": "Neurosis and psychosis are not mirror images despite their symmetries",
+    "text": "Neurosis and psychosis are not mirror images despite their symmetries",
+    "quote": "Though symmetrical in the just-described respects, neurosis and psychosis are ultimately not mirror images of each other.",
+    "domain": "psychoanalysis",
+    "topics": [
+      "neurosis",
+      "psychosis",
+      "comparison"
+    ],
+    "is_major_claim": true,
+    "supports": null,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-NVP-007",
+    "work_id": "KUC-NVP",
+    "work_title": "Neurosis vs. Psychosis",
+    "position_type": "supporting_argument",
+    "claim": "Psychosis involves partial regression to psychological infancy",
+    "text": "Psychosis involves partial regression to psychological infancy",
+    "quote": "This is a consequence of the fact that psychosis involves a partial regression to a condition of psychological infancy, the operative term being \"partial.\"",
+    "domain": "psychoanalysis",
+    "topics": [
+      "psychosis",
+      "regression",
+      "development"
+    ],
+    "is_major_claim": false,
+    "supports": [
+      6
+    ],
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-NVP-008",
+    "work_id": "KUC-NVP",
+    "work_title": "Neurosis vs. Psychosis",
+    "position_type": "supporting_argument",
+    "claim": "Infants are not psychotic because their psychological integration is unified",
+    "text": "Infants are not psychotic because their psychological integration is unified",
+    "quote": "An infant is not psychotic. The reason is that the infant's psychological integration is not simultaneously that of an adult and an infant; it is simply that of an infant.",
+    "domain": "psychoanalysis",
+    "topics": [
+      "infancy",
+      "psychosis",
+      "integration"
+    ],
+    "is_major_claim": false,
+    "supports": [
+      7
+    ],
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-NVP-009",
+    "work_id": "KUC-NVP",
+    "work_title": "Neurosis vs. Psychosis",
+    "position_type": "supporting_argument",
+    "claim": "Infants have integrated and healthy psychological conditions despite subjective reality understanding",
+    "text": "Infants have integrated and healthy psychological conditions despite subjective reality understanding",
+    "quote": "For this reason, the infant's psychological condition is integrated and healthy, even though the infant's understanding of reality is even more subjective, and therefore more projective, than that of the adult psychotic.",
+    "domain": "psychoanalysis",
+    "topics": [
+      "infancy",
+      "integration",
+      "subjectivity",
+      "projection"
+    ],
+    "is_major_claim": false,
+    "supports": [
+      8
+    ],
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-NVP-010",
+    "work_id": "KUC-NVP",
+    "work_title": "Neurosis vs. Psychosis",
+    "position_type": "supporting_argument",
+    "claim": "Adult psychotics have incompatible dual psychological architectures",
+    "text": "Adult psychotics have incompatible dual psychological architectures",
+    "quote": "The adult psychotic, on the other hand, has the psychological architecture of an adult as well as that of an infant. Therefore, the psychotic has two entirely distinct and incompatible ways of processing information.",
+    "domain": "psychoanalysis",
+    "topics": [
+      "psychosis",
+      "information_processing",
+      "integration"
+    ],
+    "is_major_claim": false,
+    "supports": [
+      7
+    ],
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-NVP-011",
+    "work_id": "KUC-NVP",
+    "work_title": "Neurosis vs. Psychosis",
+    "position_type": "supporting_argument",
+    "claim": "Psychotics lack unified value systems and understanding",
+    "text": "Psychotics lack unified value systems and understanding",
+    "quote": "He does not have a unified value system; he does not have a unified understanding of how to implement such values as he has; and his psychological condition is therefore therefore one of utter disarray.",
+    "domain": "psychoanalysis",
+    "topics": [
+      "psychosis",
+      "values",
+      "disarray"
+    ],
+    "is_major_claim": false,
+    "supports": [
+      10
+    ],
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-NVP-012",
+    "work_id": "KUC-NVP",
+    "work_title": "Neurosis vs. Psychosis",
+    "position_type": "supporting_argument",
+    "claim": "The disarray explains the particularly damaging nature of psychosis",
+    "text": "The disarray explains the particularly damaging nature of psychosis",
+    "quote": "And therein lies the peculiarly damaging nature of psychosis.",
+    "domain": "psychoanalysis",
+    "topics": [
+      "psychosis",
+      "damage"
+    ],
+    "is_major_claim": false,
+    "supports": [
+      11
+    ],
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-NVP-013",
+    "work_id": "KUC-NVP",
+    "work_title": "Neurosis vs. Psychosis",
+    "position_type": "major_claim",
+    "claim": "Nothing comparable to psychotic disarray holds for neurosis",
+    "text": "Nothing comparable to psychotic disarray holds for neurosis",
+    "quote": "Nothing comparable holds of the neurotic.",
+    "domain": "psychoanalysis",
+    "topics": [
+      "neurosis",
+      "comparison"
+    ],
+    "is_major_claim": true,
+    "supports": null,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-NVP-014",
+    "work_id": "KUC-NVP",
+    "work_title": "Neurosis vs. Psychosis",
+    "position_type": "supporting_argument",
+    "claim": "Neurosis involves containing threats to integration through repression",
+    "text": "Neurosis involves containing threats to integration through repression",
+    "quote": "Neurosis is about containing threats to one's integration by repressing them.",
+    "domain": "psychoanalysis",
+    "topics": [
+      "neurosis",
+      "repression",
+      "integration"
+    ],
+    "is_major_claim": false,
+    "supports": [
+      13
+    ],
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-NVP-015",
+    "work_id": "KUC-NVP",
+    "work_title": "Neurosis vs. Psychosis",
+    "position_type": "definition",
+    "claim": "Repression involves burying emotional valence rather than knowledge itself",
+    "text": "Repression involves burying emotional valence rather than knowledge itself",
+    "quote": "To repress a conceit is not to bury one's knowledge of it in the unconscious; it is rather to bury one's knowledge of its emotional valence in the unconscious.",
+    "domain": "psychoanalysis",
+    "topics": [
+      "repression",
+      "emotion",
+      "unconscious"
+    ],
+    "is_major_claim": false,
+    "supports": [
+      14
+    ],
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-NVP-016",
+    "work_id": "KUC-NVP",
+    "work_title": "Neurosis vs. Psychosis",
+    "position_type": "supporting_argument",
+    "claim": "Neurotics maintain relatively unimpaired intellectual awareness",
+    "text": "Neurotics maintain relatively unimpaired intellectual awareness",
+    "quote": "As a result, the neurotic's condition is one of relatively unimpaired intellectual awareness.",
+    "domain": "psychoanalysis",
+    "topics": [
+      "neurosis",
+      "intellect",
+      "awareness"
+    ],
+    "is_major_claim": false,
+    "supports": [
+      15
+    ],
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-NVP-017",
+    "work_id": "KUC-NVP",
+    "work_title": "Neurosis vs. Psychosis",
+    "position_type": "supporting_argument",
+    "claim": "Neurosis may actually heighten intellectual awareness through compensation",
+    "text": "Neurosis may actually heighten intellectual awareness through compensation",
+    "quote": "In fact, in some circumscribed ways, it may be even be a condition heightened intellectual awareness, owing to the fact that the neurotic is likely to compensate for his impoverished emotional state by hypercathecting his intellect.",
+    "domain": "psychoanalysis",
+    "topics": [
+      "neurosis",
+      "intellect",
+      "compensation"
+    ],
+    "is_major_claim": false,
+    "supports": [
+      16
+    ],
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-NVP-018",
+    "work_id": "KUC-NVP",
+    "work_title": "Neurosis vs. Psychosis",
+    "position_type": "supporting_argument",
+    "claim": "Neurotics achieve hyper-stable but ossified psyches by stripping emotional valences",
+    "text": "Neurotics achieve hyper-stable but ossified psyches by stripping emotional valences",
+    "quote": "Moreover, by stripping the contents of consciousness of their emotional valences, the neurotic guarantees that he has a hyper-stable, though also an ossified psyche.",
+    "domain": "psychoanalysis",
+    "topics": [
+      "neurosis",
+      "stability",
+      "emotion"
+    ],
+    "is_major_claim": false,
+    "supports": [
+      15
+    ],
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-NVP-019",
+    "work_id": "KUC-NVP",
+    "work_title": "Neurosis vs. Psychosis",
+    "position_type": "major_claim",
+    "claim": "Psychosis is inability to organize conscious emotion; neurosis is inability to have conscious emotion",
+    "text": "Psychosis is inability to organize conscious emotion; neurosis is inability to have conscious emotion",
+    "quote": "The essence of psychosis is an inability to organize consciously experienced emotion; the essence of neurosis is an inability to have consciously experienced emotion.",
+    "domain": "psychoanalysis",
+    "topics": [
+      "psychosis",
+      "neurosis",
+      "emotion",
+      "consciousness"
+    ],
+    "is_major_claim": true,
+    "supports": null,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-NVP-020",
+    "work_id": "KUC-NVP",
+    "work_title": "Neurosis vs. Psychosis",
+    "position_type": "supporting_argument",
+    "claim": "Psychotics are paralyzed by too much emotion, neurotics by too little",
+    "text": "Psychotics are paralyzed by too much emotion, neurotics by too little",
+    "quote": "The former is paralyzed by a superabundance of emotion, the latter by lack of it.",
+    "domain": "psychoanalysis",
+    "topics": [
+      "psychosis",
+      "neurosis",
+      "emotion",
+      "paralysis"
+    ],
+    "is_major_claim": false,
+    "supports": [
+      19
+    ],
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-NVP-021",
+    "work_id": "KUC-NVP",
+    "work_title": "Neurosis vs. Psychosis",
+    "position_type": "major_claim",
+    "claim": "For men, happiness is about forging one's own identity",
+    "text": "For men, happiness is about forging one's own identity",
+    "quote": "For men, happiness is about forging one's own identity.",
+    "domain": "psychoanalysis",
+    "topics": [
+      "happiness",
+      "identity",
+      "gender"
+    ],
+    "is_major_claim": true,
+    "supports": null,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-NVP-022",
+    "work_id": "KUC-NVP",
+    "work_title": "Neurosis vs. Psychosis",
+    "position_type": "major_claim",
+    "claim": "For women, happiness is about being loved",
+    "text": "For women, happiness is about being loved",
+    "quote": "For women, happiness is about being loved.",
+    "domain": "psychoanalysis",
+    "topics": [
+      "happiness",
+      "love",
+      "gender"
+    ],
+    "is_major_claim": true,
+    "supports": null,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-NVP-023",
+    "work_id": "KUC-NVP",
+    "work_title": "Neurosis vs. Psychosis",
+    "position_type": "supporting_argument",
+    "claim": "Men are happy if they triumph over their fathers, women if their fathers loved them",
+    "text": "Men are happy if they triumph over their fathers, women if their fathers loved them",
+    "quote": "Men are happy if they triumphed over their own fathers, and women are happy if their fathers loved them.",
+    "domain": "psychoanalysis",
+    "topics": [
+      "happiness",
+      "father",
+      "triumph",
+      "love"
+    ],
+    "is_major_claim": false,
+    "supports": [
+      21,
+      22
+    ],
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-NVP-024",
+    "work_id": "KUC-NVP",
+    "work_title": "Neurosis vs. Psychosis",
+    "position_type": "definition",
+    "claim": "Male triumph over father means not submitting and establishing own identity",
+    "text": "Male triumph over father means not submitting and establishing own identity",
+    "quote": "For a man to triumph over his father is for him not to submit to his father. It is for him to establish his own identity.",
+    "domain": "psychoanalysis",
+    "topics": [
+      "identity",
+      "submission",
+      "triumph"
+    ],
+    "is_major_claim": false,
+    "supports": [
+      23
+    ],
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-NVP-025",
+    "work_id": "KUC-NVP",
+    "work_title": "Neurosis vs. Psychosis",
+    "position_type": "sub_argument",
+    "claim": "A man can establish identity by doing the opposite of his father",
+    "text": "A man can establish identity by doing the opposite of his father",
+    "quote": "He can establish his own identity by doing the opposite of what his father does.",
+    "domain": "psychoanalysis",
+    "topics": [
+      "identity",
+      "opposition",
+      "father"
+    ],
+    "is_major_claim": false,
+    "supports": [
+      24
+    ],
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-NVP-026",
+    "work_id": "KUC-NVP",
+    "work_title": "Neurosis vs. Psychosis",
+    "position_type": "example",
+    "claim": "Schopenhauer established identity by being a philosopher opposite to his merchant father",
+    "text": "Schopenhauer established identity by being a philosopher opposite to his merchant father",
+    "quote": "This was Schopenhauer's situation. Schopenhauer's father was a wealthy merchant. Schopenhauer was a great philosopher who spoke with contempt of merchants.",
+    "domain": "psychoanalysis",
+    "topics": [
+      "identity",
+      "opposition",
+      "example"
+    ],
+    "is_major_claim": false,
+    "supports": [
+      25
+    ],
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-NVP-027",
+    "work_id": "KUC-NVP",
+    "work_title": "Neurosis vs. Psychosis",
+    "position_type": "sub_argument",
+    "claim": "A man can establish identity by doing what his father does but better",
+    "text": "A man can establish identity by doing what his father does but better",
+    "quote": "He can establish his identity by doing what his father does but doing it better.",
+    "domain": "psychoanalysis",
+    "topics": [
+      "identity",
+      "improvement",
+      "father"
+    ],
+    "is_major_claim": false,
+    "supports": [
+      24
+    ],
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-NVP-028",
+    "work_id": "KUC-NVP",
+    "work_title": "Neurosis vs. Psychosis",
+    "position_type": "example",
+    "claim": "Mozart and Trump exemplify establishing identity by surpassing father in same field",
+    "text": "Mozart and Trump exemplify establishing identity by surpassing father in same field",
+    "quote": "This was Mozart's situation. Mozart's father was a good composer; Mozart was a great composer. This is also Donald Trump's situation. Trump's father was a moderately successful business man; Trump is an extremely successful businessman.",
+    "domain": "psychoanalysis",
+    "topics": [
+      "identity",
+      "improvement",
+      "example"
+    ],
+    "is_major_claim": false,
+    "supports": [
+      27
+    ],
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-NVP-029",
+    "work_id": "KUC-NVP",
+    "work_title": "Neurosis vs. Psychosis",
+    "position_type": "sub_argument",
+    "claim": "A man can fail to establish identity",
+    "text": "A man can fail to establish identity",
+    "quote": "He can fail.",
+    "domain": "psychoanalysis",
+    "topics": [
+      "identity",
+      "failure"
+    ],
+    "is_major_claim": false,
+    "supports": [
+      24
+    ],
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-NVP-030",
+    "work_id": "KUC-NVP",
+    "work_title": "Neurosis vs. Psychosis",
+    "position_type": "sub_argument",
+    "claim": "Men can fail by trying but failing to fill father's shoes",
+    "text": "Men can fail by trying but failing to fill father's shoes",
+    "quote": "He can try to fill his father's shoes but fail.",
+    "domain": "psychoanalysis",
+    "topics": [
+      "failure",
+      "father",
+      "inadequacy"
+    ],
+    "is_major_claim": false,
+    "supports": [
+      29
+    ],
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-NVP-031",
+    "work_id": "KUC-NVP",
+    "work_title": "Neurosis vs. Psychosis",
+    "position_type": "sub_argument",
+    "claim": "Men can fail by submitting to father without trying",
+    "text": "Men can fail by submitting to father without trying",
+    "quote": "He can submit to his father without even going so far as to try to fill his shoes.",
+    "domain": "psychoanalysis",
+    "topics": [
+      "failure",
+      "submission",
+      "father"
+    ],
+    "is_major_claim": false,
+    "supports": [
+      29
+    ],
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-NVP-032",
+    "work_id": "KUC-NVP",
+    "work_title": "Neurosis vs. Psychosis",
+    "position_type": "sub_argument",
+    "claim": "Men can fail by having no father to triumph over",
+    "text": "Men can fail by having no father to triumph over",
+    "quote": "He can have no father at all and thus have no father to triumph over or to fail to triumph over.",
+    "domain": "psychoanalysis",
+    "topics": [
+      "failure",
+      "father",
+      "absence"
+    ],
+    "is_major_claim": false,
+    "supports": [
+      29
+    ],
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-NVP-033",
+    "work_id": "KUC-NVP",
+    "work_title": "Neurosis vs. Psychosis",
+    "position_type": "major_claim",
+    "claim": "Compulsive work is about avoidance",
+    "text": "Compulsive work is about avoidance",
+    "quote": "Compulsive Work is about avoidance.",
+    "domain": "psychoanalysis",
+    "topics": [
+      "compulsion",
+      "work",
+      "avoidance"
+    ],
+    "is_major_claim": true,
+    "supports": null,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-NVP-034",
+    "work_id": "KUC-NVP",
+    "work_title": "Neurosis vs. Psychosis",
+    "position_type": "supporting_argument",
+    "claim": "There are two kinds of workaholics: those who love their work and those who hate it",
+    "text": "There are two kinds of workaholics: those who love their work and those who hate it",
+    "quote": "Here one must distinguish between two kinds of workaholics. There is the workaholic who loves what he is doing: this person works because he wants to work. Then there is the workaholic who hates what he is doing: this person works because he doesn't want to work.",
+    "domain": "psychoanalysis",
+    "topics": [
+      "workaholism",
+      "motivation",
+      "love",
+      "hate"
+    ],
+    "is_major_claim": false,
+    "supports": [
+      33
+    ],
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-NVP-035",
+    "work_id": "KUC-NVP",
+    "work_title": "Neurosis vs. Psychosis",
+    "position_type": "supporting_argument",
+    "claim": "Work-loving workaholics are not compulsive; work-hating ones are compulsive",
+    "text": "Work-loving workaholics are not compulsive; work-hating ones are compulsive",
+    "quote": "The workaholic who loves his work is not working compulsively, and this form of workaholism is not about avoidance. But the workaholic who hates his work isworking compulsively, and this form of workaholism is about avoidance.",
+    "domain": "psychoanalysis",
+    "topics": [
+      "compulsion",
+      "avoidance",
+      "love",
+      "hate"
+    ],
+    "is_major_claim": false,
+    "supports": [
+      34
+    ],
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-NVP-036",
+    "work_id": "KUC-NVP",
+    "work_title": "Neurosis vs. Psychosis",
+    "position_type": "supporting_argument",
+    "claim": "Compulsive workaholics avoid what they want to do and need compulsion because they hate their work",
+    "text": "Compulsive workaholics avoid what they want to do and need compulsion because they hate their work",
+    "quote": "This type of workaholic is avoiding doing what he wants to do, and because he hates what he is doing, he has to do it compulsively.",
+    "domain": "psychoanalysis",
+    "topics": [
+      "compulsion",
+      "avoidance",
+      "desire",
+      "hate"
+    ],
+    "is_major_claim": false,
+    "supports": [
+      35
+    ],
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-NVP-037",
+    "work_id": "KUC-NVP",
+    "work_title": "Neurosis vs. Psychosis",
+    "position_type": "major_claim",
+    "claim": "Stuttering is about not speaking with a single voice",
+    "text": "Stuttering is about not speaking with a single voice",
+    "quote": "Stuttering is about not speaking with a single voice.",
+    "domain": "psychoanalysis",
+    "topics": [
+      "stuttering",
+      "voice",
+      "unity"
+    ],
+    "is_major_claim": true,
+    "supports": null,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-NVP-038",
+    "work_id": "KUC-NVP",
+    "work_title": "Neurosis vs. Psychosis",
+    "position_type": "supporting_argument",
+    "claim": "Stuttering occurs when two distinct thought currents compete for speech control",
+    "text": "Stuttering occurs when two distinct thought currents compete for speech control",
+    "quote": "Two distinct currents of thought are attempting to control one's speech.",
+    "domain": "psychoanalysis",
+    "topics": [
+      "stuttering",
+      "thought",
+      "control",
+      "conflict"
+    ],
+    "is_major_claim": false,
+    "supports": [
+      37
+    ],
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-NVP-039",
+    "work_id": "KUC-NVP",
+    "work_title": "Neurosis vs. Psychosis",
+    "position_type": "supporting_argument",
+    "claim": "Stuttering occurs when thought currents are evenly matched; normal speech when one dominates",
+    "text": "Stuttering occurs when thought currents are evenly matched; normal speech when one dominates",
+    "quote": "To the extent that these two thought-currents are evenly matched, one stutters. To the extent that one of these thought currents dominates the other, speech is normal.",
+    "domain": "psychoanalysis",
+    "topics": [
+      "stuttering",
+      "dominance",
+      "balance"
+    ],
+    "is_major_claim": false,
+    "supports": [
+      38
+    ],
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-NVP-040",
+    "work_id": "KUC-NVP",
+    "work_title": "Neurosis vs. Psychosis",
+    "position_type": "major_claim",
+    "claim": "Men are self-contained and women are not",
+    "text": "Men are self-contained and women are not",
+    "quote": "Men are self-contained and woman are not. That is the difference between men and women.",
+    "domain": "psychoanalysis",
+    "topics": [
+      "gender",
+      "self_containment",
+      "difference"
+    ],
+    "is_major_claim": true,
+    "supports": null,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-NVP-041",
+    "work_id": "KUC-NVP",
+    "work_title": "Neurosis vs. Psychosis",
+    "position_type": "supporting_argument",
+    "claim": "Non-self-contained men are not really men; self-contained women are not really women",
+    "text": "Non-self-contained men are not really men; self-contained women are not really women",
+    "quote": "Obviously there are men who are not self-contained and there are women who are self-contained. But such men are not really men, and such women are not really women.",
+    "domain": "psychoanalysis",
+    "topics": [
+      "gender",
+      "self_containment",
+      "authenticity"
+    ],
+    "is_major_claim": false,
+    "supports": [
+      40
+    ],
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-NVP-042",
+    "work_id": "KUC-NVP",
+    "work_title": "Neurosis vs. Psychosis",
+    "position_type": "major_claim",
+    "claim": "One learns from adversity, not from failure",
+    "text": "One learns from adversity, not from failure",
+    "quote": "One learns from adversity, not from failure.",
+    "domain": "epistemology",
+    "topics": [
+      "learning",
+      "adversity",
+      "failure"
+    ],
+    "is_major_claim": true,
+    "supports": null,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-NVP-043",
+    "work_id": "KUC-NVP",
+    "work_title": "Neurosis vs. Psychosis",
+    "position_type": "objection_response",
+    "claim": "The common belief that one learns more from failure than success is false",
+    "text": "The common belief that one learns more from failure than success is false",
+    "quote": "It is often said that one learns more from failure than from success. This is not true.",
+    "domain": "epistemology",
+    "topics": [
+      "learning",
+      "failure",
+      "success"
+    ],
+    "is_major_claim": false,
+    "supports": [
+      42
+    ],
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-NVP-044",
+    "work_id": "KUC-NVP",
+    "work_title": "Neurosis vs. Psychosis",
+    "position_type": "supporting_argument",
+    "claim": "Personal experience shows success opens new vistas while failure teaches nothing",
+    "text": "Personal experience shows success opens new vistas while failure teaches nothing",
+    "quote": "I have succeeded many times and failed many times. Each success opened up new and completely unforeseen vistas. Each failure was nothing but a dead end, from which I learned nothing, except that what I was doing led to a dead end.",
+    "domain": "epistemology",
+    "topics": [
+      "learning",
+      "experience",
+      "success",
+      "failure"
+    ],
+    "is_major_claim": false,
+    "supports": [
+      43
+    ],
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-NVP-045",
+    "work_id": "KUC-NVP",
+    "work_title": "Neurosis vs. Psychosis",
+    "position_type": "supporting_argument",
+    "claim": "Failure is the end-result of adversity not triumphed over, not adversity itself",
+    "text": "Failure is the end-result of adversity not triumphed over, not adversity itself",
+    "quote": "Failure is not adversity. Failure is the end-result of adversity that was not triumphed over.",
+    "domain": "epistemology",
+    "topics": [
+      "failure",
+      "adversity",
+      "triumph"
+    ],
+    "is_major_claim": false,
+    "supports": [
+      42
+    ],
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-NVP-046",
+    "work_id": "KUC-NVP",
+    "work_title": "Neurosis vs. Psychosis",
+    "position_type": "major_claim",
+    "claim": "Everybody wants money",
+    "text": "Everybody wants money",
+    "quote": "Yes. Everybody.",
+    "domain": "psychoanalysis",
+    "topics": [
+      "desire",
+      "money",
+      "universality"
+    ],
+    "is_major_claim": true,
+    "supports": null,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-NVP-047",
+    "work_id": "KUC-NVP",
+    "work_title": "Neurosis vs. Psychosis",
+    "position_type": "supporting_argument",
+    "claim": "Spurning money is itself a way of wanting money",
+    "text": "Spurning money is itself a way of wanting money",
+    "quote": "That is itself a way of wanting money. That is to say, it is a reaction to the desire for money.",
+    "domain": "psychoanalysis",
+    "topics": [
+      "money",
+      "reaction",
+      "desire"
+    ],
+    "is_major_claim": false,
+    "supports": [
+      46
+    ],
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-NVP-048",
+    "work_id": "KUC-NVP",
+    "work_title": "Neurosis vs. Psychosis",
+    "position_type": "example",
+    "claim": "The poor scholar who takes pride in poverty has the attitude of a jilted lover toward money",
+    "text": "The poor scholar who takes pride in poverty has the attitude of a jilted lover toward money",
+    "quote": "Consider the brilliant scholar who lives in his squalid basement flat and who actually seems to take pride in his miserable circumstance. His attitude towards money is that of a jilted and petulant lover.",
+    "domain": "psychoanalysis",
+    "topics": [
+      "money",
+      "poverty",
+      "attitude",
+      "reaction"
+    ],
+    "is_major_claim": false,
+    "supports": [
+      47
+    ],
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-NVP-049",
+    "work_id": "KUC-NVP",
+    "work_title": "Neurosis vs. Psychosis",
+    "position_type": "supporting_argument",
+    "claim": "Overblown feelings are the opposite of what they appear to be",
+    "text": "Overblown feelings are the opposite of what they appear to be",
+    "quote": "Overblown feelings are the opposite of what they are supposed to be.",
+    "domain": "psychoanalysis",
+    "topics": [
+      "emotion",
+      "appearance",
+      "opposite"
+    ],
+    "is_major_claim": false,
+    "supports": [
+      48
+    ],
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-NVP-050",
+    "work_id": "KUC-NVP",
+    "work_title": "Neurosis vs. Psychosis",
+    "position_type": "supporting_argument",
+    "claim": "Genuine emotions are not objects of intense self-scrutiny",
+    "text": "Genuine emotions are not objects of intense self-scrutiny",
+    "quote": "Emotions that are what they seem to be are not the objects of intense scrutiny on the part of those who have them.",
+    "domain": "psychoanalysis",
+    "topics": [
+      "emotion",
+      "authenticity",
+      "scrutiny"
+    ],
+    "is_major_claim": false,
+    "supports": [
+      49
+    ],
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-NVP-051",
+    "work_id": "KUC-NVP",
+    "work_title": "Neurosis vs. Psychosis",
+    "position_type": "supporting_argument",
+    "claim": "Attitudes used for self-narratives are opposite of what they seem",
+    "text": "Attitudes used for self-narratives are opposite of what they seem",
+    "quote": "Attitudes that are pressed into the service of tendentious narratives about oneself are the opposite of what they seem to be.",
+    "domain": "psychoanalysis",
+    "topics": [
+      "attitude",
+      "narrative",
+      "appearance"
+    ],
+    "is_major_claim": false,
+    "supports": [
+      49
+    ],
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-NVP-052",
+    "work_id": "KUC-NVP",
+    "work_title": "Neurosis vs. Psychosis",
+    "position_type": "major_claim",
+    "claim": "The number one rule of writing is to immediately write down every thought",
+    "text": "The number one rule of writing is to immediately write down every thought",
+    "quote": "The Number #1 Rule of Writing is that one must immediately write down every thought that occurs to one.",
+    "domain": "philosophy_of_language",
+    "topics": [
+      "writing",
+      "thought",
+      "immediacy"
+    ],
+    "is_major_claim": true,
+    "supports": null,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-NVP-053",
+    "work_id": "KUC-NVP",
+    "work_title": "Neurosis vs. Psychosis",
+    "position_type": "supporting_argument",
+    "claim": "Waiting causes the moment to pass irretrievably",
+    "text": "Waiting causes the moment to pass irretrievably",
+    "quote": "If one waits, the moment will pass, never to be recovered.",
+    "domain": "philosophy_of_language",
+    "topics": [
+      "writing",
+      "time",
+      "opportunity"
+    ],
+    "is_major_claim": false,
+    "supports": [
+      52
+    ],
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-NVP-054",
+    "work_id": "KUC-NVP",
+    "work_title": "Neurosis vs. Psychosis",
+    "position_type": "supporting_argument",
+    "claim": "Memorization is insufficient because original ideas are foils for unconscious constellations",
+    "text": "Memorization is insufficient because original ideas are foils for unconscious constellations",
+    "quote": "It is irrelevant that one should 'memorize' what it is that one wanted to say, since the idea that originally came to mind was merely a foil for a constellation of unconscious ideas.",
+    "domain": "philosophy_of_language",
+    "topics": [
+      "memory",
+      "unconscious",
+      "ideas"
+    ],
+    "is_major_claim": false,
+    "supports": [
+      52
+    ],
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-NVP-055",
+    "work_id": "KUC-NVP",
+    "work_title": "Neurosis vs. Psychosis",
+    "position_type": "supporting_argument",
+    "claim": "Complete honesty is compatible with immediate transcription as a writing rule",
+    "text": "Complete honesty is compatible with immediate transcription as a writing rule",
+    "quote": "Elsewhere I have said that the Number #1 rule of writing is complete honest. This is compatible with what I just said, since, if one follows the above-stated injunction, one is ipso facto an honest writer.",
+    "domain": "philosophy_of_language",
+    "topics": [
+      "honesty",
+      "writing",
+      "compatibility"
+    ],
+    "is_major_claim": false,
+    "supports": [
+      52
+    ],
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-NVP-056",
+    "work_id": "KUC-NVP",
+    "work_title": "Neurosis vs. Psychosis",
+    "position_type": "major_claim",
+    "claim": "Lack of coordination stems from failure to be centered",
+    "text": "Lack of coordination stems from failure to be centered",
+    "quote": "Lack of coordination has to do with a failure to be centered, which in turn has to do with a failure to have an objective that one truly believes in.",
+    "domain": "psychoanalysis",
+    "topics": [
+      "coordination",
+      "centering",
+      "belief",
+      "objectives"
+    ],
+    "is_major_claim": true,
+    "supports": null,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-NVP-057",
+    "work_id": "KUC-NVP",
+    "work_title": "Neurosis vs. Psychosis",
+    "position_type": "supporting_argument",
+    "claim": "Physical and psychological coordination are connected manifestations",
+    "text": "Physical and psychological coordination are connected manifestations",
+    "quote": "Lack of physical coordination is accompanied by, since it is a manifestation of, a lack of psychological coordination.",
+    "domain": "psychoanalysis",
+    "topics": [
+      "coordination",
+      "physical",
+      "psychological",
+      "manifestation"
+    ],
+    "is_major_claim": false,
+    "supports": [
+      56
+    ],
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-NVP-058",
+    "work_id": "KUC-NVP",
+    "work_title": "Neurosis vs. Psychosis",
+    "position_type": "major_claim",
+    "claim": "Psychological conditions are pathological if they restrict freedom, non-pathological if they don't",
+    "text": "Psychological conditions are pathological if they restrict freedom, non-pathological if they don't",
+    "quote": "A given psychological condition is pathological if it restricts freedom and non-pathological if it does not.",
+    "domain": "psychoanalysis",
+    "topics": [
+      "pathology",
+      "freedom",
+      "mental_illness"
+    ],
+    "is_major_claim": true,
+    "supports": null,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-NVP-059",
+    "work_id": "KUC-NVP",
+    "work_title": "Neurosis vs. Psychosis",
+    "position_type": "supporting_argument",
+    "claim": "Conditions that augment freedom are counter-pathological even if unusual",
+    "text": "Conditions that augment freedom are counter-pathological even if unusual",
+    "quote": "A given condition is positively counter-pathological if it augments freedom, even if it is unusual or even unique.",
+    "domain": "psychoanalysis",
+    "topics": [
+      "pathology",
+      "freedom",
+      "uniqueness"
+    ],
+    "is_major_claim": false,
+    "supports": [
+      58
+    ],
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-NVP-060",
+    "work_id": "KUC-NVP",
+    "work_title": "Neurosis vs. Psychosis",
+    "position_type": "major_claim",
+    "claim": "The number one rule of business is doing what comes naturally",
+    "text": "The number one rule of business is doing what comes naturally",
+    "quote": "The #1 Rule rule of business is that you must do what comes naturally to you.",
+    "domain": "philosophy_of_mind",
+    "topics": [
+      "business",
+      "nature",
+      "authenticity"
+    ],
+    "is_major_claim": true,
+    "supports": null,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-NVP-061",
+    "work_id": "KUC-NVP",
+    "work_title": "Neurosis vs. Psychosis",
+    "position_type": "supporting_argument",
+    "claim": "One must not work against one's own nature despite working hard",
+    "text": "One must not work against one's own nature despite working hard",
+    "quote": "You must not go against your own grain. You must work hard, but you must not work hard fighting your own nature.",
+    "domain": "philosophy_of_mind",
+    "topics": [
+      "nature",
+      "effort",
+      "authenticity"
+    ],
+    "is_major_claim": false,
+    "supports": [
+      60
+    ],
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-NVP-062",
+    "work_id": "KUC-NVP",
+    "work_title": "Neurosis vs. Psychosis",
+    "position_type": "supporting_argument",
+    "claim": "Entrepreneur's block affects those not working from the heart, like writer's block",
+    "text": "Entrepreneur's block affects those not working from the heart, like writer's block",
+    "quote": "Just as writer's block only afflicts those who are not writing from the heart, so 'entrepreneur's block' only afflicts those who are not working from the heart.",
+    "domain": "philosophy_of_mind",
+    "topics": [
+      "block",
+      "heart",
+      "authenticity"
+    ],
+    "is_major_claim": false,
+    "supports": [
+      61
+    ],
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-NVP-063",
+    "work_id": "KUC-NVP",
+    "work_title": "Neurosis vs. Psychosis",
+    "position_type": "supporting_argument",
+    "claim": "Success comes from choosing paths based on identity, failure from having agendas",
+    "text": "Success comes from choosing paths based on identity, failure from having agendas",
+    "quote": "When people choose a given path because it is who they are, they succeed. When they do so because they have an agenda, they do not.",
+    "domain": "philosophy_of_mind",
+    "topics": [
+      "success",
+      "identity",
+      "agenda",
+      "authenticity"
+    ],
+    "is_major_claim": false,
+    "supports": [
+      62
+    ],
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-NVP-064",
+    "work_id": "KUC-NVP",
+    "work_title": "Neurosis vs. Psychosis",
+    "position_type": "supporting_argument",
+    "claim": "The identity-success principle applies to both writers and entrepreneurs",
+    "text": "The identity-success principle applies to both writers and entrepreneurs",
+    "quote": "This is true of writers and also of entrepreneurs.",
+    "domain": "philosophy_of_mind",
+    "topics": [
+      "success",
+      "identity",
+      "writers",
+      "entrepreneurs"
+    ],
+    "is_major_claim": false,
+    "supports": [
+      63
+    ],
+    "extraction_date": "2025-12-06"
+  }
+]

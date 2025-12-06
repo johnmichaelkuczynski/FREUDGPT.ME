@@ -1,0 +1,1223 @@
+[
+  {
+    "position_id": "KUC-ECON-001",
+    "work_id": "KUC-ECON",
+    "work_title": "Economics of Higher Education",
+    "position_type": "major_claim",
+    "claim": "Colleges sell degrees rather than providing instruction",
+    "text": "Colleges sell degrees rather than providing instruction",
+    "quote": "Colleges Sell Degrees, not Instruction",
+    "domain": "economics",
+    "topics": [
+      "higher education",
+      "business models",
+      "educational purpose"
+    ],
+    "is_major_claim": true,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-ECON-002",
+    "work_id": "KUC-ECON",
+    "work_title": "Economics of Higher Education",
+    "position_type": "major_claim",
+    "claim": "Enrollment rates matter more than retention and graduation rates for universities",
+    "text": "Enrollment rates matter more than retention and graduation rates for universities",
+    "quote": "Enrollment-rates Matter: Retention- and Graduation-rates Don't",
+    "domain": "economics",
+    "topics": [
+      "university metrics",
+      "educational success measures",
+      "institutional priorities"
+    ],
+    "is_major_claim": true,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-ECON-003",
+    "work_id": "KUC-ECON",
+    "work_title": "Economics of Higher Education",
+    "position_type": "major_claim",
+    "claim": "Universities have a distinctive business model that differs from open-market companies",
+    "text": "Universities have a distinctive business model that differs from open-market companies",
+    "quote": "Universities: Their Distinctive Business-model",
+    "domain": "economics",
+    "topics": [
+      "business models",
+      "institutional economics",
+      "market structures"
+    ],
+    "is_major_claim": true,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-ECON-004",
+    "work_id": "KUC-ECON",
+    "work_title": "Economics of Higher Education",
+    "position_type": "major_claim",
+    "claim": "Open-market companies operate differently from universities",
+    "text": "Open-market companies operate differently from universities",
+    "quote": "Open-market Companies (OMC's): How they Differ from Universities",
+    "domain": "economics",
+    "topics": [
+      "market economics",
+      "institutional comparison",
+      "business structures"
+    ],
+    "is_major_claim": true,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-ECON-005",
+    "work_id": "KUC-ECON",
+    "work_title": "Economics of Higher Education",
+    "position_type": "supporting_argument",
+    "claim": "There is a question about whether graduation and retention rates actually matter",
+    "text": "There is a question about whether graduation and retention rates actually matter",
+    "quote": "Do Graduation- and Retention-rates Matter?",
+    "domain": "education",
+    "topics": [
+      "educational metrics",
+      "institutional assessment",
+      "academic success"
+    ],
+    "is_major_claim": false,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-ECON-006",
+    "work_id": "KUC-ECON",
+    "work_title": "Economics of Higher Education",
+    "position_type": "supporting_argument",
+    "claim": "There is a paradox regarding macroeconomic efficiency in higher education",
+    "text": "There is a paradox regarding macroeconomic efficiency in higher education",
+    "quote": "The Paradox of Macroeconomic Efficiency",
+    "domain": "economics",
+    "topics": [
+      "macroeconomics",
+      "efficiency",
+      "educational economics"
+    ],
+    "is_major_claim": false,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-ECON-007",
+    "work_id": "KUC-ECON",
+    "work_title": "Economics of Higher Education",
+    "position_type": "supporting_argument",
+    "claim": "Dropping out is not necessarily indicative of failure",
+    "text": "Dropping out is not necessarily indicative of failure",
+    "quote": "When in Doubt, Drop Out: Dispelling the Myth that Only Losers Drop Out",
+    "domain": "education",
+    "topics": [
+      "academic persistence",
+      "educational outcomes",
+      "student success"
+    ],
+    "is_major_claim": false,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-ECON-008",
+    "work_id": "KUC-ECON",
+    "work_title": "Economics of Higher Education",
+    "position_type": "major_claim",
+    "claim": "Knowledge management cannot assist universities in their current form",
+    "text": "Knowledge management cannot assist universities in their current form",
+    "quote": "Why Knowledge-management Cannot be of Assistance to Universities",
+    "domain": "education",
+    "topics": [
+      "knowledge management",
+      "university administration",
+      "organizational efficiency"
+    ],
+    "is_major_claim": true,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-ECON-009",
+    "work_id": "KUC-ECON",
+    "work_title": "Economics of Higher Education",
+    "position_type": "major_claim",
+    "claim": "Revenue can be maximized by optimizing education",
+    "text": "Revenue can be maximized by optimizing education",
+    "quote": "How to Maximize Revenue by Optimizing Education",
+    "domain": "economics",
+    "topics": [
+      "revenue optimization",
+      "educational efficiency",
+      "institutional economics"
+    ],
+    "is_major_claim": true,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-ECON-010",
+    "work_id": "KUC-ECON",
+    "work_title": "Economics of Higher Education",
+    "position_type": "supporting_argument",
+    "claim": "Knowledge management functions as a preventative measure",
+    "text": "Knowledge management functions as a preventative measure",
+    "quote": "KM as Preventative Measure",
+    "domain": "economics",
+    "topics": [
+      "knowledge management",
+      "organizational strategy",
+      "preventative systems"
+    ],
+    "is_major_claim": false,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-ECON-011",
+    "work_id": "KUC-ECON",
+    "work_title": "Economics of Higher Education",
+    "position_type": "supporting_argument",
+    "claim": "Knowledge management applies differently to organizations that sell results versus services",
+    "text": "Knowledge management applies differently to organizations that sell results versus services",
+    "quote": "KM in Relation to Organizations that Sell Results",
+    "domain": "economics",
+    "topics": [
+      "knowledge management",
+      "organizational types",
+      "business models"
+    ],
+    "is_major_claim": false,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-ECON-012",
+    "work_id": "KUC-ECON",
+    "work_title": "Economics of Higher Education",
+    "position_type": "supporting_argument",
+    "claim": "Service organizations depend on poor knowledge management",
+    "text": "Service organizations depend on poor knowledge management",
+    "quote": "Service-organizations Depend on Poor KM",
+    "domain": "economics",
+    "topics": [
+      "service organizations",
+      "knowledge management",
+      "organizational dysfunction"
+    ],
+    "is_major_claim": false,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-ECON-013",
+    "work_id": "KUC-ECON",
+    "work_title": "Economics of Higher Education",
+    "position_type": "major_claim",
+    "claim": "Knowledge management is impossible without performance-dependent employment and pay",
+    "text": "Knowledge management is impossible without performance-dependent employment and pay",
+    "quote": "KM Impossible Unless Employment and Pay are Performance-dependent",
+    "domain": "economics",
+    "topics": [
+      "performance management",
+      "compensation systems",
+      "knowledge management"
+    ],
+    "is_major_claim": true,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-ECON-014",
+    "work_id": "KUC-ECON",
+    "work_title": "Economics of Higher Education",
+    "position_type": "major_claim",
+    "claim": "Knowledge management requires financial transparency",
+    "text": "Knowledge management requires financial transparency",
+    "quote": "No KM without Financial Transparency",
+    "domain": "economics",
+    "topics": [
+      "financial transparency",
+      "knowledge management",
+      "organizational accountability"
+    ],
+    "is_major_claim": true,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-ECON-015",
+    "work_id": "KUC-ECON",
+    "work_title": "Economics of Higher Education",
+    "position_type": "supporting_argument",
+    "claim": "Expense padding is related to knowledge management issues",
+    "text": "Expense padding is related to knowledge management issues",
+    "quote": "Expense-padding in Relation to KM",
+    "domain": "economics",
+    "topics": [
+      "financial management",
+      "expense control",
+      "organizational efficiency"
+    ],
+    "is_major_claim": false,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-ECON-016",
+    "work_id": "KUC-ECON",
+    "work_title": "Economics of Higher Education",
+    "position_type": "major_claim",
+    "claim": "Education must be digitized whenever possible",
+    "text": "Education must be digitized whenever possible",
+    "quote": "Education Must be Digitized Whenever Possible",
+    "domain": "education",
+    "topics": [
+      "educational technology",
+      "digitization",
+      "instructional delivery"
+    ],
+    "is_major_claim": true,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-ECON-017",
+    "work_id": "KUC-ECON",
+    "work_title": "Economics of Higher Education",
+    "position_type": "major_claim",
+    "claim": "DMO represents a new and better kind of university",
+    "text": "DMO represents a new and better kind of university",
+    "quote": "DMO: A New and Better Kind of University",
+    "domain": "education",
+    "topics": [
+      "university reform",
+      "institutional innovation",
+      "educational models"
+    ],
+    "is_major_claim": true,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-ECON-018",
+    "work_id": "KUC-ECON",
+    "work_title": "Economics of Higher Education",
+    "position_type": "supporting_argument",
+    "claim": "All accreditations should be examination-based",
+    "text": "All accreditations should be examination-based",
+    "quote": "All Accreditations Examination-based",
+    "domain": "education",
+    "topics": [
+      "accreditation",
+      "assessment methods",
+      "educational standards"
+    ],
+    "is_major_claim": false,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-ECON-019",
+    "work_id": "KUC-ECON",
+    "work_title": "Economics of Higher Education",
+    "position_type": "supporting_argument",
+    "claim": "DMO can transform non-STEM students into STEM students",
+    "text": "DMO can transform non-STEM students into STEM students",
+    "quote": "How DMO Turns Non-STEM Students into STEM Students",
+    "domain": "education",
+    "topics": [
+      "STEM education",
+      "student transformation",
+      "academic specialization"
+    ],
+    "is_major_claim": false,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-ECON-020",
+    "work_id": "KUC-ECON",
+    "work_title": "Economics of Higher Education",
+    "position_type": "supporting_argument",
+    "claim": "Emphasis should be placed on instruction rather than selection",
+    "text": "Emphasis should be placed on instruction rather than selection",
+    "quote": "Emphasis on Instruction as Opposed to Selection",
+    "domain": "education",
+    "topics": [
+      "instructional focus",
+      "student selection",
+      "educational priorities"
+    ],
+    "is_major_claim": false,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-ECON-021",
+    "work_id": "KUC-ECON",
+    "work_title": "Economics of Higher Education",
+    "position_type": "supporting_argument",
+    "claim": "DMO should offer more degree levels than traditional universities",
+    "text": "DMO should offer more degree levels than traditional universities",
+    "quote": "More Degree-levels at DMO",
+    "domain": "education",
+    "topics": [
+      "degree structures",
+      "academic credentials",
+      "educational levels"
+    ],
+    "is_major_claim": false,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-ECON-022",
+    "work_id": "KUC-ECON",
+    "work_title": "Economics of Higher Education",
+    "position_type": "major_claim",
+    "claim": "Instructors should never function as gatekeepers",
+    "text": "Instructors should never function as gatekeepers",
+    "quote": "Instructors Never to Function as Gatekeepers",
+    "domain": "education",
+    "topics": [
+      "instructor roles",
+      "educational access",
+      "gatekeeping"
+    ],
+    "is_major_claim": true,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-ECON-023",
+    "work_id": "KUC-ECON",
+    "work_title": "Economics of Higher Education",
+    "position_type": "major_claim",
+    "claim": "Payments should go directly from students to instructors",
+    "text": "Payments should go directly from students to instructors",
+    "quote": "Payments to Go Straight from Student to Instructor",
+    "domain": "economics",
+    "topics": [
+      "payment systems",
+      "financial structures",
+      "instructor compensation"
+    ],
+    "is_major_claim": true,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-ECON-024",
+    "work_id": "KUC-ECON",
+    "work_title": "Economics of Higher Education",
+    "position_type": "supporting_argument",
+    "claim": "There should be an inverted payment pyramid structure",
+    "text": "There should be an inverted payment pyramid structure",
+    "quote": "The Inverted Payment Pyramid",
+    "domain": "economics",
+    "topics": [
+      "payment structures",
+      "financial hierarchies",
+      "compensation models"
+    ],
+    "is_major_claim": false,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-ECON-025",
+    "work_id": "KUC-ECON",
+    "work_title": "Economics of Higher Education",
+    "position_type": "supporting_argument",
+    "claim": "DMO must satisfy 25 specific desiderata",
+    "text": "DMO must satisfy 25 specific desiderata",
+    "quote": "25 Desiderata that DMO Must Satisfy",
+    "domain": "education",
+    "topics": [
+      "institutional requirements",
+      "educational standards",
+      "university design"
+    ],
+    "is_major_claim": false,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-ECON-026",
+    "work_id": "KUC-ECON",
+    "work_title": "Economics of Higher Education",
+    "position_type": "definition",
+    "claim": "The work addresses the economics of higher education in the contemporary era",
+    "text": "The work addresses the economics of higher education in the contemporary era",
+    "quote": "The Economics of Higher Education in the 21st Century",
+    "domain": "economics",
+    "topics": [
+      "higher education",
+      "contemporary economics",
+      "educational economics"
+    ],
+    "is_major_claim": false,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-ECON-027",
+    "work_id": "KUC-ECON",
+    "work_title": "Economics of Higher Education",
+    "position_type": "supporting_argument",
+    "claim": "There are specific individuals who sound alarms about knowledge management",
+    "text": "There are specific individuals who sound alarms about knowledge management",
+    "quote": "Who Exactly Sounds the KM-alarm?",
+    "domain": "economics",
+    "topics": [
+      "knowledge management",
+      "organizational alerts",
+      "stakeholder concerns"
+    ],
+    "is_major_claim": false,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-ECON-028",
+    "work_id": "KUC-ECON",
+    "work_title": "Economics of Higher Education",
+    "position_type": "supporting_argument",
+    "claim": "Knowledge management relates differently to service organizations",
+    "text": "Knowledge management relates differently to service organizations",
+    "quote": "KM in Relation to Organizations that Sell Services",
+    "domain": "economics",
+    "topics": [
+      "knowledge management",
+      "service organizations",
+      "organizational types"
+    ],
+    "is_major_claim": false,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-ECON-029",
+    "work_id": "KUC-ECON",
+    "work_title": "Economics of Higher Education",
+    "position_type": "supporting_argument",
+    "claim": "There is a question about how useful students actually want their education to be",
+    "text": "There is a question about how useful students actually want their education to be",
+    "quote": "How Useful Do Students Really Want Their Educations To Be?",
+    "domain": "education",
+    "topics": [
+      "student preferences",
+      "educational utility",
+      "practical value"
+    ],
+    "is_major_claim": false,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-ECON-030",
+    "work_id": "KUC-ECON",
+    "work_title": "Economics of Higher Education",
+    "position_type": "major_claim",
+    "claim": "Universities are not threatened by low retention and graduation rates because they sell degrees, not instruction",
+    "text": "Universities are not threatened by low retention and graduation rates because they sell degrees, not instruction",
+    "quote": "universities are in no way threatened by low retention-rates and graduation-rates",
+    "domain": "economics",
+    "topics": [
+      "higher_education",
+      "business_models",
+      "university_economics"
+    ],
+    "is_major_claim": true,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-ECON-031",
+    "work_id": "KUC-ECON",
+    "work_title": "Economics of Higher Education",
+    "position_type": "major_claim",
+    "claim": "Universities cannot improve educational quality without endangering their existence",
+    "text": "Universities cannot improve educational quality without endangering their existence",
+    "quote": "universities cannot significantly improve or otherwise alter the quality of their educational services without imperiling their very existences",
+    "domain": "economics",
+    "topics": [
+      "higher_education",
+      "institutional_constraints",
+      "educational_quality"
+    ],
+    "is_major_claim": true,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-ECON-032",
+    "work_id": "KUC-ECON",
+    "work_title": "Economics of Higher Education",
+    "position_type": "definition",
+    "claim": "Retention rate is the percentage of students who stay after the first year",
+    "text": "Retention rate is the percentage of students who stay after the first year",
+    "quote": "A university's retention rate is the percentage of students who stay after the first year",
+    "domain": "education",
+    "topics": [
+      "retention_rates",
+      "university_metrics"
+    ],
+    "is_major_claim": false,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-ECON-033",
+    "work_id": "KUC-ECON",
+    "work_title": "Economics of Higher Education",
+    "position_type": "definition",
+    "claim": "Graduation rate is the percentage of students who graduate within six years of enrollment",
+    "text": "Graduation rate is the percentage of students who graduate within six years of enrollment",
+    "quote": "A university's graduation rate is the percentage of students who graduate within six years of enrollment",
+    "domain": "education",
+    "topics": [
+      "graduation_rates",
+      "university_metrics"
+    ],
+    "is_major_claim": false,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-ECON-034",
+    "work_id": "KUC-ECON",
+    "work_title": "Economics of Higher Education",
+    "position_type": "supporting_argument",
+    "claim": "Universities have financial reasons to want high retention but not necessarily high graduation rates",
+    "text": "Universities have financial reasons to want high retention but not necessarily high graduation rates",
+    "quote": "From a financial perspective, a university has relatively cogent reasons to want a high retention rate: when a student doesn't enroll for a second year, that university loses business, and it doesn't when he does. A university has less strong reasons to want a high graduation rate. If a student comes back year after year and never graduates, the university makes more money than it does if he graduates",
+    "domain": "economics",
+    "topics": [
+      "university_finance",
+      "student_retention",
+      "graduation_economics"
+    ],
+    "is_major_claim": false,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-ECON-035",
+    "work_id": "KUC-ECON",
+    "work_title": "Economics of Higher Education",
+    "position_type": "example",
+    "claim": "Great Basin College has extremely low rates but remains financially stable",
+    "text": "Great Basin College has extremely low rates but remains financially stable",
+    "quote": "Great Basin College in Nevada has a retention rate of 4% and a graduation rate of 0%, but it is not in financial trouble",
+    "domain": "economics",
+    "topics": [
+      "case_studies",
+      "university_finance"
+    ],
+    "is_major_claim": false,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-ECON-036",
+    "work_id": "KUC-ECON",
+    "work_title": "Economics of Higher Education",
+    "position_type": "supporting_argument",
+    "claim": "Universities would lose their customer base if they made changes to improve retention",
+    "text": "Universities would lose their customer base if they made changes to improve retention",
+    "quote": "If a university made the systemic changes to itself necessary to improve retention rates, it would lose most of its existing customer-base",
+    "domain": "economics",
+    "topics": [
+      "institutional_change",
+      "customer_retention",
+      "university_economics"
+    ],
+    "is_major_claim": false,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-ECON-037",
+    "work_id": "KUC-ECON",
+    "work_title": "Economics of Higher Education",
+    "position_type": "major_claim",
+    "claim": "Universities sell degrees, not instruction or services",
+    "text": "Universities sell degrees, not instruction or services",
+    "quote": "Universities pay people for degrees. That is what universities sell, and that is what people pay them for; and with relatively minor qualifications, that is all that people pay them for",
+    "domain": "economics",
+    "topics": [
+      "university_business_model",
+      "degree_value",
+      "educational_economics"
+    ],
+    "is_major_claim": true,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-ECON-038",
+    "work_id": "KUC-ECON",
+    "work_title": "Economics of Higher Education",
+    "position_type": "supporting_argument",
+    "claim": "The fundamental difference between universities and open market companies is what they sell",
+    "text": "The fundamental difference between universities and open market companies is what they sell",
+    "quote": "There is one very important difference between universities and OMC's. OMC's sell products and services. That is what people pay them for. That is all they pay them for. That is not what people pay universities for",
+    "domain": "economics",
+    "topics": [
+      "business_models",
+      "market_comparison",
+      "institutional_economics"
+    ],
+    "is_major_claim": false,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-ECON-039",
+    "work_id": "KUC-ECON",
+    "work_title": "Economics of Higher Education",
+    "position_type": "example",
+    "claim": "A hypothetical William & Mary that improved instruction but stopped giving degrees would see enrollment plummet",
+    "text": "A hypothetical William & Mary that improved instruction but stopped giving degrees would see enrollment plummet",
+    "quote": "William & Mary magically improves the quality of its instruction 100% and it cuts its tuition in half: but it stops issuing degrees. So whatever it is that one can currently learn at William & Mary about physics, psychology or any other subject, one can now learn twice as well for half as much money. But one cannot get a degree in that subject from William & Mary. Under these circumstances, William & Mary's enrollment rate would plummet, possibly to zero",
+    "domain": "economics",
+    "topics": [
+      "hypothetical_scenarios",
+      "degree_value",
+      "enrollment_economics"
+    ],
+    "is_major_claim": false,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-ECON-040",
+    "work_id": "KUC-ECON",
+    "work_title": "Economics of Higher Education",
+    "position_type": "supporting_argument",
+    "claim": "Degrees function as necessary credentials for professional opportunities regardless of actual learning",
+    "text": "Degrees function as necessary credentials for professional opportunities regardless of actual learning",
+    "quote": "Max is a mathematical genius who has completely mastered his discipline... But he doesn't have a college degree, and he has never attended college. What can Max do professionally? He cannot be a professor. He cannot publish in academic journals. He cannot be a high-school teacher",
+    "domain": "economics",
+    "topics": [
+      "credentialism",
+      "professional_barriers",
+      "degree_necessity"
+    ],
+    "is_major_claim": false,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-ECON-041",
+    "work_id": "KUC-ECON",
+    "work_title": "Economics of Higher Education",
+    "position_type": "supporting_argument",
+    "claim": "College degrees provide access to white-collar employment regardless of intelligence or competence",
+    "text": "College degrees provide access to white-collar employment regardless of intelligence or competence",
+    "quote": "Jane is a person of average or marginally above intelligence who has a degree in psychology. Tammy is exactly as intelligent as Jane, both psychologically and otherwise, but does not have a college degree. For Jane, the possibilities are endless... But what about Tammy? What are her options? She cannot become a licensed therapist. She cannot work for a corporation, except in a menial capacity",
+    "domain": "economics",
+    "topics": [
+      "employment_barriers",
+      "degree_gatekeeping",
+      "social_mobility"
+    ],
+    "is_major_claim": false,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-ECON-042",
+    "work_id": "KUC-ECON",
+    "work_title": "Economics of Higher Education",
+    "position_type": "supporting_argument",
+    "claim": "College attendance is rational even when outcomes are uncertain because degrees provide options",
+    "text": "College attendance is rational even when outcomes are uncertain because degrees provide options",
+    "quote": "People with degrees have options, and people without degrees don't. People with useful degrees from high-prestige institutions have many very good options; people with useless degrees from low prestige institutions have fewer options and they are not as good—but they are still good in absolute terms, and they are still plentiful. People without degrees do not have options",
+    "domain": "economics",
+    "topics": [
+      "rational_choice",
+      "opportunity_cost",
+      "educational_investment"
+    ],
+    "is_major_claim": false,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-ECON-043",
+    "work_id": "KUC-ECON",
+    "work_title": "Economics of Higher Education",
+    "position_type": "supporting_argument",
+    "claim": "Students don't want high-quality demanding instruction since they're paying for degrees",
+    "text": "Students don't want high-quality demanding instruction since they're paying for degrees",
+    "quote": "since they are paying for degrees, they want to have to jump through as few hoops as possible to get those degrees",
+    "domain": "education",
+    "topics": [
+      "student_preferences",
+      "educational_demand",
+      "degree_seeking"
+    ],
+    "is_major_claim": false,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-ECON-044",
+    "work_id": "KUC-ECON",
+    "work_title": "Economics of Higher Education",
+    "position_type": "major_claim",
+    "claim": "Enrollment rates matter for university finances, not retention or graduation rates",
+    "text": "Enrollment rates matter for university finances, not retention or graduation rates",
+    "quote": "it isn't retention rates that matter: it is enrollment rates. If enough people enroll, then the university is financially ok",
+    "domain": "economics",
+    "topics": [
+      "university_finance",
+      "enrollment_economics",
+      "retention_irrelevance"
+    ],
+    "is_major_claim": true,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-ECON-045",
+    "work_id": "KUC-ECON",
+    "work_title": "Economics of Higher Education",
+    "position_type": "supporting_argument",
+    "claim": "Universities with extremely low retention rates can operate profitably by targeting marginal students",
+    "text": "Universities with extremely low retention rates can operate profitably by targeting marginal students",
+    "quote": "Suppose that a university's target-customer is somebody who desperately wants a college degree but, in terms of finances or intellect, is just on the cusp on of being able to complete a college degree. It may well that for every hundred such people who enroll, only four are able to make it to the second year",
+    "domain": "economics",
+    "topics": [
+      "target_markets",
+      "business_strategy",
+      "educational_access"
+    ],
+    "is_major_claim": false,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-ECON-046",
+    "work_id": "KUC-ECON",
+    "work_title": "Economics of Higher Education",
+    "position_type": "supporting_argument",
+    "claim": "Universities have distinctive business models that prevent rapid organizational change",
+    "text": "Universities have distinctive business models that prevent rapid organizational change",
+    "quote": "An OMC can turn on a dime. It can replace its entire labor force. It can start making new products. It can fire its CEO... But universities sell degrees—nothing else",
+    "domain": "economics",
+    "topics": [
+      "organizational_change",
+      "institutional_constraints",
+      "business_flexibility"
+    ],
+    "is_major_claim": false,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-ECON-047",
+    "work_id": "KUC-ECON",
+    "work_title": "Economics of Higher Education",
+    "position_type": "supporting_argument",
+    "claim": "Universities depend on providing instruction that is just good enough to maintain degree prestige",
+    "text": "Universities depend on providing instruction that is just good enough to maintain degree prestige",
+    "quote": "the ideal situation for a university is when its degrees have prestige and as few people as possible are actually giving them that prestige",
+    "domain": "economics",
+    "topics": [
+      "prestige_economics",
+      "educational_strategy",
+      "reputation_management"
+    ],
+    "is_major_claim": false,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-ECON-048",
+    "work_id": "KUC-ECON",
+    "work_title": "Economics of Higher Education",
+    "position_type": "supporting_argument",
+    "claim": "Most students want well-paid jobs with poorly defined functions rather than useful employment",
+    "text": "Most students want well-paid jobs with poorly defined functions rather than useful employment",
+    "quote": "What most college students want, at least if their eventual careers are any indication, is to be relatively useless and employed",
+    "domain": "economics",
+    "topics": [
+      "employment_preferences",
+      "job_security",
+      "career_motivations"
+    ],
+    "is_major_claim": false,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-ECON-049",
+    "work_id": "KUC-ECON",
+    "work_title": "Economics of Higher Education",
+    "position_type": "supporting_argument",
+    "claim": "Advanced economies can support large populations of unproductive workers",
+    "text": "Advanced economies can support large populations of unproductive workers",
+    "quote": "In economies of scale, there is enormous division of labor, and only a small percent of the population actually has to produce. The more advanced an economy is, the greater the percentage of people in it who can be useless",
+    "domain": "economics",
+    "topics": [
+      "macroeconomic_efficiency",
+      "labor_productivity",
+      "economic_development"
+    ],
+    "is_major_claim": false,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-ECON-050",
+    "work_id": "KUC-ECON",
+    "work_title": "Economics of Higher Education",
+    "position_type": "supporting_argument",
+    "claim": "College dropouts often make rational decisions based on cost-benefit analysis",
+    "text": "College dropouts often make rational decisions based on cost-benefit analysis",
+    "quote": "When people drop out, it is usually (not always) because it isn't worth it for them to stay",
+    "domain": "economics",
+    "topics": [
+      "dropout_decisions",
+      "rational_choice",
+      "educational_investment"
+    ],
+    "is_major_claim": false,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-ECON-051",
+    "work_id": "KUC-ECON",
+    "work_title": "Economics of Higher Education",
+    "position_type": "major_claim",
+    "claim": "Knowledge management cannot help universities because they depend on poor internal communications",
+    "text": "Knowledge management cannot help universities because they depend on poor internal communications",
+    "quote": "Unlike OMC's, universities actually depend on poor internal communications",
+    "domain": "economics",
+    "topics": [
+      "knowledge_management",
+      "organizational_communication",
+      "institutional_dysfunction"
+    ],
+    "is_major_claim": true,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-ECON-052",
+    "work_id": "KUC-ECON",
+    "work_title": "Economics of Higher Education",
+    "position_type": "definition",
+    "claim": "Knowledge Management explains how institutions must organize to optimize information flow",
+    "text": "Knowledge Management explains how institutions must organize to optimize information flow",
+    "quote": "KM explains how institutions must be organized if knowledge-exchanges that must occur are to occur",
+    "domain": "economics",
+    "topics": [
+      "knowledge_management",
+      "organizational_theory",
+      "information_systems"
+    ],
+    "is_major_claim": false,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-ECON-053",
+    "work_id": "KUC-ECON",
+    "work_title": "Economics of Higher Education",
+    "position_type": "supporting_argument",
+    "claim": "University departments remain isolated to protect professors from scrutiny",
+    "text": "University departments remain isolated to protect professors from scrutiny",
+    "quote": "if a philosophy professor teamed up with an economics professor, that philosophy professor could (and probably would) be called out economics students who were not under his thumb",
+    "domain": "economics",
+    "topics": [
+      "departmental_isolation",
+      "academic_protection",
+      "institutional_structure"
+    ],
+    "is_major_claim": false,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-ECON-054",
+    "work_id": "KUC-ECON",
+    "work_title": "Economics of Higher Education",
+    "position_type": "major_claim",
+    "claim": "The solution is to create new educational institutions rather than reform existing universities",
+    "text": "The solution is to create new educational institutions rather than reform existing universities",
+    "quote": "if one wants to improve education and to make money doing so, there is at the current an enormous opportunity. Right now is the perfect time to make education affordable, fast, effective, and also (for the owner of the educational service in question) extremely lucrative",
+    "domain": "economics",
+    "topics": [
+      "educational_innovation",
+      "institutional_creation",
+      "market_opportunity"
+    ],
+    "is_major_claim": true,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-ECON-055",
+    "work_id": "KUC-ECON",
+    "work_title": "Economics of Higher Education",
+    "position_type": "major_claim",
+    "claim": "DMO will be a results-based online university that sells competence rather than prestige",
+    "text": "DMO will be a results-based online university that sells competence rather than prestige",
+    "quote": "The most important fact about DMO is that students pay for results, not services. Therefore, a degree from DMO must be proof of competence. DMO does not sell prestige; it sells competence",
+    "domain": "education",
+    "topics": [
+      "educational_innovation",
+      "competency_based_education",
+      "online_learning"
+    ],
+    "is_major_claim": true,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-ECON-056",
+    "work_id": "KUC-ECON",
+    "work_title": "Economics of Higher Education",
+    "position_type": "supporting_argument",
+    "claim": "Organizations that sell results have well-defined objectives enabling good knowledge management",
+    "text": "Organizations that sell results have well-defined objectives enabling good knowledge management",
+    "quote": "Knowledge-management is possible when the organization in question has definite objectives, and when it does not have definite objectives, knowledge-management is as difficult as those objectives are vague",
+    "domain": "economics",
+    "topics": [
+      "organizational_objectives",
+      "knowledge_management",
+      "results_orientation"
+    ],
+    "is_major_claim": false,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-ECON-057",
+    "work_id": "KUC-ECON",
+    "work_title": "Economics of Higher Education",
+    "position_type": "supporting_argument",
+    "claim": "Service organizations depend on poor knowledge management to maintain inefficiencies",
+    "text": "Service organizations depend on poor knowledge management to maintain inefficiencies",
+    "quote": "When people within a given organization have an incentive to block communications within it, information tends to be blocked, and people within service organizations tend to have such incentives",
+    "domain": "economics",
+    "topics": [
+      "service_economics",
+      "organizational_dysfunction",
+      "communication_barriers"
+    ],
+    "is_major_claim": false,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-ECON-058",
+    "work_id": "KUC-ECON",
+    "work_title": "Economics of Higher Education",
+    "position_type": "supporting_argument",
+    "claim": "Education must be digitized whenever possible for efficiency and cost reduction",
+    "text": "Education must be digitized whenever possible for efficiency and cost reduction",
+    "quote": "when education can be digitized, it must be digitized... since doing so saves time and money and makes it easy for purchase custom-made education from the best instructors at the lowest possible price",
+    "domain": "education",
+    "topics": [
+      "educational_technology",
+      "digitization",
+      "cost_efficiency"
+    ],
+    "is_major_claim": false,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-ECON-059",
+    "work_id": "KUC-ECON",
+    "work_title": "Economics of Higher Education",
+    "position_type": "supporting_argument",
+    "claim": "At DMO, instructors are paid directly by students based on performance, not by the institution",
+    "text": "At DMO, instructors are paid directly by students based on performance, not by the institution",
+    "quote": "students must negotiate prices directly with instructors, and payments must go straight to the instructor. The instructor will give a percentage of his earnings to DMO in exchange for use of the platform, business volume, credibility, instructional materials, and the like",
+    "domain": "economics",
+    "topics": [
+      "payment_systems",
+      "instructor_compensation",
+      "market_mechanisms"
+    ],
+    "is_major_claim": false,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-ECON-060",
+    "work_id": "KUC-ECON",
+    "work_title": "Economics of Higher Education",
+    "position_type": "supporting_argument",
+    "claim": "DMO will use independent examination-based accreditation rather than instructor grading",
+    "text": "DMO will use independent examination-based accreditation rather than instructor grading",
+    "quote": "At DMO, instructors do not issue grades. There are no grades. There are accreditations. Accreditations are attained by taking examinations. These examinations are graded anonymously (by computer, whenever possible). They are designed and administered by independent third parties",
+    "domain": "education",
+    "topics": [
+      "assessment_methods",
+      "accreditation_systems",
+      "objective_evaluation"
+    ],
+    "is_major_claim": false,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-ECON-061",
+    "work_id": "KUC-ECON",
+    "work_title": "Economics of Higher Education",
+    "position_type": "supporting_argument",
+    "claim": "DMO will convert liberal arts students to STEM through 'lite' science degrees",
+    "text": "DMO will convert liberal arts students to STEM through 'lite' science degrees",
+    "quote": "Its primary solution will be to offer lite science degrees: lite-physics, lite-math; math for computer scientists; lite biology. In this way, DMO gets people out of the doldrums of the liberal arts and into STEM",
+    "domain": "education",
+    "topics": [
+      "curriculum_design",
+      "STEM_education",
+      "academic_redirection"
+    ],
+    "is_major_claim": false,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-ECON-062",
+    "work_id": "KUC-ECON",
+    "work_title": "Economics of Higher Education",
+    "position_type": "supporting_argument",
+    "claim": "DMO will be non-discriminatory and service all students unlike traditional universities",
+    "text": "DMO will be non-discriminatory and service all students unlike traditional universities",
+    "quote": "DMO has the first business model. Other universities have the second... If universities really sold instruction—in other words, if they made their money by seeing to it that people left them more competent than they came to them---they would want as many customers as possible",
+    "domain": "economics",
+    "topics": [
+      "educational_access",
+      "business_models",
+      "institutional_discrimination"
+    ],
+    "is_major_claim": false,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-ECON-063",
+    "work_id": "KUC-ECON",
+    "work_title": "Economics of Higher Education",
+    "position_type": "supporting_argument",
+    "claim": "DMO can offer multiple degree levels because individual courses have guaranteed meaning",
+    "text": "DMO can offer multiple degree levels because individual courses have guaranteed meaning",
+    "quote": "the greater the guarantee that a given course has meaning, and the greater the degree of specificity as to what meaning is, the fewer courses a student will have to take in order for that student to be recognized as having merit",
+    "domain": "education",
+    "topics": [
+      "degree_systems",
+      "course_significance",
+      "educational_efficiency"
+    ],
+    "is_major_claim": false,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-ECON-064",
+    "work_id": "KUC-ECON",
+    "work_title": "Economics of Higher Education",
+    "position_type": "supporting_argument",
+    "claim": "Students must be able to test out of courses to ensure instructors provide value rather than gatekeeping",
+    "text": "Students must be able to test out of courses to ensure instructors provide value rather than gatekeeping",
+    "quote": "DMO always offers students the ability to 'test out.' In other words, a student can get a given accreditation just by passing the examination in question: no time need be spent 'in class.'... As long as students have the option of testing out, it is guaranteed that students only pay instructors for actual instruction",
+    "domain": "education",
+    "topics": [
+      "testing_out",
+      "instructor_accountability",
+      "educational_value"
+    ],
+    "is_major_claim": false,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-ECON-065",
+    "work_id": "KUC-ECON",
+    "work_title": "Economics of Higher Education",
+    "position_type": "supporting_argument",
+    "claim": "The inverted payment pyramid at DMO creates lean and functional operations",
+    "text": "The inverted payment pyramid at DMO creates lean and functional operations",
+    "quote": "At a conventional university, the money flows down. Students pay the university; the university pays instructors. The result: expensive and bad education. At DMO, the money flows up",
+    "domain": "economics",
+    "topics": [
+      "payment_systems",
+      "organizational_efficiency",
+      "cost_structure"
+    ],
+    "is_major_claim": false,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-ECON-066",
+    "work_id": "KUC-ECON",
+    "work_title": "Economics of Higher Education",
+    "position_type": "supporting_argument",
+    "claim": "DMO will eliminate disciplines without practical value or objective assessment",
+    "text": "DMO will eliminate disciplines without practical value or objective assessment",
+    "quote": "Disciplines that have no practical value should either be jettisoned or modified so to have practical value... Disciplines that do not admit of objective assessments should either be jettisoned or modified so to admit of such assessments",
+    "domain": "education",
+    "topics": [
+      "curriculum_reform",
+      "practical_education",
+      "objective_assessment"
+    ],
+    "is_major_claim": false,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-ECON-067",
+    "work_id": "KUC-ECON",
+    "work_title": "Economics of Higher Education",
+    "position_type": "supporting_argument",
+    "claim": "Student evaluations should be minimized in favor of performance-based instructor assessment",
+    "text": "Student evaluations should be minimized in favor of performance-based instructor assessment",
+    "quote": "The use of student evaluations should be minimized or eliminated. Student input should concern professionalism of instructor. The instructor's merit should be determined by student-performance, not by opinion or sentiment",
+    "domain": "education",
+    "topics": [
+      "instructor_evaluation",
+      "performance_assessment",
+      "educational_accountability"
+    ],
+    "is_major_claim": false,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-ECON-068",
+    "work_id": "KUC-ECON",
+    "work_title": "Economics of Higher Education",
+    "position_type": "supporting_argument",
+    "claim": "DMO hiring will be based solely on proven success with student outcomes",
+    "text": "DMO hiring will be based solely on proven success with student outcomes",
+    "quote": "Hirings are to be made exclusively on proven or probable success helping students pass accreditation exams. Therefore, publications are irrelevant to hiring decision, and so are letters of reference",
+    "domain": "economics",
+    "topics": [
+      "hiring_practices",
+      "performance_based_employment",
+      "educational_effectiveness"
+    ],
+    "is_major_claim": false,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-ECON-069",
+    "work_id": "KUC-ECON",
+    "work_title": "Economics of Higher Education",
+    "position_type": "major_claim",
+    "claim": "Existing universities cannot and should not be reformed",
+    "text": "Existing universities cannot and should not be reformed",
+    "quote": "There is little hope of reforming unviersities. They don't want to be reformed, and they don't stand to gain by being reformed",
+    "domain": "economics",
+    "topics": [
+      "institutional_reform",
+      "university_resistance",
+      "organizational_change"
+    ],
+    "is_major_claim": true,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-ECON-070",
+    "work_id": "KUC-ECON",
+    "work_title": "Economics of Higher Education",
+    "position_type": "supporting_argument",
+    "claim": "Universities depend on inefficiency and poor knowledge management for their business model",
+    "text": "Universities depend on inefficiency and poor knowledge management for their business model",
+    "quote": "universities depend for their very existences on poor knowledge management... Universities fall into this category. They do provide some legitimate services, but these only account for a fraction of their revenue, the rest coming from overpriced ancillary services",
+    "domain": "economics",
+    "topics": [
+      "institutional_inefficiency",
+      "business_models",
+      "knowledge_management"
+    ],
+    "is_major_claim": false,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-ECON-071",
+    "work_id": "KUC-ECON",
+    "work_title": "Economics of Higher Education",
+    "position_type": "supporting_argument",
+    "claim": "Universities have vague and incoherent objectives that prevent effective knowledge management",
+    "text": "Universities have vague and incoherent objectives that prevent effective knowledge management",
+    "quote": "Their objectives are therefore vague and incoherent, and it is correspondingly unclear what kind of information university-employees should make one another aware of",
+    "domain": "economics",
+    "topics": [
+      "organizational_objectives",
+      "institutional_dysfunction",
+      "communication_problems"
+    ],
+    "is_major_claim": false,
+    "extraction_date": "2025-12-06"
+  },
+  {
+    "position_id": "KUC-ECON-072",
+    "work_id": "KUC-ECON",
+    "work_title": "Economics of Higher Education",
+    "position_type": "supporting_argument",
+    "claim": "The solution is creating new results-based educational services rather than reforming universities",
+    "text": "The solution is creating new results-based educational services rather than reforming universities",
+    "quote": "The right way to provide the public with better instruction is to create a new kind of educational service that is results-based and whose revenue is hewed to its pedagogical efficacy",
+    "domain": "economics",
+    "topics": [
+      "educational_innovation",
+      "institutional_creation",
+      "results_based_education"
+    ],
+    "is_major_claim": false,
+    "extraction_date": "2025-12-06"
+  }
+]
