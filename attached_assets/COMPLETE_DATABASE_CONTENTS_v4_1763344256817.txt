@@ -1,0 +1,666 @@
+===================================================================
+FREUD DATABASE v4 - COMPLETE CONTENTS REFERENCE
+===================================================================
+Version: v4_FUTURE_OF_ILLUSION_ADDED
+Date: November 16, 2025
+Total: 382 POSITIONS from 4 WORKS across 41 DOMAINS
+
+This file documents EVERYTHING currently in the database.
+
+===================================================================
+WORK-001: BEYOND THE PLEASURE PRINCIPLE (1920/1922) - 61 POSITIONS
+===================================================================
+
+METAPSYCHOLOGY (16 positions): META-001 to META-016
+- Pleasure-principle as automatic regulator
+- Economic viewpoint in metapsychology
+- Pleasure-pain and quantity of excitation
+- Principle of constancy
+- Limitations on pleasure-principle supremacy
+- Reality-principle replaces pleasure-principle
+- Repression as source of pain
+- Consciousness and memory as incompatible
+- System W-Bw at the boundary
+- Protective barrier against stimuli
+- Trauma as breaking through barrier
+- Timelessness of unconscious processes
+- Perceptual system and consciousness
+- Binding vs free-flowing energy
+- Primary vs secondary process
+- Metapsychological description of three systems
+
+INSTINCT THEORY (18 positions): INST-001 to INST-018
+- Conservative nature of instincts
+- All instincts aim to restore earlier state
+- Ultimate aim of life is death
+- Death-instinct as drive toward inorganic state
+- Life-preserving instincts as component instincts
+- Enigma of organic life creation
+- Two classes of instincts: Eros and Death
+- Eros aims to establish greater unities
+- Repetition-compulsion beyond pleasure-principle
+- Dreams of traumatic neuroses as exceptions
+- Play and mastery through repetition
+- Fort-Da game as expression of instinct for mastery
+- Transference-neurosis repetitions not from pleasure
+- Compulsion to repeat more primitive than pleasure
+- Repressed material never forgotten
+- Repression and resistance as same process
+- Destiny neurosis (repetition of fate pattern)
+- Demonic character of fate repetition
+
+CLINICAL THEORY (14 positions): CLIN-001 to CLIN-014
+- War neuroses and ego conflict
+- Traumatic neurosis and fright
+- Anxiety as preparation prevents trauma
+- Traumatic dreams seek retrospective anxiety
+- Physical injury diminishes traumatic neurosis risk
+- Transference-neurosis as artificial illness
+- Patient repeats rather than remembers
+- Transference as playground for repetition-compulsion
+- Resistance and repetition from same source
+- Overcoming resistance as slow work
+- Fate neurosis: character-determined life pattern
+- Children's play as mastery of experience
+- Repetition in children vs adults
+- Infantile narcissistic injury and inferiority complex
+
+LIBIDO THEORY (6 positions): LIB-001 to LIB-006
+- Evolution of libido concept
+- Narcissistic libido
+- Inadequacy of original ego/sexual distinction
+- Risk of pansexualism
+- Conjugation as prototype of sexual effect
+- Nirvana-principle
+
+SPECULATIVE BIOLOGY (7 positions): BIO-001 to BIO-007
+- Weismann's distinction: mortal soma vs immortal germ-plasm
+- Death as late acquisition in Weismann
+- Controversy over protozoan immortality
+- Protozoa die from own metabolic products
+- Hering's anabolic and katabolic processes
+- Schopenhauer: death as real result of life
+- Multicellularity as life-prolonging
+
+===================================================================
+WORK-002: THREE ESSAYS ESSAY I - SEXUAL ABERRATIONS (1905) - 52 POSITIONS
+===================================================================
+
+SEXUAL IMPULSE THEORY (7 positions): SEX-001 to SEX-007
+- Sexual impulse analogous to hunger
+- Popular assumptions about sexual impulse untrustworthy
+- Sexual object and sexual aim as analytical concepts
+- Sexual impulse independent of its object
+- Sexual impulse permits great variation in object
+- Sexual impulse poorly controlled by higher psychic activities
+- Nature and value of sexual object secondary
+
+INVERSION THEORY (11 positions): INV-001 to INV-011
+- Three types of inversion (absolute, amphigenous, occasional)
+- Variations in inverts' self-understanding
+- Critique of degeneration theory of inversion
+- Neither pure congenital nor pure acquired theory sufficient
+- Bisexual predisposition theory
+- Psychic and somatic hermaphroditism are independent
+- Inversion of character not regular in male inverts
+- Critique of 'female brain in male body' theory
+- Sexual object of inverts not simply reversed
+- Sexual object unites both sex characters
+- No uniformity of sexual aim in inversion
+
+PERVERSION THEORY (24 positions): PERV-001 to PERV-024
+- Normal sexual aim defined
+- Preliminary sexual activities in normal process
+- Classification of perversions (anatomical vs temporal)
+- Sexual overestimation of object
+- Sexual overestimation enables anatomical extension
+- Loathing as force opposing libido
+- Anal and oral mucous membranes claim status as genitals
+- Fetishism and sexual overestimation
+- Pathological fetishism defined by fixation
+- Fetishism and early sexual impressions
+- Symbolic thought in fetish formation
+- Touching and looking as intermediary sexual aims
+- Covering of body and sexual inquisitiveness
+- When looking becomes perversion
+- Active and passive forms of perversions
+- Sadism as independent aggressive component
+- Masochism as transformation of sadism
+- Sadism and masochism regularly coexist
+- Paired contrasts in perversions
+- Perversions as universal components of normal sexuality
+- Exclusivity and fixation define pathological perversion
+- Psychic participation in perversions
+- Shame and loathing as psychic forces confining sexual impulse
+- Sexual impulse as composite not simple
+
+NEUROSIS THEORY (10 positions): NEUR-001 to NEUR-010
+- Psychoneuroses based on sexual motive powers
+- Symptoms as sexual activities
+- Hysterical character: sexual repression beyond normal
+- Hysteria as contrasting pair: immense craving and exaggerated rejection
+- Neurosis as evasion of conflict
+- Neurosis as negative of perversion
+- All neurotics show unconscious inversion
+- Anatomical transgressions active in neurotic symptoms
+- Partial impulses (especially cruelty) as symptom-creators
+- Love-hate transformation via union of cruelty with libido
+
+===================================================================
+WORK-003: INTERPRETATION OF DREAMS SECTIONS II-VIII (1900) - 60 POSITIONS
+===================================================================
+
+DREAM WORK THEORY (9 positions): WORK-001 to WORK-009
+- Condensation as core dream-work mechanism
+- Displacement as transvaluation of psychical values
+- Dramatization as presentation requirement
+- Dream-work preserves logical relations through formal characters
+- Dream absurdity expresses disagreement and scorn
+- Secondary elaboration creates dream façade
+- Dream-work is not creative
+- Composite and mixed formations in dreams
+- Overdetermination of dream elements
+
+CENSORSHIP THEORY (5 positions): CENS-001 to CENS-005
+- Repression as cause of dream distortion
+- Displacement serves to disguise repressed content
+- Censorship operates between two psychic systems
+- Sleep weakens but does not eliminate censorship
+- Dream as compromise between systems
+
+DREAM SYMBOLISM (6 positions): SYMB-001 to SYMB-006
+- Sexual symbols as universal dream language
+- Dreamers do not know meaning of their symbols
+- Symbolism not created by dream-work
+- Specific sexual symbols in dreams
+- Bisexual tendency of dream symbolism
+- Symbol interpretation requires context
+
+WISH THEORY (10 positions): WISH-001 to WISH-010
+- All dreams fulfill unconscious infantile wishes
+- Three classes of dreams by wish-relation
+- Counter-wish dreams still fulfill wishes
+- Unconscious wishes are always active and indestructible
+- Day remnants require unconscious reinforcement
+- Recent impressions necessary for dream formation
+- Dream as hallucinatory wish-fulfillment
+- Dream is fragment of abandoned psychic life of child
+- Hysterical symptoms as double wish-fulfillments
+- All psychoneurotic symptoms are wish-fulfillments
+
+DREAM FUNCTION (6 positions): FUNC-001 to FUNC-006
+- Dream as guardian of sleep
+- Dream removes sleep disturbances by wish-fulfillment
+- Sleep state enables dream formation
+- Dream interprets sensory stimuli to preserve sleep
+- Consciousness directed to dreams throughout sleep
+- Dream as safety-valve for unconscious
+
+ANXIETY DREAM THEORY (5 positions): ANX-001 to ANX-005
+- Anxiety dreams as failed wish-fulfillments
+- Dream anxiety as transformed libido
+- Anxiety dream as punishment dream
+- Childhood sexual experiences and adult anxiety dreams
+- Pavor nocturnus as incomprehensible sexual feelings
+
+PRIMARY SECONDARY PROCESS (12 positions): PROC-001 to PROC-012
+- Primary process as original psychic activity
+- Secondary process as later development
+- Primary process characteristics
+- Secondary process seeks thought-identity
+- Secondary process inhibits primary discharge
+- Principle of pain regulates both systems differently
+- Thinking as detour from hallucinatory wish-fulfillment
+- Primary processes dominate when thoughts abandoned by foreconscious
+- Consciousness as sensory organ for psychic qualities
+- Sleep diminishes foreconscious but not unconscious activity
+- Repression occurs when fulfillment would produce pain
+- Complex mental operations possible without consciousness
+
+REGRESSION THEORY (6 positions): REGR-001 to REGR-006
+- Three types of regression in dreams
+- Regression serves dramatization
+- Hallucinatory character through regression
+- Regression path follows memory structures
+- Regression enabled by sleep state
+- Regression not unique to dreams
+
+===================================================================
+WORK-004: THE FUTURE OF AN ILLUSION (1927) - 209 POSITIONS
+===================================================================
+
+CULTURE THEORY (23 positions): CULT-001 to CULT-023
+- Culture has two aspects: knowledge/power over nature AND regulation of human relations
+- The two tendencies of culture are interdependent
+- Every individual is virtually an enemy of culture
+- Culture must be defended against the individual
+- Culture's institutions and laws directed toward self-defense
+- Culture imposed on resisting majority by minority with means of power
+- Every culture must be built on coercion and instinctual renunciation
+- No certain advance in regulation of human affairs despite advance in conquering nature
+- Reorganization removing coercion would be golden age but questionable if realizable
+- All men have destructive, anti-social, anti-cultural tendencies
+- Critical question is diminishing/reconciling/compensating instinctual sacrifices
+- Impossible to do without government of masses by minority
+- Coercion indispensable for work of civilization
+- Masses are lazy and unintelligent
+- Masses have no love for instinctual renunciation
+- Masses not convinced by argument
+- Individuals in masses support each other in unruliness
+- Masses need leaders who set examples
+- Two human characteristics require coercion: men not fond of work, arguments ineffective against passions
+- Limitations of man's capacity for education set bounds to cultural transformation
+- Certain percentage of mankind will always remain asocial
+- Resources themselves not essence of culture but means of defending culture
+- Psychical sphere of culture includes coercive measures and means to reconcile/recompense
+
+INSTINCTUAL PROHIBITION THEORY (14 positions): INST-019 to INST-032
+- Instinct cannot be satisfied = frustration
+- Means securing frustration = prohibition
+- Condition from prohibition = privation
+- Earliest instinctual prohibitions: incest, cannibalism, murder
+- These prohibitions began culture thousands of years ago
+- Earliest prohibitions still operative, form kernel of hostility to culture
+- Instinctual wishes born anew with every child
+- Neurotics react to first frustrations with asocial attitude
+- Strength of incest wishes still perceived behind prohibition
+- Murder still practiced under certain conditions in our culture
+- External compulsion gradually internalized in development
+- Super-ego as special mental function taking compulsion under jurisdiction
+- Internalization of super-ego highly valuable for culture
+- Degree of internalization differs widely by prohibition
+
+RELIGION THEORY (28 positions): REL-001 to REL-028
+- Religious ideas as most precious possession of culture
+- Religious ideas prized as most valuable thing culture offers
+- Men suppose life intolerable without according religious ideas their claimed value
+- Religious ideas in broadest sense = illusions
+- Humanization of nature makes impersonal forces manageable
+- Elements given passions like our own souls
+- Death as violent act of evil Will, not spontaneous
+- Supernatural beings resemble those of our environment
+- Substitution of psychology for natural science provides immediate relief
+- Humanization has infantile prototype in parental relation
+- Mother as first protection against anxiety
+- Father soon replaces mother as protector
+- Father both danger and protection (ambivalence)
+- Adult makes forces of nature into gods with father characteristics
+- Gods retain threefold task: exorcise terrors, reconcile to fate/death, amends for suffering
+- Gods' domain gradually shifts - morality becomes their real domain
+- Laws of culture claimed to be of divine origin
+- Life serves higher purpose in religious system
+- Soul as object of elevation and exaltation
+- Intelligence superior to us orders everything for good
+- Benevolent Providence watches over each one
+- Death not annihilation but beginning of new existence
+- Moral laws govern whole universe with supreme judicial court
+- All good rewarded, all evil punished (if not in life, then after)
+- Life after death continues earthly existence
+- God as single person recovers intimacy of child-father relation
+- Religious ideas gone through long development process
+- Contemporary Christian culture in west represents one phase of development
+
+ILLUSION THEORY (15 positions): ILL-001 to ILL-015
+- Illusion not same as error, not necessarily an error
+- Illusion derived from men's wishes
+- Illusion approaches psychiatric delusion but distinguished from it
+- Delusion emphasizes conflict with reality as essential
+- Illusion need not be false, unrealizable, or incompatible with reality
+- Belief called illusion when wish-fulfillment prominent factor
+- Illusion disregards relations to reality
+- Religious doctrines are all illusions
+- Religious doctrines do not admit of proof
+- No one can be compelled to consider religious doctrines true
+- Some religious doctrines so improbable, comparable to delusions
+- Reality value of most religious doctrines cannot be judged
+- Scientific work only way to knowledge of external reality
+- Illusion to expect anything from intuition or trance
+- Intuition/trance give only particulars about own mental life
+
+RELIGIOUS EPISTEMOLOGY (10 positions): EPIS-001 to EPIS-010
+- Three arguments for religious belief: ancestors believed, proofs from antiquity, forbidden to question
+- Prohibition on questioning has only one motive: society knows uncertain basis
+- Ancestors far more ignorant, believed things we cannot accept
+- Proofs from texts bear every trace of untrustworthiness
+- Religious texts full of contradictions, revisions, interpolations
+- Divine revelation assertion is itself part of doctrines to be examined
+- No statement can bear its own proof
+- Religious doctrines have weakest claim where most significant
+- Impossibility of proving religious doctrines felt at all times
+- Spiritualism fails to prove immortality of soul
+
+WISH-FULFILLMENT THEORY (8 positions): WISH-011 to WISH-018
+- Religious ideas fulfill oldest, strongest, most insistent wishes
+- Secret of religious strength is strength of wishes
+- Terrifying effect of infantile helplessness aroused need for protection
+- Father relieved infantile helplessness through love-protection
+- Discovery that helplessness continues through life necessitates clinging to father
+- Benevolent providence allays anxiety about life's dangers
+- Moral world order ensures fulfillment of justice demands
+- Future life provides local/temporal setting for wish-fulfillments
+
+FATHER COMPLEX THEORY (9 positions): FATH-001 to FATH-009
+- Longing-for-father explanation identical with need for protection
+- Child's defensive reaction gives features to adult's reaction (religion formation)
+- Object-choice follows anaclitic type
+- Libido attaches to objects ensuring satisfaction
+- Mother as first love-object and protection against anxiety
+- Father replaces mother, situation persists through childhood
+- Relation to father affected by peculiar ambivalence
+- Father himself a danger because of earlier mother relation
+- Father feared no less than longed for and admired
+
+TOTEMISM AND ORIGINS (10 positions): TOT-001 to TOT-010
+- Totem and Taboo not intended to explain origin of religions but of totemism
+- First form of protecting deity was animal
+- Prohibition against killing/eating totem animal existed
+- Solemn custom to kill and eat totem communally once yearly
+- Totem animals become sacred animals of gods
+- Murder prohibition and incest prohibition originate in totemism
+- Animal god eventually replaced by human god
+- Primal father as prototype of God
+- God influenced origin of murder prohibition, not social insight
+- Religious doctrine gives historical truth in remodelled/disguised form
+
+HISTORICAL TRUTH THEORY (7 positions): HIST-001 to HIST-007
+- Religious ideas contain wish-fulfillments AND important historical memories
+- Combination of past and present gives religion matchless power
+- Once before helplessness existed: as child in relation to parents
+- Primal father murder evoked irresistible emotional reaction
+- From primal murder arose commandment: thou shalt not kill
+- Men determined to respect father's will after brutally setting him aside
+- Religious stock contains historical residue plus wish-illusions
+
+NEUROSIS ANALOGY (9 positions): NEUR-011 to NEUR-019
+- Religion comparable to childhood neurosis
+- Religion as universal obsessional neurosis of humanity
+- Child must pass through neurosis phase to complete development
+- Child unable to suppress instinctual impulsions by rational effort
+- Child checks impulsions by repressions with anxiety motive
+- Most child neuroses overcome spontaneously growing up
+- Mankind in development experiences conditions analogous to neuroses
+- Religion originated in Oedipus complex, relation to father
+- Abandoning religion must take place with fateful inexorability of growth
+
+BELIEVER PSYCHOLOGY (5 positions): BEL-001 to BEL-005
+- True believer protected against certain neurotic afflictions
+- By accepting universal neurosis, believer spared forming personal neurosis
+- Believer has ties of affection binding to religion substance
+- No believer will be led astray by arguments
+- Vast number obey civilization laws intimidated by religious threats
+
+CRITIQUE OF RELIGION (14 positions): CRIT-001 to CRIT-014
+- Religion performed great services but not enough
+- If religion succeeded, no one would strive to alter conditions
+- Appallingly large number discontented with civilization
+- Many feel civilization as yoke to be shaken off
+- Religion forfeited part of influence due to science advances
+- Doubtful men happier when religion held unlimited sway
+- Men always externalized religious precepts, frustrating intentions
+- Priests made concessions to keep masses submissive
+- Religion supported immorality no less than morality
+- Religion's achievements in promoting happiness/morality not impressive
+- Scientific spirit shows errors in religious documents
+- Comparative method reveals fatal resemblance to primitive productions
+- Decline of religious belief follows increased knowledge accessibility
+- Educated/brain workers' religious motives replaced by secular ones
+
+MASS PSYCHOLOGY (8 positions): MASS-001 to MASS-008
+- Masses require leaders who can set examples
+- Leaders recognized by masses, induce submission to labor/renunciation
+- Leaders should have superior insight into life necessities
+- Leaders should have mastered own instinctual wishes
+- Danger that leaders yield to masses to maintain influence
+- Leaders must be independent via means of enforcing authority
+- Neglected classes grudge favoured ones their privileges
+- Suppressed classes develop intense hostility to culture
+
+CLASS THEORY (7 positions): CLASS-001 to CLASS-007
+- Restrictions applying only to certain classes create obvious injustice
+- Suppressed classes intent on destruction of culture itself
+- Suppressed classes not prepared to acknowledge cultural prohibitions
+- Latent hostility of better-provided classes overlooked
+- Culture leaving large number unsatisfied has no prospect of continued existence
+- Suppressed can share narcissistic satisfaction of cultural ideal
+- Right to despise outsiders compensates for wrongs suffered in own group
+
+INTERNALIZATION THEORY (8 positions): INT-001 to INT-008
+- External compulsion gradually internalized in development
+- Super-ego takes compulsion under its jurisdiction
+- Child presents model of internalization transformation
+- Internalization makes child moral and social being
+- Strengthening of super-ego highly valuable for culture
+- People with strong super-ego become culture supporters
+- Greater their number, more secure culture, less external coercion needed
+- Degree of internalization differs widely by prohibition
+
+EDUCATION THEORY (12 positions): EDUC-001 to EDUC-012
+- Religious education retards development
+- Religious education closes important sphere to mental function
+- Child introduced to religious doctrines when neither interested nor capable
+- Two main points of modern education: retard sexual development, early religious influence
+- When child's mind awakens, religious doctrines already unassailable
+- Closing sphere to child with hell-threats not conducive to mental strengthening
+- Feeble mentality follows accepting absurdities without criticism
+- Thought-prohibitions prevent attaining psychological ideal
+- Religious thought-inhibition similar to sexual one
+- Experiment of non-religious education worth attempting
+- If human nature remains same, ready to give up reform
+- Believer unable to sleep if deprived of religious consolation like sleeping draught
+
+CULTURAL REFORM (11 positions): REF-001 to REF-011
+- Senseless to try to do away with religion by force and at once
+- Hopeless to eliminate religion suddenly
+- Believer will not let faith be taken by arguments or prohibitions
+- Education to reality as sole aim
+- Man must learn to endure great necessities with resignation
+- By withdrawing expectations from other world, concentrate energies on earthly life
+- Life will be tolerable for all when no one oppressed by culture
+- Removing God from cultural prohibitions gains advantages
+- Admitting human origin of laws makes people more friendly to them
+- General revision of cultural laws will involve abolition of many
+- Reconciliation to civilization burden far advanced by reform
+
+SCIENCE AND REASON (15 positions): SCI-001 to SCI-015
+- Voice of intellect soft but doesn't rest until gains hearing
+- After endlessly repeated rebuffs, intellect succeeds
+- One may be optimistic about future of mankind in this respect
+- Primacy of intellect lies in far but not infinite distance
+- Intellect will set same aims as God but within human limits
+- Intellect aims at brotherhood and reduction of suffering
+- Intellect's realization very gradual, in incalculable future
+- In long run nothing can withstand reason and experience
+- Contradiction religion offers to reason/experience too palpable
+- Purified religious ideas still contradict reason if preserving consolation
+- Scientific work can discover something about reality
+- Through science can increase power and regulate life
+- Science has many open and secret enemies
+- Science young with difficult beginnings
+- Transformation of scientific ideas is development not revolution
+
+FUTURE PREDICTIONS (8 positions): FUT-001 to FUT-008
+- Abandoning religion will take place with fateful inexorability
+- We are in middle of this developmental phase
+- Man cannot remain child forever, must venture into hostile world
+- With liberated energies on earth, life tolerable for all
+- No one will be oppressed by culture anymore
+- Religious doctrines must be discarded on way to distant goal
+- First attempts may fail, first substitutes prove unstable
+- Generations without religious education will attain primacy of intelligence
+- Culture incurs greater danger maintaining religion than relinquishing it
+
+PHILOSOPHY OF "AS IF" (4 positions): PHIL-001 to PHIL-004
+- Philosophy of "As If": behave as if believing fictions for practical motives
+- Religious doctrines as fictions for maintenance of society
+- Man not influenced by philosophical wiles cannot accept "As If"
+- With confession of absurdity/illogicality, no more to be said
+
+CREDO QUIA ABSURDUM (4 positions): CRED-001 to CRED-004
+- Credo quia absurdum: doctrines outside reason's jurisdiction
+- Religious truth must be inwardly felt, not comprehended
+- Credo only voluntary confession, not binding decree
+- No obligation to believe every absurdity
+
+CULTURAL IDEALS (5 positions): IDEAL-001 to IDEAL-005
+- Cultural ideals as judgements of loftiest accomplishments
+- Ideals modelled on first achievements, not determinants
+- Narcissistic satisfaction ideal gives based on pride in achievement
+- Cultures compare themselves and despise others
+- Cultural ideals become source of discord and enmity
+
+ART THEORY (2 positions): ART-001 to ART-002
+- Art offers substitutive gratifications for oldest cultural renunciations
+- Art promotes feelings of identification in cultural group
+
+NATURE AND FATE (5 positions): NAT-001 to NAT-005
+- Nature does not restrain instincts but destroys us coldly, cruelly, callously
+- United together and created culture to defend against nature
+- Principal task of culture to defend us against nature
+- Culture performs defense for everyone in same way
+- Unvanquished nature = Fate inflicts evils on individual
+
+===================================================================
+SUMMARY STATISTICS
+===================================================================
+
+TOTAL POSITIONS: 382
+TOTAL WORKS: 4
+TOTAL DOMAINS: 41
+
+BY WORK:
+- Beyond the Pleasure Principle (1920): 61 positions
+- Three Essays Essay I (1905): 52 positions
+- Interpretation of Dreams (1900): 60 positions
+- The Future of an Illusion (1927): 209 positions
+
+BY DOMAIN (original 17 domains from v3):
+- metapsychology: 16
+- instinct_theory: 18
+- clinical_theory: 14
+- libido_theory: 6
+- speculative_biology: 7
+- sexual_impulse_theory: 7
+- inversion_theory: 11
+- perversion_theory: 24
+- neurosis_theory: 10
+- dream_work_theory: 9
+- censorship_theory: 5
+- dream_symbolism: 6
+- wish_theory: 10
+- dream_function: 6
+- anxiety_dream_theory: 5
+- primary_secondary_process: 12
+- regression_theory: 6
+
+NEW DOMAINS FROM FUTURE OF AN ILLUSION (24 domains):
+- culture_theory: 23
+- instinctual_prohibition: 14
+- religion_theory: 28
+- illusion_theory: 15
+- religious_epistemology: 10
+- wish_fulfillment_theory: 8
+- father_complex_theory: 9
+- totemism_origins: 10
+- historical_truth: 7
+- neurosis_analogy: 9
+- believer_psychology: 5
+- critique_religion: 14
+- mass_psychology: 8
+- class_theory: 7
+- internalization: 8
+- education_theory: 12
+- cultural_reform: 11
+- science_reason: 15
+- future_predictions: 8
+- philosophy_as_if: 4
+- credo_quia_absurdum: 4
+- cultural_ideals: 5
+- art_theory: 2
+- nature_fate: 5
+
+===================================================================
+KEY FOUNDATIONAL POSITIONS (Must-Know Breakthroughs)
+===================================================================
+
+From Beyond the Pleasure Principle:
+- META-001: Pleasure-principle as automatic regulator [FOUNDATIONAL]
+- META-005: Limitations on pleasure-principle supremacy [FOUNDATIONAL]
+- META-008: Consciousness and memory incompatible [FOUNDATIONAL]
+- INST-001: Conservative nature of instincts [FOUNDATIONAL]
+- INST-004: Death-instinct as drive toward inorganic state [FOUNDATIONAL]
+- INST-007: Two classes of instincts: Eros and Death [FOUNDATIONAL]
+- INST-009: Repetition-compulsion beyond pleasure-principle [FOUNDATIONAL]
+
+From Three Essays Essay I:
+- SEX-001: Sexual impulse analogous to hunger [FOUNDATIONAL]
+- SEX-002: Popular assumptions about sexuality untrustworthy [FOUNDATIONAL]
+- SEX-004: Sexual impulse independent of its object [FOUNDATIONAL/REVOLUTIONARY]
+- INV-005: Bisexual predisposition theory [FOUNDATIONAL]
+- PERV-001: Normal sexual aim defined [FOUNDATIONAL]
+- PERV-020: Perversions as universal components of normal sexuality [FOUNDATIONAL]
+- PERV-024: Sexual impulse as composite not simple [FOUNDATIONAL]
+- NEUR-001: Psychoneuroses based on sexual motive powers [FOUNDATIONAL]
+- NEUR-006: Neurosis as negative of perversion [FOUNDATIONAL KEY FORMULA]
+
+From Interpretation of Dreams:
+- WORK-001: Condensation as core dream-work mechanism [FOUNDATIONAL]
+- WORK-002: Displacement as transvaluation of values [FOUNDATIONAL]
+- CENS-001: Repression as cause of dream distortion [FOUNDATIONAL]
+- CENS-003: Censorship between two psychic systems [FOUNDATIONAL]
+- SYMB-001: Sexual symbols as universal language [FOUNDATIONAL]
+- WISH-001: All dreams fulfill unconscious infantile wishes [FOUNDATIONAL]
+- WISH-004: Unconscious wishes always active/indestructible [FOUNDATIONAL]
+- WISH-010: All psychoneurotic symptoms are wish-fulfillments [FOUNDATIONAL]
+- PROC-001: Primary process as original psychic activity [FOUNDATIONAL]
+- PROC-002: Secondary process as later development [FOUNDATIONAL]
+- REGR-001: Three types of regression in dreams [FOUNDATIONAL]
+- FUNC-001: Dream as guardian of sleep [FOUNDATIONAL]
+
+From The Future of an Illusion:
+- CULT-001: Culture has two aspects: nature-mastery and human relations [FOUNDATIONAL]
+- CULT-003: Every individual virtually enemy of culture [FOUNDATIONAL]
+- CULT-007: Every culture built on coercion and instinctual renunciation [FOUNDATIONAL/REVOLUTIONARY]
+- INST-022: Earliest prohibitions: incest, cannibalism, murder [FOUNDATIONAL]
+- INST-024: Earliest prohibitions form kernel of hostility to culture [FOUNDATIONAL]
+- REL-004: Religious ideas in broadest sense = illusions [FOUNDATIONAL]
+- REL-014: Adult makes forces of nature into gods with father characteristics [FOUNDATIONAL]
+- REL-015: Gods retain threefold task [FOUNDATIONAL]
+- ILL-006: Belief called illusion when wish-fulfillment prominent factor [FOUNDATIONAL]
+- ILL-008: Religious doctrines are all illusions [FOUNDATIONAL/REVOLUTIONARY]
+- WISH-011: Religious ideas fulfill oldest, strongest, most insistent wishes [FOUNDATIONAL]
+- FATH-002: Child's defensive reaction gives features to adult's religion formation [FOUNDATIONAL]
+- TOT-008: Primal father as prototype of God [FOUNDATIONAL]
+- HIST-001: Religious ideas contain wish-fulfillments AND historical memories [FOUNDATIONAL]
+- NEUR-012: Religion as universal obsessional neurosis of humanity [FOUNDATIONAL KEY FORMULA]
+- SCI-001: Voice of intellect soft but doesn't rest until gains hearing [FOUNDATIONAL]
+- SCI-008: Nothing can withstand reason and experience in long run [FOUNDATIONAL]
+- FUT-001: Abandoning religion with fateful inexorability [FOUNDATIONAL PREDICTION]
+
+===================================================================
+CROSS-WORK THEMATIC CONNECTIONS
+===================================================================
+
+WISH-FULFILLMENT THEME (spans 3 works):
+- WISH-001 to WISH-010: Dreams as wish-fulfillments (Dreams)
+- WISH-011 to WISH-018: Religious ideas as wish-fulfillments (Illusion)
+- Connection: Same mechanism operates in both dreams and religious belief
+
+NEUROSIS THEME (spans 3 works):
+- NEUR-001 to NEUR-010: Psychoneuroses and sexuality (Three Essays)
+- NEUR-011 to NEUR-019: Religion as neurosis (Illusion)
+- Connection: Neurosis as negative of perversion; religion as universal neurosis
+
+FATHER COMPLEX THEME (spans 2 works):
+- Implied throughout Pleasure Principle (primal father)
+- FATH-001 to FATH-009: Father as prototype (Illusion)
+- TOT-008: Primal father as God prototype (Illusion)
+- Connection: Infantile relation to father shapes adult religion
+
+INSTINCT THEORY (spans 2 works):
+- INST-001 to INST-018: Instincts and compulsion (Pleasure Principle)
+- INST-019 to INST-032: Instinctual prohibitions and culture (Illusion)
+- Connection: Instinctual renunciation necessary for civilization
+
+===================================================================
+END OF COMPLETE CONTENTS REFERENCE v4
+===================================================================

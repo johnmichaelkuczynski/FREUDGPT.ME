@@ -1,0 +1,800 @@
+{
+  "positions": [
+    {
+      "id": "FREUD-0972",
+      "position": "Analysis of children's neuroses conducted retrospectively through adult recollection, though subject to distortion, provides more instructive material than direct child analysis, which lacks verbal capacity and conscious access to deeper strata",
+      "domains": [
+        "psychoanalytic_technique",
+        "child_analysis",
+        "methodology",
+        "clinical_method"
+      ],
+      "source": "From the History of an Infantile Neurosis (Wolf Man) (1918)",
+      "type": "methodological_claim",
+      "notes": "Methodological justification for retrospective analysis; acknowledges trade-offs between direct child analysis and adult recollection"
+    },
+    {
+      "id": "FREUD-0973",
+      "position": "Children's neuroses possess specially high theoretical interest because, lacking later defensive deposits, the essence of the neurosis springs to the eyes with unmistakable distinctness",
+      "domains": [
+        "child_psychology",
+        "neurosis_theory",
+        "psychoanalytic_theory",
+        "infantile_neurosis"
+      ],
+      "source": "From the History of an Infantile Neurosis (Wolf Man) (1918)",
+      "type": "theoretical_claim",
+      "notes": "Children's neuroses as clearer windows into neurotic mechanisms due to simpler defensive structure"
+    },
+    {
+      "id": "FREUD-0974",
+      "position": "Study of children's neuroses exposes the inadequacy of attempts to reinterpret psychoanalytic findings (like those of Jung and Adler) by demonstrating the predominant role of libidinal forces and the absence of aspirations toward cultural aims of which children know nothing",
+      "domains": [
+        "infantile_neurosis",
+        "sexuality",
+        "libido",
+        "critique_of_rivals",
+        "aetiology"
+      ],
+      "source": "From the History of an Infantile Neurosis (Wolf Man) (1918)",
+      "type": "theoretical_claim",
+      "notes": "Children's neuroses as evidence against Adlerian/Jungian reinterpretations that minimize sexuality"
+    },
+    {
+      "id": "FREUD-0975",
+      "position": "Only analyses that present special difficulties and require great time investment yield genuinely new knowledge by enabling descent into the deepest and most primitive strata of mental development",
+      "domains": [
+        "psychoanalytic_technique",
+        "methodology",
+        "clinical_research"
+      ],
+      "source": "From the History of an Infantile Neurosis (Wolf Man) (1918)",
+      "type": "methodological_claim",
+      "notes": "Justification for lengthy, difficult analyses as necessary for theoretical advancement"
+    },
+    {
+      "id": "FREUD-0976",
+      "position": "Animal phobias in children are displacements; the anxiety-animal represents a father-surrogate, and the fear of the animal stands for fear of the father",
+      "domains": [
+        "phobia",
+        "symbolism",
+        "child_psychology",
+        "displacement",
+        "father_complex",
+        "animal_phobia"
+      ],
+      "source": "From the History of an Infantile Neurosis (Wolf Man) (1918)",
+      "type": "theoretical_claim",
+      "notes": "Wolf as father-surrogate; extends theory of animal phobias from Little Hans case"
+    },
+    {
+      "id": "FREUD-0977",
+      "position": "The sense of reality that persists after a dream indicates that some part of the latent material is claiming to possess the quality of reality in the dreamer's memory, signaling that the dream relates to an actual occurrence",
+      "domains": [
+        "dream_theory",
+        "reality",
+        "memory",
+        "dream_interpretation"
+      ],
+      "source": "From the History of an Infantile Neurosis (Wolf Man) (1918)",
+      "type": "interpretive_principle",
+      "notes": "Technical principle for interpreting dreams with persistent sense of reality"
+    },
+    {
+      "id": "FREUD-0978",
+      "position": "Dream-work systematically employs reversals and transpositions: attentive looking by wolves represented the child's looking; immobility represented violent motion; being looked at represented looking",
+      "domains": [
+        "dream_work",
+        "reversal",
+        "dream_interpretation",
+        "displacement"
+      ],
+      "source": "From the History of an Infantile Neurosis (Wolf Man) (1918)",
+      "type": "interpretive_principle",
+      "notes": "Specific dream-work mechanisms illustrated through Wolf Man's dream"
+    },
+    {
+      "id": "FREUD-0979",
+      "position": "The Wolf Man's dream concealed a primal scene: observation of parental coitus a tergo at approximately eighteen months of age, witnessed upon waking from an afternoon nap in the parents' bedroom",
+      "domains": [
+        "primal_scene",
+        "infantile_sexuality",
+        "memory",
+        "observation",
+        "trauma"
+      ],
+      "source": "From the History of an Infantile Neurosis (Wolf Man) (1918)",
+      "type": "clinical_observation",
+      "notes": "Most famous/controversial primal scene reconstruction in psychoanalytic literature"
+    },
+    {
+      "id": "FREUD-0980",
+      "position": "The primal scene was not immediately pathogenic but operated through deferred action (Nachtr\u00e4glichkeit): understood retrospectively at age four in light of sexual knowledge acquired in the interim, it then produced the anxiety dream and neurosis",
+      "domains": [
+        "deferred_action",
+        "trauma",
+        "sexual_development",
+        "aetiology",
+        "primal_scene"
+      ],
+      "source": "From the History of an Infantile Neurosis (Wolf Man) (1918)",
+      "type": "aetiological_claim",
+      "notes": "Elaborates deferred action theory; scene only becomes traumatic when reactivated with new understanding"
+    },
+    {
+      "id": "FREUD-0981",
+      "position": "The primal scene provides the child with a conviction of the reality of castration by showing the female genitals, thus transforming incestuous wishes into castration anxiety",
+      "domains": [
+        "castration_complex",
+        "primal_scene",
+        "anxiety",
+        "sexual_theory",
+        "female_genitals"
+      ],
+      "source": "From the History of an Infantile Neurosis (Wolf Man) (1918)",
+      "type": "theoretical_claim",
+      "notes": "Primal scene as source of castration anxiety through sight of female genitals"
+    },
+    {
+      "id": "FREUD-0982",
+      "position": "The Wolf Man's sexual aim after the primal scene was to be sexually satisfied by his father in the same manner as his mother, requiring him to take her place and adopt the feminine attitude toward the father",
+      "domains": [
+        "passive_homosexuality",
+        "identification",
+        "oedipus_complex",
+        "sexual_aim",
+        "femininity"
+      ],
+      "source": "From the History of an Infantile Neurosis (Wolf Man) (1918)",
+      "type": "clinical_observation",
+      "notes": "Passive homosexual position toward father derived from identification with mother in primal scene"
+    },
+    {
+      "id": "FREUD-0983",
+      "position": "Repudiation of femininity and return to masculinity was motivated by narcissistic masculine protest: adoption of the passive feminine position toward father required castration, which threatened his narcissistic genital interest",
+      "domains": [
+        "masculinity",
+        "femininity",
+        "narcissism",
+        "castration_complex",
+        "genital_organization"
+      ],
+      "source": "From the History of an Infantile Neurosis (Wolf Man) (1918)",
+      "type": "theoretical_claim",
+      "notes": "Conflict between passive sexual aim and narcissistic masculine identity"
+    },
+    {
+      "id": "FREUD-0984",
+      "position": "Ambivalence toward the father (love and hate) dominated the Wolf Man's life: passive homosexual love conflicted with masculine identification, producing simultaneous wishes to be loved by and to destroy the father",
+      "domains": [
+        "ambivalence",
+        "father_complex",
+        "homosexuality",
+        "identification",
+        "oedipus_complex"
+      ],
+      "source": "From the History of an Infantile Neurosis (Wolf Man) (1918)",
+      "type": "clinical_observation",
+      "notes": "Intense ambivalence as organizing feature of Wolf Man's neurosis"
+    },
+    {
+      "id": "FREUD-0985",
+      "position": "The transformation from anxiety-hysteria (wolf phobia) to obsessional neurosis involved regression from the genital to the anal-sadistic organization, allowing avoidance of castration while maintaining passive position toward father through anal erotism",
+      "domains": [
+        "obsessional_neurosis",
+        "hysteria",
+        "regression",
+        "anal_erotism",
+        "libidinal_development"
+      ],
+      "source": "From the History of an Infantile Neurosis (Wolf Man) (1918)",
+      "type": "theoretical_claim",
+      "notes": "Shift in neurotic structure through libidinal regression to anal-sadistic phase"
+    },
+    {
+      "id": "FREUD-0986",
+      "position": "The Wolf Man's obsessional religious neurosis represented a continuation of his struggle with the father: God as father-substitute; religious piety and blasphemous thoughts as expressions of ambivalence; ritual as undoing of hostile impulses",
+      "domains": [
+        "obsessional_neurosis",
+        "religion",
+        "ambivalence",
+        "father_complex",
+        "blasphemy",
+        "ritual"
+      ],
+      "source": "From the History of an Infantile Neurosis (Wolf Man) (1918)",
+      "type": "clinical_observation",
+      "notes": "Religious obsessional neurosis as displaced father-conflict"
+    },
+    {
+      "id": "FREUD-0987",
+      "position": "Obsessional neurosis may represent regression from genital organization to anal-sadistic organization: the anal-sadistic phase becomes the predisposition to obsessional neurosis when the advance to genitality fails",
+      "domains": [
+        "obsessional_neurosis",
+        "regression",
+        "anal_erotism",
+        "sadism",
+        "disposition",
+        "libidinal_development"
+      ],
+      "source": "From the History of an Infantile Neurosis (Wolf Man) (1918)",
+      "type": "theoretical_claim",
+      "notes": "Anal-sadistic organization as dispositional basis for obsessional neurosis"
+    },
+    {
+      "id": "FREUD-0988",
+      "position": "The patient simultaneously maintained three passive sexual currents toward the father at different levels: homosexual (unconscious, genital), cannibalistic (neurotic, oral), and masochistic (dominant, anal-sadistic), representing the same impulse split along different developmental levels",
+      "domains": [
+        "homosexuality",
+        "masochism",
+        "cannibalism",
+        "passive_aims",
+        "regression",
+        "fixation"
+      ],
+      "source": "From the History of an Infantile Neurosis (Wolf Man) (1918)",
+      "type": "clinical_observation",
+      "notes": "Simultaneous maintenance of multiple sexual organizations at different developmental levels"
+    },
+    {
+      "id": "FREUD-0989",
+      "position": "The obsessional thought 'whether Christ had a behind' represented the repressed homosexual question whether he himself could be used by his father like a woman, like his mother in the primal scene",
+      "domains": [
+        "obsessional_neurosis",
+        "homosexuality",
+        "anal_erotism",
+        "identification",
+        "primal_scene"
+      ],
+      "source": "From the History of an Infantile Neurosis (Wolf Man) (1918)",
+      "type": "interpretive_principle",
+      "notes": "Obsessional religious thought as displaced homosexual question about passive feminine position"
+    },
+    {
+      "id": "FREUD-0990",
+      "position": "Blasphemous obsessional thoughts ('God-shit', 'God-swine') are compromise-formations connecting repressed homosexual and anal-erotic impulses with religious piety, expressing both hostility to the father-God and the intrusion of anal associations",
+      "domains": [
+        "obsessional_neurosis",
+        "compromise_formation",
+        "anal_erotism",
+        "blasphemy",
+        "ambivalence"
+      ],
+      "source": "From the History of an Infantile Neurosis (Wolf Man) (1918)",
+      "type": "clinical_observation",
+      "notes": "Blasphemous thoughts as compromise between piety and anal-erotic hostility"
+    },
+    {
+      "id": "FREUD-0991",
+      "position": "Obsessional rituals of breathing served multiple functions: breathing in the Holy Spirit (father's breath during coitus), breathing out evil spirits (repressed sexuality and aggression), and avoiding identification with the father seen as weak and pitiable",
+      "domains": [
+        "obsessional_neurosis",
+        "ritual",
+        "identification",
+        "symptom_analysis",
+        "overdetermination"
+      ],
+      "source": "From the History of an Infantile Neurosis (Wolf Man) (1918)",
+      "type": "clinical_observation",
+      "notes": "Breathing ritual as overdetermined symptom with multiple unconscious meanings"
+    },
+    {
+      "id": "FREUD-0992",
+      "position": "The problem of primal phantasies versus actual primal scenes cannot be definitively resolved in individual cases; what matters clinically is that the patient experiences the scene as real and that it functions aetiologically whether actual or phantastic",
+      "domains": [
+        "primal_scene",
+        "primal_phantasy",
+        "memory",
+        "reality",
+        "aetiology",
+        "phylogenetic_inheritance"
+      ],
+      "source": "From the History of an Infantile Neurosis (Wolf Man) (1918)",
+      "type": "theoretical_claim",
+      "notes": "Freud's uncertainty about actual observation versus phylogenetic phantasy; leaves question open as 'non liquet'"
+    },
+    {
+      "id": "FREUD-0993",
+      "position": "Primal scenes regularly appear with the same features across patients: coitus a tergo allowing observation of genitals, interrupted by the child in characteristic ways, suggesting either universal observation or phylogenetically inherited primal phantasies",
+      "domains": [
+        "primal_scene",
+        "primal_phantasy",
+        "phylogenetic_inheritance",
+        "sexual_observation"
+      ],
+      "source": "From the History of an Infantile Neurosis (Wolf Man) (1918)",
+      "type": "clinical_observation",
+      "notes": "Regularity of primal scene features suggests phylogenetic origin"
+    },
+    {
+      "id": "FREUD-0994",
+      "position": "Seduction by an older child (the patient's sister) accelerated sexual development and established passive aims, but the primal scene observation provided the basis for understanding sexual difference and reorganizing early experiences retrospectively",
+      "domains": [
+        "seduction",
+        "passive_aims",
+        "sexual_development",
+        "deferred_action"
+      ],
+      "source": "From the History of an Infantile Neurosis (Wolf Man) (1918)",
+      "type": "aetiological_claim",
+      "notes": "Seduction plus primal scene as complex aetiological factors requiring deferred action"
+    },
+    {
+      "id": "FREUD-0995",
+      "position": "Religious sublimation of masochism (identification with Christ as sufferer) initially provided relief but broke down due to ambivalence toward the father-God, producing the obsessional neurosis with its blasphemous thoughts and compulsive rituals",
+      "domains": [
+        "sublimation",
+        "religion",
+        "obsessional_neurosis",
+        "masochism",
+        "ambivalence"
+      ],
+      "source": "From the History of an Infantile Neurosis (Wolf Man) (1918)",
+      "type": "clinical_observation",
+      "notes": "Failed religious sublimation leading to obsessional symptom formation"
+    },
+    {
+      "id": "FREUD-0996",
+      "position": "Intellectual precocity and capacity for abstract thought in young children should not be underestimated; the Wolf Man's complex theological and philosophical ruminations at age four-and-a-half were authentic childhood thoughts, not retrospective adult constructions",
+      "domains": [
+        "child_psychology",
+        "intellectual_development",
+        "memory",
+        "obsessional_neurosis"
+      ],
+      "source": "From the History of an Infantile Neurosis (Wolf Man) (1918)",
+      "type": "clinical_observation",
+      "notes": "Defense of authenticity of childhood thoughts against skepticism"
+    },
+    {
+      "id": "FREUD-0997",
+      "position": "Infantile neuroses in childhood may spontaneously resolve but leave lasting characterological defects and predispositions to later illness, as the Wolf Man's childhood obsessional neurosis left him vulnerable to adult breakdown",
+      "domains": [
+        "infantile_neurosis",
+        "prognosis",
+        "characterology",
+        "disposition"
+      ],
+      "source": "From the History of an Infantile Neurosis (Wolf Man) (1918)",
+      "type": "clinical_observation",
+      "notes": "Long-term consequences of infantile neurosis even after apparent resolution"
+    },
+    {
+      "id": "FREUD-0998",
+      "position": "The demand for 'psycho-synthesis' following analysis is an empty phrase; psycho-synthesis occurs automatically and inevitably during analysis as resistances are removed, allowing the ego to reintegrate previously split-off instinctual impulses",
+      "domains": [
+        "psychoanalytic_technique",
+        "therapeutic_mechanism",
+        "ego_functions",
+        "synthesis"
+      ],
+      "source": "Lines of Advance in Psycho-Analytic Therapy (1919)",
+      "type": "methodological_claim",
+      "notes": "Rejection of Jung's emphasis on synthesis as separate therapeutic task"
+    },
+    {
+      "id": "FREUD-0999",
+      "position": "The fundamental principle for future development of psychoanalytic technique is that treatment should be carried through under privation, in a state of abstinence, to maintain the instinctual force impelling the patient toward recovery",
+      "domains": [
+        "psychoanalytic_technique",
+        "abstinence",
+        "therapeutic_principles",
+        "frustration"
+      ],
+      "source": "Lines of Advance in Psycho-Analytic Therapy (1919)",
+      "type": "therapeutic_principle",
+      "notes": "Principle of abstinence as essential to maintain therapeutic motivation"
+    },
+    {
+      "id": "FREUD-01000",
+      "position": "The patient's suffering must not come to an end prematurely during treatment; if symptoms lose their painful quality, suffering must be reinstated elsewhere as appreciable privation, otherwise only insignificant and transitory improvements occur",
+      "domains": [
+        "psychoanalytic_technique",
+        "suffering",
+        "privation",
+        "therapeutic_mechanism"
+      ],
+      "source": "Lines of Advance in Psycho-Analytic Therapy (1919)",
+      "type": "therapeutic_principle",
+      "notes": "Controversial principle requiring maintenance of suffering as therapeutic necessity"
+    },
+    {
+      "id": "FREUD-01001",
+      "position": "Patients seek substitutive satisfactions during treatment through new activities, relationships, or transference; the analyst must detect and oppose these premature satisfactions that drain energy from the therapeutic work",
+      "domains": [
+        "psychoanalytic_technique",
+        "resistance",
+        "transference",
+        "substitutive_satisfaction"
+      ],
+      "source": "Lines of Advance in Psycho-Analytic Therapy (1919)",
+      "type": "therapeutic_principle",
+      "notes": "Active intervention against displacement of libido into non-therapeutic substitutes"
+    },
+    {
+      "id": "FREUD-01002",
+      "position": "Regarding transference relationship, the patient must be left with unfulfilled wishes in abundance; it is expedient to deny precisely those satisfactions he desires most intensely and expresses most importunately",
+      "domains": [
+        "transference",
+        "psychoanalytic_technique",
+        "abstinence",
+        "frustration"
+      ],
+      "source": "Lines of Advance in Psycho-Analytic Therapy (1919)",
+      "type": "therapeutic_principle",
+      "notes": "Strict limitation of gratification in transference relationship"
+    },
+    {
+      "id": "FREUD-01003",
+      "position": "The analyst must not turn the patient into private property, decide his fate, force ideals upon him, or form him in the analyst's image; the patient should be educated to liberate and fulfill his own nature, not to resemble the analyst",
+      "domains": [
+        "psychoanalytic_technique",
+        "neutrality",
+        "therapeutic_relationship",
+        "ethics"
+      ],
+      "source": "Lines of Advance in Psycho-Analytic Therapy (1919)",
+      "type": "therapeutic_principle",
+      "notes": "Rejection of Jung's approach; emphasis on patient's autonomy and individuality"
+    },
+    {
+      "id": "FREUD-01004",
+      "position": "Psychoanalysis must not place itself in service of any particular philosophical worldview (Weltanschauung) to be urged upon patients; this would be violence overlaid with honorable motives",
+      "domains": [
+        "psychoanalytic_theory",
+        "philosophy",
+        "neutrality",
+        "worldview"
+      ],
+      "source": "Lines of Advance in Psycho-Analytic Therapy (1919)",
+      "type": "methodological_claim",
+      "notes": "Rejection of Putnam's proposal; psychoanalysis as scientific method not philosophy"
+    },
+    {
+      "id": "FREUD-01005",
+      "position": "In treatment of phobias, particularly agoraphobia, the analyst must actively induce the patient to confront the feared situation rather than waiting passively; only through active struggle with anxiety do necessary associations and memories emerge",
+      "domains": [
+        "phobia",
+        "psychoanalytic_technique",
+        "activity",
+        "agoraphobia",
+        "anxiety"
+      ],
+      "source": "Lines of Advance in Psycho-Analytic Therapy (1919)",
+      "type": "therapeutic_principle",
+      "notes": "Modification of technique for phobias requiring active intervention"
+    },
+    {
+      "id": "FREUD-01006",
+      "position": "In severe obsessional neurosis, the analyst must wait until the treatment itself becomes a compulsion, then use this counter-compulsion to forcibly suppress the compulsion of the disease, preventing interminable analysis that brings to light much but changes nothing",
+      "domains": [
+        "obsessional_neurosis",
+        "psychoanalytic_technique",
+        "compulsion",
+        "therapeutic_strategy"
+      ],
+      "source": "Lines of Advance in Psycho-Analytic Therapy (1919)",
+      "type": "therapeutic_principle",
+      "notes": "Active technique modification for obsessional cases to prevent asymptotic protraction"
+    },
+    {
+      "id": "FREUD-01007",
+      "position": "Unhappy marriage and physical infirmity are the two things that most often supersede a neurosis, satisfying the sense of guilt (need for punishment) that makes patients cling to neuroses; patients regard them as self-punishment or punishment by fate",
+      "domains": [
+        "neurosis",
+        "guilt",
+        "need_for_punishment",
+        "substitutive_satisfaction",
+        "marriage"
+      ],
+      "source": "Lines of Advance in Psycho-Analytic Therapy (1919)",
+      "type": "clinical_observation",
+      "notes": "Non-neurotic forms of self-punishment as neurosis substitutes"
+    },
+    {
+      "id": "FREUD-01008",
+      "position": "Eventually public conscience will recognize the poor man's right to mental health assistance; state-funded psychoanalytic clinics will treat those who would otherwise succumb to drink, privation, or delinquency, though technique must be adapted and 'pure gold of analysis' may require alloying with 'copper of direct suggestion'",
+      "domains": [
+        "psychoanalytic_technique",
+        "social_policy",
+        "public_health",
+        "therapeutic_modifications"
+      ],
+      "source": "Lines of Advance in Psycho-Analytic Therapy (1919)",
+      "type": "methodological_claim",
+      "notes": "Vision of public psychoanalytic mental health services; anticipates later modifications"
+    },
+    {
+      "id": "FREUD-01009",
+      "position": "The beating phantasy 'a child is being beaten' appears surprisingly often in patients seeking treatment and is cathected with pleasure, culminating in masturbatory satisfaction, yet is confessed only with hesitation, shame, and guilt",
+      "domains": [
+        "phantasy",
+        "masochism",
+        "perversion",
+        "masturbation",
+        "beating_phantasy"
+      ],
+      "source": "A Child is Being Beaten (1919)",
+      "type": "clinical_observation",
+      "notes": "Widespread occurrence of beating phantasies as component of sexual life"
+    },
+    {
+      "id": "FREUD-01010",
+      "position": "Beating phantasies originate very early in childhood (before school age, by fifth or sixth year) and represent primary traits of perversion where a sexual component has developed prematurely, undergone fixation, and been withdrawn from later development",
+      "domains": [
+        "perversion",
+        "infantile_sexuality",
+        "fixation",
+        "beating_phantasy",
+        "component_instincts"
+      ],
+      "source": "A Child is Being Beaten (1919)",
+      "type": "aetiological_claim",
+      "notes": "Early fixation theory of perversion applied to beating phantasies"
+    },
+    {
+      "id": "FREUD-01011",
+      "position": "Premature development and fixation of the sadistic component results in disposition to obsessional neurosis when subsequently repressed, as evidenced by the predominance of obsessional features in patients with beating phantasies",
+      "domains": [
+        "obsessional_neurosis",
+        "sadism",
+        "disposition",
+        "perversion",
+        "repression"
+      ],
+      "source": "A Child is Being Beaten (1919)",
+      "type": "aetiological_claim",
+      "notes": "Connection between sadistic fixation and obsessional neurosis disposition"
+    },
+    {
+      "id": "FREUD-01012",
+      "position": "Genuine psychoanalysis succeeds only when it removes the amnesia concealing knowledge of childhood from about the second to fifth year; anyone who neglects childhood analysis falls into disastrous errors, as the earliest experiences contain crucial aetiological factors",
+      "domains": [
+        "psychoanalytic_technique",
+        "childhood_amnesia",
+        "methodology",
+        "infantile_experience"
+      ],
+      "source": "A Child is Being Beaten (1919)",
+      "type": "methodological_claim",
+      "notes": "Emphatic assertion of necessity of uncovering early childhood experiences"
+    },
+    {
+      "id": "FREUD-01013",
+      "position": "Beating phantasies undergo historical development through three phases in girls: Phase 1 ('My father is beating the child I hate' - sadistic), Phase 2 ('I am being beaten by my father' - masochistic, unconscious), Phase 3 ('Unknown children, usually boys, are being beaten' - apparently sadistic, but masochistic in origin)",
+      "domains": [
+        "phantasy",
+        "masochism",
+        "sadism",
+        "beating_phantasy",
+        "phase_development"
+      ],
+      "source": "A Child is Being Beaten (1919)",
+      "type": "theoretical_claim",
+      "notes": "Three-phase developmental structure of beating phantasy in girls"
+    },
+    {
+      "id": "FREUD-01014",
+      "position": "Phase 1 of beating phantasy ('father beating hated sibling') gratifies jealousy and expresses: 'My father does not love this other child, he loves only me' - reinforced by both erotic and egoistic interests",
+      "domains": [
+        "phantasy",
+        "jealousy",
+        "oedipus_complex",
+        "sibling_rivalry",
+        "father_love"
+      ],
+      "source": "A Child is Being Beaten (1919)",
+      "type": "interpretive_principle",
+      "notes": "Oedipal meaning of first phase as expression of exclusive father-love"
+    },
+    {
+      "id": "FREUD-01015",
+      "position": "Phase 2 ('I am being beaten by my father') is the most important phase but has never had real existence - it is never remembered, never becomes conscious, yet is a construction of analysis and a necessity; it represents the guilt-transformed incestuous wish",
+      "domains": [
+        "phantasy",
+        "unconscious",
+        "guilt",
+        "masochism",
+        "incestuous_wish"
+      ],
+      "source": "A Child is Being Beaten (1919)",
+      "type": "theoretical_claim",
+      "notes": "Unconscious masochistic phase as guilt-driven reversal of incestuous triumph"
+    },
+    {
+      "id": "FREUD-01016",
+      "position": "Sense of guilt transforms sadism into masochism: the triumph 'He loves only me' becomes punishment 'No, he does not love you, for he is beating you' - the beating phantasy becomes direct expression of girl's guilt over incestuous father-love",
+      "domains": [
+        "guilt",
+        "sadism",
+        "masochism",
+        "transformation",
+        "father_complex"
+      ],
+      "source": "A Child is Being Beaten (1919)",
+      "type": "theoretical_claim",
+      "notes": "Guilt as factor transforming sadism into masochism"
+    },
+    {
+      "id": "FREUD-01017",
+      "position": "Phase 2 beating phantasy represents both punishment for forbidden genital relation with father AND regressive substitute for that relation: through regression to anal-sadistic organization, 'My father loves me' (genital) becomes 'My father is beating me' (anal), deriving libidinal excitation from both sources",
+      "domains": [
+        "regression",
+        "masochism",
+        "anal_erotism",
+        "substitution",
+        "incestuous_wish"
+      ],
+      "source": "A Child is Being Beaten (1919)",
+      "type": "theoretical_claim",
+      "notes": "Dual nature of masochistic phantasy as punishment and regressive sexual substitute"
+    },
+    {
+      "id": "FREUD-01018",
+      "position": "When repression meets the barely-effected genital organization, two results follow: incestuous love becomes unconscious AND regressive debasement of genital organization to anal-sadistic level occurs, allowing beating to serve as both punishment and libidinal satisfaction",
+      "domains": [
+        "repression",
+        "regression",
+        "genital_organization",
+        "anal_sadism",
+        "debasement"
+      ],
+      "source": "A Child is Being Beaten (1919)",
+      "type": "theoretical_claim",
+      "notes": "Repression causing dual effect: unconscious incest and libidinal regression"
+    },
+    {
+      "id": "FREUD-01019",
+      "position": "Phase 3 beating phantasy, though apparently sadistic, is actually derived from the unconscious masochistic Phase 2; the girl as spectator of boys being beaten represents her own beating through identification, satisfying both masochistic need and avoiding full conscious recognition",
+      "domains": [
+        "masochism",
+        "identification",
+        "phantasy",
+        "displacement",
+        "conscious_unconscious"
+      ],
+      "source": "A Child is Being Beaten (1919)",
+      "type": "interpretive_principle",
+      "notes": "Spectator position as disguised masochistic identification"
+    },
+    {
+      "id": "FREUD-01020",
+      "position": "Incestuous love between child and parent inevitably succumbs to repression, whether through external disappointment or internal conditions; children recapitulate phylogenetically the repression of incestuous object-choice at a developmentally appropriate phase",
+      "domains": [
+        "incest",
+        "repression",
+        "oedipus_complex",
+        "phylogenetic_inheritance",
+        "development"
+      ],
+      "source": "A Child is Being Beaten (1919)",
+      "type": "theoretical_claim",
+      "notes": "Inevitability of repression of incestuous wishes as phylogenetically determined"
+    },
+    {
+      "id": "FREUD-01021",
+      "position": "Sense of guilt appearing with repression of incestuous wishes is of unknown origin but undoubtedly connected with those wishes and justified by their persistence in the unconscious; guilt is invariably the factor transforming sadism into masochism",
+      "domains": [
+        "guilt",
+        "incestuous_wish",
+        "sadism",
+        "masochism",
+        "repression"
+      ],
+      "source": "A Child is Being Beaten (1919)",
+      "type": "theoretical_claim",
+      "notes": "Guilt as transformative factor in shift from sadism to masochism"
+    },
+    {
+      "id": "FREUD-01022",
+      "position": "The uncanny (unheimlich) is that class of the frightening which leads back to what is known of old and long familiar; it represents the return of something repressed, something familiar that has been estranged through repression",
+      "domains": [
+        "uncanny",
+        "repression",
+        "return_of_repressed",
+        "aesthetics",
+        "anxiety"
+      ],
+      "source": "The Uncanny (1919)",
+      "type": "theoretical_claim",
+      "notes": "Central thesis connecting uncanny feeling to return of repressed familiar material"
+    },
+    {
+      "id": "FREUD-01023",
+      "position": "The word 'heimlich' (homely, familiar) develops ambiguity: it means both intimate/familiar AND concealed/hidden, ultimately converging with its opposite 'unheimlich' (uncanny); what is heimlich (hidden, secret) becomes unheimlich when revealed",
+      "domains": [
+        "uncanny",
+        "linguistics",
+        "ambiguity",
+        "concealment"
+      ],
+      "source": "The Uncanny (1919)",
+      "type": "theoretical_claim",
+      "notes": "Linguistic analysis revealing convergence of heimlich and unheimlich"
+    },
+    {
+      "id": "FREUD-01024",
+      "position": "Castration anxiety accounts for the uncanny effect of Hoffmann's Sand-Man story; dismemberment of limbs, eye-loss, and automata all represent castration, evoking infantile castration complex that should have remained repressed",
+      "domains": [
+        "uncanny",
+        "castration_complex",
+        "literature",
+        "symbolism",
+        "anxiety"
+      ],
+      "source": "The Uncanny (1919)",
+      "type": "interpretive_principle",
+      "notes": "Application of castration complex to aesthetic experience of the uncanny"
+    },
+    {
+      "id": "FREUD-01025",
+      "position": "The 'double' creates uncanny effects by representing narcissistic identification and immortality wishes from early psychical development; originally an insurance against ego-destruction, it becomes harbinger of death when this stage is surmounted",
+      "domains": [
+        "uncanny",
+        "double",
+        "narcissism",
+        "death",
+        "immortality"
+      ],
+      "source": "The Uncanny (1919)",
+      "type": "theoretical_claim",
+      "notes": "The double as primitive narcissistic defense transformed into death omen"
+    },
+    {
+      "id": "FREUD-01026",
+      "position": "The uncanny of fiction differs from real-life uncanny; in fiction, the writer can produce or avoid uncanny effects at will by establishing the story's reality-conditions, whereas in life the uncanny arises involuntarily from return of repressed complexes or primitive beliefs",
+      "domains": [
+        "uncanny",
+        "fiction",
+        "aesthetics",
+        "reality",
+        "literature"
+      ],
+      "source": "The Uncanny (1919)",
+      "type": "theoretical_claim",
+      "notes": "Distinction between aesthetic uncanny (under author's control) and experiential uncanny"
+    },
+    {
+      "id": "FREUD-01027",
+      "position": "Repetition-compulsion produces uncanny effects when involuntary recurrence of same situations, numbers, or events suggests hidden necessity or fate rather than chance, evoking primitive animistic beliefs in omnipotence of thoughts",
+      "domains": [
+        "uncanny",
+        "repetition_compulsion",
+        "fate",
+        "omnipotence_of_thoughts",
+        "animism"
+      ],
+      "source": "The Uncanny (1919)",
+      "type": "theoretical_claim",
+      "notes": "Repetition-compulsion as source of uncanny through revival of animistic thinking"
+    },
+    {
+      "id": "FREUD-01028",
+      "position": "The uncanny arises from two sources: (1) return of repressed infantile complexes (castration, womb-phantasies), and (2) return of surmounted primitive beliefs (animism, magic, omnipotence of thoughts) that appear confirmed by experience",
+      "domains": [
+        "uncanny",
+        "repression",
+        "primitive_beliefs",
+        "animism",
+        "infantile_complex"
+      ],
+      "source": "The Uncanny (1919)",
+      "type": "theoretical_claim",
+      "notes": "Dual aetiology of uncanny: repressed infantile material and surmounted beliefs"
+    },
+    {
+      "id": "FREUD-01029",
+      "position": "The womb as former dwelling-place produces uncanny feelings; the prefix 'un-' in 'unheimlich' is the mark of repression, transforming 'heimlich' (homely/womb-like) into its apparent opposite while revealing their hidden identity",
+      "domains": [
+        "uncanny",
+        "womb",
+        "repression",
+        "intra-uterine_existence",
+        "symbolism"
+      ],
+      "source": "The Uncanny (1919)",
+      "type": "theoretical_claim",
+      "notes": "Womb as source of uncanny heimlich feeling; burial phantasies as womb-return"
+    }
+  ]
+}

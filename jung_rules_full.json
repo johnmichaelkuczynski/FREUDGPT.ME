@@ -1,0 +1,1775 @@
+[
+  {
+    "id": "JUNG-0001",
+    "year": 1916,
+    "premise": "trauma|shock|disturbance",
+    "conclusion": "Theory of psychoanalysis has changed considerably, moving away from childhood trauma as the sole cause of neuroses.",
+    "strength": "core",
+    "domain": "psychoanalysis",
+    "source": "CHAPTER I"
+  },
+  {
+    "id": "JUNG-0002",
+    "year": 1916,
+    "premise": "trauma|shock|disturbance|complex|fixation",
+    "conclusion": "Traumatic theory is insufficient for explaining hysteria because of the complexity of neuroses and the role of predisposition and environment.",
+    "strength": "core",
+    "domain": "psychoanalysis",
+    "source": "CHAPTER I"
+  },
+  {
+    "id": "JUNG-0003",
+    "year": 1916,
+    "premise": "repress|suppress|conceal|unconscious|subconscious|neuros|anxiety|symptom",
+    "conclusion": "Repression is the psychic mechanism that moves conscious thoughts into the unconscious, forming the basis for neurotic symptoms.",
+    "strength": "core",
+    "domain": "psychoanalysis",
+    "source": "CHAPTER I"
+  },
+  {
+    "id": "JUNG-0004",
+    "year": 1916,
+    "premise": "trauma|shock|disturbance|phantasy|fantasy|imagination|sex|libido|erotic",
+    "conclusion": "Freud gave up the notion that sexual trauma in childhood is the direct cause of neuroses; phantasy can have equivalent traumatic value.",
+    "strength": "core",
+    "domain": "psychoanalysis",
+    "source": "CHAPTER I"
+  },
+  {
+    "id": "JUNG-0005",
+    "year": 1916,
+    "premise": "trauma|shock|disturbance",
+    "conclusion": "Neurosis requires an internal predisposition that interacts with trauma; otherwise trauma leaves no lasting mark.",
+    "strength": "core",
+    "domain": "psychoanalysis",
+    "source": "CHAPTER I"
+  },
+  {
+    "id": "JUNG-0006",
+    "year": 1916,
+    "premise": "sex|libido|erotic",
+    "conclusion": "Children possess a highly developed, polymorphic-perverse sexuality that Freud identified through exhaustive investigation.",
+    "strength": "core",
+    "domain": "psychoanalysis",
+    "source": "CHAPTER II"
+  },
+  {
+    "id": "JUNG-0007",
+    "year": 1916,
+    "premise": "sex|libido|erotic",
+    "conclusion": "Sexuality is the instinct for the preservation of the species, extending beyond genital functions to include psychological phenomena from early childhood.",
+    "strength": "core",
+    "domain": "psychology",
+    "source": "CHAPTER II"
+  },
+  {
+    "id": "JUNG-0008",
+    "year": 1916,
+    "premise": "sex|libido|erotic",
+    "conclusion": "Infantile sexuality is auto-erotic and directed at various erogenous zones rather than specifically genital or heterosexual.",
+    "strength": "core",
+    "domain": "psychoanalysis",
+    "source": "CHAPTER II"
+  },
+  {
+    "id": "JUNG-0009",
+    "year": 1916,
+    "premise": "libido|psychic.{0,10}energy|sex|libido|erotic",
+    "conclusion": "Libido is a dynamic psychological energy that accounts for the shifting of sexual manifestations, replacing fixed components with a unified energic concept.",
+    "strength": "core",
+    "domain": "psychoanalysis",
+    "source": "CHAPTER III"
+  },
+  {
+    "id": "JUNG-0010",
+    "year": 1916,
+    "premise": "sex|libido|erotic",
+    "conclusion": "Human life is divided into pre-sexual (infancy), pre-pubertal (childhood), and mature (post-pubertal) phases, with sexuality developing gradually from nutritional functions.",
+    "strength": "core",
+    "domain": "psychology",
+    "source": "CHAPTER III"
+  },
+  {
+    "id": "JUNG-0011",
+    "year": 1916,
+    "premise": "sex|libido|erotic",
+    "conclusion": "Infantile sexual inclinations must be relinquished for normal development; persistence leads to perverse states.",
+    "strength": "core",
+    "domain": "psychoanalysis",
+    "source": "CHAPTER IV"
+  },
+  {
+    "id": "JUNG-0012",
+    "year": 1916,
+    "premise": "libido|psychic.{0,10}energy|neuros|anxiety|symptom|sex|libido|erotic",
+    "conclusion": "Neurosis results from libido becoming fixed at pre-sexual stages.",
+    "strength": "core",
+    "domain": "psychoanalysis",
+    "source": "CHAPTER IV"
+  },
+  {
+    "id": "JUNG-0013",
+    "year": 1916,
+    "premise": "trauma|shock|disturbance",
+    "conclusion": "Traumatic events do not cause neurosis; the key factor is retardation of infantile development.",
+    "strength": "core",
+    "domain": "psychoanalysis",
+    "source": "CHAPTER IV"
+  },
+  {
+    "id": "JUNG-0014",
+    "year": 1916,
+    "premise": "phantasy|fantasy|imagination|neuros|anxiety|symptom",
+    "conclusion": "Neurosis arises from retardation in emotional development, producing infantile phantasies.",
+    "strength": "core",
+    "domain": "psychoanalysis",
+    "source": "CHAPTER IV"
+  },
+  {
+    "id": "JUNG-0015",
+    "year": 1916,
+    "premise": "libido|psychic.{0,10}energy|introversion|introverted|inward",
+    "conclusion": "Introversion occurs when libido is directed inward rather than toward external adaptation.",
+    "strength": "core",
+    "domain": "psychoanalysis",
+    "source": "CHAPTER IV"
+  },
+  {
+    "id": "JUNG-0016",
+    "year": 1916,
+    "premise": "libido|psychic.{0,10}energy|introversion|introverted|inward|complex|fixation|neuros|anxiety|symptom",
+    "conclusion": "The images of parents provide a field for introverted libido, shaping neurotic behavior.",
+    "strength": "core",
+    "domain": "psychoanalysis",
+    "source": "CHAPTER IV"
+  },
+  {
+    "id": "JUNG-0017",
+    "year": 1916,
+    "premise": "unconscious|subconscious|phantasy|fantasy|imagination",
+    "conclusion": "Unconscious phantasies are central to the etiology of neurosis and are the object of psychoanalytic investigation.",
+    "strength": "core",
+    "domain": "psychoanalysis",
+    "source": "CHAPTER V"
+  },
+  {
+    "id": "JUNG-0018",
+    "year": 1916,
+    "premise": "unconscious|subconscious|dream|oneiric",
+    "conclusion": "Dreams are products of unconscious origin built from past reminiscences.",
+    "strength": "core",
+    "domain": "psychoanalysis",
+    "source": "CHAPTER VI"
+  },
+  {
+    "id": "JUNG-0019",
+    "year": 1916,
+    "premise": "phantasy|fantasy|imagination|complex|fixation",
+    "conclusion": "The Œdipus-complex is an infantile phantasy involving desire for one parent and rivalry with the other.",
+    "strength": "core",
+    "domain": "psychoanalysis",
+    "source": "CHAPTER VII"
+  },
+  {
+    "id": "JUNG-0020",
+    "year": 1916,
+    "premise": "libido|psychic.{0,10}energy|regress|backwards|retreat",
+    "conclusion": "Neurosis arises when libido regresses to infantile stages because of current conflicts, creating an apparent past etiology.",
+    "strength": "core",
+    "domain": "psychoanalysis",
+    "source": "CHAPTER VIII"
+  },
+  {
+    "id": "JUNG-0021",
+    "year": 1916,
+    "premise": "neuros|anxiety|symptom|\\bself\\b|wholeness",
+    "conclusion": "Neurosis is a symptom of a discord within the self, a struggle between two divergent tendencies.",
+    "strength": "core",
+    "domain": "psychoanalysis",
+    "source": "CHAPTER VIII"
+  },
+  {
+    "id": "JUNG-0022",
+    "year": 1916,
+    "premise": "neuros|anxiety|symptom",
+    "conclusion": "Critical sensitiveness is innate and becomes manifest in unusual situations.",
+    "strength": "core",
+    "domain": "psychology",
+    "source": "CHAPTER VIII"
+  },
+  {
+    "id": "JUNG-0023",
+    "year": 1916,
+    "premise": "regress|backwards|retreat",
+    "conclusion": "Regression is a key factor in the emotional development of highly sensitive individuals.",
+    "strength": "core",
+    "domain": "psychoanalysis",
+    "source": "CHAPTER VIII"
+  },
+  {
+    "id": "JUNG-0024",
+    "year": 1916,
+    "premise": "neuros|anxiety|symptom",
+    "conclusion": "Neurosis is a reaction to an actual conflict, not merely rooted in childhood.",
+    "strength": "core",
+    "domain": "psychoanalysis",
+    "source": "CHAPTER VIII"
+  },
+  {
+    "id": "JUNG-0025",
+    "year": 1916,
+    "premise": "phantasy|fantasy|imagination",
+    "conclusion": "Phantasies serve as compensations for unfulfilled adaptations to reality.",
+    "strength": "core",
+    "domain": "psychoanalysis",
+    "source": "CHAPTER VIII"
+  },
+  {
+    "id": "JUNG-0026",
+    "year": 1916,
+    "premise": "libido|psychic.{0,10}energy|regress|backwards|retreat",
+    "conclusion": "Psychoanalysis grants regressive phantasies so that libido can be understood and redirected.",
+    "strength": "core",
+    "domain": "psychoanalysis",
+    "source": "CHAPTER IX"
+  },
+  {
+    "id": "JUNG-0027",
+    "year": 1916,
+    "premise": "libido|psychic.{0,10}energy|transfer|project",
+    "conclusion": "Transference occurs when libido and phantasies are directed toward the physician.",
+    "strength": "core",
+    "domain": "psychoanalysis",
+    "source": "CHAPTER IX"
+  },
+  {
+    "id": "JUNG-0028",
+    "year": 1916,
+    "premise": "unconscious|subconscious|transfer|project",
+    "conclusion": "Analyzing transference liberates the patient from unconscious dependency on the analyst.",
+    "strength": "core",
+    "domain": "psychoanalysis",
+    "source": "CHAPTER IX"
+  },
+  {
+    "id": "JUNG-0029",
+    "year": 1916,
+    "premise": "unconscious|subconscious|\\bself\\b|wholeness",
+    "conclusion": "Psychoanalysts must undergo psychoanalysis to eliminate unconscious interferences in their work.",
+    "strength": "core",
+    "domain": "psychoanalysis",
+    "source": "CHAPTER IX"
+  },
+  {
+    "id": "JUNG-0030",
+    "year": 1916,
+    "premise": "dream|oneiric",
+    "conclusion": "Dreams have a prospective (teleological) function in preparing future life tendencies.",
+    "strength": "core",
+    "domain": "psychoanalysis",
+    "source": "CHAPTER IX"
+  },
+  {
+    "id": "JUNG-0031",
+    "year": 1916,
+    "premise": "psych|mind|mental|behavior",
+    "conclusion": "Psychoanalysis is superior to suggestion therapies as it addresses root causes rather than symptoms.",
+    "strength": "core",
+    "domain": "psychoanalysis",
+    "source": "CHAPTER X"
+  },
+  {
+    "id": "JUNG-0032",
+    "year": 1916,
+    "premise": "psych|mind|mental|behavior",
+    "conclusion": "Psychoanalysis deals with knowledge and its formulations, not faith, allowing for ongoing evolution.",
+    "strength": "core",
+    "domain": "psychoanalysis",
+    "source": "CHAPTER X"
+  },
+  {
+    "id": "JUNG-0033",
+    "year": 1916,
+    "premise": "psych|mind|mental|behavior",
+    "conclusion": "Psychoanalytic insights can inform pedagogy by understanding infantile development.",
+    "strength": "core",
+    "domain": "psychology",
+    "source": "CHAPTER X"
+  },
+  {
+    "id": "JUNG-0034",
+    "year": 1916,
+    "premise": "psych|mind|mental|behavior",
+    "conclusion": "Critics often attack psychoanalysis out of ignorance or prejudice, ignoring its scientific basis.",
+    "strength": "core",
+    "domain": "psychoanalysis",
+    "source": "CHAPTER X"
+  },
+  {
+    "id": "JUNG-0035",
+    "year": 1916,
+    "premise": "psych|mind|mental|behavior",
+    "conclusion": "Theories are instruments for work, not final answers, allowing for change based on experience.",
+    "strength": "core",
+    "domain": "psychoanalysis",
+    "source": "CHAPTER X"
+  },
+  {
+    "id": "JUNG-0036",
+    "year": 1916,
+    "premise": "psych|mind|mental|behavior",
+    "conclusion": "Psychoanalysis provides a meta-framework for understanding psychological phenomena beyond specific theories.",
+    "strength": "core",
+    "domain": "psychoanalysis",
+    "source": "CHAPTER X"
+  },
+  {
+    "id": "JUNG-0037",
+    "year": 1916,
+    "premise": "psych|mind|mental|behavior",
+    "conclusion": "Jung's work builds on Freud's, with modest criticism to advance the field, not create schism.",
+    "strength": "core",
+    "domain": "psychoanalysis",
+    "source": "CHAPTER X"
+  },
+  {
+    "id": "JUNG-0038",
+    "year": 1916,
+    "premise": "libido|psychic.{0,10}energy|sex|libido|erotic",
+    "conclusion": "Libido is conceived as a general psychic energy, not limited to sexual instinct, but encompassing all psychological processes.",
+    "strength": "core",
+    "domain": "psychoanalysis",
+    "source": "Throughout"
+  },
+  {
+    "id": "JUNG-0039",
+    "year": 1916,
+    "premise": "libido|psychic.{0,10}energy|dream|oneiric|regress|backwards|retreat|symbol|symbolic|imagery",
+    "conclusion": "Libido manifests through symbols in myths, dreams, and fantasies, representing transformations and regressions.",
+    "strength": "core",
+    "domain": "psychology",
+    "source": "Throughout"
+  },
+  {
+    "id": "JUNG-0040",
+    "year": 1916,
+    "premise": "libido|psychic.{0,10}energy|regress|backwards|retreat|symbol|symbolic|imagery",
+    "conclusion": "Libido regresses to infantile and archaic levels when blocked, leading to neuroses and symbolic expressions.",
+    "strength": "core",
+    "domain": "psychoanalysis",
+    "source": "Chapter on Regression"
+  },
+  {
+    "id": "JUNG-0041",
+    "year": 1916,
+    "premise": "libido|psychic.{0,10}energy|unconscious|subconscious",
+    "conclusion": "The mother imago represents the unconscious, nurturing yet devouring aspect, central to libido transformations.",
+    "strength": "core",
+    "domain": "psychology",
+    "source": "Sections on Mother Symbolism"
+  },
+  {
+    "id": "JUNG-0042",
+    "year": 1916,
+    "premise": "libido|psychic.{0,10}energy|symbol|symbolic|imagery",
+    "conclusion": "The hero symbolizes the libido's struggle for renewal, overcoming the mother and achieving rebirth.",
+    "strength": "core",
+    "domain": "mythology_psychology",
+    "source": "Hero Birth and Journey"
+  },
+  {
+    "id": "JUNG-0043",
+    "year": 1916,
+    "premise": "phantasy|fantasy|imagination|regress|backwards|retreat",
+    "conclusion": "Incest phantasy represents regression to the mother for rebirth, not literal desire.",
+    "strength": "core",
+    "domain": "psychoanalysis",
+    "source": "Incest Phantasy Sections"
+  },
+  {
+    "id": "JUNG-0044",
+    "year": 1916,
+    "premise": "unconscious|subconscious|symbol|symbolic|imagery",
+    "conclusion": "The unconscious contains collective, archaic elements shared across humanity, manifesting in symbols and myths.",
+    "strength": "core",
+    "domain": "psychology",
+    "source": "Archaic Tendencies"
+  },
+  {
+    "id": "JUNG-0045",
+    "year": 1916,
+    "premise": "libido|psychic.{0,10}energy|unconscious|subconscious|introversion|introverted|inward|extroversion|extroverted|outward|symbol|symbolic|imagery",
+    "conclusion": "Introversion directs libido inward, leading to symbolic thinking and connection with unconscious.",
+    "strength": "core",
+    "domain": "psychology",
+    "source": "Introversion Sections"
+  },
+  {
+    "id": "JUNG-0046",
+    "year": 1916,
+    "premise": "libido|psychic.{0,10}energy|regress|backwards|retreat|individuation|integration|wholeness",
+    "conclusion": "Sacrifice represents the renunciation of regressive libido for progression and individuation.",
+    "strength": "core",
+    "domain": "psychology",
+    "source": "Sacrifice Themes"
+  },
+  {
+    "id": "JUNG-0047",
+    "year": 1916,
+    "premise": "libido|psychic.{0,10}energy|unconscious|subconscious|symbol|symbolic|imagery",
+    "conclusion": "The sun symbolizes libido, consciousness, and the hero's journey through night sea (unconscious).",
+    "strength": "core",
+    "domain": "mythology_psychology",
+    "source": "Solar Mythology"
+  },
+  {
+    "id": "JUNG-0048",
+    "year": 1916,
+    "premise": "libido|psychic.{0,10}energy|sex|libido|erotic|symbol|symbolic|imagery",
+    "conclusion": "Phallic symbols represent creative libido, not just sexuality, in myths and rituals.",
+    "strength": "core",
+    "domain": "psychoanalysis",
+    "source": "Phallic Motifs"
+  },
+  {
+    "id": "JUNG-0049",
+    "year": 1916,
+    "premise": "unconscious|subconscious|symbol|symbolic|imagery",
+    "conclusion": "Rebirth symbolizes psychological renewal through confrontation with unconscious.",
+    "strength": "core",
+    "domain": "psychology",
+    "source": "Rebirth Sections"
+  },
+  {
+    "id": "JUNG-0050",
+    "year": 1916,
+    "premise": "regress|backwards|retreat|symbol|symbolic|imagery",
+    "conclusion": "The dragon represents the devouring mother or regressive forces to be overcome.",
+    "strength": "core",
+    "domain": "psychology",
+    "source": "Dragon Motifs"
+  },
+  {
+    "id": "JUNG-0051",
+    "year": 1916,
+    "premise": "symbol|symbolic|imagery",
+    "conclusion": "Trees symbolize growth, life, and the mother, connecting earth and heaven.",
+    "strength": "core",
+    "domain": "psychology",
+    "source": "Tree Motifs"
+  },
+  {
+    "id": "JUNG-0052",
+    "year": 1916,
+    "premise": "unconscious|subconscious|symbol|symbolic|imagery",
+    "conclusion": "Water represents the unconscious, birth, and the maternal depths.",
+    "strength": "core",
+    "domain": "psychology",
+    "source": "Water Motifs"
+  },
+  {
+    "id": "JUNG-0053",
+    "year": 1916,
+    "premise": "libido|psychic.{0,10}energy|symbol|symbolic|imagery",
+    "conclusion": "Fire symbolizes transformative libido, passion, and enlightenment.",
+    "strength": "core",
+    "domain": "psychology",
+    "source": "Fire Sections"
+  },
+  {
+    "id": "JUNG-0054",
+    "year": 1916,
+    "premise": "libido|psychic.{0,10}energy|symbol|symbolic|imagery",
+    "conclusion": "Wind represents spirit, impregnating force, and invisible libido.",
+    "strength": "core",
+    "domain": "psychology",
+    "source": "Wind as Creator"
+  },
+  {
+    "id": "JUNG-0055",
+    "year": 1916,
+    "premise": "libido|psychic.{0,10}energy|symbol|symbolic|imagery",
+    "conclusion": "The serpent symbolizes renewal, poison/healing, and chthonic libido.",
+    "strength": "core",
+    "domain": "psychology",
+    "source": "Serpent Motifs"
+  },
+  {
+    "id": "JUNG-0056",
+    "year": 1916,
+    "premise": "symbol|symbolic|imagery",
+    "conclusion": "The cross represents union of opposites, suffering, and transformation.",
+    "strength": "core",
+    "domain": "psychology",
+    "source": "Cross Motifs"
+  },
+  {
+    "id": "JUNG-0057",
+    "year": 1916,
+    "premise": "unconscious|subconscious",
+    "conclusion": "The goal of psychological development is moral autonomy through integration of unconscious.",
+    "strength": "core",
+    "domain": "psychology",
+    "source": "Introduction and Conclusion"
+  },
+  {
+    "id": "JUNG-0058",
+    "year": 1916,
+    "premise": "libido|psychic.{0,10}energy|sex|libido|erotic",
+    "conclusion": "Freud's sexual theory is too narrow; libido is desexualized and collective.",
+    "strength": "core",
+    "domain": "psychoanalysis",
+    "source": "Throughout"
+  },
+  {
+    "id": "JUNG-0059",
+    "year": 1916,
+    "premise": "unconscious|subconscious",
+    "conclusion": "Modern mind retains archaic, mythological thinking modes in unconscious.",
+    "strength": "core",
+    "domain": "psychology",
+    "source": "Archaic Tendencies"
+  },
+  {
+    "id": "JUNG-0060",
+    "year": 1916,
+    "premise": "libido|psychic.{0,10}energy|symbol|symbolic|imagery",
+    "conclusion": "Dismemberment symbolizes analysis and transformation of libido.",
+    "strength": "core",
+    "domain": "psychology",
+    "source": "Dismemberment"
+  },
+  {
+    "id": "JUNG-0061",
+    "year": 1916,
+    "premise": "unconscious|subconscious",
+    "conclusion": "Embracing/entwining represents incestuous union with mother-unconscious.",
+    "strength": "core",
+    "domain": "psychology",
+    "source": "Embracing"
+  },
+  {
+    "id": "JUNG-0062",
+    "year": 1916,
+    "premise": "unconscious|subconscious|symbol|symbolic|imagery",
+    "conclusion": "Floods symbolize overwhelming unconscious forces and renewal.",
+    "strength": "core",
+    "domain": "mythology_psychology",
+    "source": "Flood Symbolism"
+  },
+  {
+    "id": "JUNG-0063",
+    "year": 1916,
+    "premise": "libido|psychic.{0,10}energy|symbol|symbolic|imagery",
+    "conclusion": "The horse represents instinctual, chthonic libido forces.",
+    "strength": "core",
+    "domain": "psychology",
+    "source": "Horse Motifs"
+  },
+  {
+    "id": "JUNG-0064",
+    "year": 1916,
+    "premise": "unconscious|subconscious|symbol|symbolic|imagery",
+    "conclusion": "Crowds symbolize collective unconscious and loss of individuality.",
+    "strength": "core",
+    "domain": "psychology",
+    "source": "Crowd Motifs"
+  },
+  {
+    "id": "JUNG-0065",
+    "year": 1916,
+    "premise": "unconscious|subconscious|symbol|symbolic|imagery",
+    "conclusion": "Forests represent the dark, unknown unconscious realms.",
+    "strength": "core",
+    "domain": "psychology",
+    "source": "Forest Motifs"
+  },
+  {
+    "id": "JUNG-0066",
+    "year": 1916,
+    "premise": "symbol|symbolic|imagery",
+    "conclusion": "Eyes symbolize consciousness, insight, and sometimes devouring gaze.",
+    "strength": "core",
+    "domain": "psychology",
+    "source": "Eyes Motifs"
+  },
+  {
+    "id": "JUNG-0067",
+    "year": 1916,
+    "premise": "unconscious|subconscious|symbol|symbolic|imagery",
+    "conclusion": "The moon represents feminine unconscious, cycles, and intuition.",
+    "strength": "core",
+    "domain": "psychology",
+    "source": "Moon Motifs"
+  },
+  {
+    "id": "JUNG-0068",
+    "year": 1916,
+    "premise": "symbol|symbolic|imagery",
+    "conclusion": "The sword represents discriminating intellect and phallic power.",
+    "strength": "core",
+    "domain": "psychology",
+    "source": "Sword Motifs"
+  },
+  {
+    "id": "JUNG-0069",
+    "year": 1916,
+    "premise": "symbol|symbolic|imagery",
+    "conclusion": "Eating symbolizes incorporation and communion with divine.",
+    "strength": "core",
+    "domain": "psychology",
+    "source": "Eating Motifs"
+  },
+  {
+    "id": "JUNG-0070",
+    "year": 1916,
+    "premise": "unconscious|subconscious|symbol|symbolic|imagery",
+    "conclusion": "Mysteries represent initiation into unconscious knowledge.",
+    "strength": "core",
+    "domain": "psychology",
+    "source": "Mystery Motifs"
+  },
+  {
+    "id": "JUNG-0071",
+    "year": 1916,
+    "premise": "unconscious|subconscious|individuation|integration|wholeness",
+    "conclusion": "Individuation is the psychological process of integrating conscious and unconscious for wholeness.",
+    "strength": "core",
+    "domain": "psychology",
+    "source": "Throughout"
+  },
+  {
+    "id": "JUNG-0072",
+    "year": 1916,
+    "premise": "libido|psychic.{0,10}energy|unconscious|subconscious|symbol|symbolic|imagery",
+    "conclusion": "Religions are symbolic expressions of libido transformations and collective unconscious.",
+    "strength": "core",
+    "domain": "psychology_religion",
+    "source": "Religious Motifs"
+  },
+  {
+    "id": "JUNG-0073",
+    "year": 1916,
+    "premise": "libido|psychic.{0,10}energy|unconscious|subconscious|dream|oneiric|symbol|symbolic|imagery",
+    "conclusion": "Dreams use symbolic language to express unconscious libido dynamics.",
+    "strength": "core",
+    "domain": "psychoanalysis",
+    "source": "Dream Analysis"
+  },
+  {
+    "id": "JUNG-0074",
+    "year": 1916,
+    "premise": "libido|psychic.{0,10}energy|unconscious|subconscious|phantasy|fantasy|imagination",
+    "conclusion": "Phantasies mediate between conscious and unconscious, guiding libido transformation.",
+    "strength": "core",
+    "domain": "psychology",
+    "source": "Phantasy Sections"
+  },
+  {
+    "id": "JUNG-0075",
+    "year": 1916,
+    "premise": "unconscious|subconscious|archetype|primordial|collective",
+    "conclusion": "Archetypes are primordial images in collective unconscious shaping experience.",
+    "strength": "core",
+    "domain": "psychology",
+    "source": "Implicit Throughout"
+  },
+  {
+    "id": "JUNG-0076",
+    "year": 1916,
+    "premise": "unconscious|subconscious",
+    "conclusion": "Psychological growth requires uniting opposites like conscious-unconscious, male-female.",
+    "strength": "core",
+    "domain": "psychology",
+    "source": "Opposites Motifs"
+  },
+  {
+    "id": "JUNG-0077",
+    "year": 1916,
+    "premise": "unconscious|subconscious|symbol|symbolic|imagery|\\bself\\b|wholeness",
+    "conclusion": "Psychoanalysis reveals unconscious through symbols, leading to self-knowledge.",
+    "strength": "core",
+    "domain": "psychoanalysis",
+    "source": "Introduction"
+  },
+  {
+    "id": "JUNG-0078",
+    "year": 1916,
+    "premise": "dream|oneiric",
+    "conclusion": "The book originated from Jung's dream of addressing a wide public, leading to a collaborative effort to popularize his ideas.",
+    "strength": "core",
+    "domain": "psychology",
+    "source": "Introduction by John Freeman"
+  },
+  {
+    "id": "JUNG-0079",
+    "year": 1916,
+    "premise": "unconscious|subconscious|symbol|symbolic|imagery",
+    "conclusion": "To make Jung's ideas accessible to the general public, focusing on symbols and the unconscious.",
+    "strength": "core",
+    "domain": "psychology",
+    "source": "Introduction"
+  },
+  {
+    "id": "JUNG-0080",
+    "year": 1916,
+    "premise": "unconscious|subconscious|dream|oneiric|\\bself\\b|wholeness",
+    "conclusion": "Dreams offer practical advice from the unconscious to the conscious self.",
+    "strength": "core",
+    "domain": "psychoanalysis",
+    "source": "Throughout"
+  },
+  {
+    "id": "JUNG-0081",
+    "year": 1916,
+    "premise": "psych|mind|mental|behavior",
+    "conclusion": "The book is a collective effort supervised by Jung, with contributions from his closest associates.",
+    "strength": "core",
+    "domain": "psychology",
+    "source": "Introduction"
+  },
+  {
+    "id": "JUNG-0082",
+    "year": 1916,
+    "premise": "unconscious|subconscious|symbol|symbolic|imagery",
+    "conclusion": "The unconscious communicates through symbols, essential for understanding human psyche.",
+    "strength": "core",
+    "domain": "psychology",
+    "source": "Jung's Chapter"
+  },
+  {
+    "id": "JUNG-0083",
+    "year": 1916,
+    "premise": "symbol|symbolic|imagery",
+    "conclusion": "Ancient myths provide insights into modern psychological issues through symbolic parallels.",
+    "strength": "core",
+    "domain": "psychology_mythology",
+    "source": "Henderson's Chapter"
+  },
+  {
+    "id": "JUNG-0084",
+    "year": 1916,
+    "premise": "archetype|primordial|collective",
+    "conclusion": "Archetypes are psychic nuclei influencing thought and behavior across cultures.",
+    "strength": "core",
+    "domain": "psychology",
+    "source": "Notes and References"
+  },
+  {
+    "id": "JUNG-0085",
+    "year": 1916,
+    "premise": "archetype|primordial|collective",
+    "conclusion": "Archetypes have inspiring or inhibiting power on human psyche.",
+    "strength": "core",
+    "domain": "psychology",
+    "source": "Notes"
+  },
+  {
+    "id": "JUNG-0086",
+    "year": 1916,
+    "premise": "archetype|primordial|collective",
+    "conclusion": "Archetypes relate to evolutionary biology, suggesting innate patterns.",
+    "strength": "core",
+    "domain": "psychology_biology",
+    "source": "Notes"
+  },
+  {
+    "id": "JUNG-0087",
+    "year": 1916,
+    "premise": "psych|mind|mental|behavior",
+    "conclusion": "Synchronicity as an acausal connecting principle linking psyche and matter.",
+    "strength": "core",
+    "domain": "psychology_physics",
+    "source": "Notes"
+  },
+  {
+    "id": "JUNG-0088",
+    "year": 1916,
+    "premise": "psych|mind|mental|behavior",
+    "conclusion": "The unus mundus as the archetypal unity of world before creation.",
+    "strength": "core",
+    "domain": "psychology_philosophy",
+    "source": "Notes"
+  },
+  {
+    "id": "JUNG-0089",
+    "year": 1916,
+    "premise": "psych|mind|mental|behavior",
+    "conclusion": "Mathematical intuitions as archetypal, pre-conscious orderings.",
+    "strength": "core",
+    "domain": "psychology_mathematics",
+    "source": "Notes"
+  },
+  {
+    "id": "JUNG-0090",
+    "year": 1916,
+    "premise": "psych|mind|mental|behavior",
+    "conclusion": "Complementarity applies to psyche as in quantum physics.",
+    "strength": "core",
+    "domain": "psychology_physics",
+    "source": "Notes"
+  },
+  {
+    "id": "JUNG-0091",
+    "year": 1916,
+    "premise": "symbol|symbolic|imagery",
+    "conclusion": "Symbols evolve historically, reflecting collective psyche changes.",
+    "strength": "core",
+    "domain": "psychology_history",
+    "source": "Throughout"
+  },
+  {
+    "id": "JUNG-0092",
+    "year": 1916,
+    "premise": "symbol|symbolic|imagery|\\bself\\b|wholeness",
+    "conclusion": "Interpreting symbols leads to self-understanding and fuller life.",
+    "strength": "core",
+    "domain": "psychology",
+    "source": "Overall Theme"
+  },
+  {
+    "id": "JUNG-0093",
+    "year": 1916,
+    "premise": "dream|oneiric",
+    "conclusion": "Jung's dream of public address motivated popularizing his work.",
+    "strength": "core",
+    "domain": "psychology",
+    "source": "Introduction"
+  },
+  {
+    "id": "JUNG-0094",
+    "year": 1916,
+    "premise": "psych|mind|mental|behavior",
+    "conclusion": "Public captivated by Jung's presence and ideas via media.",
+    "strength": "core",
+    "domain": "psychology",
+    "source": "Introduction"
+  },
+  {
+    "id": "JUNG-0095",
+    "year": 1916,
+    "premise": "psych|mind|mental|behavior",
+    "conclusion": "Book as collective effort with editorial oversight.",
+    "strength": "core",
+    "domain": "psychology",
+    "source": "Introduction"
+  },
+  {
+    "id": "JUNG-0096",
+    "year": 1916,
+    "premise": "psych|mind|mental|behavior",
+    "conclusion": "Content simplified for non-experts.",
+    "strength": "core",
+    "domain": "psychology",
+    "source": "Introduction"
+  },
+  {
+    "id": "JUNG-0097",
+    "year": 1916,
+    "premise": "symbol|symbolic|imagery",
+    "conclusion": "Book structured around man and symbols, with detailed outline by Jung.",
+    "strength": "core",
+    "domain": "psychology",
+    "source": "Introduction"
+  },
+  {
+    "id": "JUNG-0098",
+    "year": 1916,
+    "premise": "psych|mind|mental|behavior",
+    "conclusion": "Jung devoted last year to book, completing his part shortly before death.",
+    "strength": "core",
+    "domain": "psychology",
+    "source": "Introduction"
+  },
+  {
+    "id": "JUNG-0099",
+    "year": 1916,
+    "premise": "unconscious|subconscious|dream|oneiric",
+    "conclusion": "Descartes' dream illustrates unconscious insights in scientific discovery.",
+    "strength": "core",
+    "domain": "psychology_history",
+    "source": "Notes"
+  },
+  {
+    "id": "JUNG-0100",
+    "year": 1916,
+    "premise": "unconscious|subconscious|archetype|primordial|collective",
+    "conclusion": "Kepler's work shows interplay of unconscious archetypes in science.",
+    "strength": "core",
+    "domain": "psychology_science",
+    "source": "Notes"
+  },
+  {
+    "id": "JUNG-0101",
+    "year": 1916,
+    "premise": "psych|mind|mental|behavior",
+    "conclusion": "Uncertainty principle parallels psychological observation effects.",
+    "strength": "core",
+    "domain": "psychology_physics",
+    "source": "Notes"
+  },
+  {
+    "id": "JUNG-0102",
+    "year": 1916,
+    "premise": "psych|mind|mental|behavior",
+    "conclusion": "Suggest parallel psychological and physical studies of phenomena.",
+    "strength": "core",
+    "domain": "psychology_science",
+    "source": "Notes"
+  },
+  {
+    "id": "JUNG-0103",
+    "year": 1916,
+    "premise": "archetype|primordial|collective",
+    "conclusion": "Archetypes as primary possibilities structuring experience.",
+    "strength": "core",
+    "domain": "psychology",
+    "source": "Notes"
+  },
+  {
+    "id": "JUNG-0104",
+    "year": 1916,
+    "premise": "unconscious|subconscious",
+    "conclusion": "Mathematical insights from unconscious intuitions.",
+    "strength": "core",
+    "domain": "psychology_mathematics",
+    "source": "Notes"
+  },
+  {
+    "id": "JUNG-0105",
+    "year": 1916,
+    "premise": "unconscious|subconscious",
+    "conclusion": "Unconscious work in mathematical discoveries.",
+    "strength": "core",
+    "domain": "psychology_mathematics",
+    "source": "Notes"
+  },
+  {
+    "id": "JUNG-0106",
+    "year": 1916,
+    "premise": "unconscious|subconscious",
+    "conclusion": "Concept of unconscious will influence all natural sciences.",
+    "strength": "core",
+    "domain": "psychology_science",
+    "source": "Notes"
+  },
+  {
+    "id": "JUNG-0107",
+    "year": 1916,
+    "premise": "psych|mind|mental|behavior",
+    "conclusion": "Possible unity in life phenomena via archetypal structures.",
+    "strength": "core",
+    "domain": "psychology_biology",
+    "source": "Notes"
+  },
+  {
+    "id": "JUNG-0108",
+    "year": 1916,
+    "premise": "unconscious|subconscious",
+    "conclusion": "Unconscious described by paradoxes, like quantum phenomena.",
+    "strength": "core",
+    "domain": "psychology",
+    "source": "Notes"
+  },
+  {
+    "id": "JUNG-0109",
+    "year": 1916,
+    "premise": "unconscious|subconscious",
+    "conclusion": "Unconscious as a field, similar to physical fields.",
+    "strength": "core",
+    "domain": "psychology_physics",
+    "source": "Notes"
+  },
+  {
+    "id": "JUNG-0110",
+    "year": 1916,
+    "premise": "psych|mind|mental|behavior",
+    "conclusion": "Time required for biological mutations parallels archetypal emergence.",
+    "strength": "core",
+    "domain": "psychology_biology",
+    "source": "Notes"
+  },
+  {
+    "id": "JUNG-0111",
+    "year": 1916,
+    "premise": "psych|mind|mental|behavior",
+    "conclusion": "Simultaneous discoveries illustrate synchronistic archetypal readiness.",
+    "strength": "core",
+    "domain": "psychology_history",
+    "source": "Notes"
+  },
+  {
+    "id": "JUNG-0112",
+    "year": 1916,
+    "premise": "symbol|symbolic|imagery",
+    "conclusion": "Illustrations enhance symbolic understanding visually.",
+    "strength": "core",
+    "domain": "psychology_art",
+    "source": "End Matter"
+  },
+  {
+    "id": "JUNG-0113",
+    "year": 1916,
+    "premise": "psych|mind|mental|behavior",
+    "conclusion": "Jung as founder of analytic psychology, with key publications.",
+    "strength": "core",
+    "domain": "psychology",
+    "source": "About the Author"
+  },
+  {
+    "id": "JUNG-0114",
+    "year": 1916,
+    "premise": "psych|mind|mental|behavior",
+    "conclusion": "Associates chosen to explain Jung's work effectively.",
+    "strength": "core",
+    "domain": "psychology",
+    "source": "About the Author"
+  },
+  {
+    "id": "JUNG-0115",
+    "year": 1916,
+    "premise": "unconscious|subconscious|symbol|symbolic|imagery",
+    "conclusion": "Symbols as the language of the unconscious, universal and historical.",
+    "strength": "core",
+    "domain": "psychology",
+    "source": "Overall"
+  },
+  {
+    "id": "JUNG-0116",
+    "year": 1916,
+    "premise": "symbol|symbolic|imagery|\\bself\\b|wholeness",
+    "conclusion": "Self-understanding via symbols leads to full, productive life.",
+    "strength": "core",
+    "domain": "psychology",
+    "source": "Overall"
+  },
+  {
+    "id": "JUNG-0117",
+    "year": 1916,
+    "premise": "psych|mind|mental|behavior",
+    "conclusion": "Book addressed to general reader for broad accessibility.",
+    "strength": "core",
+    "domain": "psychology",
+    "source": "Overall"
+  },
+  {
+    "id": "JUNG-0118",
+    "year": 1916,
+    "premise": "libido|psychic.{0,10}energy|sex|libido|erotic",
+    "conclusion": "Libido is a general psychic energy encompassing all psychological processes, not limited to sexuality.",
+    "strength": "core",
+    "domain": "psychoanalysis",
+    "source": "Throughout"
+  },
+  {
+    "id": "JUNG-0119",
+    "year": 1916,
+    "premise": "libido|psychic.{0,10}energy|dream|oneiric|symbol|symbolic|imagery",
+    "conclusion": "Libido expresses through symbols in myths, dreams, fantasies, representing transformations.",
+    "strength": "core",
+    "domain": "psychology",
+    "source": "Throughout"
+  },
+  {
+    "id": "JUNG-0120",
+    "year": 1916,
+    "premise": "libido|psychic.{0,10}energy|regress|backwards|retreat|symbol|symbolic|imagery",
+    "conclusion": "Blocked libido regresses to infantile/archaic levels, causing neuroses and symbols.",
+    "strength": "core",
+    "domain": "psychoanalysis",
+    "source": "Regression Chapter"
+  },
+  {
+    "id": "JUNG-0121",
+    "year": 1916,
+    "premise": "libido|psychic.{0,10}energy|unconscious|subconscious",
+    "conclusion": "Mother imago as unconscious, nurturing-devouring, central to libido changes.",
+    "strength": "core",
+    "domain": "psychology",
+    "source": "Mother Symbolism"
+  },
+  {
+    "id": "JUNG-0122",
+    "year": 1916,
+    "premise": "libido|psychic.{0,10}energy",
+    "conclusion": "Hero as libido's renewal struggle, overcoming mother for rebirth.",
+    "strength": "core",
+    "domain": "mythology_psychology",
+    "source": "Hero Sections"
+  },
+  {
+    "id": "JUNG-0123",
+    "year": 1916,
+    "premise": "unconscious|subconscious|phantasy|fantasy|imagination|symbol|symbolic|imagery",
+    "conclusion": "Incest phantasy as symbolic union with unconscious for rebirth.",
+    "strength": "core",
+    "domain": "psychoanalysis",
+    "source": "Incest Phantasy"
+  },
+  {
+    "id": "JUNG-0124",
+    "year": 1916,
+    "premise": "unconscious|subconscious|symbol|symbolic|imagery",
+    "conclusion": "Unconscious with shared archaic elements in symbols/myths.",
+    "strength": "core",
+    "domain": "psychology",
+    "source": "Archaic Tendencies"
+  },
+  {
+    "id": "JUNG-0125",
+    "year": 1916,
+    "premise": "libido|psychic.{0,10}energy|unconscious|subconscious|introversion|introverted|inward|extroversion|extroverted|outward|symbol|symbolic|imagery",
+    "conclusion": "Introversion inwards libido, symbolic thinking, unconscious connection.",
+    "strength": "core",
+    "domain": "psychology",
+    "source": "Introversion"
+  },
+  {
+    "id": "JUNG-0126",
+    "year": 1916,
+    "premise": "libido|psychic.{0,10}energy|regress|backwards|retreat",
+    "conclusion": "Sacrifice as regressive libido renunciation for progression.",
+    "strength": "core",
+    "domain": "psychology",
+    "source": "Sacrifice"
+  },
+  {
+    "id": "JUNG-0127",
+    "year": 1916,
+    "premise": "libido|psychic.{0,10}energy|unconscious|subconscious|symbol|symbolic|imagery",
+    "conclusion": "Sun as libido, consciousness, hero's unconscious journey.",
+    "strength": "core",
+    "domain": "mythology_psychology",
+    "source": "Solar Mythology"
+  },
+  {
+    "id": "JUNG-0128",
+    "year": 1916,
+    "premise": "libido|psychic.{0,10}energy|symbol|symbolic|imagery",
+    "conclusion": "Phallic symbols as creative libido in myths/rituals, beyond sex.",
+    "strength": "core",
+    "domain": "psychoanalysis",
+    "source": "Phallic"
+  },
+  {
+    "id": "JUNG-0129",
+    "year": 1916,
+    "premise": "unconscious|subconscious",
+    "conclusion": "Rebirth as renewal via unconscious confrontation.",
+    "strength": "core",
+    "domain": "psychology",
+    "source": "Rebirth"
+  },
+  {
+    "id": "JUNG-0130",
+    "year": 1916,
+    "premise": "regress|backwards|retreat|symbol|symbolic|imagery",
+    "conclusion": "Dragon as devouring mother/regressive forces overcome.",
+    "strength": "core",
+    "domain": "psychology",
+    "source": "Dragon"
+  },
+  {
+    "id": "JUNG-0131",
+    "year": 1916,
+    "premise": "symbol|symbolic|imagery",
+    "conclusion": "Trees as growth, life, mother connecting earth-heaven.",
+    "strength": "core",
+    "domain": "psychology",
+    "source": "Tree"
+  },
+  {
+    "id": "JUNG-0132",
+    "year": 1916,
+    "premise": "unconscious|subconscious|symbol|symbolic|imagery",
+    "conclusion": "Water as unconscious, birth, maternal depths.",
+    "strength": "core",
+    "domain": "psychology",
+    "source": "Water"
+  },
+  {
+    "id": "JUNG-0133",
+    "year": 1916,
+    "premise": "libido|psychic.{0,10}energy|symbol|symbolic|imagery",
+    "conclusion": "Fire as transformative libido, passion, enlightenment.",
+    "strength": "core",
+    "domain": "psychology",
+    "source": "Fire"
+  },
+  {
+    "id": "JUNG-0134",
+    "year": 1916,
+    "premise": "libido|psychic.{0,10}energy|symbol|symbolic|imagery",
+    "conclusion": "Wind as spirit, impregnating, invisible libido.",
+    "strength": "core",
+    "domain": "psychology",
+    "source": "Wind"
+  },
+  {
+    "id": "JUNG-0135",
+    "year": 1916,
+    "premise": "libido|psychic.{0,10}energy|symbol|symbolic|imagery",
+    "conclusion": "Serpent as renewal, poison/healing, chthonic libido.",
+    "strength": "core",
+    "domain": "psychology",
+    "source": "Serpent"
+  },
+  {
+    "id": "JUNG-0136",
+    "year": 1916,
+    "premise": "symbol|symbolic|imagery",
+    "conclusion": "Cross as opposites union, suffering, transformation.",
+    "strength": "core",
+    "domain": "psychology",
+    "source": "Cross"
+  },
+  {
+    "id": "JUNG-0137",
+    "year": 1916,
+    "premise": "unconscious|subconscious",
+    "conclusion": "Psychological goal: moral autonomy via unconscious integration.",
+    "strength": "core",
+    "domain": "psychology",
+    "source": "Introduction/Conclusion"
+  },
+  {
+    "id": "JUNG-0138",
+    "year": 1916,
+    "premise": "libido|psychic.{0,10}energy|sex|libido|erotic",
+    "conclusion": "Freud's sexual theory narrow; libido desexualized, collective.",
+    "strength": "core",
+    "domain": "psychoanalysis",
+    "source": "Throughout"
+  },
+  {
+    "id": "JUNG-0139",
+    "year": 1916,
+    "premise": "unconscious|subconscious",
+    "conclusion": "Modern mind retains archaic mythological modes in unconscious.",
+    "strength": "core",
+    "domain": "psychology",
+    "source": "Archaic"
+  },
+  {
+    "id": "JUNG-0140",
+    "year": 1916,
+    "premise": "libido|psychic.{0,10}energy",
+    "conclusion": "Dismemberment as libido analysis/transformation.",
+    "strength": "core",
+    "domain": "psychology",
+    "source": "Dismemberment"
+  },
+  {
+    "id": "JUNG-0141",
+    "year": 1916,
+    "premise": "unconscious|subconscious",
+    "conclusion": "Embracing as incestuous mother-unconscious union.",
+    "strength": "core",
+    "domain": "psychology",
+    "source": "Embracing"
+  },
+  {
+    "id": "JUNG-0142",
+    "year": 1916,
+    "premise": "unconscious|subconscious",
+    "conclusion": "Floods as overwhelming unconscious, renewal.",
+    "strength": "core",
+    "domain": "mythology_psychology",
+    "source": "Flood"
+  },
+  {
+    "id": "JUNG-0143",
+    "year": 1916,
+    "premise": "libido|psychic.{0,10}energy|symbol|symbolic|imagery",
+    "conclusion": "Horse as instinctual chthonic libido.",
+    "strength": "core",
+    "domain": "psychology",
+    "source": "Horse"
+  },
+  {
+    "id": "JUNG-0144",
+    "year": 1916,
+    "premise": "unconscious|subconscious|symbol|symbolic|imagery",
+    "conclusion": "Crowds as collective unconscious, individuality loss.",
+    "strength": "core",
+    "domain": "psychology",
+    "source": "Crowd"
+  },
+  {
+    "id": "JUNG-0145",
+    "year": 1916,
+    "premise": "unconscious|subconscious|symbol|symbolic|imagery",
+    "conclusion": "Forests as dark unknown unconscious.",
+    "strength": "core",
+    "domain": "psychology",
+    "source": "Forest"
+  },
+  {
+    "id": "JUNG-0146",
+    "year": 1916,
+    "premise": "symbol|symbolic|imagery",
+    "conclusion": "Eyes as consciousness, insight, devouring gaze.",
+    "strength": "core",
+    "domain": "psychology",
+    "source": "Eyes"
+  },
+  {
+    "id": "JUNG-0147",
+    "year": 1916,
+    "premise": "unconscious|subconscious|symbol|symbolic|imagery",
+    "conclusion": "Moon as feminine unconscious, cycles, intuition.",
+    "strength": "core",
+    "domain": "psychology",
+    "source": "Moon"
+  },
+  {
+    "id": "JUNG-0148",
+    "year": 1916,
+    "premise": "symbol|symbolic|imagery",
+    "conclusion": "Sword as discriminating intellect, phallic power.",
+    "strength": "core",
+    "domain": "psychology",
+    "source": "Sword"
+  },
+  {
+    "id": "JUNG-0149",
+    "year": 1916,
+    "premise": "symbol|symbolic|imagery",
+    "conclusion": "Eating as incorporation, divine communion.",
+    "strength": "core",
+    "domain": "psychology",
+    "source": "Eating"
+  },
+  {
+    "id": "JUNG-0150",
+    "year": 1916,
+    "premise": "unconscious|subconscious|symbol|symbolic|imagery",
+    "conclusion": "Mysteries as unconscious knowledge initiation.",
+    "strength": "core",
+    "domain": "psychology",
+    "source": "Mystery"
+  },
+  {
+    "id": "JUNG-0151",
+    "year": 1916,
+    "premise": "unconscious|subconscious|individuation|integration|wholeness",
+    "conclusion": "Individuation integrating conscious-unconscious for wholeness.",
+    "strength": "core",
+    "domain": "psychology",
+    "source": "Throughout"
+  },
+  {
+    "id": "JUNG-0152",
+    "year": 1916,
+    "premise": "libido|psychic.{0,10}energy|unconscious|subconscious|symbol|symbolic|imagery",
+    "conclusion": "Religions as libido transformations, collective unconscious expressions.",
+    "strength": "core",
+    "domain": "psychology_religion",
+    "source": "Religious"
+  },
+  {
+    "id": "JUNG-0153",
+    "year": 1916,
+    "premise": "libido|psychic.{0,10}energy|unconscious|subconscious|dream|oneiric|symbol|symbolic|imagery",
+    "conclusion": "Dreams express unconscious libido via symbols.",
+    "strength": "core",
+    "domain": "psychoanalysis",
+    "source": "Dream"
+  },
+  {
+    "id": "JUNG-0154",
+    "year": 1916,
+    "premise": "libido|psychic.{0,10}energy|unconscious|subconscious|phantasy|fantasy|imagination",
+    "conclusion": "Phantasies mediate conscious-unconscious, guide libido.",
+    "strength": "core",
+    "domain": "psychology",
+    "source": "Phantasy"
+  },
+  {
+    "id": "JUNG-0155",
+    "year": 1916,
+    "premise": "archetype|primordial|collective",
+    "conclusion": "Archetypes primordial images shaping experience.",
+    "strength": "core",
+    "domain": "psychology",
+    "source": "Implicit"
+  },
+  {
+    "id": "JUNG-0156",
+    "year": 1916,
+    "premise": "unconscious|subconscious",
+    "conclusion": "Growth uniting opposites: conscious-unconscious, male-female.",
+    "strength": "core",
+    "domain": "psychology",
+    "source": "Opposites"
+  },
+  {
+    "id": "JUNG-0157",
+    "year": 1916,
+    "premise": "unconscious|subconscious|symbol|symbolic|imagery|\\bself\\b|wholeness",
+    "conclusion": "Psychoanalysis reveals unconscious via symbols for self-knowledge.",
+    "strength": "core",
+    "domain": "psychoanalysis",
+    "source": "Introduction"
+  },
+  {
+    "id": "JUNG-0158",
+    "year": 1916,
+    "premise": "unconscious|subconscious",
+    "conclusion": "Analytical psychology as new science of unconscious, bridging gaps between schools.",
+    "strength": "core",
+    "domain": "psychology",
+    "source": "Editor's Preface"
+  },
+  {
+    "id": "JUNG-0159",
+    "year": 1916,
+    "premise": "introversion|introverted|inward|extroversion|extroverted|outward",
+    "conclusion": "Types: extrovert adapts via feeling, introvert via thought; imbalance causes neurosis.",
+    "strength": "core",
+    "domain": "psychology",
+    "source": "Chapters XIV and XV"
+  },
+  {
+    "id": "JUNG-0160",
+    "year": 1916,
+    "premise": "repress|suppress|conceal|sex|libido|erotic",
+    "conclusion": "Repression from one-sided life adaptation per type, not just sexuality.",
+    "strength": "core",
+    "domain": "psychoanalysis",
+    "source": "Editor's Preface"
+  },
+  {
+    "id": "JUNG-0161",
+    "year": 1916,
+    "premise": "unconscious|subconscious|\\bego\\b|conscious.{0,10}mind",
+    "conclusion": "Unconscious as psychological non-ego, relation to ego crucial in analysis.",
+    "strength": "core",
+    "domain": "psychology",
+    "source": "New Chapter"
+  },
+  {
+    "id": "JUNG-0162",
+    "year": 1916,
+    "premise": "unconscious|subconscious",
+    "conclusion": "Neuroses from unconscious conflict in certain subjects.",
+    "strength": "core",
+    "domain": "psychology",
+    "source": "Preface"
+  },
+  {
+    "id": "JUNG-0163",
+    "year": 1916,
+    "premise": "psych|mind|mental|behavior",
+    "conclusion": "Descriptions generalized; no specific cases, focus on principles.",
+    "strength": "core",
+    "domain": "psychology",
+    "source": "Author's Preface"
+  },
+  {
+    "id": "JUNG-0164",
+    "year": 1916,
+    "premise": "psych|mind|mental|behavior",
+    "conclusion": "Essays show gradual analytical psychology development.",
+    "strength": "core",
+    "domain": "psychology",
+    "source": "Author's Preface"
+  },
+  {
+    "id": "JUNG-0165",
+    "year": 1916,
+    "premise": "unconscious|subconscious",
+    "conclusion": "Study unconscious to prevent external wars; parallelism individual-international neurosis.",
+    "strength": "core",
+    "domain": "psychology_society",
+    "source": "Editor's Preface"
+  },
+  {
+    "id": "JUNG-0166",
+    "year": 1916,
+    "premise": "psych|mind|mental|behavior",
+    "conclusion": "Analytical psychology seeds new life philosophy post-cataclysm.",
+    "strength": "core",
+    "domain": "psychology_philosophy",
+    "source": "Editor's Preface"
+  },
+  {
+    "id": "JUNG-0167",
+    "year": 1916,
+    "premise": "unconscious|subconscious",
+    "conclusion": "Unconscious not just dangerous; half-truth from Viennese view.",
+    "strength": "core",
+    "domain": "psychology",
+    "source": "Editor's Preface"
+  },
+  {
+    "id": "JUNG-0168",
+    "year": 1916,
+    "premise": "repress|suppress|conceal|sex|libido|erotic",
+    "conclusion": "Agree repression causes neuroses; differ origin: one-sided adaptation vs. sexuality.",
+    "strength": "core",
+    "domain": "psychoanalysis",
+    "source": "Editor's Preface"
+  },
+  {
+    "id": "JUNG-0169",
+    "year": 1916,
+    "premise": "psych|mind|mental|behavior",
+    "conclusion": "Psychoanalysis widened beyond neuroses to human life conduct.",
+    "strength": "core",
+    "domain": "psychology",
+    "source": "Introduction"
+  },
+  {
+    "id": "JUNG-0170",
+    "year": 1916,
+    "premise": "psych|mind|mental|behavior",
+    "conclusion": "Division: Vienna (Freud) and Zurich (Jung) schools.",
+    "strength": "core",
+    "domain": "psychology",
+    "source": "Introduction"
+  },
+  {
+    "id": "JUNG-0171",
+    "year": 1916,
+    "premise": "psych|mind|mental|behavior",
+    "conclusion": "Opposition due difficult comprehension, disturbing ideas.",
+    "strength": "core",
+    "domain": "psychology",
+    "source": "Introduction"
+  },
+  {
+    "id": "JUNG-0172",
+    "year": 1916,
+    "premise": "psych|mind|mental|behavior",
+    "conclusion": "Every individual largely determines own destiny.",
+    "strength": "core",
+    "domain": "psychology",
+    "source": "Introduction"
+  },
+  {
+    "id": "JUNG-0173",
+    "year": 1916,
+    "premise": "psych|mind|mental|behavior",
+    "conclusion": "Developed through empirical cases analysis.",
+    "strength": "core",
+    "domain": "psychology",
+    "source": "Introduction"
+  },
+  {
+    "id": "JUNG-0174",
+    "year": 1916,
+    "premise": "psych|mind|mental|behavior",
+    "conclusion": "Violent opposition despite growth.",
+    "strength": "core",
+    "domain": "psychology",
+    "source": "Introduction"
+  },
+  {
+    "id": "JUNG-0175",
+    "year": 1916,
+    "premise": "sex|libido|erotic",
+    "conclusion": "Freud: neuroses from unfulfilled sexual wishes.",
+    "strength": "core",
+    "domain": "psychoanalysis",
+    "source": "Introduction"
+  },
+  {
+    "id": "JUNG-0176",
+    "year": 1916,
+    "premise": "psych|mind|mental|behavior",
+    "conclusion": "Jung: mythology-folklore analysis reveals common bonds.",
+    "strength": "core",
+    "domain": "psychology",
+    "source": "Introduction/Editor's Preface"
+  },
+  {
+    "id": "JUNG-0177",
+    "year": 1916,
+    "premise": "psych|mind|mental|behavior",
+    "conclusion": "Difficulties insuperable; faithful expression attempted.",
+    "strength": "core",
+    "domain": "psychology",
+    "source": "Translator's Note"
+  },
+  {
+    "id": "JUNG-0178",
+    "year": 1916,
+    "premise": "psych|mind|mental|behavior",
+    "conclusion": "Mine of riches for serious students.",
+    "strength": "core",
+    "domain": "psychology",
+    "source": "Translator's Note"
+  },
+  {
+    "id": "JUNG-0179",
+    "year": 1916,
+    "premise": "\\bself\\b|wholeness",
+    "conclusion": "Seeking new light, tangible work for self-universe understanding.",
+    "strength": "core",
+    "domain": "psychology",
+    "source": "Translator's Note"
+  },
+  {
+    "id": "JUNG-0180",
+    "year": 1916,
+    "premise": "psych|mind|mental|behavior",
+    "conclusion": "War parallels psyche war; conscious inner conflict prevents external.",
+    "strength": "core",
+    "domain": "psychology_society",
+    "source": "Editor's Preface"
+  },
+  {
+    "id": "JUNG-0181",
+    "year": 1916,
+    "premise": "psych|mind|mental|behavior",
+    "conclusion": "Germs of new construction in analytical psychology.",
+    "strength": "core",
+    "domain": "psychology",
+    "source": "Editor's Preface"
+  },
+  {
+    "id": "JUNG-0182",
+    "year": 1916,
+    "premise": "psych|mind|mental|behavior",
+    "conclusion": "New discoveries called dangerous; philosophies heresies.",
+    "strength": "core",
+    "domain": "psychology",
+    "source": "Editor's Preface"
+  },
+  {
+    "id": "JUNG-0183",
+    "year": 1916,
+    "premise": "unconscious|subconscious",
+    "conclusion": "All possess unconscious; shared with humans; extension individual.",
+    "strength": "core",
+    "domain": "psychology",
+    "source": "Editor's Preface"
+  },
+  {
+    "id": "JUNG-0184",
+    "year": 1916,
+    "premise": "unconscious|subconscious",
+    "conclusion": "Unconscious as wild beast; dangerous half-truth.",
+    "strength": "core",
+    "domain": "psychology",
+    "source": "Editor's Preface"
+  },
+  {
+    "id": "JUNG-0185",
+    "year": 1916,
+    "premise": "psych|mind|mental|behavior",
+    "conclusion": "Fundamentally altered; incorporates recent researches.",
+    "strength": "core",
+    "domain": "psychology",
+    "source": "Author's Preface"
+  },
+  {
+    "id": "JUNG-0186",
+    "year": 1916,
+    "premise": "psych|mind|mental|behavior",
+    "conclusion": "Confine to human material; abstract formula; apply practice.",
+    "strength": "core",
+    "domain": "psychology",
+    "source": "Author's Preface"
+  },
+  {
+    "id": "JUNG-0187",
+    "year": 1916,
+    "premise": "unconscious|subconscious|\\bego\\b|conscious.{0,10}mind",
+    "conclusion": "Lecture 1916; general orientation; ego-non-ego relation.",
+    "strength": "core",
+    "domain": "psychology",
+    "source": "New Chapter"
+  },
+  {
+    "id": "JUNG-0188",
+    "year": 1916,
+    "premise": "psych|mind|mental|behavior",
+    "conclusion": "Essays show gradual present position development.",
+    "strength": "core",
+    "domain": "psychology",
+    "source": "Author's Preface"
+  },
+  {
+    "id": "JUNG-0189",
+    "year": 1916,
+    "premise": "psych|mind|mental|behavior",
+    "conclusion": "Beyond pathologic; human life conduct evaluation.",
+    "strength": "core",
+    "domain": "psychology",
+    "source": "Introduction"
+  },
+  {
+    "id": "JUNG-0190",
+    "year": 1916,
+    "premise": "psych|mind|mental|behavior",
+    "conclusion": "Unpopular-attacked; far-reaching influence.",
+    "strength": "core",
+    "domain": "psychoanalysis",
+    "source": "Introduction"
+  },
+  {
+    "id": "JUNG-0191",
+    "year": 1916,
+    "premise": "psych|mind|mental|behavior",
+    "conclusion": "Criticism-opposition understandable; disturbing ideas.",
+    "strength": "core",
+    "domain": "psychology",
+    "source": "Introduction"
+  },
+  {
+    "id": "JUNG-0192",
+    "year": 1916,
+    "premise": "\\bself\\b|wholeness",
+    "conclusion": "Individual determiner own destiny largely.",
+    "strength": "core",
+    "domain": "psychology",
+    "source": "Introduction"
+  },
+  {
+    "id": "JUNG-0193",
+    "year": 1916,
+    "premise": "psych|mind|mental|behavior",
+    "conclusion": "Through empirical investigation-individual cases.",
+    "strength": "core",
+    "domain": "psychology",
+    "source": "Introduction"
+  },
+  {
+    "id": "JUNG-0194",
+    "year": 1916,
+    "premise": "psych|mind|mental|behavior",
+    "conclusion": "Amazing growth ever-widening despite violent opposition.",
+    "strength": "core",
+    "domain": "psychology",
+    "source": "Introduction"
+  },
+  {
+    "id": "JUNG-0195",
+    "year": 1916,
+    "premise": "psych|mind|mental|behavior",
+    "conclusion": "Plunged into mythology-folklore; scientific analysis.",
+    "strength": "core",
+    "domain": "psychology",
+    "source": "Translator's Note"
+  },
+  {
+    "id": "JUNG-0196",
+    "year": 1916,
+    "premise": "psych|mind|mental|behavior",
+    "conclusion": "New ideal: moral autonomy; intellectually satisfying-emotionally appealing.",
+    "strength": "core",
+    "domain": "psychology",
+    "source": "Translator's Note"
+  },
+  {
+    "id": "JUNG-0197",
+    "year": 1916,
+    "premise": "psych|mind|mental|behavior",
+    "conclusion": "Remarkable erudition-tremendous labor; new light on life-motives-needs-possibilities.",
+    "strength": "core",
+    "domain": "psychology",
+    "source": "Translator's Note"
+  }
+]

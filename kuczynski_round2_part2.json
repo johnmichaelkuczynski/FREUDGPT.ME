@@ -1,0 +1,207 @@
+[
+  {
+    "id": "SEARLE-001",
+    "category": "Philosophy of Mind",
+    "text": "Turing's position: Our test for determining the presence of mental activity is always behavior. If X behaves (speaks, moves, writes, sings) like a thinker, then X is a thinker; otherwise, it isn't. If a machine acts like a thinker in terms of its overt movements and behaviors, we have no reason to deny that X is a thinker."
+  },
+  {
+    "id": "SEARLE-002",
+    "category": "Philosophy of Mind",
+    "text": "Searle's Chinese Room Argument: A non-thinker could act like a thinker without being a thinker. If a machine cannot think but contains a person directing it to seem intelligent, this shows that behaving like a thinker is not definitive proof of being a thinker."
+  },
+  {
+    "id": "SEARLE-003",
+    "category": "Philosophy of Mind",
+    "text": "Turing fails to distinguish thought per se from mere evidence of thought. It is one thing to think; it is quite another to produce behavioral evidence of thought. While our basis for imputing thoughts to others consists in their overt behaviors, it doesn't follow that their behaviors are their thoughts."
+  },
+  {
+    "id": "SEARLE-004",
+    "category": "Philosophy of Mind",
+    "text": "Searle's Chinese Room argument is pathetically weak. The machine per se doesn't think, but the machine by itself isn't behaving intelligently. What is behaving intelligently is the ensemble consisting of the machine and the man inside it. That ensemble, consisting of a machine plus a thinking person, is a thinker."
+  },
+  {
+    "id": "SEARLE-005",
+    "category": "Philosophy of Mind",
+    "text": "We can turn Searle's argument against itself. If we discover a person inside a machine producing intelligent responses, we would not conclude that the previously observed intelligent behavior was not intelligence-driven. We would conclude it was intelligence-driven—but that we were wrong about the nature of the mechanisms mediating that intelligence."
+  },
+  {
+    "id": "FREEDOM-001",
+    "category": "Free Will/Determinism",
+    "text": "D'Holbach's determinism: The universe is governed by deterministic laws; therefore, whatever happens has to happen. Given the state of the universe at a given time, the laws of nature determine what the state of the universe at any given later time will be."
+  },
+  {
+    "id": "FREEDOM-002",
+    "category": "Free Will/Determinism",
+    "text": "D'Holbach's incompatibilism: People are free to the extent that they do not have to do what they do. But since human beings are material entities governed by deterministic laws, people are forced by the laws of nature to do whatever they do and therefore are not free."
+  },
+  {
+    "id": "FREEDOM-003",
+    "category": "Free Will/Determinism",
+    "text": "Hume's compatibilism: A person is free to the extent that he is able to do what he wants to do. One is free to the extent that one's choices determine one's situation. It is irrelevant how those choices in their turn came about: what matters is the extent to which, once they exist, they determine one's situation."
+  },
+  {
+    "id": "FREEDOM-004",
+    "category": "Free Will/Determinism",
+    "text": "For someone to be free is for them to be able to choose how they live. This is a definitional truth. For someone to be free is not for them to choose how their choices come into existence. The very idea of being able to make such a choice is absurd. Freedom is about one's choices making a difference within the web of causal law, not about being outside it."
+  },
+  {
+    "id": "INTELL-001",
+    "category": "Epistemology",
+    "text": "There are people who are obviously not intelligent but who have knowledge or cognitive skills the acquisition of which required intelligence. These people learned philosophy or mathematics when they were still smart. Then their intelligence left them, but they still had the cognitive skills of which their intelligence availed them."
+  },
+  {
+    "id": "INTELL-002",
+    "category": "Epistemology",
+    "text": "Because cognitive skills are ones that only intelligent people can acquire, people assume—even though at some level they know otherwise—that those who possess them are still smart. But they are not smart. They were smart, and they have vestiges of their former intelligence; but they are no longer smart. Intellect, unless exercised, atrophies in much the same way as athletic skill."
+  },
+  {
+    "id": "INTELL-003",
+    "category": "Social Criticism",
+    "text": "Many people are given permanent professorial positions on the basis of work done early in life. These people quickly become complacent, and their intellects wither, with the result that they cease to be of superior intellectual capacity and actually drop to average or even below average capacity. Yet the presumption that they are intelligent remains in place, reinforced by the institution."
+  },
+  {
+    "id": "INTELL-004",
+    "category": "Social Criticism",
+    "text": "Intellectually deteriorated professors are undoubtedly aware, at least at some level, of their deteriorating intellectual condition, that they are intellectual cripples, and they do everything in their bureaucratic power to suppress their own and other people's awareness of that fact. The result is a situation in which the intellectually dead and dying have almost total power to decide the fate of the intellectually alive and up-and-coming."
+  },
+  {
+    "id": "BEAUTY-001",
+    "category": "Aesthetics",
+    "text": "If a book is well-written, that makes it easier to absorb what it is saying. In order for a book to be genuinely well written, the style has to align with the content. When we describe a literary work as 'beautiful' or 'ugly', we are describing not what that work says but how it says it."
+  },
+  {
+    "id": "BEAUTY-002",
+    "category": "Aesthetics",
+    "text": "A work is 'beautiful' if it is doing a good job of making its content bio-available and 'ugly' if it isn't. Beauty and ugliness are categorically identical with, respectively, content-bioavailability and content-non-bioavailability."
+  },
+  {
+    "id": "AESTHETIC-001",
+    "category": "Aesthetics",
+    "text": "It is obvious that some composers are better than others and that some musical works are better than others. There is an enormous amount of intelligence in a high-grade musical work, such as a Bach Fugue or a Mozart Piano Concerto. Yet aesthetic relativism in connection with music is very common, even among musical people."
+  },
+  {
+    "id": "AESTHETIC-002",
+    "category": "Aesthetics",
+    "text": "The concept of objectivity has clear meaning only in connection with the concept of truth, and it is not obvious how to understand the concept of aesthetic merit in terms of the concept of truth. This makes aesthetic relativism superficially plausible, but it is patently disingenuous and counter-empirical."
+  },
+  {
+    "id": "AESTHETIC-003",
+    "category": "Aesthetics",
+    "text": "Given how deeply obvious—how obvious at a visceral, sub-intellectual level—it is that some musical works are better than others, philosophical difficulties alone cannot explain the intense popularity of aesthetic relativism."
+  },
+  {
+    "id": "AESTHETIC-004",
+    "category": "Psychology",
+    "text": "Women are intensely concerned with their physical beauty. Nothing is more important to them than their aesthetic properties. There is no woman to whom it is not mortally wounding to be sincerely described as 'ugly' or to whom it is not equally flattering to be sincerely described as 'beautiful.'"
+  },
+  {
+    "id": "AESTHETIC-005",
+    "category": "Psychology",
+    "text": "It is inherent in what femininity is that women cannot openly admit that they are so sensitive to characterizations of their appearance. A woman's concern with her appearance is to be lived but not spoken—this dependence is to be an open secret. Obvious, and thus open. But never directly acknowledged, and thus a secret."
+  },
+  {
+    "id": "AESTHETIC-006",
+    "category": "Psychology",
+    "text": "Men—even boorish and brutal men—are aware of, and also respectful of, a woman's need to be cherished for her physical beauty while also having to be silent, or at least extremely oblique, about this need of hers."
+  },
+  {
+    "id": "AESTHETIC-007",
+    "category": "Aesthetics",
+    "text": "If a man says in a direct and unequivocal manner that some musical works are 'objectively beautiful' whereas others are 'objectively ugly', this immediately registers to a woman as his saying that some women are just 'objectively more beautiful' than others. If a person says or agrees with this, they are violating the tacit agreement not to openly discuss the open secret."
+  },
+  {
+    "id": "AESTHETIC-008",
+    "category": "Aesthetics",
+    "text": "The real psychological basis of the intense and yet obviously hypocritical fervor with which people espouse aesthetic relativism is that denials of musical relativism register psychologically as violations of the tacit agreement relating to the 'open secret' about female beauty and sensitivity to appearance."
+  },
+  {
+    "id": "AESTHETIC-009",
+    "category": "Aesthetics",
+    "text": "The same person who claims to be a relativist about musical beauty—who claims that all musical works are equally 'valid'—adores certain musical works while detesting others. And the same person who claims to be a relativist about personal beauty finds certain people intensely attractive and others equally intensely repellent. The person guilty of one hypocrisy is almost always guilty of the other."
+  },
+  {
+    "id": "AESTHETIC-010",
+    "category": "Aesthetics",
+    "text": "Relativism about musical beauty is really just a proxy for relativism about female beauty. Musical relativism is an absurd purely philosophical position, whereas relativism about female beauty is a deeply important social protocol rooted in the depths of female psychology. The intense popularity of musical relativism is explained by the fact that it serves as a proxy for this social protocol."
+  },
+  {
+    "id": "AGGPROP-001",
+    "category": "Metaphysics",
+    "text": "An aggregative property is one that is had by pluralities of objects but is absent from any given one of those objects. Temperature is an aggregative property: an object's temperature is proportional to the mean kinetic energy of the molecules composing it. Temperature is a property of systems of interacting molecules; no one particle has a temperature."
+  },
+  {
+    "id": "AGGPROP-002",
+    "category": "Metaphysics",
+    "text": "An emergent property is a property of systems whose existence cannot be deduced from what is known about the system's components when taken in isolation. For example, given a class of objects each of which has low thermal conductivity, it may happen that when those objects are assembled in a certain way, the resulting structure has high thermal conductivity."
+  },
+  {
+    "id": "AGGPROP-003",
+    "category": "Metaphysics",
+    "text": "A consequence of Relativity Theory is that mass is non-additive, meaning that the mass of a given object is not the arithmetical sum of the masses of its constituents. Thus, relative to what was known before Relativity Theory, masses of object-pluralities were emergent with respect to the masses of their constituent objects."
+  },
+  {
+    "id": "AGGPROP-004",
+    "category": "Metaphysics",
+    "text": "Relativity Theory shows that length is non-additive: the length of a straight object is not the arithmetical sum of the lengths of its segments. A straight, rigid steel rod consisting of two yard-long segments is slightly over two yards in length."
+  },
+  {
+    "id": "AGGPROP-005",
+    "category": "Epistemology",
+    "text": "A plurality of objects has a given emergent property whenever it has some property that, given only what is already known about the individuals composing that plurality, is either (a) not expected to have or (b) cannot be deduced to have, either because it doesn't follow from what we know or because we are not smart enough to see that it follows."
+  },
+  {
+    "id": "AGGPROP-006",
+    "category": "Epistemology",
+    "text": "Any given aggregative property can, at least in principle, be an emergent property. Air-pressure is an aggregative property of molecule-aggregates. Minuscule creatures acquainted with individual air-molecules might fail to infer that soft objects become rock-hard when filled with aggregates of such molecules. To these creatures, such properties would be emergent."
+  },
+  {
+    "id": "AGGPROP-007",
+    "category": "Epistemology",
+    "text": "Given the relevant knowledge or degree of acumen, an otherwise emergent property is non-emergent. Relative to what we know now, the masses, lengths, and volumes of object-aggregates are non-emergent, but they were emergent relative to what we knew 120 years ago. Emergence is an epistemic notion, not an intrinsic property of nature."
+  },
+  {
+    "id": "AGGPROP-008",
+    "category": "Epistemology",
+    "text": "'X is an emergent property' is never the answer to the question 'why does x exist?' A property of a given sort of aggregate ceases to be emergent as soon as we know that such aggregates have that property. But we can know that they have that property without knowing why they do so."
+  },
+  {
+    "id": "AGGPROP-009",
+    "category": "Philosophy of Mind",
+    "text": "John Searle said that consciousness is an 'emergent property' of neurons, 'just as air-pressure is an emergent property of air-molecules,' and that this settles the matter. But it does not settle the matter. When someone asks 'why does consciousness exist?', they are asking why consciousness is present in aggregates of bits of matter that are not themselves conscious."
+  },
+  {
+    "id": "AGGPROP-010",
+    "category": "Philosophy of Mind",
+    "text": "The comparison of consciousness to air-pressure is spurious. Relative to what we have known about the laws of motion since Newton, pressure-related properties of gases are non-emergent with respect to the properties of their constituent particles. This is why we know gases to consist of particles. But our knowledge that brains consist of neurons is not derived from our knowledge of consciousness-related facts."
+  },
+  {
+    "id": "AGGPROP-011",
+    "category": "Philosophy of Mind",
+    "text": "We believe brain-tissue consists of neurons because when we look at brain-tissue with a microscope, we see that it consists of neurons. The fact that it consists of neurons doesn't help us explain why brains are conscious. If asked 'why are brains conscious?', responding 'because they consist of neurons' utterly fails to answer the question."
+  },
+  {
+    "id": "AGGPROP-012",
+    "category": "Philosophy of Mind",
+    "text": "Searle confuses the concept of an emergent property with the concept of an effect or product. When you shake beer, you create foam—a product that post-dates the shaking. But if a body of molecules has a certain mean kinetic energy, that is its having the corresponding temperature. It is not as though it has that mean kinetic energy at t1 and then has that temperature at t2. The relation is one of identity, not cause and effect."
+  },
+  {
+    "id": "AGGRESS-001",
+    "category": "Psychoanalysis",
+    "text": "We repress both our aggression and our sexuality. But we repress our sexuality only to the extent that it is informed by aggression—in other words, sexuality is repressed only to the extent that it is itself a variety of aggression. We repress aggressive impulses when they endanger ourselves."
+  },
+  {
+    "id": "AGGRESS-002",
+    "category": "Psychoanalysis",
+    "text": "It is only when two conditions are met that we repress a given impulse: first, we believe that acting on that impulse would threaten us; second, we believe that having that impulse in consciousness would make us likely to act on it. It is only when the presence of a concept in consciousness is a threat to the subject that the subject represses it."
+  },
+  {
+    "id": "AGGRESS-003",
+    "category": "Psychoanalysis",
+    "text": "Masochistic sexual urges are often targets of repression—but only because masochism is inverted aggression: aggression that is turned against oneself. Masochism is itself a form of repression: masochism is sadism that is turned against the subject's self since, when it was directed towards others, the subject felt it would endanger him by incurring the wrath of others."
+  },
+  {
+    "id": "AGGRESS-004",
+    "category": "Psychoanalysis",
+    "text": "It is only to the extent that sexuality is aggressive in nature that it is a candidate for repression. There is such a thing as benign sexuality; it may even be that sexuality is inherently benign and that, so far as it is aggressive, it is because aggression infiltrated it. When sexuality is aggressive, it can, by being a threat to others, be a threat to the subject himself; and it is only then that the subject has an incentive to repress it."
+  }
+]

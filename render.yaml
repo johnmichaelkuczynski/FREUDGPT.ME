@@ -1,0 +1,16 @@
+services:
+  - type: web
+    name: ask-a-philosopher
+    env: python
+    buildCommand: |
+      pip install -r requirements.txt
+      echo "Downloading pre-computed embeddings..."
+      curl -L -o data/embeddings.tar.gz "$EMBEDDINGS_URL"
+      cd data && tar -xzf embeddings.tar.gz && rm embeddings.tar.gz
+      echo "Embeddings extracted successfully"
+    startCommand: gunicorn --worker-class gevent --workers 1 --timeout 120 --bind 0.0.0.0:$PORT app:app
+    envVars:
+      - key: PYTHON_VERSION
+        value: 3.11.0
+      - key: EMBEDDINGS_URL
+        sync: false

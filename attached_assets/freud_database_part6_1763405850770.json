@@ -1,0 +1,1259 @@
+{
+  "database_info": {
+    "part_number": 6,
+    "start_id": "FREUD-0305",
+    "end_id": "FREUD-0479",
+    "total_positions": 175,
+    "sources": [
+      "Three Essays on the Theory of Sexuality (conclusion - factors in development)",
+      "Freud's Psycho-Analytic Procedure (1904)",
+      "My Views on the Part Played by Sexuality in the Aetiology of the Neuroses (1906)",
+      "Psychical (or Mental) Treatment (1890)",
+      "Jokes and Their Relation to the Unconscious (1905)"
+    ],
+    "major_domains_covered": [
+      "sexual_development",
+      "aetiology",
+      "psychoanalytic_technique",
+      "resistance",
+      "repression",
+      "free_association",
+      "therapeutic_process",
+      "wit",
+      "jokes",
+      "unconscious_processes",
+      "pleasure_mechanisms",
+      "condensation",
+      "displacement",
+      "comic",
+      "social_psychology"
+    ]
+  },
+  "positions": [
+    {
+      "id": "FREUD-0305",
+      "position": "The aetiological factors of neurosis operate according to a complemental series, in which diminishing intensity of one factor (constitution) is balanced by increasing intensity of another (accidental experiences); extreme cases exist at both ends where one factor alone may be sufficient.",
+      "domain": ["aetiology", "neurosis", "developmental_theory"],
+      "source": "Three Essays on the Theory of Sexuality (conclusion)",
+      "type": "etiological_claim"
+    },
+    {
+      "id": "FREUD-0306",
+      "position": "The single aetiological series must be divided into two subseries: the dispositional series (where constitution and childhood experiences interact) and the definitive series (where disposition and later traumatic experiences interact).",
+      "domain": ["aetiology", "developmental_theory"],
+      "source": "Three Essays on the Theory of Sexuality (conclusion)",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0307",
+      "position": "All factors that impair sexual development show their effects by bringing about regression - a return to an earlier phase of development.",
+      "domain": ["sexual_development", "regression", "pathology"],
+      "source": "Three Essays on the Theory of Sexuality (conclusion)",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0308",
+      "position": "Spontaneous sexual precocity can be demonstrated with certainty in the aetiology of neuroses, though it is not in itself a sufficient cause; it manifests in the interruption, abbreviation, or ending of the latency period.",
+      "domain": ["sexual_development", "aetiology", "precocity"],
+      "source": "Three Essays on the Theory of Sexuality (conclusion)",
+      "type": "etiological_claim"
+    },
+    {
+      "id": "FREUD-0309",
+      "position": "Sexual precocity causes disturbances by occasioning sexual manifestations that, due to incomplete sexual inhibitions and undeveloped genital system, are bound to be in the nature of perversions.",
+      "domain": ["sexual_development", "perversion", "precocity"],
+      "source": "Three Essays on the Theory of Sexuality (conclusion)",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0310",
+      "position": "Sexual precocity makes more difficult the later control of the sexual instinct by higher mental agencies and increases the impulsive quality characterizing the psychical representations of the instinct.",
+      "domain": ["sexual_development", "ego_development", "impulse_control"],
+      "source": "Three Essays on the Theory of Sexuality (conclusion)",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0311",
+      "position": "Sexual precocity often runs parallel with premature intellectual development; when linked in this way, it is found in the childhood history of persons of greatest eminence and capacity, and under such conditions its effects are not as pathogenic as when it appears in isolation.",
+      "domain": ["sexual_development", "intelligence", "developmental_psychology"],
+      "source": "Three Essays on the Theory of Sexuality (conclusion)",
+      "type": "clinical_observation"
+    },
+    {
+      "id": "FREUD-0312",
+      "position": "The order in which various instinctual impulses come into activity is phylogenetically determined, as is the length of time they can manifest before succumbing to newly emerging impulses or typical repression.",
+      "domain": ["sexual_development", "phylogeny", "temporal_factors"],
+      "source": "Three Essays on the Theory of Sexuality (conclusion)",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0313",
+      "position": "Variations occur in both temporal sequence and duration of instinctual impulses, and these variations exercise a determining influence upon the final developmental outcome.",
+      "domain": ["sexual_development", "temporal_factors", "individual_differences"],
+      "source": "Three Essays on the Theory of Sexuality (conclusion)",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0314",
+      "position": "The effect of a repression cannot be undone; therefore, whether a given current appears earlier or later than an opposing current is not a matter of indifference, and divergences in temporal sequence invariably produce differences in outcome.",
+      "domain": ["repression", "development", "irreversibility"],
+      "source": "Three Essays on the Theory of Sexuality (conclusion)",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0315",
+      "position": "Instinctual impulses that emerge with special intensity often run a surprisingly short course (as seen in the heterosexual attachment of persons who later become manifest homosexuals); there is no justification for fearing that trends setting in violently in childhood will permanently dominate adult character.",
+      "domain": ["sexual_development", "inversion", "temporal_factors"],
+      "source": "Three Essays on the Theory of Sexuality (conclusion)",
+      "type": "clinical_observation"
+    },
+    {
+      "id": "FREUD-0316",
+      "position": "Early sexual impressions are characterized by increased pertinacity or susceptibility to fixation in persons who later become neurotics or perverts; the same premature manifestations in others fail to make deep impressions and do not tend toward compulsive repetition.",
+      "domain": ["fixation", "neurosis", "perversion", "individual_differences"],
+      "source": "Three Essays on the Theory of Sexuality (conclusion)",
+      "type": "clinical_observation"
+    },
+    {
+      "id": "FREUD-0317",
+      "position": "The pertinacity of early impressions may be partially explained by the preponderance attaching in mental life to memory-traces in comparison with recent impressions; this factor is clearly dependent on intellectual education and increases in proportion to the degree of individual culture.",
+      "domain": ["memory", "fixation", "culture", "education"],
+      "source": "Three Essays on the Theory of Sexuality (conclusion)",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0318",
+      "position": "There exists an inverse relation between civilization and the free development of sexuality; consequently, the course of a child's sexual life is unimportant for later life where cultural level is low, but highly important where that level is high.",
+      "domain": ["civilization", "sexuality", "cultural_psychology"],
+      "source": "Three Essays on the Theory of Sexuality (conclusion)",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0319",
+      "position": "Accidental stimulations of infantile sexuality (especially seduction by other children or adults) provide material that, with the help of constitutional factors and pertinacity, can become fixated as permanent disorder.",
+      "domain": ["aetiology", "seduction", "fixation", "trauma"],
+      "source": "Three Essays on the Theory of Sexuality (conclusion)",
+      "type": "etiological_claim"
+    },
+    {
+      "id": "FREUD-0320",
+      "position": "A good proportion of deviations from normal sexual life observed in neurotics and perverts are established from the very first by impressions of childhood - a period regarded as devoid of sexuality.",
+      "domain": ["infantile_sexuality", "neurosis", "perversion", "childhood"],
+      "source": "Three Essays on the Theory of Sexuality (conclusion)",
+      "type": "clinical_observation"
+    },
+    {
+      "id": "FREUD-0321",
+      "position": "The causation of sexual pathology is shared between compliant constitution, precocity, increased pertinacity of early impressions, and chance stimulation of sexual instinct by extraneous influences.",
+      "domain": ["aetiology", "sexual_pathology", "multifactorial_causation"],
+      "source": "Three Essays on the Theory of Sexuality (conclusion)",
+      "type": "etiological_claim"
+    },
+    {
+      "id": "FREUD-0322",
+      "position": "We know far too little of the biological processes constituting the essence of sexuality to construct from our fragmentary information a theory adequate to understanding both normal and pathological conditions.",
+      "domain": ["scientific_methodology", "sexuality", "epistemology"],
+      "source": "Three Essays on the Theory of Sexuality (conclusion)",
+      "type": "methodological_claim"
+    },
+    {
+      "id": "FREUD-0323",
+      "position": "Psycho-analysis is an outgrowth of the cathartic method discussed in Studies on Hysteria (1895); the cathartic therapy was Breuer's discovery, first used successfully ten years before the Studies.",
+      "domain": ["history_of_psychoanalysis", "therapeutic_technique"],
+      "source": "Freud's Psycho-Analytic Procedure (1904)",
+      "type": "historical_claim"
+    },
+    {
+      "id": "FREUD-0324",
+      "position": "The cathartic method presupposed that the patient could be hypnotized and was based on the widening of consciousness that occurs under hypnosis; its aim was symptom removal by inducing the patient to return to the psychical state in which the symptom first appeared.",
+      "domain": ["cathartic_method", "hypnosis", "therapeutic_technique"],
+      "source": "Freud's Psycho-Analytic Procedure (1904)",
+      "type": "methodological_claim"
+    },
+    {
+      "id": "FREUD-0325",
+      "position": "The symptom represents a transformation ('conversion') of suppressed processes that have not reached consciousness; therapeutic effectiveness was due to discharge of 'strangulated' affect attaching to suppressed mental acts ('abreaction').",
+      "domain": ["conversion", "abreaction", "therapeutic_mechanism"],
+      "source": "Freud's Psycho-Analytic Procedure (1904)",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0326",
+      "position": "The cathartic method's therapeutic efficacy lies not in suggestion but in the expectation that symptoms will disappear automatically once the operation succeeds in diverting mental processes from their previous channel that found outlet in symptom formation.",
+      "domain": ["therapeutic_mechanism", "cathartic_method"],
+      "source": "Freud's Psycho-Analytic Procedure (1904)",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0327",
+      "position": "Freud abandoned hypnosis while retaining the cathartic method's rejection of suggestion; patients lie comfortably on a sofa with the analyst sitting behind them outside their field of vision, proceeding like a conversation between two equally awake people.",
+      "domain": ["psychoanalytic_technique", "free_association", "therapeutic_setting"],
+      "source": "Freud's Psycho-Analytic Procedure (1904)",
+      "type": "methodological_claim"
+    },
+    {
+      "id": "FREUD-0328",
+      "position": "Abandoning hypnosis assured applicability of treatment to unlimited numbers of patients, since many neurotic patients cannot be hypnotized by any means and hypnotizability depends on the patient's choice regardless of physician's skill.",
+      "domain": ["psychoanalytic_technique", "therapeutic_accessibility"],
+      "source": "Freud's Psycho-Analytic Procedure (1904)",
+      "type": "methodological_claim"
+    },
+    {
+      "id": "FREUD-0329",
+      "position": "Free associations - the involuntary thoughts ordinarily pushed aside as disturbing - serve as completely satisfactory substitute for the widening of consciousness that hypnosis provided.",
+      "domain": ["free_association", "psychoanalytic_technique"],
+      "source": "Freud's Psycho-Analytic Procedure (1904)",
+      "type": "methodological_claim"
+    },
+    {
+      "id": "FREUD-0330",
+      "position": "The patient must 'let himself go' in what he says, including whatever comes into his head even if he thinks it unimportant, irrelevant, nonsensical, or embarrassing; he must not omit any thought because relating it would be distressing.",
+      "domain": ["free_association", "fundamental_rule", "technique"],
+      "source": "Freud's Psycho-Analytic Procedure (1904)",
+      "type": "therapeutic_principle"
+    },
+    {
+      "id": "FREUD-0331",
+      "position": "Gaps appear in the neurotic patient's memory during narration: actual occurrences are forgotten, chronological order is confused, causal connections are broken; no neurotic case history is without amnesia of some kind.",
+      "domain": ["amnesia", "repression", "clinical_observation"],
+      "source": "Freud's Psycho-Analytic Procedure (1904)",
+      "type": "clinical_observation"
+    },
+    {
+      "id": "FREUD-0332",
+      "position": "When the patient is urged to fill memory gaps, all ideas that occur are pushed back by every possible critical expedient until he feels positive discomfort when the memory really returns; this demonstrates that amnesias result from repression motivated by feelings of unpleasure.",
+      "domain": ["repression", "resistance", "amnesia"],
+      "source": "Freud's Psycho-Analytic Procedure (1904)",
+      "type": "clinical_observation"
+    },
+    {
+      "id": "FREUD-0333",
+      "position": "The psychical forces that brought about repression can be detected in the 'resistance' that operates against recovery of lost memories; resistance is one of the corner-stones of psychoanalytic theory.",
+      "domain": ["resistance", "repression", "fundamental_concepts"],
+      "source": "Freud's Psycho-Analytic Procedure (1904)",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0334",
+      "position": "Ideas normally pushed aside are derivatives of repressed psychical phenomena (thoughts and impulses), distorted owing to resistance against their reproduction.",
+      "domain": ["resistance", "repression", "derivative_ideas"],
+      "source": "Freud's Psycho-Analytic Procedure (1904)",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0335",
+      "position": "The greater the resistance, the greater the distortion; the relation between substitute idea and repressed material is brought to consciousness through interpretation, which constructs the repressed material from signs provided by the derivative.",
+      "domain": ["interpretation", "resistance", "therapeutic_technique"],
+      "source": "Freud's Psycho-Analytic Procedure (1904)",
+      "type": "methodological_claim"
+    },
+    {
+      "id": "FREUD-0336",
+      "position": "Psychical material appears to be organized in multiple stratifications ordered according to themes; fragments of the same theme run through collections of memories with varying chronological distance, requiring zigzag movement through the patient's life history.",
+      "domain": ["memory_organization", "psychical_structure"],
+      "source": "Freud's Psycho-Analytic Procedure (1904)",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0337",
+      "position": "Most striking is the organization of pathogenic material into concentric stratifications around the pathogenic nucleus, ordered by degrees of resistance; the most peripheral strata contain memories easily remembered and clearly conscious, while approaching the nucleus encounters increasing resistance.",
+      "domain": ["psychical_organization", "resistance", "pathogenic_nucleus"],
+      "source": "Freud's Psycho-Analytic Procedure (1904)",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0338",
+      "position": "Memories composing the nucleus never become fully conscious; even after resolution of resistances, they can only be constructed and accepted by the patient with varying degrees of recognition.",
+      "domain": ["unconscious", "therapeutic_process", "construction"],
+      "source": "Freud's Psycho-Analytic Procedure (1904)",
+      "type": "clinical_observation"
+    },
+    {
+      "id": "FREUD-0339",
+      "position": "Resistances must be recognized and pointed out to the patient; once a resistance is overcome, the next appears, so that following resistances systematically enables working through to the pathogenic nucleus.",
+      "domain": ["resistance", "therapeutic_technique", "working_through"],
+      "source": "Freud's Psycho-Analytic Procedure (1904)",
+      "type": "therapeutic_principle"
+    },
+    {
+      "id": "FREUD-0340",
+      "position": "The physician's task is like excavating a buried city: clearing away resistances in the material, then constructing from hints and remains what can never be fully brought to consciousness but must be accepted through intellectual conviction.",
+      "domain": ["therapeutic_technique", "analogy", "construction"],
+      "source": "Freud's Psycho-Analytic Procedure (1904)",
+      "type": "methodological_claim"
+    },
+    {
+      "id": "FREUD-0341",
+      "position": "The work of overcoming resistances is the essential function distinguishing psycho-analysis from other suggestive procedures and constitutes its scientific character.",
+      "domain": ["psychoanalytic_technique", "resistance", "scientific_method"],
+      "source": "Freud's Psycho-Analytic Procedure (1904)",
+      "type": "methodological_claim"
+    },
+    {
+      "id": "FREUD-0342",
+      "position": "Theoretically, one might expect that overcoming all resistances would bring recovery; however, a complication arises from the tendency called 'transference' - the patient directing powerful emotional impulses toward the physician.",
+      "domain": ["transference", "therapeutic_complications"],
+      "source": "Freud's Psycho-Analytic Procedure (1904)",
+      "type": "clinical_observation"
+    },
+    {
+      "id": "FREUD-0343",
+      "position": "Transference can be positive (affectionate) or hostile; it arises spontaneously in all human relationships and especially in the patient-physician relation; in analysis, it becomes the most powerful instrument of resistance.",
+      "domain": ["transference", "resistance", "therapeutic_relationship"],
+      "source": "Freud's Psycho-Analytic Procedure (1904)",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0344",
+      "position": "Initially, transference carries analysis forward with physician's authority; but when it becomes hostile or erotic, it becomes the most powerful resistance, making the patient suddenly lose understanding and interest in the work.",
+      "domain": ["transference", "resistance", "therapeutic_process"],
+      "source": "Freud's Psycho-Analytic Procedure (1904)",
+      "type": "clinical_observation"
+    },
+    {
+      "id": "FREUD-0345",
+      "position": "Transference must itself be uncovered and recognized; it originates from the same sources as earlier resistances and must be resolved by demonstration that such feelings are reproductions of old reactions.",
+      "domain": ["transference", "interpretation", "therapeutic_technique"],
+      "source": "Freud's Psycho-Analytic Procedure (1904)",
+      "type": "therapeutic_principle"
+    },
+    {
+      "id": "FREUD-0346",
+      "position": "When the patient's relation to the physician is straightened out, all obstacles to understanding and accepting repressed material disappear; psycho-analysis succeeds in solving the psychological problem of treatment that suggestion-based methods leave unsolved.",
+      "domain": ["transference", "therapeutic_mechanism", "cure"],
+      "source": "Freud's Psycho-Analytic Procedure (1904)",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0347",
+      "position": "Psycho-analysis does not simply command the patient to overcome resistances but traces their origin and helps reduce them; the patient's residual resistance and degree of self-change achieve the therapeutic alteration sought.",
+      "domain": ["therapeutic_mechanism", "patient_agency", "change"],
+      "source": "Freud's Psycho-Analytic Procedure (1904)",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0348",
+      "position": "The whole complex of influences determining recovery can be brought together under the single heading 'transference'; cure is achieved by suggestion, but suggestion means influencing someone by transferential phenomena.",
+      "domain": ["cure", "transference", "suggestion"],
+      "source": "Freud's Psycho-Analytic Procedure (1904)",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0349",
+      "position": "Psycho-analytic independence of suggestion consists in transforming transference itself into the object of treatment and dissolving it by recognizing it as a repetition of earlier reactions.",
+      "domain": ["transference", "therapeutic_independence", "technique"],
+      "source": "Freud's Psycho-Analytic Procedure (1904)",
+      "type": "methodological_claim"
+    },
+    {
+      "id": "FREUD-0350",
+      "position": "Repression fails to suppress the instinct's capacity to become conscious; instead, it develops power to generate psychical derivatives and substitute connections that become symptoms - substitute satisfactions for what has been repressed.",
+      "domain": ["repression", "symptoms", "substitution"],
+      "source": "Freud's Psycho-Analytic Procedure (1904)",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0351",
+      "position": "Symptoms are substitute satisfactions that cause suffering either from their own nature or by bringing the person into conflict with their environment and social requirements.",
+      "domain": ["symptoms", "suffering", "social_conflict"],
+      "source": "Freud's Psycho-Analytic Procedure (1904)",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0352",
+      "position": "Treatment induces the patient to give up repressions early in life and replace them with reactions corresponding to psychical maturity; this is accomplished through overcoming resistances by special art of interpretation.",
+      "domain": ["therapeutic_mechanism", "maturation", "interpretation"],
+      "source": "Freud's Psycho-Analytic Procedure (1904)",
+      "type": "therapeutic_principle"
+    },
+    {
+      "id": "FREUD-0353",
+      "position": "Psycho-analysis demands continuous work by patient and physician over period of months, arousing unpopularity compared to shorter methods; but this very difficulty is used as new motive for combating the patient's illness.",
+      "domain": ["therapeutic_process", "duration", "motivation"],
+      "source": "Freud's Psycho-Analytic Procedure (1904)",
+      "type": "methodological_claim"
+    },
+    {
+      "id": "FREUD-0354",
+      "position": "Psycho-analysis is not applicable to persons lacking certain cultural and reliable character; indications include all chronic forms of hysteria and obsessions, and patients with pathological character traits, perversions, phobias.",
+      "domain": ["indications", "patient_selection", "therapeutic_limitations"],
+      "source": "Freud's Psycho-Analytic Procedure (1904)",
+      "type": "methodological_claim"
+    },
+    {
+      "id": "FREUD-0355",
+      "position": "Psycho-analysis may worsen acute hysteria or intensify confusional states in certain disorders; patients over fifty lack plasticity of mental processes necessary for therapy.",
+      "domain": ["contraindications", "therapeutic_limitations", "age_factors"],
+      "source": "Freud's Psycho-Analytic Procedure (1904)",
+      "type": "clinical_observation"
+    },
+    {
+      "id": "FREUD-0356",
+      "position": "Normality results from repression of certain component instincts and infantile disposition constituents, with remaining constituents subordinated under genital zone primacy in service of the reproductive function.",
+      "domain": ["normality", "sexual_development", "genital_primacy"],
+      "source": "My Views on Sexuality in Aetiology (1906)",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0357",
+      "position": "Perversions correspond to disturbances of normal coalescence owing to overpowering and compulsive development of certain component instincts; neuroses can be traced to excessive repression of libidinal trends.",
+      "domain": ["perversion", "neurosis", "component_instincts"],
+      "source": "My Views on Sexuality in Aetiology (1906)",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0358",
+      "position": "Almost all perverse instincts of infantile disposition can be recognized as forces concerned in symptom formation in neuroses, though in state of repression; neurosis is the 'negative' of perversion.",
+      "domain": ["neurosis", "perversion", "infantile_sexuality"],
+      "source": "My Views on Sexuality in Aetiology (1906)",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0359",
+      "position": "Two positions have never been repudiated or abandoned despite modifications: the importance of sexuality and of infantilism in aetiology of psychoneuroses.",
+      "domain": ["sexuality", "infantilism", "aetiology", "theoretical_constancy"],
+      "source": "My Views on Sexuality in Aetiology (1906)",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0360",
+      "position": "Accidental influences have been replaced by constitutional factors, and 'defence' in purely psychological sense has been replaced by organic 'sexual repression' in the evolution of aetiological theory.",
+      "domain": ["aetiology", "theoretical_evolution", "repression"],
+      "source": "My Views on Sexuality in Aetiology (1906)",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0361",
+      "position": "Psycho-analytic examination reveals that the patient's symptoms constitute his sexual activity (wholly or in part), arising from sources of normal or perverse component instincts of sexuality.",
+      "domain": ["symptoms", "sexuality", "clinical_observation"],
+      "source": "My Views on Sexuality in Aetiology (1906)",
+      "type": "clinical_observation"
+    },
+    {
+      "id": "FREUD-0362",
+      "position": "Large part of hysterical symptomatology derives directly from expressions of sexual excitement; erotogenic zones attain genital significance during neuroses through intensification of infantile characteristics.",
+      "domain": ["hysteria", "erotogenic_zones", "sexual_excitement"],
+      "source": "My Views on Sexuality in Aetiology (1906)",
+      "type": "clinical_observation"
+    },
+    {
+      "id": "FREUD-0363",
+      "position": "Most complicated symptoms represent, through 'conversion,' phantasies having sexual situation as subject-matter; anyone who interprets hysteria's language recognizes the neurosis concerns only the patient's repressed sexuality.",
+      "domain": ["hysteria", "conversion", "sexual_phantasy"],
+      "source": "My Views on Sexuality in Aetiology (1906)",
+      "type": "interpretive_principle"
+    },
+    {
+      "id": "FREUD-0364",
+      "position": "Sexual function must be understood in its true extent as laid down by disposition in infancy; wherever commonplace emotion appears among determinants of illness onset, analysis invariably shows the sexual component of traumatic experience produced the pathogenic result.",
+      "domain": ["sexuality", "trauma", "aetiology"],
+      "source": "My Views on Sexuality in Aetiology (1906)",
+      "type": "clinical_observation"
+    },
+    {
+      "id": "FREUD-0365",
+      "position": "The essence of psychoneuroses lies in disturbances of sexual processes - the processes determining formation and utilization of sexual libido in the organism.",
+      "domain": ["psychoneurosis", "libido", "sexual_processes"],
+      "source": "My Views on Sexuality in Aetiology (1906)",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0366",
+      "position": "These sexual processes are in the last resort of a chemical nature; 'actual' neuroses represent somatic effects of disturbances of sexual metabolism, while psychoneuroses represent psychical effects of those same disturbances.",
+      "domain": ["actual_neurosis", "psychoneurosis", "metabolism", "somatic_foundation"],
+      "source": "My Views on Sexuality in Aetiology (1906)",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0367",
+      "position": "The similarity of neuroses to intoxication/abstinence phenomena and to Graves' disease and Addison's disease is clinically striking; like those diseases, neuroses may eventually be excluded from 'nervous diseases' category despite their name.",
+      "domain": ["neurosis", "classification", "somatic_processes"],
+      "source": "My Views on Sexuality in Aetiology (1906)",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0368",
+      "position": "Aetiology of neuroses comprises everything that can act detrimentally upon processes serving sexual function; foremost are noxae affecting sexual function itself as judged injurious by sexual constitution varying with culture and education.",
+      "domain": ["aetiology", "sexual_function", "cultural_factors"],
+      "source": "My Views on Sexuality in Aetiology (1906)",
+      "type": "etiological_claim"
+    },
+    {
+      "id": "FREUD-0369",
+      "position": "A single pathogenic influence is scarcely ever sufficient; in large majority of cases, multiple aetiological factors are required that support one another and must not be regarded as mutually opposed.",
+      "domain": ["aetiology", "multifactorial_causation", "summation"],
+      "source": "My Views on Sexuality in Aetiology (1906)",
+      "type": "etiological_claim"
+    },
+    {
+      "id": "FREUD-0370",
+      "position": "Neurotic illness cannot be sharply differentiated from health; illness onset is product of summation, and the necessary total of aetiological determinants can be completed from any direction.",
+      "domain": ["aetiology", "health_illness_continuum", "summation"],
+      "source": "My Views on Sexuality in Aetiology (1906)",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0371",
+      "position": "To attribute aetiology of neuroses exclusively to heredity/constitution or solely to accidental influences on sexuality would be equally one-sided; better insight shows the essence lies in disturbance of organism's sexual processes.",
+      "domain": ["aetiology", "heredity", "experience", "sexual_processes"],
+      "source": "My Views on Sexuality in Aetiology (1906)",
+      "type": "etiological_claim"
+    },
+    {
+      "id": "FREUD-0372",
+      "position": "Foremost among psychical treatment measures is the use of words; words are the essential tool operating immediately upon the human mind, whether treating mental or physical disorders.",
+      "domain": ["psychotherapy", "language", "therapeutic_agent"],
+      "source": "Psychical (or Mental) Treatment (1890)",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0373",
+      "position": "Words originally possessed magical power and retain much of ancient potency; through words one person can make another blessed or drive them to despair, transmit knowledge, and induce affective states.",
+      "domain": ["language", "suggestion", "affect"],
+      "source": "Psychical (or Mental) Treatment (1890)",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0374",
+      "position": "The magical power of words is intelligible to psychologists: words evoke affects and are the universal means by which humans influence each other; despising word-use in psychotherapy means abandoning psychical influence.",
+      "domain": ["psychotherapy", "language", "affective_influence"],
+      "source": "Psychical (or Mental) Treatment (1890)",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0375",
+      "position": "Jokes have not received nearly as much philosophical consideration as they deserve given the part they play in mental life; only few thinkers (Jean Paul, Vischer, Fischer, Lipps) have entered deeply into problems of jokes.",
+      "domain": ["jokes", "aesthetics", "scholarly_neglect"],
+      "source": "Jokes and Their Relation to the Unconscious (1905)",
+      "type": "historical_observation"
+    },
+    {
+      "id": "FREUD-0376",
+      "position": "It appears impracticable to deal with jokes otherwise than in connection with the comic; jokes represent something comic that is entirely subjective - produced by us, attached to our action.",
+      "domain": ["jokes", "comic", "subjectivity"],
+      "source": "Jokes and Their Relation to the Unconscious (1905)",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0377",
+      "position": "A joke is generally defined as 'any conscious and successful evocation of what is comic, whether comic of observation or of situation.'",
+      "domain": ["jokes", "comic", "definition"],
+      "source": "Jokes and Their Relation to the Unconscious (1905)",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0378",
+      "position": "Fischer defines a joke as 'a playful judgement' - just as aesthetic freedom lies in playful contemplation of things, aesthetic attitude being characterized by not demanding satisfaction of serious needs but contenting ourselves with contemplative enjoyment.",
+      "domain": ["jokes", "playfulness", "aesthetic_attitude"],
+      "source": "Jokes and Their Relation to the Unconscious (1905)",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0379",
+      "position": "A favorite definition of joking is 'the ability to find similarity between dissimilar things - hidden similarities'; Jean Paul: 'Joking is the disguised priest who weds every couple.'",
+      "domain": ["jokes", "similarity", "cognitive_process"],
+      "source": "Jokes and Their Relation to the Unconscious (1905)",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0380",
+      "position": "Vischer defines joking as 'the ability to bind into a unity, with surprising rapidity, several ideas alien to one another both in internal content and in nexus to which they belong.'",
+      "domain": ["jokes", "unification", "cognitive_process"],
+      "source": "Jokes and Their Relation to the Unconscious (1905)",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0381",
+      "position": "Other definitions characterize jokes through 'contrast of ideas,' 'sense in nonsense,' and 'bewilderment and illumination.'",
+      "domain": ["jokes", "contrast", "paradox"],
+      "source": "Jokes and Their Relation to the Unconscious (1905)",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0382",
+      "position": "Brevity is the body and soul of jokes; a joke says what it has to say not always in few words, but in too few words - words insufficient by strict logic or common modes of thought and speech, even saying what it has to say by not saying it.",
+      "domain": ["jokes", "brevity", "technique"],
+      "source": "Jokes and Their Relation to the Unconscious (1905)",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0383",
+      "position": "Jokes 'must bring forward something that is concealed or hidden'; this determinant has more to do with the nature of jokes than with their being part of the comic.",
+      "domain": ["jokes", "concealment", "revelation"],
+      "source": "Jokes and Their Relation to the Unconscious (1905)",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0384",
+      "position": "Previous theories provide scattered characteristics (activity, playful judgement, coupling dissimilar things, contrasting ideas, sense in nonsense, bewilderment/enlightenment, bringing forward hidden, peculiar brevity) but these are dijecta membra lacking organic connection.",
+      "domain": ["jokes", "theoretical_critique", "methodology"],
+      "source": "Jokes and Their Relation to the Unconscious (1905)",
+      "type": "methodological_claim"
+    },
+    {
+      "id": "FREUD-0385",
+      "position": "There is intimate connection between all mental happenings; a psychological discovery even in a remote field like jokes will be of unpredictable value in other fields.",
+      "domain": ["psychology", "interconnection", "methodological_principle"],
+      "source": "Jokes and Their Relation to the Unconscious (1905)",
+      "type": "methodological_claim"
+    },
+    {
+      "id": "FREUD-0386",
+      "position": "A new joke acts almost like an event of universal interest, passed from person to person like news of latest victory; even men of eminence report excellent jokes in their autobiographies.",
+      "domain": ["jokes", "social_psychology", "transmission"],
+      "source": "Jokes and Their Relation to the Unconscious (1905)",
+      "type": "clinical_observation"
+    },
+    {
+      "id": "FREUD-0387",
+      "position": "The character of being a joke may lie either in the thought itself or in the expression given to the thought; to understand jokes, we must determine whether joking resides in form or content.",
+      "domain": ["jokes", "technique", "form_content_distinction"],
+      "source": "Jokes and Their Relation to the Unconscious (1905)",
+      "type": "methodological_claim"
+    },
+    {
+      "id": "FREUD-0388",
+      "position": "In Heine's 'famillionairely' joke, the joking character lies entirely in the form of expression, not in the thought; translating the thought into other words destroys the joke entirely, though the sense remains.",
+      "domain": ["jokes", "verbal_technique", "form"],
+      "source": "Jokes and Their Relation to the Unconscious (1905)",
+      "type": "clinical_observation"
+    },
+    {
+      "id": "FREUD-0389",
+      "position": "'Famillionairely' is a composite word - a condensation; it fuses 'familiär' (familiarly) and 'Millionär' (millionaire), with the overlapping syllable 'iliär'/'ilionär' serving as the point of fusion.",
+      "domain": ["jokes", "condensation", "composite_words"],
+      "source": "Jokes and Their Relation to the Unconscious (1905)",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0390",
+      "position": "The technique of condensation with substitute-formation is the essence of verbal jokes; this same technique operates in dream-work, establishing fundamental connection between jokes and dreams.",
+      "domain": ["jokes", "dreams", "condensation", "technique"],
+      "source": "Jokes and Their Relation to the Unconscious (1905)",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0391",
+      "position": "Condensation jokes create economy in psychical expenditure; the pleasure in jokes derives from this economy - what was previously divided is now united, requiring less psychical effort.",
+      "domain": ["jokes", "pleasure", "economy", "psychical_expenditure"],
+      "source": "Jokes and Their Relation to the Unconscious (1905)",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0392",
+      "position": "Multiple use of same material is a widespread joke technique: same word or material repeated whole or with slight modification, appearing in double application (once with changed application, once with original meaning).",
+      "domain": ["jokes", "multiple_use", "technique"],
+      "source": "Jokes and Their Relation to the Unconscious (1905)",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0393",
+      "position": "Double meaning jokes exploit the richness of language, using ambiguity where the same word has multiple meanings or where similar-sounding words carry different meanings (name/meaning double use, metaphorical/literal double use).",
+      "domain": ["jokes", "double_meaning", "ambiguity"],
+      "source": "Jokes and Their Relation to the Unconscious (1905)",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0394",
+      "position": "Displacement jokes involve diversion of train of thought - the joke answer moves along different path from what was expected, often involving shift from one category to another or sudden change in psychical attitude.",
+      "domain": ["jokes", "displacement", "surprise"],
+      "source": "Jokes and Their Relation to the Unconscious (1905)",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0395",
+      "position": "Representation by opposite is a common joke technique; saying the opposite of what one wants to convey, with tone and accompanying gestures making the true meaning clear.",
+      "domain": ["jokes", "representation_by_opposite", "irony"],
+      "source": "Jokes and Their Relation to the Unconscious (1905)",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0396",
+      "position": "Nonsense jokes produce the comic effect through bewilderment followed by illumination; what initially appears nonsensical is revealed to have sense under certain conditions or from particular viewpoint.",
+      "domain": ["jokes", "nonsense", "faulty_reasoning"],
+      "source": "Jokes and Their Relation to the Unconscious (1905)",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0397",
+      "position": "All jokes techniques can be reduced to two principles: condensation (with or without substitute-formation) and multiple use of same material; these same processes appear in dream-work.",
+      "domain": ["jokes", "dreams", "primary_process", "technique"],
+      "source": "Jokes and Their Relation to the Unconscious (1905)",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0398",
+      "position": "Conceptual jokes (where joking lies in thought rather than form) operate through faulty reasoning, displacement of psychical accent, absurdity, representation by opposite, and indirect representation.",
+      "domain": ["jokes", "conceptual_jokes", "thought"],
+      "source": "Jokes and Their Relation to the Unconscious (1905)",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0399",
+      "position": "Tendency jokes serve to make something ridiculous, aggressive, cynical, or skeptical, allowing expression of impulses that social inhibitions would otherwise prevent; they evade restrictions and open up sources of pleasure that have become inaccessible.",
+      "domain": ["jokes", "tendentious_jokes", "aggression", "social_function"],
+      "source": "Jokes and Their Relation to the Unconscious (1905)",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0400",
+      "position": "Obscene jokes make repressed sexual material capable of becoming conscious; the third person's laughter demonstrates that censorship has been overcome - repressed impulse can achieve representation despite inhibitions.",
+      "domain": ["jokes", "obscene_jokes", "repression", "sexuality"],
+      "source": "Jokes and Their Relation to the Unconscious (1905)",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0401",
+      "position": "Hostile jokes (serving aggression, satire, defense) permit enemy's disparagement with circumvention of restrictions; they represent rebellion against authority and liberation from its pressure.",
+      "domain": ["jokes", "hostile_jokes", "aggression", "authority"],
+      "source": "Jokes and Their Relation to the Unconscious (1905)",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0402",
+      "position": "Cynical jokes attack not persons but institutions, dogmas, moral/religious precepts respected as binding by society; they undermine respect for these authorities by revealing their other side.",
+      "domain": ["jokes", "cynical_jokes", "social_criticism"],
+      "source": "Jokes and Their Relation to the Unconscious (1905)",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0403",
+      "position": "Skeptical jokes attack certainty of our knowledge itself, directed against philosophical speculation that tends to lose sight of uncertainties in reality.",
+      "domain": ["jokes", "skeptical_jokes", "epistemology"],
+      "source": "Jokes and Their Relation to the Unconscious (1905)",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0404",
+      "position": "The pleasure in jokes derives from three sources: (1) saving of psychical expenditure through technique (economy); (2) lifting of inhibitions allowing previously inaccessible pleasure sources; (3) pre-pleasure serving as incentive premium to release greater pleasure from removal of internal inhibitions.",
+      "domain": ["jokes", "pleasure", "economy", "inhibition"],
+      "source": "Jokes and Their Relation to the Unconscious (1905)",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0405",
+      "position": "Innocent jokes derive their pleasure entirely from their technique (economy of psychical expenditure); tendentious jokes obtain additional pleasure from lifting inhibitions and freeing previously suppressed impulses.",
+      "domain": ["jokes", "innocent_jokes", "tendentious_jokes", "pleasure"],
+      "source": "Jokes and Their Relation to the Unconscious (1905)",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0406",
+      "position": "Jokes require three persons: the joke-maker, the object of hostile/sexual aggressiveness, and the person in whom the joke's purpose of producing pleasure is fulfilled; the third person's laughter is essential.",
+      "domain": ["jokes", "social_process", "three_person_structure"],
+      "source": "Jokes and Their Relation to the Unconscious (1905)",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0407",
+      "position": "The third person must possess similar psychical constellation as joke-maker, including similar internal inhibitions; jokes fail if this similarity is absent, as when told to person from different culture or to children lacking adult repressions.",
+      "domain": ["jokes", "empathy", "shared_inhibitions"],
+      "source": "Jokes and Their Relation to the Unconscious (1905)",
+      "type": "clinical_observation"
+    },
+    {
+      "id": "FREUD-0408",
+      "position": "Laughter expresses a pleasurable discharge of psychical energy; the energy saved by joke technique or freed by lifting inhibitions is discharged in laughter if not used for other psychical work.",
+      "domain": ["laughter", "discharge", "psychical_energy"],
+      "source": "Jokes and Their Relation to the Unconscious (1905)",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0409",
+      "position": "The social nature of jokes explains why no one is content with making a joke for himself alone; the urge to tell the joke to someone is inseparable from the joke-work, compulsion to communicate being connected with the joke's purpose.",
+      "domain": ["jokes", "social_transmission", "communication"],
+      "source": "Jokes and Their Relation to the Unconscious (1905)",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0410",
+      "position": "Jokes and dreams share fundamental mechanisms; both employ condensation, displacement, indirect representation, and representation by opposite - the mechanisms of primary process thinking.",
+      "domain": ["jokes", "dreams", "primary_process", "unconscious"],
+      "source": "Jokes and Their Relation to the Unconscious (1905)",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0411",
+      "position": "The difference between jokes and dreams lies in their social aims: dreams are completely asocial products serving no social purpose, while jokes are the most social of all mental functions aimed at obtaining pleasure and requiring other people.",
+      "domain": ["jokes", "dreams", "social_function"],
+      "source": "Jokes and Their Relation to the Unconscious (1905)",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0412",
+      "position": "Dreams arise from compromise between repressed wishes seeking fulfillment and resistance of censoring agency; they remain unintelligible because the wish they represent has been distorted by resistance, reduced to allusions and approximations.",
+      "domain": ["dreams", "censorship", "distortion", "wish_fulfillment"],
+      "source": "Jokes and Their Relation to the Unconscious (1905)",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0413",
+      "position": "Jokes also make use of distortion, but do not submit to restriction; they avoid repression by ingeniously choosing words and constellations of thought situations that enable forbidden thought to pass censorship unmodified.",
+      "domain": ["jokes", "censorship", "distortion", "technique"],
+      "source": "Jokes and Their Relation to the Unconscious (1905)",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0414",
+      "position": "Joke-work does not create compromises but operates with complete freedom in choice of words, exploiting all possibilities of word-usage and verbal connections - liberties avoided in conscious thought.",
+      "domain": ["jokes", "joke_work", "freedom", "word_play"],
+      "source": "Jokes and Their Relation to the Unconscious (1905)",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0415",
+      "position": "The genesis of jokes proceeds from pre-conscious thought being given over for a moment to unconscious revision; the joke arises when pre-conscious thought is worked over by primary process mechanisms.",
+      "domain": ["jokes", "genesis", "unconscious", "preconscious"],
+      "source": "Jokes and Their Relation to the Unconscious (1905)",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0416",
+      "position": "Children do not possess jokes in true sense; what children call jokes are playful activities using words without concern for meaning, enjoying pure sound-pleasure and movement-pleasure of speech apparatus.",
+      "domain": ["jokes", "children", "play", "development"],
+      "source": "Jokes and Their Relation to the Unconscious (1905)",
+      "type": "clinical_observation"
+    },
+    {
+      "id": "FREUD-0417",
+      "position": "Children find pleasure in constant repetition of similarity and in rediscovering the familiar; adults abandon such pleasures under pressure of critical reason, but jokes allow temporary recovery of these abandoned pleasures through circumvention of inhibitions.",
+      "domain": ["jokes", "play", "regression", "pleasure"],
+      "source": "Jokes and Their Relation to the Unconscious (1905)",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0418",
+      "position": "Jokes represent regression to childhood sources of pleasure now forbidden by critical reason; through joking technique, we temporarily suspend inhibitions and momentarily return to infantile modes of thought and pleasure.",
+      "domain": ["jokes", "regression", "infantile_pleasure", "inhibition"],
+      "source": "Jokes and Their Relation to the Unconscious (1905)",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0419",
+      "position": "The comic arises from comparison between two expenditures of psychical energy - one's own and another person's (in the case of comic of movement or situation), or between one's present state and a former state (in comic of expectation).",
+      "domain": ["comic", "comparison", "psychical_expenditure"],
+      "source": "Jokes and Their Relation to the Unconscious (1905)",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0420",
+      "position": "The comic of movement arises when we perceive in another person expenditure greater than we judge necessary; we laugh at the 'too much' of their exertion or the 'too little' of their achievement.",
+      "domain": ["comic", "movement", "exaggeration"],
+      "source": "Jokes and Their Relation to the Unconscious (1905)",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0421",
+      "position": "Degradation or debasing of the sublime is fundamental mechanism of the comic; bringing down something from higher to lower level (from intellectual to physical, from adult to childish, from human to animal) produces comic effect.",
+      "domain": ["comic", "degradation", "sublime"],
+      "source": "Jokes and Their Relation to the Unconscious (1905)",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0422",
+      "position": "Caricature achieves degradation by emphasizing single feature which is comic in itself, sacrificing other features and substituting that which is low for what is high - but this is permissible only when the lowly is simultaneously high.",
+      "domain": ["comic", "caricature", "degradation"],
+      "source": "Jokes and Their Relation to the Unconscious (1905)",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0423",
+      "position": "Parody and travesty achieve degradation of something exalted by two methods: (1) destroying unity of character by replacing high elements with low ones (travesty); (2) maintaining form but replacing high content with low content (parody).",
+      "domain": ["comic", "parody", "travesty", "degradation"],
+      "source": "Jokes and Their Relation to the Unconscious (1905)",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0424",
+      "position": "Imitation produces comic effect when imitator puts out more expenditure than object; imitation becomes comic only when combined with caricature - when emphasizing feature not prominent in original.",
+      "domain": ["comic", "imitation", "caricature"],
+      "source": "Jokes and Their Relation to the Unconscious (1905)",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0425",
+      "position": "Naiveté produces comic effect when someone completely disregards an inhibition because it does not exist for them; we laugh at the economy they have achieved compared to our own necessity of maintaining the inhibition.",
+      "domain": ["comic", "naiveté", "inhibition", "innocence"],
+      "source": "Jokes and Their Relation to the Unconscious (1905)",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0426",
+      "position": "Humour is a means of obtaining pleasure in spite of distressing affects that interfere with it; humour prevents outbreak of affect, displaces cathexis from pain-producing content to other ideas, and thus economizes on expenditure of emotion.",
+      "domain": ["humour", "affect", "economy", "defense"],
+      "source": "Jokes and Their Relation to the Unconscious (1905)",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0427",
+      "position": "Humour represents triumph of narcissism - the ego's victorious assertion of its invulnerability, refusing to be distressed by provocations of reality or compelled to suffer, maintaining pleasure principle despite external trauma.",
+      "domain": ["humour", "narcissism", "ego", "defense"],
+      "source": "Jokes and Their Relation to the Unconscious (1905)",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0428",
+      "position": "Humour has something liberating about it but also something of grandeur and elevation lacking in other methods of obtaining pleasure from mental activity; this grandeur lies in triumph of narcissism and ego's invincibility.",
+      "domain": ["humour", "elevation", "narcissism", "triumph"],
+      "source": "Jokes and Their Relation to the Unconscious (1905)",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0429",
+      "position": "Jokes, the comic, and humour all produce pleasure through economizing psychical expenditure; they differ in psychological situation: jokes create economy through technique, the comic through comparison, humour through affect-displacement.",
+      "domain": ["jokes", "comic", "humour", "economy", "pleasure"],
+      "source": "Jokes and Their Relation to the Unconscious (1905)",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0430",
+      "position": "Jokes are made (produced with intention and effort); the comic is found (discovered in people, situations, or actions); humour is both made and found - the humorous attitude being adopted deliberately.",
+      "domain": ["jokes", "comic", "humour", "intentionality"],
+      "source": "Jokes and Their Relation to the Unconscious (1905)",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0431",
+      "position": "Jokes serve principally to produce pleasure through their technique and by freeing repressed impulses; the comic aims at obtaining pleasure through intellectual comparison; humour serves to avoid unpleasure that would arise from affect.",
+      "domain": ["jokes", "comic", "humour", "function", "pleasure"],
+      "source": "Jokes and Their Relation to the Unconscious (1905)",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0432",
+      "position": "The joke-work transforms pre-conscious thought by handing it over momentarily to the unconscious for revision; this accounts for apparent spontaneity and sudden illumination characteristic of jokes.",
+      "domain": ["jokes", "joke_work", "unconscious", "spontaneity"],
+      "source": "Jokes and Their Relation to the Unconscious (1905)",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0433",
+      "position": "Understanding a joke requires recognizing its technique; the hearer must perform an unconscious operation opposite to the joke-work, reconstructing what was condensed or displaced, thus re-experiencing the economy that produced pleasure in the joke-maker.",
+      "domain": ["jokes", "understanding", "technique", "empathy"],
+      "source": "Jokes and Their Relation to the Unconscious (1905)",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0434",
+      "position": "Wit (joking ability) requires not only intelligence but special talent; capacity for joke-making is unevenly distributed and many intelligent people lack it entirely, suggesting dependence on particular psychical constitution.",
+      "domain": ["wit", "talent", "individual_differences", "intelligence"],
+      "source": "Jokes and Their Relation to the Unconscious (1905)",
+      "type": "clinical_observation"
+    },
+    {
+      "id": "FREUD-0435",
+      "position": "Witty people possess easier access to infantile sources of pleasure and have lesser resistance between unconscious and pre-conscious thought; their capacity depends on constitutional factors allowing temporary regression to primary process thinking.",
+      "domain": ["wit", "personality", "unconscious_access", "regression"],
+      "source": "Jokes and Their Relation to the Unconscious (1905)",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0436",
+      "position": "Good jokes are found more often among oppressed peoples (Jews) because jokes serve to express criticism and rebellion against authority; when direct aggression is forbidden, hostile jokes flourish as substitute satisfaction.",
+      "domain": ["jokes", "social_psychology", "aggression", "oppression"],
+      "source": "Jokes and Their Relation to the Unconscious (1905)",
+      "type": "clinical_observation"
+    },
+    {
+      "id": "FREUD-0437",
+      "position": "The most favorable condition for joke-production is cheerful toxic state (slight alcohol intoxication), which loosens inhibitions and facilitates access to unconscious thought processes without impairing intellectual functions.",
+      "domain": ["jokes", "intoxication", "inhibition", "mood"],
+      "source": "Jokes and Their Relation to the Unconscious (1905)",
+      "type": "clinical_observation"
+    },
+    {
+      "id": "FREUD-0438",
+      "position": "Jokes cannot be translated successfully into other languages because they depend on specific linguistic features (sound, multiple meanings, idiomatic expressions) that have no equivalents; only conceptual jokes translate reasonably.",
+      "domain": ["jokes", "translation", "language", "technique"],
+      "source": "Jokes and Their Relation to the Unconscious (1905)",
+      "type": "clinical_observation"
+    },
+    {
+      "id": "FREUD-0439",
+      "position": "Hostile jokes against oneself (self-criticism jokes) represent modified self-aggression; they express hostility originally directed toward external object now turned upon self, or defensive reversal of aggression through humorous acceptance.",
+      "domain": ["jokes", "self_criticism", "aggression", "defense"],
+      "source": "Jokes and Their Relation to the Unconscious (1905)",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0440",
+      "position": "Jewish jokes made by Jews themselves often contain harsh self-criticism that would be offensive coming from outsiders; they represent democratic leveling that prevents idealization and maintains realistic self-assessment within the group.",
+      "domain": ["jokes", "self_criticism", "group_psychology", "identity"],
+      "source": "Jokes and Their Relation to the Unconscious (1905)",
+      "type": "clinical_observation"
+    },
+    {
+      "id": "FREUD-0441",
+      "position": "The pleasure in smut derives from exposure of sexually different person to whom the smut is directed; smut originally served courtship function, but when direct sexual satisfaction became impossible, persisted as regression to infantile sexual interest.",
+      "domain": ["jokes", "smut", "sexuality", "exhibition"],
+      "source": "Jokes and Their Relation to the Unconscious (1905)",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0442",
+      "position": "Obscene jokes require three persons because direct sexual approach between two persons has been inhibited by civilization; the third person allows forbidden impulse expression through laughter, confirming that repression has been circumvented.",
+      "domain": ["jokes", "obscenity", "three_person_structure", "civilization"],
+      "source": "Jokes and Their Relation to the Unconscious (1905)",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0443",
+      "position": "The stricter the censorship, the more sophisticated must be the joke technique; in times of strong repression, jokes that evade censorship through clever disguise give greatest pleasure.",
+      "domain": ["jokes", "censorship", "technique", "historical_context"],
+      "source": "Jokes and Their Relation to the Unconscious (1905)",
+      "type": "clinical_observation"
+    },
+    {
+      "id": "FREUD-0444",
+      "position": "The compulsion to tell jokes indicates their service to the pleasure principle; the joke-maker must communicate the joke because he cannot fully enjoy his own creation without the confirming laughter of the listener.",
+      "domain": ["jokes", "communication", "pleasure", "social_validation"],
+      "source": "Jokes and Their Relation to the Unconscious (1905)",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0445",
+      "position": "Good listeners become crucial to joke-tellers; the ideal listener possesses similar inhibitions and repressions, ensuring psychical resonance that allows the joke to produce full effect.",
+      "domain": ["jokes", "audience", "empathy", "shared_psychology"],
+      "source": "Jokes and Their Relation to the Unconscious (1905)",
+      "type": "clinical_observation"
+    },
+    {
+      "id": "FREUD-0446",
+      "position": "Professional joke-tellers and comedians exploit jokes parasitically; they experience attenuated pleasure themselves but live from the greater pleasure their performance generates in audiences.",
+      "domain": ["jokes", "performance", "professional_humor", "economics"],
+      "source": "Jokes and Their Relation to the Unconscious (1905)",
+      "type": "clinical_observation"
+    },
+    {
+      "id": "FREUD-0447",
+      "position": "Context and mood profoundly affect joke appreciation; the same joke may be hilarious in one situation and fall flat in another, depending on current inhibitions, recent experiences, and group atmosphere.",
+      "domain": ["jokes", "context", "mood", "contingency"],
+      "source": "Jokes and Their Relation to the Unconscious (1905)",
+      "type": "clinical_observation"
+    },
+    {
+      "id": "FREUD-0448",
+      "position": "Tendentious jokes serve ego's purposes more directly than innocent jokes; they allow expression of aggression, criticism, and sexual impulses that would otherwise be prohibited, making them psychologically more significant despite lesser technical refinement.",
+      "domain": ["jokes", "tendentious_jokes", "ego", "function"],
+      "source": "Jokes and Their Relation to the Unconscious (1905)",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0449",
+      "position": "Cynical jokes attacking institutions and authorities reveal the ambivalence underlying social conformity; they express doubt and criticism that conscious thought suppresses out of prudence or fear.",
+      "domain": ["jokes", "cynicism", "ambivalence", "authority"],
+      "source": "Jokes and Their Relation to the Unconscious (1905)",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0450",
+      "position": "Joke technique of 'faulty thinking' deliberately employs logical errors (false analogy, faulty inference, confusion of part and whole) to achieve comic effect while suggesting hidden truth beneath apparent nonsense.",
+      "domain": ["jokes", "logic", "faulty_reasoning", "technique"],
+      "source": "Jokes and Their Relation to the Unconscious (1905)",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0451",
+      "position": "Sophistic jokes use formally correct reasoning to reach absurd conclusions, exposing weaknesses in logical argumentation and demonstrating how reason can be manipulated to serve unconscious purposes.",
+      "domain": ["jokes", "sophistry", "logic", "reason"],
+      "source": "Jokes and Their Relation to the Unconscious (1905)",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0452",
+      "position": "The technique of 'unification' brings together disparate elements that share unexpected similarity; this mirrors the work of unconscious thinking which ignores contradictions and finds connections conscious thought overlooks.",
+      "domain": ["jokes", "unification", "unconscious", "similarity"],
+      "source": "Jokes and Their Relation to the Unconscious (1905)",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0453",
+      "position": "Indirect representation in jokes parallels dream symbolism; forbidden content is expressed through allusion, analogy, or substitute that maintains connection to original while evading censorship.",
+      "domain": ["jokes", "indirect_representation", "symbolism", "censorship"],
+      "source": "Jokes and Their Relation to the Unconscious (1905)",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0454",
+      "position": "Jokes of unification create pleasure by momentarily restoring the primitive unity of thinking that preceded the differentiation between conscious and unconscious processes.",
+      "domain": ["jokes", "unification", "primary_process", "regression"],
+      "source": "Jokes and Their Relation to the Unconscious (1905)",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0455",
+      "position": "The best jokes combine technical excellence with significant tendentious purpose; pure technique without purpose yields only mild amusement, while pure tendency without technique appears merely aggressive or obscene.",
+      "domain": ["jokes", "technique", "purpose", "quality"],
+      "source": "Jokes and Their Relation to the Unconscious (1905)",
+      "type": "clinical_observation"
+    },
+    {
+      "id": "FREUD-0456",
+      "position": "Jokes lose effectiveness through repetition because the economy they create depends on surprise; once the technique is known, no psychical expenditure is saved and pleasure diminishes.",
+      "domain": ["jokes", "repetition", "surprise", "economy"],
+      "source": "Jokes and Their Relation to the Unconscious (1905)",
+      "type": "clinical_observation"
+    },
+    {
+      "id": "FREUD-0457",
+      "position": "The technique of 'displacement of psychical accent' moves emphasis from important to trivial element; this mimics a defensive process where dangerous material is avoided by focusing attention elsewhere.",
+      "domain": ["jokes", "displacement", "defense", "attention"],
+      "source": "Jokes and Their Relation to the Unconscious (1905)",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0458",
+      "position": "Jokes exploit ambiguity not just in words but in logic itself; they demonstrate that same thought material can yield opposite conclusions depending on perspective or framing.",
+      "domain": ["jokes", "ambiguity", "logic", "perspectivism"],
+      "source": "Jokes and Their Relation to the Unconscious (1905)",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0459",
+      "position": "The comic feeling arises when we expect large psychical expenditure but find small one sufficient; we laugh at this pleasant surprise of finding things easier than anticipated.",
+      "domain": ["comic", "expectation", "surprise", "economy"],
+      "source": "Jokes and Their Relation to the Unconscious (1905)",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0460",
+      "position": "Comic of situation arises from comparison between effort we imagine necessary and actual effort observed; when someone uses roundabout path to simple goal, we laugh at wasted expenditure.",
+      "domain": ["comic", "situation", "inefficiency", "comparison"],
+      "source": "Jokes and Their Relation to the Unconscious (1905)",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0461",
+      "position": "Mimicry and imitation produce comic effect through exaggeration of non-essential features; the imitator expends more energy than necessary, allowing audience to enjoy the surplus expenditure.",
+      "domain": ["comic", "mimicry", "exaggeration", "surplus"],
+      "source": "Jokes and Their Relation to the Unconscious (1905)",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0462",
+      "position": "Idealization prevents comic effect by demanding we ignore faults and exaggerate virtues; comic thrives on realistic observation that notes every disproportion and inadequacy.",
+      "domain": ["comic", "idealization", "realism", "observation"],
+      "source": "Jokes and Their Relation to the Unconscious (1905)",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0463",
+      "position": "Children's utterances become comic for adults when child violates inhibitions adults possess; naiveté allows expression of truths that social restrictions prevent adults from speaking.",
+      "domain": ["comic", "naiveté", "children", "inhibition"],
+      "source": "Jokes and Their Relation to the Unconscious (1905)",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0464",
+      "position": "Sexual naiveté of children provides adults with pleasure of seeing uninhibited expression of sexual curiosity and interest; this pleasure combines comic (from lack of inhibition) with voyeuristic satisfaction.",
+      "domain": ["comic", "sexuality", "naiveté", "voyeurism"],
+      "source": "Jokes and Their Relation to the Unconscious (1905)",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0465",
+      "position": "Humour's mechanism involves adopting attitude of adult toward child, treating one's own ego as child and taking up position of adult who has superior perspective on life's troubles.",
+      "domain": ["humour", "ego", "identification", "perspective"],
+      "source": "Jokes and Their Relation to the Unconscious (1905)",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0466",
+      "position": "Gallows humour represents extreme case where person about to die makes joke about execution; this demonstrates ego's refusal to let reality traumatize it, maintaining pleasure principle despite imminent annihilation.",
+      "domain": ["humour", "death", "ego", "defense"],
+      "source": "Jokes and Their Relation to the Unconscious (1905)",
+      "type": "clinical_observation"
+    },
+    {
+      "id": "FREUD-0467",
+      "position": "Humour is not resigned but rebellious; it signifies not only ego's triumph over suffering but also triumph of pleasure principle, which asserts itself despite unfavorable reality.",
+      "domain": ["humour", "rebellion", "pleasure_principle", "reality"],
+      "source": "Jokes and Their Relation to the Unconscious (1905)",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0468",
+      "position": "The capacity for humour is rare and represents one of highest psychical achievements; not everyone possesses the mental constitution allowing ego to adopt humorous attitude toward suffering.",
+      "domain": ["humour", "achievement", "rarity", "constitution"],
+      "source": "Jokes and Their Relation to the Unconscious (1905)",
+      "type": "clinical_observation"
+    },
+    {
+      "id": "FREUD-0469",
+      "position": "Humour can be directed at oneself or at others; in both cases it represents empathy - either with one's own suffering ego or with another's, adopting superior viewpoint that diminishes the suffering.",
+      "domain": ["humour", "empathy", "self", "other"],
+      "source": "Jokes and Their Relation to the Unconscious (1905)",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0470",
+      "position": "Jokes provide window into unconscious mental processes; by studying joke techniques, we learn how unconscious thinking operates - through condensation, displacement, and disregard for logical constraints.",
+      "domain": ["jokes", "unconscious", "methodology", "primary_process"],
+      "source": "Jokes and Their Relation to the Unconscious (1905)",
+      "type": "methodological_claim"
+    },
+    {
+      "id": "FREUD-0471",
+      "position": "The study of jokes confirms fundamental psychoanalytic principles: the power of unconscious processes, the role of repression in creating psychical conflict, and the constant seeking of pleasure through indirect paths.",
+      "domain": ["jokes", "psychoanalysis", "confirmation", "principles"],
+      "source": "Jokes and Their Relation to the Unconscious (1905)",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0472",
+      "position": "Jokes demonstrate that no psychical act is purposeless; even seemingly trivial verbal play serves important functions of pleasure-seeking, aggression-discharge, and social bonding.",
+      "domain": ["jokes", "psychical_determinism", "function", "purposiveness"],
+      "source": "Jokes and Their Relation to the Unconscious (1905)",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0473",
+      "position": "The pleasure mechanism in jokes (economy of psychical expenditure) operates throughout mental life; any saving of energy - whether in thinking, perceiving, or acting - tends to produce pleasurable feeling.",
+      "domain": ["pleasure", "economy", "psychical_expenditure", "general_principle"],
+      "source": "Jokes and Their Relation to the Unconscious (1905)",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0474",
+      "position": "Jokes reveal the fundamental opposition between instinctual demands and civilized restrictions; they survive as artifacts of this conflict, representing successful compromises that satisfy both sides.",
+      "domain": ["jokes", "civilization", "instinct", "compromise"],
+      "source": "Jokes and Their Relation to the Unconscious (1905)",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0475",
+      "position": "The universal appeal of certain jokes across cultures suggests common human repressions and universal structure of unconscious processes; despite cultural differences, fundamental conflicts and defenses remain similar.",
+      "domain": ["jokes", "universality", "repression", "culture"],
+      "source": "Jokes and Their Relation to the Unconscious (1905)",
+      "type": "clinical_observation"
+    },
+    {
+      "id": "FREUD-0476",
+      "position": "Joke appreciation requires temporary suspension of critical faculties; we must allow ourselves to regress to primary process thinking while retaining enough secondary process to recognize the technique.",
+      "domain": ["jokes", "appreciation", "regression", "dual_process"],
+      "source": "Jokes and Their Relation to the Unconscious (1905)",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0477",
+      "position": "The laughter of the joke-hearer serves communicative function; it signals to the joke-teller that the joke succeeded, that censorship was circumvented, and that repressed material achieved representation.",
+      "domain": ["laughter", "communication", "signal", "success"],
+      "source": "Jokes and Their Relation to the Unconscious (1905)",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0478",
+      "position": "Jokes occupy intermediate position between conscious and unconscious mental activity; they are consciously created yet employ unconscious mechanisms, produced deliberately yet require spontaneous inspiration from unconscious sources.",
+      "domain": ["jokes", "consciousness", "unconscious", "intermediate_position"],
+      "source": "Jokes and Their Relation to the Unconscious (1905)",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0479",
+      "position": "The ultimate significance of jokes lies in demonstrating that pleasure remains possible despite civilization's restrictions; they prove that renunciation need not be complete, that infantile sources of satisfaction remain accessible through ingenuity.",
+      "domain": ["jokes", "civilization", "pleasure", "compromise"],
+      "source": "Jokes and Their Relation to the Unconscious (1905)",
+      "type": "theoretical_claim"
+    }
+  ]
+}

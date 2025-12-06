@@ -1,0 +1,252 @@
+[
+  {
+    "id": "CAUS-001",
+    "category": "Philosophy of Science",
+    "text": "If x causes y, then x and y are events. They are not rocks, trees, or snowmen. They are not things, in other words. Though not themselves causes or effects, things have causal properties. The rock weighs three lbs.; and it is in virtue of this fact about the rock that certain events involving the rock have certain effects. But the rock per se is not a cause."
+  },
+  {
+    "id": "CAUS-002",
+    "category": "Philosophy of Science",
+    "text": "Conditions, e.g. Smith's having high blood pressure, can be causes and effects. This is because conditions are event-pluralities and therefore events in their own right. But not all event-pluralities are conditions: a condition is a stable pattern of events."
+  },
+  {
+    "id": "CAUS-003",
+    "category": "Philosophy of Science",
+    "text": "For your metabolic condition to remain unchanged is for the various events constitutive of it to continue to occur within certain limits; it is for your heart to continue to beat at a certain rate; it is for the cells composing your body to be duly oxygenated at regular intervals. Unless you are cryogenically frozen, for your metabolic condition to remain unchanged is not for you to undergo no metabolic changes."
+  },
+  {
+    "id": "CAUS-004",
+    "category": "Philosophy of Science",
+    "text": "For the room's temperature to remain constant is not for the various particles involved to undergo no change. It is for the changes that they are constantly undergoing to remain within certain limits; it is for those changes to remain such that their mean kinetic energy doesn't change."
+  },
+  {
+    "id": "CAUS-005",
+    "category": "Philosophy of Science",
+    "text": "An event is a change. Therefore, all causes and all effects are changes. But we take for granted, and thus cease to be aware of, the occurrence of the changes constitutive of stable conditions; and we thus tend to reserve the use of the word 'change' for changes in patterns of change. So-called changes are typically identical with meta-changes."
+  },
+  {
+    "id": "CAUS-006",
+    "category": "Philosophy of Science",
+    "text": "Scientific knowledge enables us to explain past events and to predict future ones, and it thereby enables us, within limits, to control the course of events. In contexts in which there are stable patterns of events, it tends to be possible to explain, predict, and control what happens; and it tends to be impossible to do so in contexts in which there are no such patterns and which therefore consist of rogue events."
+  },
+  {
+    "id": "CAUS-007",
+    "category": "Philosophy of Science",
+    "text": "Explanation and prediction almost always consist in the identification of program-causes. Given some event En, En's program-cause is a structure or stable condition that, although not by itself determinative of En, predetermines the occurrence of some structure-internal specific event En-1 that is thus determinative."
+  },
+  {
+    "id": "CAUS-008",
+    "category": "Philosophy of Science",
+    "text": "The immediate cause of Smith's getting mugged is Brown's desire for money. The program-cause is the disastrous financial condition of Smith's country: since that country is poor, it is inevitable that somebody will violate somebody's property-rights in some way or other. The economist is right to blame the mugging on the evils of capitalism. The psychologist is right to blame the mugging on Brown's lack of scruples. The economist has correctly identified the program-cause; the psychologist has correctly identified the immediate cause."
+  },
+  {
+    "id": "CAUS-009",
+    "category": "Psychoanalysis",
+    "text": "Freud correctly says that, if a given person X succumbs to a given psychology malady M, four different kinds of causes are likely to be operative: (1) X's precondition (how X was before he was afflicted with M); (2) M's specific cause (the trauma that, though it did not itself suffice for X's succumbing to M, made it inevitable that the slightest disturbance in X's condition would thus suffice); (3) M's concurrent cause (some trauma experienced by X that is operative independently); (4) The immediate or precipitating cause of M (some specific event that pushes X just past the threshold)."
+  },
+  {
+    "id": "CAUS-010",
+    "category": "Psychoanalysis",
+    "text": "Freud says that mental events are often 'overdetermined.' When Freud says that a given psychological event e is 'overdetermined,' he means that it was brought about by the confluence of two or more psychological events each of which justified e's occurrence. Relative to any one such event, e's occurrence made sense, even though not a single one of those events was necessarily capable on its own of bringing about e."
+  },
+  {
+    "id": "CAUS-011",
+    "category": "Psychoanalysis",
+    "text": "If Freud was right, as he surely was, causation in the psychological sphere often involves the exceeding of thresholds: it isn't enough that x have just one reason for falling in love with y; unless he has several reasons, nothing happens; but once enough such reasons accumulate, the dam bursts and x falls in love with y."
+  },
+  {
+    "id": "CAUS-012",
+    "category": "Philosophy of Science",
+    "text": "Discontinuous changes tend to involve threshold effects. A circuit breaker doesn't do anything until there is electricity-overload, at which point it shuts off the electrical pathway in question. A firm doesn't declare bankruptcy until it's in the red by a certain amount, at which point it files the paper work. Continuous changes don't involve threshold effects."
+  },
+  {
+    "id": "CAUS-013",
+    "category": "Philosophy of Science",
+    "text": "To the extent that the world changes discontinuously, it has a digital structure, and to the extent that it changes continuously, it has an analogue structure. An analogue clock is one that changes continuously with the passage of time; a digital clock is one that abruptly changes states at predetermined intervals."
+  },
+  {
+    "id": "CAUS-014",
+    "category": "Philosophy of Science",
+    "text": "In most contexts, 'such and such was the cause of thus and such' means 'such and such was an INUS condition for thus and such.' INUS means: insufficient but non-redundant part of a condition that is unnecessary but sufficient. By itself, e obviously isn't sufficient for e*. But given that e* did happen, there was some confluence of events/conditions that sufficed for e*; and e is a non-redundant part of that confluence."
+  },
+  {
+    "id": "CAUS-015",
+    "category": "Philosophy of Science",
+    "text": "Statements of the form 'if P had been the case, then Q would have been the case' are counterfactual conditionals. Many counterfactuals are to the effect that one thing caused another to happen and many counterfactuals therefore hold in virtue of dependence-relations of the causal variety. But some counterfactuals hold in virtue of dependence-relations of the logical variety."
+  },
+  {
+    "id": "CAUS-016",
+    "category": "Philosophy of Science",
+    "text": "All counterfactuals affirm the existence of instances of necessitation of some kind or other, and all counterfactuals therefore hold in virtue of dependence-relations of one kind or other."
+  },
+  {
+    "id": "CAUS-017",
+    "category": "Philosophy of Science",
+    "text": "David Lewis's analysis of counterfactuals is unacceptable. Any given event has deep causal roots. This means that if Kennedy's assassination doesn't take place in a given world, then either (a) that world differs so much from our world that it is no guarantee that Kennedy even exists in it, or (b) that world differs from ours in respect of the deterministic mechanisms involved in it. Given either (a) or (b), Lewis' analysis is false."
+  },
+  {
+    "id": "CAUS-018",
+    "category": "Philosophy of Science",
+    "text": "It is by examining the causal and logical structure of our world, not other worlds, that we know whether or not a given counterfactual is true. This means that counterfactuals hold in virtue of the logical and causal structure of our world, as opposed to other worlds. Since there is no reason, apart from Lewis's analysis, to believe that there are other worlds, it follows that there is no reason at all to posit their existence."
+  },
+  {
+    "id": "CAUS-019",
+    "category": "Philosophy of Science",
+    "text": "In some contexts, the appropriate answer to 'why did the walls of the vessel crack?' is 'because the water inside the vessel was boiling,' and not 'because specific particle-collisions c1…cn occurred.' Ceteris paribus the vessel would have cracked even if c1…cn hadn't occurred, since the conditions in question guaranteed the occurrence of some such particle-collisions. This is program-causality."
+  },
+  {
+    "id": "CAUS-020",
+    "category": "Philosophy of Science",
+    "text": "Given that the cause of an event is what guarantees its occurrence, the boiling of the water is, insofar as it guaranteed the occurrence of the likes of c1…cn, appropriately described as 'the cause' of the cracking of the vessel."
+  },
+  {
+    "id": "CAUS-021",
+    "category": "Philosophy of Science",
+    "text": "In general, where there is causal redundancy, causal truths cannot be converted into counterfactual truths. If the bird was otherwise unthreatened, then 'the bird died because Smith shot it' implies 'if Smith hadn't shot it, the bird would not have died.' But if Smith was part of a pack of hunters, each of whom would have shot the bird had Smith not done so, then the counterfactual is not a consequence of the causal truth."
+  },
+  {
+    "id": "CAUS-022",
+    "category": "Philosophy of Science",
+    "text": "According to the Counterfactual Analysis of Causality (CAC), the meaning of 'e is the cause of e*' is 'if e hadn't happened, then e* wouldn't have happened.' CAC is a theory as to what causal claims mean."
+  },
+  {
+    "id": "CAUS-023",
+    "category": "Philosophy of Science",
+    "text": "The motivation for CAC: Some philosophers and physicists have argued that there is no empirical (observational) evidence of the existence of forces. Given this position, they have two options: take the deeply revisionist position that there is no observational support for any causal claim, or reinterpret causal claims so that their veridicality isn't predicated on the existence of (supposedly) undiscovered forces. CAC provides such a reinterpretation."
+  },
+  {
+    "id": "CAUS-024",
+    "category": "Philosophy of Science",
+    "text": "CAC is extensionally false. 'If e hadn't happened, then e* wouldn't have happened' is not always a consequence of 'e is the cause of e*.' This fails to be such a consequence whenever e is but one of many would-be causes of e*, and it therefore fails whenever circumstances program for e*'s occurrence."
+  },
+  {
+    "id": "CAUS-025",
+    "category": "Philosophy of Science",
+    "text": "CAC is also intensionally false. If it weren't for causal claims, there would be no justification for the corresponding counterfactual claims. Knowledge of counterfactuals is necessarily derivative of knowledge of causal truths, suggesting that the truth affirmed by causal statements is more fundamental than the truth affirmed by counterfactual statements."
+  },
+  {
+    "id": "CAUS-026",
+    "category": "Philosophy of Science",
+    "text": "Three problems with CAC's defense (CACD): (i) Events whose causes involve the exceeding of thresholds, (ii) Events whose causes are mechanisms that can be implemented in different ways, and (iii) Events whose causes program for their occurrence."
+  },
+  {
+    "id": "CAUS-027",
+    "category": "Philosophy of Science",
+    "text": "Threshold effect problem: At time t, I push the button and the elevator comes as a result. Had I not done so, someone else might have pushed the button at t and the elevator would still have come, and the result would have been the same: the elevator would have come at the same time, in the same way. The button is a binary-mechanism. Where threshold effects are concerned, there is genuine causal redundancy, and CACD is therefore false."
+  },
+  {
+    "id": "CAUS-028",
+    "category": "Philosophy of Science",
+    "text": "Software implementation problem: I type '1+2=' into a calculator; then I hit ENTER. My hitting ENTER caused a '3' to appear on the LCD. But if I hadn't hit ENTER, the '3' still would have appeared, since my friend Gus would have hit ENTER had I not done so. The identity of an event that can be implemented in different ways isn't contingent on its exact composition or on the exact composition of its cause."
+  },
+  {
+    "id": "CAUS-029",
+    "category": "Philosophy of Science",
+    "text": "Software-level activity—meaning, ultimately, any causal-series that can be implemented in different ways—is to be distinguished from the event-series by which it is implemented, notwithstanding that the two series are spatiotemporally coincident."
+  },
+  {
+    "id": "CAUS-030",
+    "category": "Philosophy of Science",
+    "text": "Program-causality problem: A hot griddle converts liquid pancake-batter into a solid pancake. The identity of the conversion-process isn't contingent on the identities of the exact micro-particles that happened to be immediately responsible for it. Just as the identity of a military operation isn't contingent on the exact identities of the infantrymen carrying out the general's orders, so the identity of the conversion-process isn't contingent on its specific micro-composition."
+  },
+  {
+    "id": "CAUS-031",
+    "category": "Philosophy of Science",
+    "text": "According to Hume, e1 is the direct cause of e2 iff any event that is similar to e1 is spatially adjacent to an immediately posterior event that is similar to e2. Hume holds that if e is the direct cause of e*, then there is a law to the effect that any event similar to e is adjacent to an immediately posterior event that is similar to e*. Hume therefore holds that laws are regularities and causal sequences are instances of such regularities."
+  },
+  {
+    "id": "CAUS-032",
+    "category": "Philosophy of Science",
+    "text": "Hume rejects the conventional view, according to which laws are structures that are responsible for regularities and are therefore distinct from them. Hume rejects the conventional view, according to which causes are responsible for their effects and are therefore not merely their antecedents."
+  },
+  {
+    "id": "CAUS-033",
+    "category": "Philosophy of Science",
+    "text": "There are two kinds of causal processes: (i) Those that involve interactions and (ii) Those that consist solely of instances of persistence. Following Bertrand Russell, we refer to type-(i) causation as 'transeunt' causation and to type-(ii) causation as 'immanent' causation."
+  },
+  {
+    "id": "CAUS-034",
+    "category": "Philosophy of Science",
+    "text": "Anything that endures for any length of time is a series of instances of immanent causation and is thus a causal series: a series of states of affairs such that any given such state, apart from the last, is the cause of a structurally similar such state. The occupants of space-time are causal series."
+  },
+  {
+    "id": "CAUS-035",
+    "category": "Philosophy of Science",
+    "text": "The difference between immanent and transeunt causation is that immanent causation is, whereas transeunt causation is not, structure-preserving. The stained-glass window in the church is a structure-preserving causal series; so is the vase that was just flung at it. When the vase collides with the window, these two causal series converge, and the result is a causal series that is not structure-preserving."
+  },
+  {
+    "id": "CAUS-036",
+    "category": "Philosophy of Science",
+    "text": "Any given case of transeunt causation involves the cessation of a structure-preserving causal series. Ball A collides with hitherto stationary Ball B; A stops moving and B starts moving. By virtue of immobilizing A and mobilizing B, the collision introduced a sudden, discontinuous change in the nature of causal-series constitutive of their respective existence."
+  },
+  {
+    "id": "CAUS-037",
+    "category": "Philosophy of Science",
+    "text": "The essence of transeunt causation is discontinuity. The essence of immanent causation is continuity. A consequence is that the world has a digital structure to the extent that it hosts instances of transeunt causation, and an analogue structure to the extent that it hosts instances of immanent causation."
+  },
+  {
+    "id": "CAUS-038",
+    "category": "Philosophy of Science",
+    "text": "Causal explanations are necessary only when they're possible, and they're possible only when continuities have been disrupted. Hume takes it for granted that all instances of causation are identical with such disruptions, and Hume therefore takes it for granted that continuities per se are non-causal."
+  },
+  {
+    "id": "CAUS-039",
+    "category": "Philosophy of Science",
+    "text": "When trying to account for an instance of transeunt causation, the correct approach is to try to find what has been preserved. When two balls collide, kinetic energy is preserved. The correct approach is to look for a continuity underneath the discontinuities. It's precisely because A's kinetic energy continues to flow continuously that each ball's state of motion changes."
+  },
+  {
+    "id": "CAUS-040",
+    "category": "Philosophy of Science",
+    "text": "Because Hume took breakdowns of causal cohesiveness as instances of such cohesiveness, he believed causation to be a relation between disjoint entities. This in turn led him to misanalyze the instances of causation on which he focused: it led him to focus on the ways in which the effect was disjoint from the cause and to overlook the ways in which the effect was continuous with the cause."
+  },
+  {
+    "id": "CAUS-041",
+    "category": "Philosophy of Science",
+    "text": "In genuine causal processes, there is observable evidence distinguishing them from pseudo-causal processes. If A stopped for no reason at all—if it was sheer coincidence that its coming into contact with B happened at the same time as its ceasing to roll—the situation will be observably very different from one in which its ceasing to roll was a consequence of its coming into contact with B."
+  },
+  {
+    "id": "CAUS-042",
+    "category": "Philosophy of Science",
+    "text": "Genuine causal processes are observationally distinguishable from pseudo-causal processes. What observation reveals is that the events composing a genuine causal sequence are continuous with each other, whereas those events composing a pseudo-causal sequence are merely contiguous with each other. Effects are continuous with their causes, and not merely contiguous with them."
+  },
+  {
+    "id": "CAUS-043",
+    "category": "Philosophy of Science",
+    "text": "The essence of causation is continuity: a continuous event-series is a causal process; a discontinuous event-series is a non-causal process, even if every non-terminal member of that sequence is contiguous with its successor. Whenever we observe a process to be continuous, we are ipso facto observing states of affairs to be causally responsible for other states of affairs."
+  },
+  {
+    "id": "CAUS-044",
+    "category": "Philosophy of Science",
+    "text": "Three additional objections to the Regularity Analysis: Problem #1: The temporal order is to be understood in terms of the causal order, not vice versa. Hume's analysis assumes otherwise and is therefore viciously circular. Problem #2: Correlation is not causation. A consequence of Hume's analysis is that correlation is causation. Problem #3: Given any spatiotemporally adjacent events, there is some regularity of which that event-sequence is an instance. Hume's analysis therefore entails that any two spatiotemporally adjacent events are related as cause and effect."
+  },
+  {
+    "id": "CAUS-045",
+    "category": "Philosophy of Science",
+    "text": "There is no way to assign relative dates or positions to events except on the basis of their causal interrelations. e is simultaneous with e* iff there is no causal process that begins with the one and ends with the other; and e precedes e* iff either (i) e affects e* or (ii) there is some event that is simultaneous with e that affects e*."
+  },
+  {
+    "id": "CAUS-046",
+    "category": "Philosophy of Science",
+    "text": "Newton said that the concept of instantaneous 'action at a distance' is incoherent. He was right: If there is no time-delay between cause and effect, there is no distance between cause and effect, the reason being that for there to be gap, either temporal or spatial, between cause and effect is for that instance of causation not to be instantaneous."
+  },
+  {
+    "id": "CAUS-047",
+    "category": "Philosophy of Science",
+    "text": "Statements about spatiotemporal interrelations have neither operational nor philosophical significance unless considered as statements about causal interrelations. Truths about spatiotemporal interrelations are therefore truths about causal interrelations, and the spatiotemporal order is to be understood in terms of the causal order. Hume assumes otherwise, and his analysis is therefore incorrect."
+  },
+  {
+    "id": "CAUS-048",
+    "category": "Philosophy of Science",
+    "text": "Epiphenomenal causation is not actual causation; it is pseudo-causation. e is the epiphenomenal cause of e* iff (i) any e-similar event is immediately succeeded by an adjacent e*-similar event, (ii) e is not the cause of e*, and (iii) the cause of each of e and e* is some underlying causal mechanism e#."
+  },
+  {
+    "id": "CAUS-049",
+    "category": "Philosophy of Science",
+    "text": "Reality abounds with instances of epiphenomenal causation. If a thermometer is immersed in hot water, the upward-movement of the column of mercury immediately precedes an adjacent acceleration of the particles composing the walls of the thermometer. But the former is not the cause of the latter; the cause of each is the fact that the thermometer is in hot water."
+  },
+  {
+    "id": "CAUS-050",
+    "category": "Philosophy of Science",
+    "text": "Ball A collides with Ball B and B moves as a result. This is caught on film; the movie consists of endless repetitions of the same footage. Whenever there is an image of A striking B, there is a subsequent, spatiotemporally adjacent image of B moving. But the A-image isn't responsible for the subsequent B-image: there is a projector that causes each image. But a consequence of the Regularity Analysis is that image-A is responsible for image-B. Therefore, the Regularity Analysis is incorrect."
+  }
+]

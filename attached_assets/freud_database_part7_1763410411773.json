@@ -1,0 +1,1942 @@
+{
+  "metadata": {
+    "part": 7,
+    "total_positions": 151,
+    "id_range": {
+      "start": "FREUD-0480",
+      "end": "FREUD-0630"
+    },
+    "sources_covered": [
+      "Delusions and Dreams in Jensen's Gradiva (1907)",
+      "Psycho-Analysis and the Establishment of the Facts in Legal Proceedings (1906)",
+      "Obsessive Actions and Religious Practices (1907)",
+      "The Sexual Enlightenment of Children (1907)",
+      "Creative Writers and Day-Dreaming (1908)",
+      "Hysterical Phantasies and Their Relation to Bisexuality (1908)",
+      "Character and Anal Erotism (1908)",
+      "'Civilized' Sexual Morality and Modern Nervous Illness (1908)",
+      "On the Sexual Theories of Children (1908)",
+      "Some General Remarks on Hysterical Attacks (1909)",
+      "Family Romances (1909)",
+      "Analysis of a Phobia in a Five-Year-Old Boy (Little Hans) (1909)",
+      "Notes Upon a Case of Obsessional Neurosis (Rat Man) (1909)",
+      "Five Lectures on Psycho-Analysis (1910)",
+      "Leonardo da Vinci and a Memory of His Childhood (1910)",
+      "The Future Prospects of Psycho-Analytic Therapy (1910)",
+      "The Antithetical Meaning of Primal Words (1910)",
+      "A Special Type of Choice of Object Made by Men (1910)",
+      "On the Universal Tendency to Debasement in the Sphere of Love (1912)",
+      "The Taboo of Virginity (1918)",
+      "Various prefaces and shorter papers"
+    ],
+    "domains": [
+      "abreaction",
+      "achievement",
+      "aetiology",
+      "affect",
+      "aggression",
+      "ambivalence",
+      "anal_erotism",
+      "antisemitism",
+      "anxiety",
+      "art",
+      "attacks",
+      "auto-erotism",
+      "bisexuality",
+      "castration_complex",
+      "catharsis",
+      "change",
+      "character",
+      "childhood",
+      "childhood_amnesia",
+      "circumcision",
+      "civilization",
+      "clinical_observation",
+      "cloaca_theory",
+      "coitus",
+      "complex",
+      "component_instincts",
+      "compulsion",
+      "conflict",
+      "conscience",
+      "consciousness",
+      "conversion",
+      "counter-transference",
+      "creative_writing",
+      "creativity",
+      "culture",
+      "death",
+      "debasement",
+      "deception",
+      "defense",
+      "defense_mechanisms",
+      "defloration",
+      "delusion",
+      "determinism",
+      "development",
+      "disguise",
+      "displacement",
+      "disposition",
+      "dissociation",
+      "distortion",
+      "doubt",
+      "dreams",
+      "education",
+      "ego",
+      "emotions",
+      "endopsychic_perception",
+      "epistemophilia",
+      "erotogenic_zones",
+      "faeces",
+      "father",
+      "feminine_development",
+      "fixation",
+      "free_association",
+      "frustration",
+      "fundamental_rule",
+      "gender",
+      "genital_primacy",
+      "gift",
+      "guilt",
+      "homosexuality",
+      "hostility",
+      "hysteria",
+      "id",
+      "identification",
+      "impotence",
+      "incest",
+      "infantile_sexuality",
+      "inhibition",
+      "insight",
+      "instinct",
+      "intellect",
+      "interpretation",
+      "introjection",
+      "knowledge",
+      "language",
+      "latency",
+      "legal",
+      "libido",
+      "love",
+      "magic",
+      "marriage",
+      "masturbation",
+      "memory",
+      "metaphor",
+      "metapsychology",
+      "methodology",
+      "money",
+      "morality",
+      "mother_complex",
+      "motility",
+      "motivation",
+      "myth",
+      "narcissism",
+      "negation",
+      "neurosis",
+      "neutrality",
+      "normality",
+      "object_choice",
+      "observation",
+      "obsessional_neurosis",
+      "oedipus_complex",
+      "omnipotence_of_thoughts",
+      "parapraxis",
+      "parents",
+      "penis_envy",
+      "persistence",
+      "personality",
+      "perversion",
+      "phallic_phase",
+      "phantasy",
+      "phobia",
+      "phylogenesis",
+      "plasticity",
+      "play",
+      "primal_scene",
+      "primary_process",
+      "projection",
+      "psychical_conflict",
+      "psychoanalysis",
+      "psychodynamics",
+      "psychopathology",
+      "psychosis",
+      "puberty",
+      "reaction_formation",
+      "reality",
+      "regression",
+      "religion",
+      "repetition",
+      "repetition_compulsion",
+      "repression",
+      "rescue_phantasy",
+      "resistance",
+      "return_of_repressed",
+      "ritual",
+      "sadism",
+      "screen_memory",
+      "secrecy",
+      "setting",
+      "sexual_research",
+      "sexual_theories",
+      "sexuality",
+      "shame",
+      "siblings",
+      "sublimation",
+      "substitution",
+      "super-ego",
+      "suppression",
+      "symbolism",
+      "symptoms",
+      "technique",
+      "temporality",
+      "therapeutic_process",
+      "training_analysis",
+      "transference",
+      "transformation",
+      "trauma",
+      "unconscious",
+      "virginity",
+      "wish_fulfillment",
+      "women",
+      "working_through"
+    ],
+    "extraction_date": "2024",
+    "time_period_covered": "1906-1918",
+    "cumulative_total": 630,
+    "notes": "Part 7 covers Freud's works from 1906-1918, including major case studies (Little Hans, Rat Man), theoretical syntheses (Five Lectures), applications to art and culture (Leonardo, Creative Writers), papers on love psychology, and foundational papers on technique and clinical phenomena."
+  },
+  "positions": [
+    {
+      "id": "FREUD-0480",
+      "position": "Creative writers are valuable allies in psychological understanding because they draw upon sources of knowledge about the mind that science has not yet accessed, being far in advance of everyday people in their knowledge of mental processes.",
+      "source": "Delusions and Dreams in Jensen's Gradiva (1907)",
+      "domains": [
+        "creative_writing",
+        "methodology",
+        "unconscious"
+      ],
+      "type": "methodological_claim"
+    },
+    {
+      "id": "FREUD-0481",
+      "position": "There is far less freedom and arbitrariness in mental life than commonly assumed - perhaps none at all. What appears as chance in external world and arbitrariness in mind both rest upon laws we are only beginning to suspect.",
+      "source": "Delusions and Dreams in Jensen's Gradiva (1907)",
+      "domains": [
+        "determinism",
+        "metapsychology"
+      ],
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0482",
+      "position": "Fictional characters constructed by imaginative writers can be analyzed using psychoanalytic principles as though they were real people, since authors follow everyday experience in depicting mental processes and draw on genuine psychological knowledge.",
+      "source": "Delusions and Dreams in Jensen's Gradiva (1907)",
+      "domains": [
+        "methodology",
+        "creative_writing",
+        "psychoanalysis"
+      ],
+      "type": "methodological_claim"
+    },
+    {
+      "id": "FREUD-0483",
+      "position": "There is no better analogy for repression, by which something in the mind is at once made inaccessible and preserved, than the burial experienced by Pompeii, from which the buried could emerge again through archaeological excavation.",
+      "source": "Delusions and Dreams in Jensen's Gradiva (1907)",
+      "domains": [
+        "repression",
+        "symbolism",
+        "metapsychology"
+      ],
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0484",
+      "position": "The return of repressed material is accomplished through a remarkable mechanism: it is precisely what was chosen as the instrument of repression that becomes the vehicle for the return. In and behind the repressing force, what is repressed proves itself victor in the end.",
+      "source": "Delusions and Dreams in Jensen's Gradiva (1907)",
+      "domains": [
+        "repression",
+        "defense_mechanisms",
+        "metapsychology"
+      ],
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0485",
+      "position": "In states of repression, the human mind becomes extraordinarily sensitive to any approach by what has been repressed, such that even trivial similarities suffice for the repressed to emerge behind the repressing force and take effect by means of it.",
+      "source": "Delusions and Dreams in Jensen's Gradiva (1907)",
+      "domains": [
+        "repression",
+        "defense_mechanisms",
+        "clinical_observation"
+      ],
+      "type": "clinical_observation"
+    },
+    {
+      "id": "FREUD-0486",
+      "position": "When patients' delusional compulsion is loosened by revealing the repressed material lying behind it, they themselves bring forward solutions to the final and most important riddles of their condition through sudden ideas that occur to them.",
+      "source": "Delusions and Dreams in Jensen's Gradiva (1907)",
+      "domains": [
+        "delusion",
+        "therapeutic_process",
+        "insight"
+      ],
+      "type": "clinical_observation"
+    },
+    {
+      "id": "FREUD-0487",
+      "position": "A loss of memory for previous attitudes and feelings is the most trustworthy sign that a genuine transformation of attitude has occurred.",
+      "source": "Delusions and Dreams in Jensen's Gradiva (1907)",
+      "domains": [
+        "memory",
+        "therapeutic_process",
+        "change"
+      ],
+      "type": "clinical_observation"
+    },
+    {
+      "id": "FREUD-0488",
+      "position": "Obsessive actions appear foolish and senseless on the surface, but psychoanalytic investigation reveals that they are perfectly significant in every detail, serving important interests of the personality and giving expression to operative experiences and affect-laden thoughts through either direct or symbolic representation.",
+      "source": "Obsessive Actions and Religious Practices (1907)",
+      "domains": [
+        "obsessional_neurosis",
+        "symbolism",
+        "psychoanalysis"
+      ],
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0489",
+      "position": "Neurotic ceremonials resemble religious rituals in their conscientiousness, isolation from other actions, prohibition against interruption, and the anxiety provoked by their neglect, but differ in being private rather than communal and apparently meaningless rather than symbolic.",
+      "source": "Obsessive Actions and Religious Practices (1907)",
+      "domains": [
+        "obsessional_neurosis",
+        "religion",
+        "ritual"
+      ],
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0490",
+      "position": "The apparent distinction between meaningless neurotic ceremonials and meaningful religious rituals disappears upon psychoanalytic investigation, as obsessive actions prove to represent experiences and thoughts through both historical and symbolic interpretation.",
+      "source": "Obsessive Actions and Religious Practices (1907)",
+      "domains": [
+        "obsessional_neurosis",
+        "religion",
+        "interpretation"
+      ],
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0491",
+      "position": "What is being represented in obsessive actions and ceremonials is derived from the most intimate, and for the most part sexual, experiences of the patient.",
+      "source": "Obsessive Actions and Religious Practices (1907)",
+      "domains": [
+        "obsessional_neurosis",
+        "sexuality",
+        "symbolism"
+      ],
+      "type": "clinical_observation"
+    },
+    {
+      "id": "FREUD-0492",
+      "position": "Obsessional neurosis presents a travesty, half comic and half tragic, of a private religion.",
+      "source": "Obsessive Actions and Religious Practices (1907)",
+      "domains": [
+        "obsessional_neurosis",
+        "religion"
+      ],
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0493",
+      "position": "Compulsions and prohibitions in obsessional neurosis apply in the first instance only to the subject's solitary activities, leaving social behaviour unaffected for a long time, enabling sufferers to conceal their affliction for many years.",
+      "source": "Obsessive Actions and Religious Practices (1907)",
+      "domains": [
+        "obsessional_neurosis",
+        "clinical_observation"
+      ],
+      "type": "clinical_observation"
+    },
+    {
+      "id": "FREUD-0494",
+      "position": "The child at play behaves like a creative writer, creating a world of his own or re-arranging things in a new way that pleases him, while taking his play very seriously and expending large amounts of emotion on it, though distinguishing it clearly from reality.",
+      "source": "Creative Writers and Day-Dreaming (1908)",
+      "domains": [
+        "play",
+        "phantasy",
+        "creative_writing",
+        "childhood"
+      ],
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0495",
+      "position": "The opposite of play is not what is serious but what is real. The child cathects his world of play with emotion while distinguishing it from reality, linking imagined objects to tangible things.",
+      "source": "Creative Writers and Day-Dreaming (1908)",
+      "domains": [
+        "play",
+        "phantasy",
+        "reality"
+      ],
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0496",
+      "position": "The creative writer does the same as the child at play, creating a world of phantasy taken very seriously and invested with large amounts of emotion while separating it sharply from reality.",
+      "source": "Creative Writers and Day-Dreaming (1908)",
+      "domains": [
+        "creative_writing",
+        "phantasy",
+        "play"
+      ],
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0497",
+      "position": "We can never give anything up; we only exchange one thing for another. What appears to be a renunciation is really the formation of a substitute or surrogate.",
+      "source": "Creative Writers and Day-Dreaming (1908)",
+      "domains": [
+        "psychodynamics",
+        "substitution"
+      ],
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0498",
+      "position": "When the child stops playing, he gives up nothing but the link with real objects; instead of playing, he now phantasies, building castles in the air and creating day-dreams. Most people construct phantasies at times in their lives.",
+      "source": "Creative Writers and Day-Dreaming (1908)",
+      "domains": [
+        "phantasy",
+        "development",
+        "play"
+      ],
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0499",
+      "position": "The adult is ashamed of his phantasies and hides them from other people, cherishing them as his most intimate possessions. He would rather confess his misdeeds than tell anyone his phantasies.",
+      "source": "Creative Writers and Day-Dreaming (1908)",
+      "domains": [
+        "phantasy",
+        "shame",
+        "secrecy"
+      ],
+      "type": "clinical_observation"
+    },
+    {
+      "id": "FREUD-0500",
+      "position": "A happy person never phantasies, only an unsatisfied one. The motive forces of phantasies are unsatisfied wishes, and every single phantasy is the fulfillment of a wish, a correction of unsatisfying reality.",
+      "source": "Creative Writers and Day-Dreaming (1908)",
+      "domains": [
+        "phantasy",
+        "wish_fulfillment"
+      ],
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0501",
+      "position": "A phantasy hovers between three times - past, present, and future. Mental work is linked to a current impression that arouses a major wish, harks back to a memory of an earlier experience (usually infantile) in which the wish was fulfilled, and creates a future situation representing fulfillment of the wish.",
+      "source": "Creative Writers and Day-Dreaming (1908)",
+      "domains": [
+        "phantasy",
+        "temporality",
+        "wish_fulfillment"
+      ],
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0502",
+      "position": "If phantasies become over-luxuriant and over-powerful, the conditions are laid for an onset of neurosis or psychosis. Phantasies are the immediate mental precursors of the distressing symptoms complained of by patients.",
+      "source": "Creative Writers and Day-Dreaming (1908)",
+      "domains": [
+        "phantasy",
+        "neurosis",
+        "psychosis",
+        "symptoms"
+      ],
+      "type": "etiological_claim"
+    },
+    {
+      "id": "FREUD-0503",
+      "position": "Night-dreams are nothing else than phantasies, as demonstrated by dream interpretation. They are wish-fulfilments in just the same way as day-dreams, though obscured because repressed wishes are only allowed expression in very distorted form.",
+      "source": "Creative Writers and Day-Dreaming (1908)",
+      "domains": [
+        "dreams",
+        "phantasy",
+        "wish_fulfillment"
+      ],
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0504",
+      "position": "In creative fiction, the hero is His Majesty the Ego, recognizable through the characteristic of invulnerability expressed in the feeling 'Nothing can happen to me!' - the same feeling as in heroic action and in every day-dream.",
+      "source": "Creative Writers and Day-Dreaming (1908)",
+      "domains": [
+        "creative_writing",
+        "ego",
+        "narcissism"
+      ],
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0505",
+      "position": "A certain type of person is marked by a regular combination of three character-traits: orderliness (including bodily cleanliness, conscientiousness, and trustworthiness), parsimony (which may become avarice), and obstinacy (which may become defiance with rage and revengefulness). All three belong together as a complex.",
+      "source": "Character and Anal Erotism (1908)",
+      "domains": [
+        "character",
+        "anal_erotism",
+        "personality"
+      ],
+      "type": "clinical_observation"
+    },
+    {
+      "id": "FREUD-0506",
+      "position": "People with this character triad took a comparatively long time to overcome infantile faecal incontinence and as infants belonged to the class who refuse to empty their bowels when put on the pot because they derive subsidiary pleasure from defaecating. They were born with exceptional erotogenicity of the anal zone.",
+      "source": "Character and Anal Erotism (1908)",
+      "domains": [
+        "anal_erotism",
+        "development",
+        "erotogenic_zones"
+      ],
+      "type": "clinical_observation"
+    },
+    {
+      "id": "FREUD-0507",
+      "position": "The character-traits of orderliness, parsimony, and obstinacy are to be regarded as the first and most constant results of the sublimation of anal erotism, formed during the latency period as reaction-formations against the anal component instinct which has become unserviceable for sexual aims in civilization.",
+      "source": "Character and Anal Erotism (1908)",
+      "domains": [
+        "anal_erotism",
+        "sublimation",
+        "reaction_formation",
+        "character"
+      ],
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0508",
+      "position": "During the period of sexual latency (from completion of the fifth year to first manifestations of puberty around the eleventh year), reaction-formations such as shame, disgust, and morality are created in the mind, formed at the expense of excitations from erotogenic zones and rising like dams to oppose later activity of sexual instincts.",
+      "source": "Character and Anal Erotism (1908)",
+      "domains": [
+        "latency",
+        "reaction_formation",
+        "development"
+      ],
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0509",
+      "position": "The connections between the complexes of interest in money and of defaecation, which seem so dissimilar, appear to be the most extensive of all. Refractory cases of habitual constipation in neurotics can be cured by psychoanalysis when one deals with the patients' money complex.",
+      "source": "Character and Anal Erotism (1908)",
+      "domains": [
+        "anal_erotism",
+        "money",
+        "symbolism"
+      ],
+      "type": "clinical_observation"
+    },
+    {
+      "id": "FREUD-0510",
+      "position": "It is a conviction that no child - none, at least, who is mentally normal and still less one who is intellectually gifted - can avoid being occupied with the problems of sex in the years before puberty.",
+      "source": "On the Sexual Theories of Children (1908)",
+      "domains": [
+        "infantile_sexuality",
+        "sexual_research"
+      ],
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0511",
+      "position": "Neurotics cannot be sharply differentiated from normal people and are not marked by special mental content peculiar to them. They fall ill of the same complexes against which healthy people struggle; the only difference is that healthy people overcome these complexes without gross demonstrable damage, whereas in nervous cases suppression succeeds only at the price of costly substitutive formations.",
+      "source": "On the Sexual Theories of Children (1908)",
+      "domains": [
+        "neurosis",
+        "normality",
+        "complex"
+      ],
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0512",
+      "position": "A child's desire for knowledge about sex does not awaken spontaneously but is aroused under the goad of self-seeking instincts when confronted with the arrival of a new baby, which threatens loss of parental care and forces sharing of possessions.",
+      "source": "On the Sexual Theories of Children (1908)",
+      "domains": [
+        "sexual_research",
+        "childhood",
+        "motivation"
+      ],
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0513",
+      "position": "Children's first experience of being deceived about sexual matters (e.g., the stork theory) causes them to nourish a distrust of adults, suspecting something forbidden is being withheld, leading them to hide further researches under a cloak of secrecy.",
+      "source": "On the Sexual Theories of Children (1908)",
+      "domains": [
+        "sexual_research",
+        "childhood",
+        "deception"
+      ],
+      "type": "clinical_observation"
+    },
+    {
+      "id": "FREUD-0514",
+      "position": "The child's first deception about sex creates the first psychical conflict, in which views with instinctual preference but not 'right' by adults' standards oppose views supported by adult authority. This conflict may turn into psychical dissociation, with 'good' views becoming conscious and dominant while the suppressed ones become unconscious. The nuclear complex of a neurosis is brought into being in this way.",
+      "source": "On the Sexual Theories of Children (1908)",
+      "domains": [
+        "psychical_conflict",
+        "repression",
+        "neurosis",
+        "aetiology"
+      ],
+      "type": "etiological_claim"
+    },
+    {
+      "id": "FREUD-0515",
+      "position": "Children's sharp observation establishes the true connection between the mother's increasing stoutness during pregnancy and the appearance of the baby. This precocious discovery is always kept secret and later repressed and forgotten in conformity with the vicissitudes of sexual researches.",
+      "source": "On the Sexual Theories of Children (1908)",
+      "domains": [
+        "sexual_research",
+        "observation",
+        "repression"
+      ],
+      "type": "clinical_observation"
+    },
+    {
+      "id": "FREUD-0516",
+      "position": "Children's false sexual theories, though going astray in grotesque fashion, each contain a fragment of real truth. What is correct in such theories is explained by their origin from the components of the sexual instinct already stirring in the childish organism, arising not from arbitrary mental acts or chance impressions but from necessities of the child's psychosexual constitution. This is why we find the same mistaken beliefs in every child whose sexual life is accessible to us.",
+      "source": "On the Sexual Theories of Children (1908)",
+      "domains": [
+        "sexual_theories",
+        "infantile_sexuality",
+        "determinism"
+      ],
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0517",
+      "position": "Hans's case confirms in the most concrete and uncompromising manner what was said about the sexual relations of a child to his parents. Hans really was a little Oedipus who wanted to have his father out of the way, to get rid of him, so that he might be alone with his beautiful mother and sleep with her.",
+      "source": "Analysis of a Phobia in a Five-Year-Old Boy (Little Hans) (1909)",
+      "domains": [
+        "oedipus_complex",
+        "childhood",
+        "sexuality"
+      ],
+      "type": "clinical_observation"
+    },
+    {
+      "id": "FREUD-0518",
+      "position": "The emotional life of man is in general made up of pairs of contraries. The child deeply loves the father against whom he cherishes death-wishes. This contradiction does not prevent both feelings from existing simultaneously.",
+      "source": "Analysis of a Phobia in a Five-Year-Old Boy (Little Hans) (1909)",
+      "domains": [
+        "ambivalence",
+        "emotions",
+        "psychodynamics"
+      ],
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0519",
+      "position": "In the adult, pairs of contrary emotions do not usually become simultaneously conscious except at the climaxes of passionate love. In children, contradictory feelings can persist for long periods side by side in conscious form.",
+      "source": "Analysis of a Phobia in a Five-Year-Old Boy (Little Hans) (1909)",
+      "domains": [
+        "ambivalence",
+        "development",
+        "consciousness"
+      ],
+      "type": "clinical_observation"
+    },
+    {
+      "id": "FREUD-0520",
+      "position": "The language of obsessional neurosis is a dialect of the language of hysteria, more nearly related to conscious thought forms than hysteria and not involving the leap to somatic innervation (hysterical conversion) which can never be fully comprehensible.",
+      "source": "Notes Upon a Case of Obsessional Neurosis (Rat Man) (1909)",
+      "domains": [
+        "obsessional_neurosis",
+        "hysteria",
+        "conversion"
+      ],
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0521",
+      "position": "In obsessional neurosis, if the patient can be induced to give a particular instance in place of vague generalities, it may be confidently assumed that the instance is the original and actual thing which has tried to hide itself behind the generalization.",
+      "source": "Notes Upon a Case of Obsessional Neurosis (Rat Man) (1909)",
+      "domains": [
+        "obsessional_neurosis",
+        "interpretation",
+        "technique"
+      ],
+      "type": "clinical_observation"
+    },
+    {
+      "id": "FREUD-0522",
+      "position": "The child's elementary obsessional neurosis at six or seven years was not merely the beginning of the illness but was already the complete illness itself - wanting in no essential element, serving as both nucleus and prototype of the later disorder.",
+      "source": "Notes Upon a Case of Obsessional Neurosis (Rat Man) (1909)",
+      "domains": [
+        "obsessional_neurosis",
+        "childhood",
+        "aetiology"
+      ],
+      "type": "clinical_observation"
+    },
+    {
+      "id": "FREUD-0523",
+      "position": "The inventory of obsessional neurosis includes: an erotic instinct and a revolt against it; a wish which has not yet become compulsive; a fear which is already compulsive; a distressing affect; and an impulsion towards defensive acts.",
+      "source": "Notes Upon a Case of Obsessional Neurosis (Rat Man) (1909)",
+      "domains": [
+        "obsessional_neurosis",
+        "psychodynamics",
+        "defense_mechanisms"
+      ],
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0524",
+      "position": "The child's idea 'I speak my thoughts out loud without hearing them' represents an endopsychic perception of what has been repressed - a projection into the external world of the hypothesis that he had thoughts without knowing anything about them.",
+      "source": "Notes Upon a Case of Obsessional Neurosis (Rat Man) (1909)",
+      "domains": [
+        "unconscious",
+        "endopsychic_perception",
+        "projection"
+      ],
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0525",
+      "position": "Modern civilization requires an extraordinary amount of sexual repression, which depletes the energy available for civilized activity and creates widespread nervous illness. The cost of civilization may exceed its benefits when the repression becomes excessive.",
+      "source": "'Civilized' Sexual Morality and Modern Nervous Illness (1908)",
+      "domains": [
+        "sexuality",
+        "civilization",
+        "repression",
+        "neurosis"
+      ],
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0526",
+      "position": "Sexual morality as defined by civilized society demands renunciation of sexuality except in marriage, but this 'civilized' sexual morality injures health and achievement, creating a class of people who cannot enjoy what they have and must give up what they want, leading to nervous illness.",
+      "source": "'Civilized' Sexual Morality and Modern Nervous Illness (1908)",
+      "domains": [
+        "sexuality",
+        "morality",
+        "civilization",
+        "neurosis"
+      ],
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0527",
+      "position": "Marriage under civilized sexual morality fails to provide satisfactory sexual outlet, particularly for women. The prescribed abstinence before marriage weakens capacity for sexual satisfaction, while monogamous marriage soon becomes unsatisfying for men, creating conditions for neurosis.",
+      "source": "'Civilized' Sexual Morality and Modern Nervous Illness (1908)",
+      "domains": [
+        "sexuality",
+        "marriage",
+        "neurosis",
+        "gender"
+      ],
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0528",
+      "position": "Hysterical symptoms are the expression of unconscious phantasies which serve as psychical fulfillments of sexual wishes. These phantasies have in every case a bisexual character and represent both a masculine and a feminine unconscious sexual phantasy.",
+      "source": "Hysterical Phantasies and Their Relation to Bisexuality (1908)",
+      "domains": [
+        "hysteria",
+        "phantasy",
+        "bisexuality",
+        "symptoms"
+      ],
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0529",
+      "position": "A hysterical symptom is the expression of both a masculine and a feminine unconscious sexual phantasy. An attack can represent both coitus from the man's point of view and from the woman's point of view simultaneously.",
+      "source": "Hysterical Phantasies and Their Relation to Bisexuality (1908)",
+      "domains": [
+        "hysteria",
+        "bisexuality",
+        "symptoms"
+      ],
+      "type": "clinical_observation"
+    },
+    {
+      "id": "FREUD-0530",
+      "position": "As the child grows and becomes acquainted with social differences, he gives up his exaggerated idea of his parents and creates 'family romances' - phantasies in which he imagines being a foundling or adopted child whose real parents are of higher social standing. This represents the child's longing for the happy vanished days when his father seemed the noblest and strongest of men and his mother the dearest and loveliest of women.",
+      "source": "Family Romances (1909)",
+      "domains": [
+        "phantasy",
+        "development",
+        "parents"
+      ],
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0531",
+      "position": "Hysterical patients suffer from reminiscences. Their symptoms are residues and mnemic symbols of particular traumatic experiences.",
+      "source": "Five Lectures on Psycho-Analysis (1910)",
+      "domains": [
+        "hysteria",
+        "trauma",
+        "memory",
+        "symptoms"
+      ],
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0532",
+      "position": "Every single hysteric and neurotic remembers painful experiences of the remote past and still clings to them emotionally, unable to get free of the past. For its sake they neglect what is real and immediate. This fixation of mental life to pathogenic traumas is one of the most significant and practically important characteristics of neurosis.",
+      "source": "Five Lectures on Psycho-Analysis (1910)",
+      "domains": [
+        "neurosis",
+        "trauma",
+        "fixation",
+        "psychopathology"
+      ],
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0533",
+      "position": "Hysterical symptoms can be likened to mnemic monuments, but where normal persons move on from commemorating the past, neurotics remain emotionally fixated to it, behaving like a Londoner who pauses in melancholy before monuments to the past instead of engaging with present life.",
+      "source": "Five Lectures on Psycho-Analysis (1910)",
+      "domains": [
+        "hysteria",
+        "fixation",
+        "metaphor"
+      ],
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0534",
+      "position": "The processes of artistic creation are essentially parallel to neurotic symptom formation. The artist finds a way back from phantasy to reality through utilizing special gifts to mold phantasies into a new kind of reality acknowledged by others as valuable reflections of actuality.",
+      "source": "Leonardo da Vinci and a Memory of His Childhood (1910)",
+      "domains": [
+        "art",
+        "creativity",
+        "sublimation",
+        "phantasy"
+      ],
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0535",
+      "position": "The psycho-analyst assumes the unity and conformity to law of mental phenomena. For him there is no such thing as mere chance in mental life. He sees a strict determination that extends to seemingly arbitrary and insignificant details.",
+      "source": "Leonardo da Vinci and a Memory of His Childhood (1910)",
+      "domains": [
+        "determinism",
+        "methodology",
+        "psychoanalysis"
+      ],
+      "type": "methodological_claim"
+    },
+    {
+      "id": "FREUD-0536",
+      "position": "Sublimation is a process whereby the energy of infantile sexual wishful impulses is not blocked off by repression but diverted towards higher aims, no longer sexual. The ability to sublimate rather than repress infantile sexuality is a prerequisite for great cultural achievement.",
+      "source": "Leonardo da Vinci and a Memory of His Childhood (1910)",
+      "domains": [
+        "sublimation",
+        "sexuality",
+        "culture",
+        "achievement"
+      ],
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0537",
+      "position": "Scientific research can itself become a sexual activity when the curiosity that drives it was originally attached to sexual problems in childhood. The intellectual interest in these problems can then become displaced onto other objects, providing the energy and compulsive quality to research.",
+      "source": "Leonardo da Vinci and a Memory of His Childhood (1910)",
+      "domains": [
+        "sexual_research",
+        "sublimation",
+        "epistemophilia"
+      ],
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0538",
+      "position": "A special type of object-choice in men requires two conditions: the injured third party (another man must have a rightful claim to the woman) and the loose woman (the woman must be sexually somewhat suspect and of bad reputation). This represents the mother-complex, where the third party is the father and sexual looseness connects to learning of mother's sexual activities.",
+      "source": "A Special Type of Choice of Object Made by Men (1910)",
+      "domains": [
+        "object_choice",
+        "love",
+        "oedipus_complex",
+        "mother_complex"
+      ],
+      "type": "clinical_observation"
+    },
+    {
+      "id": "FREUD-0539",
+      "position": "Men of this type show a compulsion to rescue the woman they love, particularly from moral or social danger. This represents the phantasy of rescuing the mother from the father's sexual activity, transforming it into the idea of giving the mother a child or making one for her.",
+      "source": "A Special Type of Choice of Object Made by Men (1910)",
+      "domains": [
+        "rescue_phantasy",
+        "mother_complex",
+        "object_choice"
+      ],
+      "type": "clinical_observation"
+    },
+    {
+      "id": "FREUD-0540",
+      "position": "The universal tendency to debasement in the sphere of love results from the difficulty of uniting affectionate and sensual currents. Where the man loves he does not desire, and where he desires he cannot love. The object must resemble a prostitute rather than the idealized mother to achieve complete sexual pleasure.",
+      "source": "On the Universal Tendency to Debasement in the Sphere of Love (1912)",
+      "domains": [
+        "love",
+        "sexuality",
+        "debasement",
+        "object_choice"
+      ],
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0541",
+      "position": "Psychical impotence affects civilized men far more than would be supposed and represents a partial failure to unite affectionate and sensual currents. The affectionate current remains attached to infantile objects (mother, sister), while the sensual current can only achieve satisfaction with debased objects that do not command respect.",
+      "source": "On the Universal Tendency to Debasement in the Sphere of Love (1912)",
+      "domains": [
+        "impotence",
+        "love",
+        "sexuality",
+        "object_choice"
+      ],
+      "type": "clinical_observation"
+    },
+    {
+      "id": "FREUD-0542",
+      "position": "Anyone who is to be really free and happy in love must have surmounted his respect for women and have come to terms with the idea of incest with his mother or sister. The barriers against incest represent the greatest sacrifice civilization demands from sexuality.",
+      "source": "On the Universal Tendency to Debasement in the Sphere of Love (1912)",
+      "domains": [
+        "love",
+        "sexuality",
+        "incest",
+        "civilization"
+      ],
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0543",
+      "position": "The taboo of virginity in many primitive peoples reflects the danger that the man who first ruptures the hymen will be subject to the woman's hostile reaction and vengeance. Defloration liberates an archaic hostile reaction toward men, connected to the narcissistic wound of anatomical inferiority and penis envy.",
+      "source": "The Taboo of Virginity (1918)",
+      "domains": [
+        "virginity",
+        "defloration",
+        "hostility",
+        "narcissism",
+        "penis_envy"
+      ],
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0544",
+      "position": "The tendency of dream-work to disregard negation and express contraries by the same element corresponds to peculiarities of the oldest languages, where many primal words possessed antithetical meanings. This confirms that the language of dreams has archaic characteristics.",
+      "source": "The Antithetical Meaning of Primal Words (1910)",
+      "domains": [
+        "dreams",
+        "language",
+        "negation",
+        "primary_process"
+      ],
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0545",
+      "position": "Sexual enlightenment of children should not be artificially delayed or falsified. The refusal to give children information or giving them false information (stork theory) creates harmful psychical conflicts, distrust of adults, and the conditions for neurotic nuclear complex formation.",
+      "source": "The Sexual Enlightenment of Children (1907)",
+      "domains": [
+        "childhood",
+        "education",
+        "sexual_research",
+        "aetiology"
+      ],
+      "type": "therapeutic_principle"
+    },
+    {
+      "id": "FREUD-0546",
+      "position": "Psycho-analysis in legal proceedings can help establish facts by detecting hidden emotional reactions through word-association experiments, but its use is limited because it cannot compel the accused to participate and because neurotic symptoms (which it can interpret) differ from deceptive behavior in normal persons.",
+      "source": "Psycho-Analysis and the Establishment of the Facts in Legal Proceedings (1906)",
+      "domains": [
+        "legal",
+        "methodology",
+        "technique"
+      ],
+      "type": "methodological_claim"
+    },
+    {
+      "id": "FREUD-0547",
+      "position": "If the patient can recollect the traumatic scene in hypnosis and abreact the affect that was strangulated at the time, the symptom disappears. The mechanism is that reminiscences which have become pathogenic preserve their affective charge because the reaction to them was suppressed.",
+      "source": "Five Lectures on Psycho-Analysis (1910)",
+      "domains": [
+        "catharsis",
+        "abreaction",
+        "trauma",
+        "therapeutic_process"
+      ],
+      "type": "therapeutic_principle"
+    },
+    {
+      "id": "FREUD-0548",
+      "position": "The fading of a memory depends on whether there has been an energetic reaction to the event that provokes an affect. 'Reaction' includes the whole class of voluntary and involuntary reflexes by which affects are discharged - from tears to acts of revenge.",
+      "source": "Five Lectures on Psycho-Analysis (1910)",
+      "domains": [
+        "affect",
+        "memory",
+        "abreaction"
+      ],
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0549",
+      "position": "When reaction to a traumatic event is suppressed, the affect remains attached to the memory. For hysterics, the memory of trauma has not been worn away because it is denied normal wearing-away processes - it remains like a foreign body, a cause of permanent pathogenic action.",
+      "source": "Five Lectures on Psycho-Analysis (1910)",
+      "domains": [
+        "trauma",
+        "hysteria",
+        "memory",
+        "affect"
+      ],
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0550",
+      "position": "Repression creates a gap in the patient's memory, a blank space, which the patient tries to fill with invented links. The pressure technique can recover the repressed memories by forcing their way into consciousness despite resistance.",
+      "source": "Five Lectures on Psycho-Analysis (1910)",
+      "domains": [
+        "repression",
+        "memory",
+        "technique",
+        "resistance"
+      ],
+      "type": "clinical_observation"
+    },
+    {
+      "id": "FREUD-0551",
+      "position": "Resistance to remembering traumatic material is proportional to the distance in time from the trauma and to the importance of the memory. The stronger the resistance, the greater the distortion between repressed thought and conscious substitute.",
+      "source": "Five Lectures on Psycho-Analysis (1910)",
+      "domains": [
+        "resistance",
+        "repression",
+        "distortion"
+      ],
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0552",
+      "position": "The same force that now as resistance opposes the forgotten material's emergence into consciousness must formerly have brought about the forgetting and pushed the pathogenic experiences out of consciousness. This mechanism is repression, which is the foundation-stone of psychoanalysis.",
+      "source": "Five Lectures on Psycho-Analysis (1910)",
+      "domains": [
+        "repression",
+        "resistance",
+        "psychoanalysis",
+        "metapsychology"
+      ],
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0553",
+      "position": "The content that caused the defense leading to illness was always of a sexual nature, involving conflict between sexual idea and patient's moral and aesthetic standards. The patient's sexuality was incompatible with the whole complex of other ideas ruling in his mind.",
+      "source": "Five Lectures on Psycho-Analysis (1910)",
+      "domains": [
+        "sexuality",
+        "defense",
+        "conflict",
+        "aetiology"
+      ],
+      "type": "etiological_claim"
+    },
+    {
+      "id": "FREUD-0554",
+      "position": "Sexual instinct in man does not serve reproduction's purposes alone but seeks to gain particular kinds of pleasure. It manifests itself as a force (libido) which is able to displace its aim (to sublimate) without materially losing intensity.",
+      "source": "Five Lectures on Psycho-Analysis (1910)",
+      "domains": [
+        "sexuality",
+        "libido",
+        "sublimation"
+      ],
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0555",
+      "position": "Children are capable of every psychical sexual activity and many somatic ones from the beginning. Perverse sexuality is infantile sexuality, magnified and dissected into its separate impulses. Perversions are either inhibitions of development or dissociations of it.",
+      "source": "Five Lectures on Psycho-Analysis (1910)",
+      "domains": [
+        "infantile_sexuality",
+        "perversion",
+        "development"
+      ],
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0556",
+      "position": "The sexual function begins at the start of life, immediately after birth, though it passes through complicated development. It has numerous sources and at first seeks satisfaction independently on the child's own body (auto-erotism), then finds an object, and is subordinated to reproductive function only with difficulty and never completely.",
+      "source": "Five Lectures on Psycho-Analysis (1910)",
+      "domains": [
+        "infantile_sexuality",
+        "auto-erotism",
+        "development"
+      ],
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0557",
+      "position": "A child's sexual life is put under prohibition and repression, but some part of it escapes this fate and manifests itself as non-sexual activity (sublimation) or continues until sexual maturity but in repressed form, constituting the unconscious sexual life of the person.",
+      "source": "Five Lectures on Psycho-Analysis (1910)",
+      "domains": [
+        "infantile_sexuality",
+        "repression",
+        "sublimation",
+        "unconscious"
+      ],
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0558",
+      "position": "Neurotic symptoms are substitute satisfactions for unsatisfied sexual desires. Symptoms mean the same thing in all cases: they are a substitute for an inct satisfaction and are sustained by the same libidinal forces seeking satisfaction (wishful impulses).",
+      "source": "Five Lectures on Psycho-Analysis (1910)",
+      "domains": [
+        "symptoms",
+        "sexuality",
+        "wish_fulfillment",
+        "neurosis"
+      ],
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0559",
+      "position": "The unconscious is not just the latest repressed but includes mental acts that are latent and temporarily unconscious. The unconscious is the truly real psychical reality, in its inner nature just as unknown to us as the reality of the external world, and just as incompletely presented by consciousness data as the external world by sense-organ reports.",
+      "source": "Five Lectures on Psycho-Analysis (1910)",
+      "domains": [
+        "unconscious",
+        "metapsychology",
+        "consciousness"
+      ],
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0560",
+      "position": "The interpretation of dreams is the royal road to knowledge of the unconscious in mental life. Dreams are constructed like symptoms, representing wish-fulfillments of unconscious wishful impulses that have escaped repression.",
+      "source": "Five Lectures on Psycho-Analysis (1910)",
+      "domains": [
+        "dreams",
+        "unconscious",
+        "wish_fulfillment"
+      ],
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0561",
+      "position": "Transference develops in every psychoanalytic treatment without physician intervention. It consists of intense emotional relations between patient and analyst, neither justified by situation nor derived from it, but repeated from early infantile relations. Transference is both the most powerful ally and most formidable obstacle in treatment.",
+      "source": "Five Lectures on Psycho-Analysis (1910)",
+      "domains": [
+        "transference",
+        "therapeutic_process",
+        "technique"
+      ],
+      "type": "clinical_observation"
+    },
+    {
+      "id": "FREUD-0562",
+      "position": "Psychoanalytic therapy's task is to make conscious what is pathogenically unconscious. It produces no other changes. The quantity of energy needed for keeping repression in place is withdrawn when it becomes superfluous through making the unconscious conscious, allowing this energy to be used for useful purposes.",
+      "source": "Five Lectures on Psycho-Analysis (1910)",
+      "domains": [
+        "therapeutic_process",
+        "psychoanalysis",
+        "consciousness",
+        "repression"
+      ],
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0563",
+      "position": "The delay of puberty in intellectually precocious children determines whether later sexual development will be normal, perverse, or lead to neurosis. When puberty is delayed, intellectual curiosity can connect with sublimated sexuality, giving thought itself the quality of a sexual process.",
+      "source": "Leonardo da Vinci and a Memory of His Childhood (1910)",
+      "domains": [
+        "development",
+        "sexuality",
+        "sublimation",
+        "intellect"
+      ],
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0564",
+      "position": "Three possible outcomes from infantile sexual investigation: neurotic inhibition (thought remains sexualized and inhibited), obsessive brooding (intellectual activity becomes sexualized, returning as brooding), or sublimation (libido escapes repression by sublimating from beginning into curiosity for science).",
+      "source": "Leonardo da Vinci and a Memory of His Childhood (1910)",
+      "domains": [
+        "sexual_research",
+        "development",
+        "sublimation",
+        "obsessional_neurosis",
+        "neurosis"
+      ],
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0565",
+      "position": "The absence of the father in Leonardo's early childhood combined with exceptionally strong attachment to his mother determined his homosexual orientation. When as an adolescent a boy identifies with his mother and takes himself as a model for love-objects, he becomes homosexual, seeking boys whom he can love as his mother loved him.",
+      "source": "Leonardo da Vinci and a Memory of His Childhood (1910)",
+      "domains": [
+        "homosexuality",
+        "object_choice",
+        "identification",
+        "mother_complex"
+      ],
+      "type": "etiological_claim"
+    },
+    {
+      "id": "FREUD-0566",
+      "position": "Homosexuality results from particularly intense erotic attachment to the mother in the first years of life, later forgotten. The boy represses love for mother by putting himself in her place, identifying with her, and taking his own person as model on whose pattern he chooses new love-objects who are replicas of himself as a boy.",
+      "source": "Leonardo da Vinci and a Memory of His Childhood (1910)",
+      "domains": [
+        "homosexuality",
+        "mother_complex",
+        "identification",
+        "narcissism"
+      ],
+      "type": "etiological_claim"
+    },
+    {
+      "id": "FREUD-0567",
+      "position": "Artistic talent and capacity for work are intimately connected with sublimation. Where repression fails and libidinal energy is not sublimated but returns to sexuality, artistic talent may be paralyzed, as strong inhibition of sexual life favors cultural activity by making large amounts of force available through sublimation.",
+      "source": "Leonardo da Vinci and a Memory of His Childhood (1910)",
+      "domains": [
+        "art",
+        "sublimation",
+        "sexuality",
+        "inhibition"
+      ],
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0568",
+      "position": "The phobia serves the purpose of inhibiting motility, the expression of aggressive impulse. Though appearing as a restriction of the ego, phobia is actually an attempt at flight from instinctual demand. The patient acquires a neurotic illness to escape an apparently unsolvable task.",
+      "source": "Analysis of a Phobia in a Five-Year-Old Boy (Little Hans) (1909)",
+      "domains": [
+        "phobia",
+        "defense_mechanisms",
+        "motility",
+        "aggression"
+      ],
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0569",
+      "position": "The child's knowledge is different in kind before and after sexual enlightenment. Before being told, the child has connected facts correctly in the unconscious and understood them, though in consciousness the child disclaims such knowledge, demonstrating the split between conscious and unconscious knowledge.",
+      "source": "Analysis of a Phobia in a Five-Year-Old Boy (Little Hans) (1909)",
+      "domains": [
+        "consciousness",
+        "unconscious",
+        "sexual_research",
+        "childhood"
+      ],
+      "type": "clinical_observation"
+    },
+    {
+      "id": "FREUD-0570",
+      "position": "The castration complex is the deepest unconscious root of anti-semitism, as circumcision unconsciously equates to castration. This produces the uncanny effect and reminds the non-Jew of his own castration threat in childhood.",
+      "source": "Analysis of a Phobia in a Five-Year-Old Boy (Little Hans) (1909)",
+      "domains": [
+        "castration_complex",
+        "antisemitism",
+        "circumcision"
+      ],
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0571",
+      "position": "In obsessional neurosis, the sadistic-anal organization of sexual life is particularly important. Hostile and tender impulses towards same object exist side by side, with hostile being repressed. The obsessional ideas themselves are invariably transformed self-reproaches re-emerging from repression, always related to sexual act performed with pleasure in childhood.",
+      "source": "Notes Upon a Case of Obsessional Neurosis (Rat Man) (1909)",
+      "domains": [
+        "obsessional_neurosis",
+        "sadism",
+        "anal_erotism",
+        "ambivalence"
+      ],
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0572",
+      "position": "The obsessional neurotic's uncertainty and doubt is expression of inner battle between love and hate for same person. The doubt spreads from original sexual conflict to all else. Obsessive measures are attempts at resolution but never succeed, creating the characteristic indecision.",
+      "source": "Notes Upon a Case of Obsessional Neurosis (Rat Man) (1909)",
+      "domains": [
+        "obsessional_neurosis",
+        "doubt",
+        "ambivalence"
+      ],
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0573",
+      "position": "Obsessional neurotics suffer from omnipotence of thoughts - they believe their hostile wishes have real power. This over-valuation of psychical acts and magical thinking is remnant of narcissistic phase of development, similar to animistic phase of mankind.",
+      "source": "Notes Upon a Case of Obsessional Neurosis (Rat Man) (1909)",
+      "domains": [
+        "obsessional_neurosis",
+        "omnipotence_of_thoughts",
+        "magic",
+        "narcissism"
+      ],
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0574",
+      "position": "The sexual instinct in neurotics has not advanced to final normal shape but remained arrested at or returned to earlier phase. Clinical types of neurosis (hysteria, obsessional neurosis) correspond to fixation at particular stages of libidinal development.",
+      "source": "Five Lectures on Psycho-Analysis (1910)",
+      "domains": [
+        "neurosis",
+        "fixation",
+        "libido",
+        "development"
+      ],
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0575",
+      "position": "Obsessional neurosis shows fixation at sadistic-anal stage of libidinal organization, with exaggerated anal erotism and aggressive sadistic impulses toward love-objects. When regression to this stage occurs, ambivalence and omnipotence of thoughts emerge as dominant features.",
+      "source": "Notes Upon a Case of Obsessional Neurosis (Rat Man) (1909)",
+      "domains": [
+        "obsessional_neurosis",
+        "regression",
+        "sadism",
+        "anal_erotism",
+        "ambivalence"
+      ],
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0576",
+      "position": "In the delusion, repressed material returns in distorted form through the very thing chosen as instrument of repression. The archaeologist's interest in antiquities becomes the vehicle through which the repressed childhood love returns, demonstrating that repressed proves itself victor in the end.",
+      "source": "Delusions and Dreams in Jensen's Gradiva (1907)",
+      "domains": [
+        "delusion",
+        "repression",
+        "return_of_repressed"
+      ],
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0577",
+      "position": "The technique of psychoanalytic therapy for delusions consists in revealing the repressed material behind them. Once the repressed is made conscious, patients themselves bring forward solutions to final riddles of their condition in sudden ideas, tearing the last threads of delusion themselves.",
+      "source": "Delusions and Dreams in Jensen's Gradiva (1907)",
+      "domains": [
+        "delusion",
+        "therapeutic_process",
+        "insight"
+      ],
+      "type": "therapeutic_principle"
+    },
+    {
+      "id": "FREUD-0578",
+      "position": "Dreams created by imaginative writers can be interpreted using same principles as real dreams. The poet draws upon same sources of unconscious material as the dreamer, with creative writing representing controlled use of primary process mechanisms.",
+      "source": "Delusions and Dreams in Jensen's Gradiva (1907)",
+      "domains": [
+        "dreams",
+        "creative_writing",
+        "methodology"
+      ],
+      "type": "methodological_claim"
+    },
+    {
+      "id": "FREUD-0579",
+      "position": "The first childish sexual theory is that everyone possesses a penis like the boy's own (phallic phase). When the boy sees a girl's genitals, he first denies evidence of his eyes, then perceives it as a temporary state or as result of castration, arousing castration complex.",
+      "source": "On the Sexual Theories of Children (1908)",
+      "domains": [
+        "sexual_theories",
+        "phallic_phase",
+        "castration_complex"
+      ],
+      "type": "clinical_observation"
+    },
+    {
+      "id": "FREUD-0580",
+      "position": "The second sexual theory is the cloaca theory - that babies are born through the anus like a piece of faeces. This derives from the child's actual experience with anal zone and represents backwards displacement from genital to anal.",
+      "source": "On the Sexual Theories of Children (1908)",
+      "domains": [
+        "sexual_theories",
+        "cloaca_theory",
+        "anal_erotism"
+      ],
+      "type": "clinical_observation"
+    },
+    {
+      "id": "FREUD-0581",
+      "position": "The third sexual theory is the sadistic conception of coitus. When the child observes parental intercourse, it inevitably regards it as act of subjugation, as a sadomasochistic struggle. This perception leaves lasting impression and becomes permanent component of psychosexual constitution.",
+      "source": "On the Sexual Theories of Children (1908)",
+      "domains": [
+        "sexual_theories",
+        "primal_scene",
+        "sadism",
+        "coitus"
+      ],
+      "type": "clinical_observation"
+    },
+    {
+      "id": "FREUD-0582",
+      "position": "The linkage between faeces, gift, baby, and penis in unconscious is demonstrated through psychoanalytic investigation. Faeces are the child's first gift (part of his own body given up out of love). This symbolic equation extends to money (the odourless dehydrated faeces), child (conceived as coming from bowels), and penis.",
+      "source": "Character and Anal Erotism (1908)",
+      "domains": [
+        "anal_erotism",
+        "symbolism",
+        "faeces",
+        "gift"
+      ],
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0583",
+      "position": "Hysterical attacks are not convulsions but represent dramatized phantasies translated into motor activity, projected onto motility, and pantomimically represented. They are substitute for auto-erotic satisfaction formerly practiced and then repressed.",
+      "source": "Some General Remarks on Hysterical Attacks (1909)",
+      "domains": [
+        "hysteria",
+        "phantasy",
+        "attacks",
+        "motility"
+      ],
+      "type": "clinical_observation"
+    },
+    {
+      "id": "FREUD-0584",
+      "position": "The hysterical attack corresponds to coitus - either one in memory, or one that has been phantasied. It can represent both male and female parts in coitus, or may represent situation not directly sexual but libidinally colored (e.g., scene of violence, giving birth).",
+      "source": "Some General Remarks on Hysterical Attacks (1909)",
+      "domains": [
+        "hysteria",
+        "attacks",
+        "bisexuality",
+        "coitus"
+      ],
+      "type": "clinical_observation"
+    },
+    {
+      "id": "FREUD-0585",
+      "position": "Hysterical attacks occur more readily when libido is dammed up and cannot be discharged through normal sexual activity. When reality provides no sexual satisfaction, libido regresses to older phantasies and actualizes them in attacks. The attack is substitute for satisfaction.",
+      "source": "Some General Remarks on Hysterical Attacks (1909)",
+      "domains": [
+        "hysteria",
+        "attacks",
+        "libido",
+        "regression"
+      ],
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0586",
+      "position": "The requirement of civilized sexual morality - complete abstinence before marriage and faithfulness within restrictive monogamy - demands more than most organizations can perform. It deprives marriage of expected satisfaction while exhausting available mental forces, especially in women.",
+      "source": "'Civilized' Sexual Morality and Modern Nervous Illness (1908)",
+      "domains": [
+        "sexuality",
+        "morality",
+        "marriage",
+        "neurosis"
+      ],
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0587",
+      "position": "Our civilization is built upon suppression of instincts. Each individual has surrendered some of his possessions - aggression, personality, or tendencies toward perversion. But excessive sexual suppression required by civilization extracts too high a price, creating widespread neurotic illness and unhappiness.",
+      "source": "'Civilized' Sexual Morality and Modern Nervous Illness (1908)",
+      "domains": [
+        "civilization",
+        "instinct",
+        "suppression",
+        "neurosis"
+      ],
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0588",
+      "position": "Women are particularly harmed by civilized sexual morality. Reared under prohibition of all thought about sex and severe suppression of curiosity, they enter marriage unprepared and remain psychically infantile, often developing neuroses or finding marriage unbearable, leading to marital disasters.",
+      "source": "'Civilized' Sexual Morality and Modern Nervous Illness (1908)",
+      "domains": [
+        "women",
+        "sexuality",
+        "marriage",
+        "neurosis",
+        "civilization"
+      ],
+      "type": "clinical_observation"
+    },
+    {
+      "id": "FREUD-0589",
+      "position": "The analyst must have gone through psychoanalysis himself and recognized his own complexes that would interfere with grasping patient's communications. Counter-transference arises as result of patient's influence on physician's unconscious feelings and must be overcome by analyst through self-analysis.",
+      "source": "The Future Prospects of Psycho-Analytic Therapy (1910)",
+      "domains": [
+        "technique",
+        "counter-transference",
+        "training_analysis"
+      ],
+      "type": "therapeutic_principle"
+    },
+    {
+      "id": "FREUD-0590",
+      "position": "The future of psychoanalytic therapy will increase its power through more precise understanding of transference and resistance, through the analyst's own analysis, and through increased authority once theoretical conclusions are confirmed by experience.",
+      "source": "The Future Prospects of Psycho-Analytic Therapy (1910)",
+      "domains": [
+        "psychoanalysis",
+        "technique",
+        "therapeutic_process"
+      ],
+      "type": "methodological_claim"
+    },
+    {
+      "id": "FREUD-0591",
+      "position": "The child's sexual researches are driven by practical life interest, not abstract desire for knowledge. The problem of where babies come from arises from self-interested fear of losing parental love and possessions with arrival of new sibling.",
+      "source": "On the Sexual Theories of Children (1908)",
+      "domains": [
+        "sexual_research",
+        "childhood",
+        "motivation",
+        "siblings"
+      ],
+      "type": "clinical_observation"
+    },
+    {
+      "id": "FREUD-0592",
+      "position": "The child's sexual researches fail because they approach the problem of sexuality from the wrong side - from the question of where babies come from rather than the true problem of sexual intercourse. This cognitive failure has significant consequences for sexual development.",
+      "source": "On the Sexual Theories of Children (1908)",
+      "domains": [
+        "sexual_research",
+        "childhood",
+        "development"
+      ],
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0593",
+      "position": "Adults vastly underestimate children's sexual knowledge and activity. The child's apparent ignorance is often feigned - in the unconscious, the child knows much more than adults suspect, though this knowledge remains dissociated from consciousness.",
+      "source": "On the Sexual Theories of Children (1908)",
+      "domains": [
+        "infantile_sexuality",
+        "knowledge",
+        "dissociation"
+      ],
+      "type": "clinical_observation"
+    },
+    {
+      "id": "FREUD-0594",
+      "position": "The Oedipus complex - the child's sexual desires toward the parent of opposite sex and rivalry with parent of same sex - is the nuclear complex of every neurosis, the central phenomenon of human sexual life. Its repression and transformation determine the character of normal and pathological development.",
+      "source": "Five Lectures on Psycho-Analysis (1910)",
+      "domains": [
+        "oedipus_complex",
+        "neurosis",
+        "development",
+        "aetiology"
+      ],
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0595",
+      "position": "Forgotten childhood memories are not truly forgotten but repressed. They remain active in the unconscious and determine subsequent development. What appears as innate disposition is largely the product of early childhood impressions that have been forgotten.",
+      "source": "Five Lectures on Psycho-Analysis (1910)",
+      "domains": [
+        "memory",
+        "repression",
+        "childhood",
+        "disposition"
+      ],
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0596",
+      "position": "The sexual instinct has extraordinarily plastic quality - components can substitute for each other, exchange their objects, and one component may take over strength from others. This plasticity permits perverse sexual aims to replace normal ones and explains both normal development and pathological outcomes.",
+      "source": "Five Lectures on Psycho-Analysis (1910)",
+      "domains": [
+        "sexuality",
+        "plasticity",
+        "component_instincts",
+        "perversion"
+      ],
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0597",
+      "position": "Parapraxes (slips of tongue, pen, forgetting, bungled actions) are not chance occurrences but significant psychical acts with their own aim, expressing impulses and intentions kept back from consciousness. They demonstrate that nothing in mental life is arbitrary.",
+      "source": "Five Lectures on Psycho-Analysis (1910)",
+      "domains": [
+        "parapraxis",
+        "determinism",
+        "unconscious"
+      ],
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0598",
+      "position": "Bisexuality is not just anatomical but psychical - every human being displays both masculine and feminine mental characteristics and object-choices. Homosexuality represents dominance of one element, while heterosexuality represents dominance of the other, but both are present in everyone.",
+      "source": "Five Lectures on Psycho-Analysis (1910)",
+      "domains": [
+        "bisexuality",
+        "homosexuality",
+        "sexuality"
+      ],
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0599",
+      "position": "The aim of psychoanalytic treatment is not to remove every peculiarity of human character and level everyone to mediocrity, but to strengthen the ego, make it independent of the super-ego, widen its field of perception, and extend its organization so that it can appropriate fresh portions of the id. Where id was, there ego shall be.",
+      "source": "Five Lectures on Psycho-Analysis (1910)",
+      "domains": [
+        "therapeutic_process",
+        "psychoanalysis",
+        "ego",
+        "id"
+      ],
+      "type": "therapeutic_principle"
+    },
+    {
+      "id": "FREUD-0600",
+      "position": "The latency period (ages 5-11) represents a developmental phase where sexual impulses undergo repression, reaction-formation (shame, disgust, morality), and sublimation. This period prepares the child for civilized life by redirecting sexual energies toward socially acceptable aims.",
+      "source": "Five Lectures on Psycho-Analysis (1910)",
+      "domains": [
+        "latency",
+        "development",
+        "repression",
+        "sublimation"
+      ],
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0601",
+      "position": "Puberty represents the final organization of sexuality under genital primacy, but this organization is never complete. Pregenital components persist and may emerge in foreplay or perverse sexual aims. Complete genital organization is an ideal rarely achieved.",
+      "source": "Five Lectures on Psycho-Analysis (1910)",
+      "domains": [
+        "puberty",
+        "development",
+        "genital_primacy",
+        "sexuality"
+      ],
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0602",
+      "position": "The choice of neurosis (whether hysteria, obsessional neurosis, or other form) depends upon the point of fixation in libidinal development to which the person regresses. Hysteria corresponds to genital-incestuous fixation, while obsessional neurosis corresponds to anal-sadistic fixation.",
+      "source": "Five Lectures on Psycho-Analysis (1910)",
+      "domains": [
+        "neurosis",
+        "fixation",
+        "regression",
+        "aetiology"
+      ],
+      "type": "etiological_claim"
+    },
+    {
+      "id": "FREUD-0603",
+      "position": "Frustration in reality causes libido to withdraw from real objects and turn back to phantasy, reviving infantile wishes. If these infantile wishes are sufficiently strong and ego sufficiently weak, regression occurs to fixation points, producing neurotic symptoms as compromise formations.",
+      "source": "Five Lectures on Psycho-Analysis (1910)",
+      "domains": [
+        "neurosis",
+        "frustration",
+        "regression",
+        "phantasy",
+        "aetiology"
+      ],
+      "type": "etiological_claim"
+    },
+    {
+      "id": "FREUD-0604",
+      "position": "Narcissism is an essential stage in normal development when the child takes his own body and self as love-object before turning to external objects. Narcissistic libido can be withdrawn from objects and reinvested in the self, as seen in illness, sleep, and narcissistic neuroses.",
+      "source": "Leonardo da Vinci and a Memory of His Childhood (1910)",
+      "domains": [
+        "narcissism",
+        "development",
+        "libido",
+        "object_choice"
+      ],
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0605",
+      "position": "Screen memories are innocuous recollections that conceal significant childhood experiences through displacement. What appears memorable is not the experience itself but an associated detail, while the significant content remains repressed. The screen memory represents a compromise between repression and memory.",
+      "source": "Delusions and Dreams in Jensen's Gradiva (1907)",
+      "domains": [
+        "memory",
+        "screen_memory",
+        "repression",
+        "displacement"
+      ],
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0606",
+      "position": "Symbolism in dreams, symptoms, and myths operates through universal symbolic equations (e.g., house=body, room=woman, travel=dying, riding=coitus). These symbols are archaic heritage, phylogenetically transmitted, representing primitive modes of thought expression.",
+      "source": "On the Sexual Theories of Children (1908)",
+      "domains": [
+        "symbolism",
+        "dreams",
+        "phylogenesis"
+      ],
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0607",
+      "position": "The death of the father is the most important event and the most poignant loss in a man's life. It liberates the son from authority but also removes protection, forcing confrontation with own mortality. The father's death commonly precipitates neurotic illness or philosophical preoccupation.",
+      "source": "Notes Upon a Case of Obsessional Neurosis (Rat Man) (1909)",
+      "domains": [
+        "father",
+        "death",
+        "oedipus_complex",
+        "neurosis"
+      ],
+      "type": "clinical_observation"
+    },
+    {
+      "id": "FREUD-0608",
+      "position": "Obsessional prohibitions and compulsive acts represent a defensive struggle against temptation and protective measures against expected misfortune. The patient feels that omission of protective action would bring disaster, not to self but to loved person. This represents displacement of hostile wish onto protective action.",
+      "source": "Notes Upon a Case of Obsessional Neurosis (Rat Man) (1909)",
+      "domains": [
+        "obsessional_neurosis",
+        "compulsion",
+        "defense_mechanisms",
+        "displacement"
+      ],
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0609",
+      "position": "Guilt in obsessional neurosis is fully justified but displaced. The patient feels guilty not for what he has done but for his unconscious hostile wishes. The obsessional neurotic has a more sensitive moral consciousness than normal person, but this morality is at service of repression.",
+      "source": "Notes Upon a Case of Obsessional Neurosis (Rat Man) (1909)",
+      "domains": [
+        "obsessional_neurosis",
+        "guilt",
+        "morality",
+        "repression"
+      ],
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0610",
+      "position": "Religious practices and obsessional ceremonials are analogous - both involve minute prescriptions for performing acts, both involve isolation and prohibition of interruption, both arouse anxiety when neglected. Obsessional neurosis might be called a private religion, while religion is a universal obsessional neurosis.",
+      "source": "Obsessive Actions and Religious Practices (1907)",
+      "domains": [
+        "obsessional_neurosis",
+        "religion",
+        "ritual"
+      ],
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0611",
+      "position": "Both normal and pathological mental processes are determined by same laws. The difference between health and neurosis is quantitative, not qualitative - a matter of strength of forces and success of defensive processes, not presence vs. absence of mechanisms.",
+      "source": "Five Lectures on Psycho-Analysis (1910)",
+      "domains": [
+        "normality",
+        "neurosis",
+        "determinism"
+      ],
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0612",
+      "position": "Identification is primitive emotional tie with another person, preceding object-choice. The child identifies with the parent of same sex, taking parent as model. This identification becomes hostile when triangular Oedipus situation develops and child wishes to replace parent with same-sex parent.",
+      "source": "Analysis of a Phobia in a Five-Year-Old Boy (Little Hans) (1909)",
+      "domains": [
+        "identification",
+        "oedipus_complex",
+        "object_choice"
+      ],
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0613",
+      "position": "The primal scene - observation or primal phantasy of parental intercourse - has traumatic effect on child's sexual development. Whether actually observed or phantasied, it provides schema organizing later sexual experiences and becomes focal point for understanding sexuality.",
+      "source": "On the Sexual Theories of Children (1908)",
+      "domains": [
+        "primal_scene",
+        "trauma",
+        "sexuality",
+        "phantasy"
+      ],
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0614",
+      "position": "Penis envy in girls is counterpart to castration complex in boys. Upon seeing boy's genitals, girl feels herself unfairly treated, develops envy, wishes to have penis, and experiences this as narcissistic humiliation. This profoundly affects feminine development.",
+      "source": "On the Sexual Theories of Children (1908)",
+      "domains": [
+        "penis_envy",
+        "castration_complex",
+        "feminine_development",
+        "narcissism"
+      ],
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0615",
+      "position": "The therapeutic process requires the patient to repeat in transference what he cannot remember, actualizing repressed infantile impulses in relation to analyst. This repetition in present provides opportunity to work through and resolve old conflicts.",
+      "source": "Five Lectures on Psycho-Analysis (1910)",
+      "domains": [
+        "transference",
+        "therapeutic_process",
+        "repetition",
+        "working_through"
+      ],
+      "type": "therapeutic_principle"
+    },
+    {
+      "id": "FREUD-0616",
+      "position": "The fundamental rule of psychoanalysis requires the patient to say everything that comes to mind without selection or censorship, no matter how unimportant, embarrassing, or nonsensical it seems. This free association bypasses conscious resistance and provides access to unconscious.",
+      "source": "Five Lectures on Psycho-Analysis (1910)",
+      "domains": [
+        "technique",
+        "free_association",
+        "fundamental_rule"
+      ],
+      "type": "therapeutic_principle"
+    },
+    {
+      "id": "FREUD-0617",
+      "position": "Interpretation must proceed gradually, working from surface to depth. The analyst does not communicate meaning of symptom or content of unconscious until patient is within reach of it himself. Premature interpretation provokes resistance and rejection.",
+      "source": "Five Lectures on Psycho-Analysis (1910)",
+      "domains": [
+        "interpretation",
+        "technique",
+        "resistance"
+      ],
+      "type": "therapeutic_principle"
+    },
+    {
+      "id": "FREUD-0618",
+      "position": "Working-through is the process by which patient overcomes resistance to insight already intellectually accepted. Simply knowing unconscious content is insufficient - patient must work through resistance repeatedly in multiple contexts before real change occurs.",
+      "source": "Five Lectures on Psycho-Analysis (1910)",
+      "domains": [
+        "working_through",
+        "resistance",
+        "therapeutic_process"
+      ],
+      "type": "therapeutic_principle"
+    },
+    {
+      "id": "FREUD-0619",
+      "position": "Sublimation of sexual instinct into cultural, artistic, and intellectual achievement is civilization's primary method of dealing with sexuality. But excessive repression blocks sublimation's path, while successful sublimation requires that sexual impulses not be completely suppressed but deflected.",
+      "source": "'Civilized' Sexual Morality and Modern Nervous Illness (1908)",
+      "domains": [
+        "sublimation",
+        "civilization",
+        "culture",
+        "repression"
+      ],
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0620",
+      "position": "The myth, like the dream and symptom, represents disguised fulfillment of repressed infantile wishes. Myths are the secular dreams of youthful humanity, expressing in distorted form the deepest wishes and conflicts of the human mind.",
+      "source": "On the Sexual Theories of Children (1908)",
+      "domains": [
+        "myth",
+        "wish_fulfillment",
+        "disguise"
+      ],
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0621",
+      "position": "Childhood amnesia - the forgetting of early years - results from repression of infantile sexuality. What adults cannot remember, children lived through as important sexual experiences. This infantile amnesia is precondition for subsequent neurosis.",
+      "source": "Five Lectures on Psycho-Analysis (1910)",
+      "domains": [
+        "childhood_amnesia",
+        "repression",
+        "infantile_sexuality",
+        "memory"
+      ],
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0622",
+      "position": "The super-ego originates from introjection of parental authority, particularly the father, following resolution of Oedipus complex. It represents the internalized prohibitions and ideals, creating conscience and moral self-observation. Severity of super-ego may exceed actual parental strictness.",
+      "source": "Analysis of a Phobia in a Five-Year-Old Boy (Little Hans) (1909)",
+      "domains": [
+        "super-ego",
+        "introjection",
+        "conscience",
+        "oedipus_complex"
+      ],
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0623",
+      "position": "Anxiety in phobia results from transformation of libido that can find no employment. The libido withdrawn from unattainable love-object is transformed directly into anxiety, which then attaches to phobic object as means of mastering the internal danger.",
+      "source": "Analysis of a Phobia in a Five-Year-Old Boy (Little Hans) (1909)",
+      "domains": [
+        "anxiety",
+        "phobia",
+        "libido",
+        "transformation"
+      ],
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0624",
+      "position": "The psychoanalytic situation - regular sessions, use of couch, analyst's neutrality, fundamental rule - creates special conditions promoting regression, allowing emergence of transference and providing protected space for working through infantile conflicts.",
+      "source": "Five Lectures on Psycho-Analysis (1910)",
+      "domains": [
+        "technique",
+        "setting",
+        "regression",
+        "transference"
+      ],
+      "type": "therapeutic_principle"
+    },
+    {
+      "id": "FREUD-0625",
+      "position": "Repression creates the unconscious. What is repressed remains active, constantly striving for expression, manifesting in disguised form as symptoms, dreams, parapraxes, and derivatives. The repressed is indestructible - it never loses its cathexis or its efficacy.",
+      "source": "Five Lectures on Psycho-Analysis (1910)",
+      "domains": [
+        "repression",
+        "unconscious",
+        "persistence"
+      ],
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0626",
+      "position": "Polymorphous perversity of childhood means the child is capable of every perverse sexual act, with erotogenic zones operating independently. Normal development requires these components to be brought under genital primacy, while perversion represents persistence or return to infantile organization.",
+      "source": "Five Lectures on Psycho-Analysis (1910)",
+      "domains": [
+        "infantile_sexuality",
+        "perversion",
+        "component_instincts",
+        "development"
+      ],
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0627",
+      "position": "The compulsion to repeat represents manifestation of repressed impulses seeking expression. Patient repeats pathological patterns in transference and life without recognizing them as repetitions. This repetition compulsion extends beyond pleasure principle.",
+      "source": "Five Lectures on Psycho-Analysis (1910)",
+      "domains": [
+        "repetition_compulsion",
+        "transference",
+        "compulsion"
+      ],
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0628",
+      "position": "Masturbation in childhood and puberty represents not a pathological act but normal expression of infantile and adolescent sexuality. Its repression and associated guilt can lead to neurosis, while permitting it without excessive prohibition favors healthy development.",
+      "source": "Five Lectures on Psycho-Analysis (1910)",
+      "domains": [
+        "masturbation",
+        "infantile_sexuality",
+        "development",
+        "guilt"
+      ],
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0629",
+      "position": "The analyst's task is not to give advice, provide reassurance, or directly satisfy patient's needs, but to help patient understand his unconscious motivations through interpretation. The analytic stance maintains neutrality, allowing transference to develop uncontaminated.",
+      "source": "The Future Prospects of Psycho-Analytic Therapy (1910)",
+      "domains": [
+        "technique",
+        "neutrality",
+        "interpretation",
+        "transference"
+      ],
+      "type": "therapeutic_principle"
+    },
+    {
+      "id": "FREUD-0630",
+      "position": "Psychoanalysis reveals that mental life consists of continuous struggle between conflicting forces - ego instincts vs sexual instincts, consciousness vs unconscious, reality principle vs pleasure principle. Neurosis results when this conflict becomes unmanageable for the ego.",
+      "source": "Five Lectures on Psycho-Analysis (1910)",
+      "domains": [
+        "conflict",
+        "metapsychology",
+        "neurosis"
+      ],
+      "type": "theoretical_claim"
+    }
+  ]
+}

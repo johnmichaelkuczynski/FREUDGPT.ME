@@ -1,0 +1,275 @@
+===================================================================
+FREUD DATABASE - GROUP PSYCHOLOGY AND THE ANALYSIS OF THE EGO (1921)
+===================================================================
+Total: 156 POSITIONS across 16 DOMAINS
+
+===================================================================
+WORK-005: GROUP PSYCHOLOGY AND THE ANALYSIS OF THE EGO (1921) - 156 POSITIONS
+===================================================================
+
+INDIVIDUAL VS SOCIAL PSYCHOLOGY (7 positions): GSOC-001 to GSOC-007
+- Individual psychology always involves others as model/object/helper/opponent
+- Individual psychology is simultaneously social psychology in extended sense
+- Individual relations (parents, siblings, love-object) are social phenomena
+- Narcissistic vs social mental acts fall within individual psychology
+- Group psychology concerns influence by large number of people simultaneously
+- Group psychology studies individual as member of race/nation/profession/institution
+- Social instinct may not be primitive but developed in narrower family circle
+
+LE BON'S GROUP MIND THEORY (18 positions): LEBON-001 to LEBON-018
+- Psychological group creates collective mind in members
+- Group makes individuals feel/think/act differently than in isolation
+- Group is provisional being of heterogeneous elements forming new characteristics
+- Individual in group differs fundamentally from isolated individual
+- Unconscious phenomena preponderant in group mental life
+- Conscious life small in comparison to unconscious life
+- Racial unconscious emerges when individual distinctiveness vanishes in group
+- Mental superstructure removed, unconscious foundations exposed in group
+- Individual in group acquires sentiment of invincible power from numerical considerations
+- Anonymity of group eliminates sense of responsibility
+- Individual in group throws off repressions of unconscious instincts
+- Contagion determines special group characteristics
+- Every sentiment and act is contagious in group
+- Individual readily sacrifices personal interest for collective in group
+- Suggestibility is most important factor determining group characteristics
+- Suggestibility produces characteristics contrary to isolated individual
+- Individual loses conscious personality in suggestion
+- Groups demand illusions and cannot do without them
+
+LE BON ON GROUP CHARACTERISTICS (14 positions): LEBON-019 to LEBON-032
+- Groups give unreal precedence over real
+- Groups influenced equally by untrue and true
+- Groups have evident tendency not to distinguish real from unreal
+- Predominance of phantasy rules group psychology like neurosis
+- Groups guided by psychological reality not objective reality
+- Function for testing reality falls into background in groups
+- Groups place themselves instinctively under authority of chief
+- Group is obedient herd that cannot live without master
+- Group has thirst for obedience
+- Group submits instinctively to anyone appointing himself master
+- Leader must be held in fascination by strong faith
+- Leader must possess strong imposing will group can accept
+- Leaders work upon group through fanatical belief in ideas
+- Prestige is mysterious irresistible power of domination
+
+MCDOUGALL'S GROUP THEORY (15 positions): MCD-001 to MCD-015
+- Contradiction between negative and positive group accounts solved by organization factor
+- Unorganized group is "crowd" with no or minimal organization
+- Members must have something in common for psychological group
+- Common interest, similar emotional bias, reciprocal influence needed for group
+- Mental homogeneity determines ease of group formation
+- Exaltation or intensification of emotion is most important group result
+- Emotions stirred in group to pitch seldom attained otherwise
+- Pleasurable to surrender to passions and lose sense of individual limits
+- Direct induction of emotion by primitive sympathetic response (emotional contagion)
+- Perception of emotional signs automatically arouses same emotion in perceiver
+- Greater number with same emotion strengthens automatic compulsion
+- Individual loses power of criticism and slips into same emotion
+- Mutual interaction intensifies emotional charge of individuals
+- Compulsion exists to do same as others and remain in harmony
+- Coarser and simpler emotions more apt to spread through group
+
+MCDOUGALL ON GROUP ORGANIZATION (10 positions): MCD-016 to MCD-025
+- Group impresses individual with sense of unlimited power and insurmountable peril
+- Group replaces human society as wielder of authority
+- Perilous to oppose group, safer to hunt with pack
+- Individual puts conscience out of action in obedience to group authority
+- Surrender to attraction of increased pleasure from removal of inhibitions
+- Collective inhibition of intelligence occurs in groups
+- Lower intelligence brings down higher intelligence to own level
+- Intensification of emotion creates unfavorable conditions for intellectual work
+- Individuals intimidated by group, mental activity not free
+- Lowering of sense of responsibility for own performances in group
+
+MCDOUGALL'S FIVE CONDITIONS FOR ORGANIZED GROUPS (5 positions): MCD-026 to MCD-030
+- Continuity of existence (material or formal) needed for organization
+- Individual member must form definite idea of group's nature/functions
+- Group should be brought into interaction or rivalry with other similar groups
+- Group should possess traditions, customs, habits determining member relations
+- Group should have definite structure with specialization of functions
+
+SUGGESTION AND LIBIDO THEORY (8 positions): SUGL-001 to SUGL-008
+- Suggestion and hypnosis are fundamental phenomena requiring explanation
+- Suggestibility is undefined and unexplained primitive phenomenon
+- Le Bon's formulas about suggestion circular and explain nothing
+- Suggestion is partial manifestation of hypnotic state
+- Hypnosis based on unconscious fixation of libido to hypnotist
+- McDougall's principle of direct induction is contagion
+- Love relationships (emotional ties) constitute essence of group mind
+- Group held together by power of Eros
+
+CHURCH AND ARMY AS ARTIFICIAL GROUPS (12 positions): CHUR-001 to CHUR-012
+- Church and army are highly organized lasting artificial groups
+- External force prevents disintegration and checks structural alterations
+- Illusion exists of head (Christ/Commander) who loves all members equally
+- Everything depends upon this illusion of equal love
+- Both would dissolve if illusion dropped (barring external force)
+- Christ stands as kind elder brother and father surrogate to believers
+- Democratic character in Church: all equal before Christ
+- Christian community similar to family structure
+- Tie uniting each with Christ is cause of tie uniting members
+- Commander-in-Chief is father who loves all soldiers equally
+- Soldiers are comrades through equal love from commander
+- Army built of series of hierarchical groups unlike Church
+
+LIBIDINAL TIE THEORY (8 positions): LIB-007 to LIB-014
+- Each individual bound by libidinal ties to leader and other members
+- Double libidinal tie (to leader and members) explains lack of freedom in group
+- Intense emotional ties in two directions alter and limit personality
+- Essence of group lies in libidinal ties existing in it
+- Panic occurs when group disintegrates and libidinal ties cease
+- In panic mutual ties cease and gigantic senseless dread released
+- Panic demonstrates dread from loss of libidinal structure not external danger
+- Neurotic anxiety arises from libido withdrawn from its object
+
+TWO FORMS OF EMOTIONAL TIE (6 positions): LIB-015 to LIB-020
+- Two forms: identification and substitution of object for ego ideal
+- Group members identify with one another through common relation to object (leader)
+- Leader or leading idea takes place of ego ideal
+- Common quality shared by members lies in nature of tie with leader
+- Emotional ties between members secondary to tie with leader
+- Army panic: loss of leader causes disruption of all ties
+
+IDENTIFICATION THEORY (17 positions): IDEN-001 to IDEN-017
+- Identification is earliest form of emotional tie with object
+- Identification is original form of emotional tie to another person
+- Identification precedes object-choice
+- Identification is ambivalent from beginning, can express tenderness or wish for removal
+- Identification plays part in Oedipus complex: boy identifies with father
+- Three sources of identification: original emotional tie, regressive substitute for object-choice, new common quality
+- Identification differs from object-choice: ego wants to be like object vs wants to have object
+- Father as ideal in identification, as obstacle in object-choice (Oedipus)
+- Identification remains when object abandoned due to loss or renunciation
+- In melancholia identification substitutes for lost object-cathexis
+- Identification possible with any new perception of common quality
+- More important the common quality, more successful the identification
+- Hysterical identification based on wish to put oneself in same situation
+- Hysterical imitative identification signals common quality in unconscious
+- Identification can arise with any new common quality perceived with non-object
+- Group tied together by identification of members with one another
+- Identification based on important common quality: nature of tie with leader
+
+JEALOUSY AND GROUP FORMATION (5 positions): IDEN-018 to IDEN-022
+- Jealousy transformed into group feeling and identification
+- Elder child forced into identification with younger due to parental equal love
+- Communal or group feeling grows up from jealousy transformation
+- First demand of reaction-formation is justice and equal treatment
+- If cannot be favorite oneself, nobody else shall be favorite
+
+SOCIAL FEELING THEORY (6 positions): SOC-001 to SOC-006
+- Social feeling (Gemeingeist, esprit de corps) derived from original envy
+- Social justice means denying ourselves so others must do without too
+- Demand for equality is root of social conscience and sense of duty
+- Social feeling based upon reversal of hostile feeling into identification
+- Reversal effected under influence of common tender tie with person outside group
+- Demand for equality applies only to members not to leader
+
+BEING IN LOVE THEORY (14 positions): LOVE-001 to LOVE-014
+- Being in love involves both directly sexual and aim-inhibited instincts
+- Depth of love measured by share taken by inhibited instincts of tenderness
+- Sexual over-estimation: loved object enjoys freedom from criticism
+- All characteristics valued more highly when loved
+- Illusion produced that object loved for spiritual merits not sensual charm
+- Tendency falsifying judgment is idealization
+- Object treated same way as own ego in love
+- Considerable narcissistic libido overflows onto object in love
+- Object serves as substitute for unattained ego ideal
+- Love it for perfections we strove for in own ego
+- Object can get possession of entire self-love of ego
+- Object has consumed ego in extreme cases
+- Traits of humility, limitation of narcissism, self-injury occur in love
+- Functions of ego ideal cease to operate in being in love
+
+OBJECT REPLACING EGO IDEAL (6 positions): LOVE-015 to LOVE-020
+- Object takes place of ego ideal as formula for extreme love
+- In identification ego enriched with object properties (introjection)
+- In love ego impoverished, surrendered to object
+- In identification object lost or given up, then set up inside ego
+- In love object retained with hypercathexis by ego at ego's expense
+- Critical distinction: whether object put in place of ego or ego ideal
+
+HYPNOSIS THEORY (11 positions): HYP-001 to HYP-011
+- From being in love to hypnosis only short step
+- Hypnosis shows same humble subjection, compliance, absence of criticism as love
+- Same absorption of own initiative in hypnosis as love
+- Hypnotist stepped into place of ego ideal
+- Everything clearer and more intense in hypnosis than love
+- Hypnotist is sole object with no attention to others
+- Ego experiences requests in dream-like way
+- Ego ideal in hypnosis stops testing reality of things
+- Complete absence of uninhibited sexual tendencies contributes to purity
+- Hypnotic relation is devotion in love with sexual satisfaction excluded
+- Hypnosis is group formation with two members
+
+LASTING TIES THEORY (4 positions): HYP-012 to HYP-015
+- Sexual tendencies inhibited in aims achieve lasting ties between men
+- Not capable of complete satisfaction unlike uninhibited tendencies
+- Uninhibited sexual tendencies suffer extraordinary reduction through discharge
+- Sensual love becomes extinguished when satisfied unless mixed with tender components
+
+HERD INSTINCT CRITIQUE (5 positions): HERD-001 to HERD-005
+- Herd instinct postulated by Trotter as primitive and irreducible
+- Herd feeling appears already in nursery as reaction-formation against jealousy
+- Trotter derives social instinct from gregariousness in animals
+- Man not herd animal but horde animal led by chief
+- Many equals identify with one another, single person superior to all
+
+PRIMAL HORDE THEORY (12 positions): PRIM-001 to PRIM-012
+- Darwin's conjecture: primitive human society was horde ruled despotically by powerful male
+- Development of totemism connected with killing of chief and transformation to brother community
+- Human groups exhibit picture of superior individual among similar companions
+- Psychology of group corresponds to regression to primitive mental activity of primal horde
+- Group is revival of primal horde
+- Primal horde may arise from any random crowd
+- Group psychology is oldest human psychology
+- Individual psychology emerged gradually from old group psychology
+- Two kinds of psychology from first: member psychology and father/chief/leader psychology
+- Members subject to ties, father of primal horde was free
+- Primal father's ego had few libidinal ties
+- Primal father loved no one but himself or others only as they served his needs
+
+EGO IDEAL THEORY (14 positions): EGO-001 to EGO-014
+- Ego ideal is heir to narcissism
+- Ego ideal formed by influence of parents and upbringing
+- Child's own self-love displaced onto ideal ego
+- Ego ideal has social side as common ideal of family/class/nation
+- Ego ideal binds libidinal satisfaction from parents and social demands
+- Conscience is mental faculty watching over ego ideal compliance
+- Self-regard depends on fulfilling ego ideal demands
+- Sense of guilt arises when ego fails to satisfy ego ideal
+- Ego ideal comprises sum of all limitations ego must accept
+- Abrogation of ideal would be magnificent festival for ego
+- Feeling of triumph when something in ego coincides with ego ideal
+- Sense of guilt and inferiority express tension between ego and ego ideal
+- Ego ideal can be temporarily resolved into ego
+- Separation of ego ideal from ego cannot be borne for long
+
+MELANCHOLIA AND MANIA THEORY (8 positions): MELAN-001 to MELAN-008
+- Cyclical mood oscillations between depression and exalted well-being
+- In mania ego and ego ideal fuse together
+- Manic enjoys abolition of inhibitions, feelings of consideration, self-reproaches
+- Melancholia expresses sharp conflict between ego faculties
+- In melancholia ego ideal relentlessly condemns ego in delusions of inferiority
+- Melancholia can occur after loss of loved object
+- Lost object set up inside ego by identification and condemned by ego ideal
+- Reproaches to object come to light as melancholic self-reproaches
+
+INSTINCTS INHIBITED IN AIMS (10 positions): INHIB-001 to INHIB-010
+- Directly sexual tendencies always accompanied by tender emotional ties
+- Tender feeling is successor to completely sensual object tie
+- Sexual ties of childhood persist though repressed and unconscious
+- Instincts inhibited in aims preserve some original sexual aims
+- Inhibited instincts have great functional advantage over uninhibited
+- Inhibited instincts especially adapted to create permanent ties
+- Inhibited instincts capable of any degree of admixture with uninhibited
+- Emotional ties can easily develop into erotic wishes
+- Religious ties can revert to sexual excitement
+- Sexual tendencies can transform into lasting purely tender ties
+
+SEXUAL LOVE VS GROUP TIES (6 positions): SEXG-001 to SEXG-006
+- Directly sexual tendencies unfavorable to group formation
+- Sexual love developed characteristics requiring limitation to two people
+- Two in sexual satisfaction make demonstration against herd instinct
+- More in love, more completely suffice for each other
+- Violent jealousy protects sexual object-choice from group tie encroachment
+- Being in love late appearance in sexual relations between men and women

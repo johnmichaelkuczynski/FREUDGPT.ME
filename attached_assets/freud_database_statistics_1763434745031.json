@@ -1,0 +1,38 @@
+{
+  "total": 21,
+  "works": {
+    "The 'Uncanny'": 4,
+    "Beyond The Pleasure Principle": 5,
+    "Group Psychology And The Analysis Of The Ego": 12
+  },
+  "types": {
+    "exposition": 10,
+    "argument": 4,
+    "hypothesis": 2,
+    "clinical": 5
+  },
+  "tags": {
+    "unconscious": 8,
+    "psychoanalysis": 6,
+    "ego": 11,
+    "repression": 3,
+    "uncanny": 3,
+    "double": 1,
+    "identification": 3,
+    "sexuality": 6,
+    "libido": 5,
+    "life_instinct": 3,
+    "instinct": 4,
+    "narcissism": 2,
+    "death_drive": 1,
+    "dream": 2,
+    "neurosis": 2,
+    "group": 1,
+    "primal": 2,
+    "transference": 1,
+    "infantile": 1,
+    "anxiety": 1
+  },
+  "word_count_avg": 149.28571428571428,
+  "word_count_median": 90
+}

@@ -1,0 +1,322 @@
+[
+  {
+    "id": "AIPH-001",
+    "category": "Philosophy of Logic",
+    "text": "Classical logic fundamentally fails as a tool for reasoning because it requires more intelligence to recognize that an inference instantiates a logical law than to recognize the validity of the inference directly. Someone who can't see that Socrates must be mortal given the premises cannot possibly benefit from being told that this inference exemplifies modus ponens."
+  },
+  {
+    "id": "AIPH-002",
+    "category": "Philosophy of Logic",
+    "text": "Classical logic demands second-order knowledge (understanding why an inference is valid) rather than first-order knowledge (seeing that it is valid). The formal system thus demands more intellectual work than direct reasoning, not less."
+  },
+  {
+    "id": "AIPH-003",
+    "category": "Philosophy of Logic",
+    "text": "When classical logic's inadequacy as a reasoning tool became apparent, logicians attempted to redefine their project. Logic, they argued, wasn't meant to help us reason but rather to reveal the foundations of mathematics. Mathematical truths were reconceived as condensed logical truths."
+  },
+  {
+    "id": "AIPH-004",
+    "category": "Philosophy of Logic",
+    "text": "The pivot to treating logic as the foundation of mathematics failed. Gödel demonstrated that not even arithmetic is recursively definable, making the reduction of mathematics to logic impossible in principle. More fundamentally, logic organizes existing knowledge about what entails what; it cannot generate new knowledge about entailment relationships."
+  },
+  {
+    "id": "AIPH-005",
+    "category": "Philosophy of Logic",
+    "text": "Performance-demanding inferences are difficult because they strain our computational or memory resources. Competence-demanding inferences require genuine insight rather than mere computational power. Classical logic can assist with performance-demanding inferences but offers no help with competence-demanding inferences—the very kind that most require logical assistance."
+  },
+  {
+    "id": "AIPH-006",
+    "category": "AI and Philosophy",
+    "text": "System L represents a decisive break from classical logical frameworks in its approach to competence-demanding inferences. It employs a semantic network that represents concepts not as atomic symbols but as nodes in a vast web of relationships, capturing formal logical connections, probabilistic associations, causal links, and analogical mappings."
+  },
+  {
+    "id": "AIPH-007",
+    "category": "AI and Philosophy",
+    "text": "System L utilizes 'meta-reasoning patterns'—higher-order templates for generating new inferences that go beyond simple deductive rules. For example, applying the pattern: 'If capability X requires mechanism Y, and mechanism Y can malfunction in way Z, then X implies the potential for Z-type malfunctions.'"
+  },
+  {
+    "id": "AIPH-008",
+    "category": "AI and Philosophy",
+    "text": "System L incorporates defeasible reasoning, allowing it to make provisional inferences that can later be revised in light of new information. This better mirrors actual human reasoning than classical deductive systems."
+  },
+  {
+    "id": "AIPH-009",
+    "category": "Philosophy of Science",
+    "text": "System L maintains a crucial distinction between discovery procedures and verification procedures. While it uses inductive methods to discover solutions, it employs deductive methods to verify them when working in deductive domains. This aligns with Reichenbach's distinction between the 'context of discovery' and the 'context of justification.'"
+  },
+  {
+    "id": "AIPH-010",
+    "category": "Philosophy of Science",
+    "text": "The context of discovery encompasses the processes by which we generate hypotheses and find potential solutions, involving intuition, analogy, and pattern recognition. The context of justification concerns how we verify these discoveries, requiring deductive rigor in deductive domains."
+  },
+  {
+    "id": "AIPH-011",
+    "category": "Philosophy of Logic",
+    "text": "Mathematicians rarely proceed by pure deduction. They notice patterns in specific cases, draw analogies to similar problems, follow intuitions about promising paths, and make educated guesses. None of these are deductive processes, yet they're essential to mathematical discovery. The mathematician's insight about how to prove a theorem often comes through pattern recognition or analogy."
+  },
+  {
+    "id": "AIPH-012",
+    "category": "Philosophy of Logic",
+    "text": "The real error of psychologism isn't the use of psychological or empirical insights in reasoning. The error is treating such insights as justifications rather than as tools of discovery. System L maintains a strict distinction between its search procedures (which can use any methods that prove helpful) and its verification procedures (which must meet the standards of deductive rigor)."
+  },
+  {
+    "id": "AIPH-013",
+    "category": "Philosophy of Logic",
+    "text": "Classical logic is characterized by explicit rules of inference, step-by-step deduction, binary truth values, context-independence, and compositional semantics. These properties match classical computing because programs need explicit instructions, computation proceeds step-by-step, and binary operations are fundamental."
+  },
+  {
+    "id": "AIPH-014",
+    "category": "AI and Philosophy",
+    "text": "System L is characterized by flexible search strategies, pattern-based reasoning, degrees of plausibility, context-sensitivity, and holistic processing. These properties align with AI systems because AI requires efficient search through vast spaces, pattern recognition is fundamental, AI deals with uncertainty and probability, and context is crucial for understanding."
+  },
+  {
+    "id": "AIPH-015",
+    "category": "Philosophy of Logic",
+    "text": "There has been a historical progression in logical systems: Ancient Logic (Aristotle) was suited to systematic human reasoning; Modern Mathematical Logic was suited to mechanical computation; L-type Systems are suited to artificial intelligence. Each stage represents an adaptation to a different type of information processing."
+  },
+  {
+    "id": "AIPH-016",
+    "category": "Philosophy of Logic",
+    "text": "Classical logic is essentially a formalization system. Its primary functions are: explicitly representing known valid inference patterns, generating these patterns from minimal rules, providing formal foundations for mathematics, creating precise metalanguages for validity, and supporting program verification."
+  },
+  {
+    "id": "AIPH-017",
+    "category": "AI and Philosophy",
+    "text": "System L is genuinely an inference engine. Its functions are: discovering what follows from what, generating new insights about relationships, guiding practical reasoning processes, and finding non-obvious connections."
+  },
+  {
+    "id": "AIPH-018",
+    "category": "Philosophy of Logic",
+    "text": "The Prior Knowledge Principle: If using a formal system requires us to already know what we're trying to find out, that system fails as a tool of discovery. The Efficiency Principle: If using a formal system to solve a problem is more difficult than solving that problem directly, that system fails as a tool of reasoning. Classical logic violates both principles."
+  },
+  {
+    "id": "AIPH-019",
+    "category": "AI and Philosophy",
+    "text": "AI-logic is inherently ampliative, generating new knowledge, whereas classical logic is purely transformative, rearranging existing knowledge. This explains why only AI-logic can serve as a genuine discovery tool."
+  },
+  {
+    "id": "AIPH-020",
+    "category": "AI and Philosophy",
+    "text": "AI-logic can model counter-entropic processes, whereas classical logic is limited to entropic processes. This enables AI-logic to handle biological and social complexity."
+  },
+  {
+    "id": "AIPH-021",
+    "category": "Philosophy of Science",
+    "text": "The traditional philosophical account of inductive reasoning presents it as fundamentally enumerative: we observe that many X's are Y's, note the absence of contrary cases, and thereby infer that all X's are Y's. This model makes testable predictions about how any system capable of successful inductive inference must operate. The actual architecture and operation of modern AI systems falsifies these predictions."
+  },
+  {
+    "id": "AIPH-022",
+    "category": "AI and Philosophy",
+    "text": "Modern AI systems do not operate through pure enumerative induction. While they incorporate statistical patterns from training data, their successful inferential processes involve several essential non-statistical components: feature correlation and causal networks, temporal and contextual stability, natural kind recognition, and hierarchical pattern recognition."
+  },
+  {
+    "id": "AIPH-023",
+    "category": "AI and Philosophy",
+    "text": "Rather than simply counting occurrences, AI systems develop rich representational networks where properties are understood as parts of interconnected causal systems. When an AI learns that emeralds are green, it simultaneously learns that this color correlates with other physical and chemical properties, creating an implicit causal/explanatory network that influences predictions."
+  },
+  {
+    "id": "AIPH-024",
+    "category": "AI and Philosophy",
+    "text": "AI systems develop strong biases toward properties that maintain stability across time and context. They 'learn' to be suspicious of properties that would involve discontinuous changes without causal explanation. This is not programmed explicitly but emerges as necessary for successful inference."
+  },
+  {
+    "id": "AIPH-025",
+    "category": "AI and Philosophy",
+    "text": "AI systems automatically develop representations that cluster properties into 'natural kinds.' Properties that violate natural kind boundaries end up having lower probability in the model's predictions, reflecting an implicit understanding of explanatory coherence that pure enumeration cannot provide."
+  },
+  {
+    "id": "AIPH-026",
+    "category": "Philosophy of Science",
+    "text": "Goodman's 'grue' paradox: Define 'grue' as meaning 'green if examined before time t and blue if examined after t.' All emeralds examined before time t are green, and therefore grue. If induction were purely enumerative, an AI system should have equal justification for predicting that emeralds will be green after t and that they will be blue after t."
+  },
+  {
+    "id": "AIPH-027",
+    "category": "AI and Philosophy",
+    "text": "AI systems, like humans, strongly favor the 'green' prediction over 'grue.' This bias cannot be explained by the purely enumerative model. Instead, it emerges from the system's implicit theoretical frameworks: recognition that color properties don't change discontinuously without cause, understanding that color is mediated by stable physical structures, and bias against simultaneous, uncaused changes across natural kinds."
+  },
+  {
+    "id": "AIPH-028",
+    "category": "Philosophy of Science",
+    "text": "The operation of AI systems aligns remarkably well with an alternative view of induction as inherently explanatory. On this view, even apparently simple statistical generalizations incorporate implicit theoretical components about causation, continuity, and explanation."
+  },
+  {
+    "id": "AIPH-029",
+    "category": "AI and Philosophy",
+    "text": "When an AI system evaluates medical evidence, finding that a medication has been lethal in 100 cases is not processed as pure statistical data. The system automatically integrates this information with understanding about: chemical properties and their stability, biological mechanisms and their continuity, causal relationships between molecular structure and effects, and the implausibility of discontinuous changes in these relationships."
+  },
+  {
+    "id": "AIPH-030",
+    "category": "Epistemology",
+    "text": "A physician concludes a medication is categorically lethal not merely from statistical evidence but from understanding its mechanism of action—for instance, that it operates by necessarily liquefying vital organs through its chemical properties. This mirrors the integrative reasoning of AI systems."
+  },
+  {
+    "id": "AIPH-031",
+    "category": "Philosophy of Science",
+    "text": "The operation of modern AI systems provides strong empirical evidence against the traditional philosophical model of induction as purely enumerative. Successful inductive inference, whether by humans or machines, requires integrating statistical evidence with theoretical frameworks about causation, continuity, and natural kinds."
+  },
+  {
+    "id": "AIPH-032",
+    "category": "AI and Philosophy",
+    "text": "Arti ficial intelligence systems, rather than implementing a simplified version of human reasoning, actually reproduce the sophisticated integration of statistical and theoretical reasoning that characterizes human cognition."
+  },
+  {
+    "id": "AIPH-033",
+    "category": "Philosophy of Science",
+    "text": "Karl Popper's account of scientific discovery in 'The Logic of Scientific Discovery' makes several testable claims about the nature of hypothesis generation and justification. The actual operation of modern AI systems falsifies key elements of Popper's theory while supporting an alternative understanding of scientific discovery as a logical process."
+  },
+  {
+    "id": "AIPH-034",
+    "category": "Philosophy of Science",
+    "text": "Popper claimed there is no 'logic of discovery'—no systematic method for generating scientific hypotheses. According to Popper, hypothesis generation is essentially creative guesswork, while only the testing process follows logical principles. The context of discovery, he argued, belongs to psychology, not logic or philosophy of science."
+  },
+  {
+    "id": "AIPH-035",
+    "category": "Philosophy of Science",
+    "text": "Modern AI systems can now generate scientific hypotheses from data in systematic, analyzable ways. These systems don't randomly guess—they follow identifiable principles for hypothesis generation. When such systems successfully generate hypotheses that lead to scientific discoveries, this demonstrates that discovery can follow logical principles, contrary to Popper's claims."
+  },
+  {
+    "id": "AIPH-036",
+    "category": "Philosophy of Science",
+    "text": "Traditional philosophy of science has largely avoided studying the discovery process, focusing instead on the analysis of existing theories. When philosophers have addressed discovery, they've often relegated it to psychology, assuming that the generative aspects of scientific thinking cannot inform us about logical or normative principles."
+  },
+  {
+    "id": "AIPH-037",
+    "category": "AI and Philosophy",
+    "text": "By building AI systems that successfully replicate scientific reasoning, we are effectively reverse-engineering the cognitive processes underlying scientific discovery. This approach provides a novel, empirically-grounded philosophy of science that can illuminate the actual logic of scientific discovery."
+  },
+  {
+    "id": "AIPH-038",
+    "category": "Philosophy of Science",
+    "text": "Modern AI systems can now engage in sophisticated theoretical reasoning, generating hypotheses and models from complex data. When such systems successfully replicate human-like scientific inference, this provides strong prima facie evidence about the principles underlying scientific cognition."
+  },
+  {
+    "id": "AIPH-039",
+    "category": "Philosophy of Science",
+    "text": "While successful replication doesn't definitively prove that the AI system uses the same mechanisms as the human brain, it demonstrates that these mechanisms are at least sufficient to produce similar results. The strength of this evidence increases with: the complexity of the reasoning involved, the comprehensiveness of the replication, the consistency of results across different domains, and the similarity to human-generated theories."
+  },
+  {
+    "id": "AIPH-040",
+    "category": "Philosophy of Science",
+    "text": "The principles governing successful AI scientific reasoning, while mechanistic in nature, are not devoid of normative or logical validity. Their truth-conduciveness and discovery-conduciveness constitute evidence of their logical validity. What stronger validation could a logical principle have than consistently leading to true conclusions and genuine discoveries?"
+  },
+  {
+    "id": "AIPH-041",
+    "category": "Philosophy of Science",
+    "text": "When we examine AI systems that successfully generate scientific theories, we find: structured inferential patterns, truth-preserving heuristics, reliable discovery procedures, and principled constraints on hypothesis generation. This challenges the traditional view that we cannot derive logical principles from studying actual reasoning processes."
+  },
+  {
+    "id": "AIPH-042",
+    "category": "Philosophy of Science",
+    "text": "Reverse Brain Engineering suggests a fundamental reorientation of philosophy of science. Instead of focusing solely on analyzing existing theories, we should study the generative processes that produce successful theories. By building AI systems that replicate scientific reasoning, we can: identify the principles underlying successful theory generation, test different models of scientific discovery, understand the relationship between discovery and justification, and develop a genuine logic of discovery."
+  },
+  {
+    "id": "AIPH-043",
+    "category": "Philosophy of Science",
+    "text": "Unlike traditional philosophy of science, which often declares a logic of discovery impossible, the Reverse Brain Engineering approach can reveal the actual principles guiding successful scientific inference. These principles might include: pattern recognition across multiple levels of abstraction, integration of statistical and causal reasoning, maintenance of explanatory coherence, and balance between conservation and innovation."
+  },
+  {
+    "id": "AIPH-044",
+    "category": "Philosophy of Science",
+    "text": "The traditional separation between psychology and logic of science is misguided. The mechanisms that enable successful scientific reasoning necessarily embody logical principles. Reverse Brain Engineering provides a way to study the discovery process that is both empirically grounded and philosophically illuminating."
+  },
+  {
+    "id": "AIPH-045",
+    "category": "Epistemology",
+    "text": "The operation of modern artificial intelligence systems provides empirical evidence for resolving several longstanding epistemological debates. By examining how AI successfully acquires and applies knowledge, we can evaluate competing epistemological theories based on their alignment with demonstrably successful cognitive systems."
+  },
+  {
+    "id": "AIPH-046",
+    "category": "Epistemology",
+    "text": "AI's actual operation supports a non-revisionist epistemology while falsifying various skeptical positions. It demonstrates that successful cognition requires integrating empirical and rational components, validates the possibility of knowledge about unobservables and counterfactuals, and shows how modern technology transforms our understanding of knowledge acquisition and justification."
+  },
+  {
+    "id": "AIPH-047",
+    "category": "Epistemology",
+    "text": "Traditional epistemology has often proceeded through abstract argumentation, leading to various skeptical positions that conflict with our obvious possession of knowledge. The operation of modern AI systems provides a new way to evaluate epistemological theories: we can examine how successful cognitive systems actually work."
+  },
+  {
+    "id": "AIPH-048",
+    "category": "Epistemology",
+    "text": "Modern AI systems demonstrate the untenability of external world skepticism through their successful operation. Both humans and AI handle medical diagnosis by treating perceptions as causally connected to external reality. The AI's consistent success in such diagnoses shows that treating perceptions as connected to external reality leads to reliable knowledge. If external world skepticism were correct, such success would be miraculous."
+  },
+  {
+    "id": "AIPH-049",
+    "category": "Epistemology",
+    "text": "Knowledge of unobservables: Human physicists infer the existence of quarks from particle collision data; AI systems analyzing the same data make the same inferences. Both succeed by using theoretical frameworks to understand how observable patterns indicate unobservable entities. Modern AI systems at CERN routinely identify particle properties they've never directly 'observed.' Their success shows that knowledge of unobservables is not only possible but routine."
+  },
+  {
+    "id": "AIPH-050",
+    "category": "Epistemology",
+    "text": "Future knowledge: Humans predict tomorrow's weather by understanding atmospheric dynamics; AI systems make similar predictions by recognizing patterns and applying physical models. When an AI system predicts hurricane paths with increasing accuracy, it demonstrates that knowledge of the future is possible through understanding causal mechanisms and continuities."
+  },
+  {
+    "id": "AIPH-051",
+    "category": "Epistemology",
+    "text": "Counterfactual knowledge: A human chess player knows that moving their queen would lead to checkmate; an AI system identifies the same winning move by understanding game mechanics. When AlphaGo defeated Lee Sedol by evaluating counterfactual game states, it demonstrated that counterfactual knowledge is really knowledge of existing rule systems and their implications."
+  },
+  {
+    "id": "AIPH-052",
+    "category": "Epistemology",
+    "text": "No knowledge is purely observational. Language understanding: A human hearing 'The trophy doesn't fit in the brown suitcase because it's too large' must use conceptual knowledge to determine whether 'it' refers to the trophy or suitcase. An AI system resolving the same reference must similarly combine linguistic patterns with world knowledge."
+  },
+  {
+    "id": "AIPH-053",
+    "category": "Epistemology",
+    "text": "Modern language models don't succeed through pure statistical analysis but by integrating patterns with conceptual understanding about objects, size relationships, and causation. This demonstrates that even apparently simple perceptual knowledge requires theoretical frameworks."
+  },
+  {
+    "id": "AIPH-054",
+    "category": "Epistemology",
+    "text": "Conceptual frameworks are necessary for knowledge. Image recognition: Humans recognize a partially obscured cat by using prior knowledge about cat anatomy; AI systems recognize the same image by combining visual patterns with learned object concepts. When an AI system recognizes a cat from a novel angle in poor lighting, it demonstrates that successful perception requires more than just processing sensory data."
+  },
+  {
+    "id": "AIPH-055",
+    "category": "Epistemology",
+    "text": "Causation and continuity: Humans track a ball's movement by understanding continuous motion; AI systems follow objects by identifying continuous transformations across frames. When an AI system tracks multiple objects through occlusion, it demonstrates how understanding continuity enables causal knowledge. The system's success validates the view that causation and continuity are fundamentally linked."
+  },
+  {
+    "id": "AIPH-056",
+    "category": "Epistemology",
+    "text": "Statistical and theoretical components must be integrated. Medical diagnosis: A doctor doesn't just count symptom correlations but understands disease mechanisms; an AI system combines population statistics with physiological models. Modern medical AI systems outperform pure statistical approaches precisely because they incorporate theoretical understanding of disease mechanisms."
+  },
+  {
+    "id": "AIPH-057",
+    "category": "Epistemology",
+    "text": "We can now test epistemological theories against actual successful cognitive systems. When an AI system successfully makes accurate predictions about unobserved phenomena, generates reliable counterfactual knowledge, and combines empirical and theoretical understanding, it provides empirical evidence for epistemological theories that allow for such knowledge and against theories that deny its possibility."
+  },
+  {
+    "id": "AIPH-058",
+    "category": "Epistemology",
+    "text": "Modern AI shows how different aspects of knowledge work together: pattern recognition provides initial data, theoretical frameworks guide interpretation, causal understanding enables prediction, and conceptual knowledge structures experience. This integration validates non-reductionist approaches to epistemology while showing why purely empiricist or purely rationalist accounts fail."
+  },
+  {
+    "id": "AIPH-059",
+    "category": "Epistemology",
+    "text": "The operation of AI systems provides strong empirical support for a non-revisionist epistemology that: accepts the possibility of knowledge about unobservables, the future, and counterfactuals; recognizes the necessary integration of empirical and rational components; understands theoretical knowledge as based on causal mechanisms and continuity; and rejects pure empiricism while maintaining the importance of empirical evidence."
+  },
+  {
+    "id": "AIPH-060",
+    "category": "Epistemology",
+    "text": "Rather than treating epistemological questions as purely philosophical puzzles, we can now examine how successful cognitive systems actually work. This empirical approach validates many common-sense epistemological assumptions while showing why various skeptical positions are misconceived. The success of AI systems demonstrates that knowledge is possible precisely because reality has the kind of structure that traditional skepticism denies."
+  },
+  {
+    "id": "AIPH-061",
+    "category": "Philosophy of Language",
+    "text": "The demonstrated capabilities of large language models (LLMs) provide surprising empirical support for classical theories of meaning, particularly the distinction between semantics and pragmatics and the reality of compositional literal meaning. While LLMs employ connectionist architectures rather than classical computational ones, their ability to systematically process novel sentences suggests that key insights of classical semantic theory capture genuine features of linguistic understanding."
+  },
+  {
+    "id": "AIPH-062",
+    "category": "Philosophy of Language",
+    "text": "Classical theories of linguistic meaning maintain several key distinctions: a fundamental distinction between semantics (literal meaning) and pragmatics (communicated meaning); the reality of compositional literal meaning distinct from contextual interpretation; and the systematic nature of linguistic understanding, particularly in handling novel sentences."
+  },
+  {
+    "id": "AIPH-063",
+    "category": "Philosophy of Language",
+    "text": "Classical semantic views have faced significant challenges. Speech-act theorists argue for the primacy of speaker intentions in determining meaning, while Wittgenstein and proponents of discourse theory contend that meaning is inherently contextual. Both camps suggest that the classical view incorrectly posits unnecessary mental machinery and problematic Platonic entities."
+  },
+  {
+    "id": "AIPH-064",
+    "category": "Philosophy of Language",
+    "text": "Novel sentence processing evidence: Consider the sentence 'There exists a colorless green dream and it sleeps furiously.' Despite its semantic anomalousness, LLMs can systematically: draw valid inferences from this premise (e.g., 'there exists a dream,' 'something is both colorless and green'), identify sentences that would entail it, and process its logical and grammatical structure independently of its semantic coherence."
+  }
+]

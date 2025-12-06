@@ -1,0 +1,327 @@
+[
+  {
+    "id": "INTENT-001",
+    "category": "Action Theory",
+    "text": "Intentions are judgments as to how to consolidate one's psychological architecture. Values are beliefs as to what, in general, is conducive to the integrity of one's psychological architecture. These claims are to be understood in terms of Frankfurt's analysis of freedom."
+  },
+  {
+    "id": "INTENT-002",
+    "category": "Free Will/Agency",
+    "text": "According to Locke, you are free to the extent that you can do what you want to do, and you are unfree to the extent that you cannot. Locke holds that freedom is a property of actions, not of desires. One does not desire to desire to go jogging—were it one's desire to desire to go jogging, one would ipso facto already desire to go jogging."
+  },
+  {
+    "id": "INTENT-003",
+    "category": "Free Will/Agency",
+    "text": "Second-order desires do not collapse into first-order desires, contrary to Locke. Frankfurt made this clear through the example of an addicted writer who desires heroin (first-order) but desires not to act on this desire (second-order). If the writer caves in and takes heroin, he is a slave to his desires. If he resists, he is not a slave and his conduct expresses 'free will.'"
+  },
+  {
+    "id": "INTENT-004",
+    "category": "Philosophy of Mind",
+    "text": "By a 'person,' Frankfurt does not mean a member of the species homo sapiens. He means anything that has the same basic psychological architecture that we have: self-conscious, rational about how to attain objectives, and also rational about what those objectives should be."
+  },
+  {
+    "id": "INTENT-005",
+    "category": "Free Will/Agency",
+    "text": "Non-persons are often very clever about how to attain their objectives (beavers building dams), but they are not smart about whether they should be pursuing those objectives in the first place. Persons, on the other hand, do subject their objectives to rational assessment, made possible by self-consciousness."
+  },
+  {
+    "id": "INTENT-006",
+    "category": "Free Will/Agency",
+    "text": "Whenever someone is driven by a rational assessment of their own desires, they are driven by a desire about a desire. Thus, one is rational only to the extent that it is one's second-order desires that drive one's conduct. There is a sense in which rational conduct is free and in which irrational conduct is not."
+  },
+  {
+    "id": "INTENT-007",
+    "category": "Action Theory",
+    "text": "An irrational act can involve an enormous amount of intelligence. Smith building a giant robot to impress his wife might be as intelligent as an act can be, but it was not a rational act. Intelligently carried out though the act was, the act does not embody due regard for Smith's various interests."
+  },
+  {
+    "id": "INTENT-008",
+    "category": "Action Theory",
+    "text": "A rational act is one that embodies due regard for one's various interests. An irrational act is one that does not. An intelligent but impulsive act fails to embody due regard for one's own interests—it involves not taking into account the consequences of one's actions."
+  },
+  {
+    "id": "INTENT-009",
+    "category": "Free Will/Agency",
+    "text": "There's more to being free than being able to do what you want to do. Your desires must reflect who you are. If they don't, those desires belong to you but aren't of you. You are alienated from your own mental states, in much the way that a person with Parkinson's is alienated from his body."
+  },
+  {
+    "id": "INTENT-010",
+    "category": "Action Theory",
+    "text": "Intentional behavior is voluntary behavior. Voluntary behavior is desire-driven behavior. If you don't want to raise your arm, but it goes up anyway, you didn't intend for it to happen. Epileptic fits are not actions. Unintended behaviors are not actions—unlike actions, they're undergone, not done."
+  },
+  {
+    "id": "INTENT-011",
+    "category": "Free Will/Agency",
+    "text": "Estrangement from one's own actions amounts to estrangement from all of one's intentional states. This means that, if you're estranged from your own actions, you are alienated from yourself. The estrangement that a physically handicapped person has from his body is almost trivial by comparison."
+  },
+  {
+    "id": "INTENT-012",
+    "category": "Free Will/Agency",
+    "text": "Frankfurt's revised view: If an act is to be free, it is necessary that it be driven by a second-order desire, but it isn't sufficient. Another condition must be met: one's first-order desires must be consistent with the second-order desires that are driving that act."
+  },
+  {
+    "id": "INTENT-013",
+    "category": "Free Will/Agency",
+    "text": "Person X has no self-control—he binges on drugs and food, hates himself for doing this but can't stop. His life has no meaning and he knows it but will not or cannot do anything about it. Unlike X, Person Y has huge amounts of self-control and never caves to temptation. But everything is a struggle since he's always fighting temptation, like a drowning man trying to stay afloat."
+  },
+  {
+    "id": "INTENT-014",
+    "category": "Free Will/Agency",
+    "text": "One is free insofar as two conditions are met: (i) one acts on one's second-order desires, as opposed to one's first-order desires; and (ii) one's second-order desires are in alignment with one's first-order desires. This combines choice with psychological integration."
+  },
+  {
+    "id": "INTENT-015",
+    "category": "Free Will/Agency",
+    "text": "Three analyses of freedom can be combined: 'x performed act A freely' means 'it is because x chose to do A that he did it, provided that this choice of x's reflects who x really is.' This integrates ability, choice, and authentic self-expression."
+  },
+  {
+    "id": "RUSSELL-001",
+    "category": "Philosophy of Language",
+    "text": "Russell extended Frege's work, showing that some important aspects of Frege's semantics are deeply incoherent. Russell figured out how to eliminate those incoherencies without sacrificing Frege's groundbreaking insights. The Theory of Descriptions was one of his earliest and most important extensions and improvements on Frege's work."
+  },
+  {
+    "id": "RUSSELL-002",
+    "category": "Philosophy of Language",
+    "text": "A definite description is an expression of the form 'the phi,' where phi is in the singular. 'The inventor of Velcro' is a definite description, as is 'the inventor of bifocals.' But 'the people over there' is not a definite description, since 'people' is a plural noun."
+  },
+  {
+    "id": "RUSSELL-003",
+    "category": "Philosophy of Language",
+    "text": "Definite descriptions are in the same grammatical category as 'Mary' and 'Bob' and other proper names. 'The inventor of Velcro is intelligent' has the same grammatical form as 'Bob is intelligent.' But grammatical form and logical form sometimes pull apart."
+  },
+  {
+    "id": "RUSSELL-004",
+    "category": "Philosophy of Language",
+    "text": "'The inventor of Velcro is intelligent' (V) clearly isn't true if nobody invented Velcro. V isn't true if several people invented it. Any inventor of Velcro must be intelligent. So V says: at least one person invented Velcro; at most one person did so; and any such person is intelligent."
+  },
+  {
+    "id": "RUSSELL-005",
+    "category": "Philosophy of Language",
+    "text": "In general, 'the phi has psi' says that something uniquely has phi, and any such thing is psi. This is the logical form underlying definite descriptions, distinct from their grammatical form."
+  },
+  {
+    "id": "RUSSELL-006",
+    "category": "Philosophy of Language",
+    "text": "Even if Bob invented Velcro, 'Bob is intelligent' and 'the inventor of Velcro is intelligent' say different things. The latter would be false in a situation where Bob was intelligent and where some unintelligent person had invented Velcro. But the former would be true in such a situation. They thus have different truth-conditions."
+  },
+  {
+    "id": "RUSSELL-007",
+    "category": "Philosophy of Language",
+    "text": "There is some individual x, namely Bob, such that to know how to use 'Bob' in a sentence one must know that 'Bob' refers to x. But there is no individual x such that 'the inventor of Velcro has psi' is true iff x has psi, no matter what property psi is."
+  },
+  {
+    "id": "RUSSELL-008",
+    "category": "Philosophy of Language",
+    "text": "To know the semantics of 'the inventor of Velcro,' one needn't know who invented Velcro. One only needs to know what whole sentences containing that expression mean. The meaning isn't given by saying who it refers to, but by saying what whole sentences containing it mean."
+  },
+  {
+    "id": "RUSSELL-009",
+    "category": "Philosophy of Language",
+    "text": "Definite descriptions aren't referring terms. No definite description refers to anything. For any property phi, 'the phi' is defined not denotatively, but contextually—by saying what whole sentences containing it mean."
+  },
+  {
+    "id": "RUSSELL-010",
+    "category": "Philosophy of Language",
+    "text": "Where definite descriptions are concerned, grammatical and logical form pull apart. 'Jane is tall' has the same grammar as 'the captain of the volleyball team is tall.' But the propositions they express are structurally very different. The former is, whereas the latter is not, such that for some person x it is true just in case x is tall."
+  },
+  {
+    "id": "RUSSELL-011",
+    "category": "Philosophy of Language",
+    "text": "The Theory of Descriptions (TD): (i) definite descriptions don't refer to anything; and (ii) in virtue of containing a definite description, a sentence attributes properties to other properties, not to individuals."
+  },
+  {
+    "id": "RUSSELL-012",
+    "category": "Philosophy of Language",
+    "text": "'The inventor of Velcro' doesn't refer to anyone or anything. 'The inventor of Velcro is seven-feet tall' doesn't attribute the property of being 7-feet tall to anyone. That sentence says that the property of being a unique inventor of Velcro is instantiated and that the property of being a 7-feet tall Velcro-inventor is also instantiated."
+  },
+  {
+    "id": "RUSSELL-013",
+    "category": "Philosophy of Mind",
+    "text": "'Ponce de Leon believes that the fountain of youth exists' (PFY) is true. It's a simple historical fact. But 'the fountain of youth' doesn't refer to anything—there is no fountain of youth. Before Russell, most philosophers didn't want to give up on the idea that it does refer to something, leading to absurd theories."
+  },
+  {
+    "id": "RUSSELL-014",
+    "category": "Philosophy of Language",
+    "text": "Some claimed the fountain of youth 'exists as an idea.' But fountains are not ideas. When people disagree about whether there is a fountain of youth, they aren't disagreeing about whether some idea exists. If 'exists as an idea' just means we have an idea of such a thing (we know what it would be like), that leaves us no further along."
+  },
+  {
+    "id": "RUSSELL-015",
+    "category": "Metaphysics",
+    "text": "Alexius Meinong proposed that, although it doesn't exist, the fountain of youth 'subsists'—for a thing to subsist is for it to have some status intermediate between existence and non-existence. This doesn't work. First, something either exists or it doesn't; there is no intermediate condition. Second, even if there were, subsistence is a way of failing to exist."
+  },
+  {
+    "id": "RUSSELL-016",
+    "category": "Philosophy of Language",
+    "text": "Russell's solution: 'The fountain of youth' is a definite description. Definite descriptions don't refer to anything. They are to be defined contextually, and sentences containing them must be reparsed if their meaning is to be made clear. 'The fountain of youth exists' means 'the property of being a fountain of youth is uniquely instantiated.'"
+  },
+  {
+    "id": "RUSSELL-017",
+    "category": "Philosophy of Language",
+    "text": "The meaning of 'Ponce de Leon believes that the fountain of youth exists' is: 'Ponce de Leon believes that the property of being a fountain of youth is uniquely instantiated.' This avoids positing non-existent objects or confusing ideas with physical fountains."
+  },
+  {
+    "id": "RUSSELL-018",
+    "category": "Philosophy of Language",
+    "text": "'The monster under little Timmy's bed doesn't exist' (N1) is true. But if 'the monster under little Timmy's bed' referred to something, it wouldn't be true, since there would then exist some monster. Appropriately reparsed, N1 becomes: 'the property of being a monster under little Timmy's bed isn't instantiated.'"
+  },
+  {
+    "id": "RUSSELL-019",
+    "category": "Philosophy of Language",
+    "text": "The property of being a monster under Timmy's bed exists (all this means is that there is a way something would have to be in order to be such a monster). But nothing has that property. The reparsed statement doesn't refer to anything that doesn't exist. Problem solved."
+  },
+  {
+    "id": "RUSSELL-020",
+    "category": "Philosophy of Language",
+    "text": "Before Russell, the going line was to say 'the monster under Timmy's bed doesn't exist' says of some object that it doesn't exist. But that makes no sense—it's the same as saying 'there exists an object (a certain monster) that doesn't exist.' What it really says is that a certain existent property has a very existent property (that of being un-instantiated)."
+  },
+  {
+    "id": "RUSSELL-021",
+    "category": "Philosophy of Language",
+    "text": "To say that expression R refers to object O is to say that, for any property phi, 'R has phi' attributes phi to O. If you want to say of Benjamin Franklin that he's bald, you can do so by saying 'Benjamin Franklin is bald.' If you couldn't attribute baldness to BF by uttering that sentence, then 'Benjamin Franklin' wouldn't refer to BF."
+  },
+  {
+    "id": "RUSSELL-022",
+    "category": "Philosophy of Language",
+    "text": "For any property phi, 'Benjamin Franklin' refers to BF because 'Benjamin Franklin has phi' attributes phi to Benjamin Franklin. For 'Benjamin Franklin' to refer to BF it is both necessary and sufficient that 'Benjamin Franklin has phi' attribute phi to BF. The fact that 'Benjamin Franklin' refers to BF is identical with the fact that it attributes properties to Benjamin Franklin."
+  },
+  {
+    "id": "RUSSELL-023",
+    "category": "Philosophy of Language",
+    "text": "Expression E refers to O if and only if for any property phi 'E has phi' attributes phi to O. E's referring to O may be identified with E's being such that, in virtue of containing it, a sentence ipso facto attributes a property to O."
+  },
+  {
+    "id": "RUSSELL-024",
+    "category": "Philosophy of Language",
+    "text": "Benjamin Franklin invented bifocals and was also the first postmaster general. Therefore 'the inventor of bifocals is identical with the first postmaster general' (CB). It's also true that 'the inventor of bifocals is identical with the inventor of bifocals' (TB). But whereas TB is trivial, CB is non-trivial. This non-triviality is hard to explain if definite descriptions are referring terms."
+  },
+  {
+    "id": "RUSSELL-025",
+    "category": "Philosophy of Language",
+    "text": "According to the theory of descriptions, CB says the same thing as: 'there is some one thing that uniquely invented bifocals and was also a unique first postmaster general' (CBR). CB is true exactly if CBR is true. TD gets the right result. Given that CBR is non-trivial—given that historical knowledge is needed to know it—TD readily explains why CB is non-trivial."
+  },
+  {
+    "id": "RUSSELL-026",
+    "category": "Philosophy of Language",
+    "text": "Suppose 'the fountain of youth exists' (E1) says of some non-existent object O that O exists. In that case, there ipso facto exists nothing to which E1 attributes existence. A precondition for E1's saying anything is that the object in question exist. But in that case, we could conclude from the mere fact that utterances of E1 are meaningful that E1 is true."
+  },
+  {
+    "id": "RUSSELL-027",
+    "category": "Philosophy of Language",
+    "text": "In actuality, 'the fountain of youth exists' is both false and non-trivial. It's false since there's no fountain of youth. It's nontrivial since to know whether it's true, it isn't enough to know what it means. The right analysis: it says that the property of being a fountain of youth is instantiated. Though nothing has it, the property exists."
+  },
+  {
+    "id": "RUSSELL-028",
+    "category": "Philosophy of Language",
+    "text": "In general, 'the phi exists' doesn't make the absurd claim that some non-entity exists; nor does it make the trivial claim that some entity exists: it makes the non-absurd, non-trivial claim that the property of being a phi is instantiated."
+  },
+  {
+    "id": "RUSSELL-029",
+    "category": "Philosophy of Language",
+    "text": "Frege's solution to the identity puzzle: 'The inventor of bifocals' is a referring term that refers to something iff that thing has the property of being a unique bifocal-inventor. There are two dimensions to its semantics: what it refers to (the referent) and the property something must have to be its referent (the sense)."
+  },
+  {
+    "id": "RUSSELL-030",
+    "category": "Philosophy of Language",
+    "text": "According to Frege, 'the inventor of bifocals is identical with the inventor of bifocals' is trivial, but 'the inventor of bifocals is identical with the first postmaster general' is non-trivial because, although the definite descriptions have the same referent, they have different senses."
+  },
+  {
+    "id": "GOD-001",
+    "category": "Philosophy of Religion",
+    "text": "Action presupposes ignorance. If you know with certainty what is going to happen, you cannot coherently attempt to influence what is going to happen and you can therefore cannot intend to act. Thus an all-knowing being would be incapable of action."
+  },
+  {
+    "id": "GOD-002",
+    "category": "Philosophy of Religion",
+    "text": "Only a being that is capable of being changed can experience feelings. If a being is incapable of being changed, then it is not capable of feeling. Therefore an all-powerful being would be incapable of feeling."
+  },
+  {
+    "id": "GOD-003",
+    "category": "Philosophy of Religion",
+    "text": "A being that cannot be changed cannot be changed by anything, including itself. To change oneself is to be changed, albeit by oneself. Therefore, if a being is incapable of being changed, it is unable to change itself."
+  },
+  {
+    "id": "GOD-004",
+    "category": "Philosophy of Religion",
+    "text": "To act is to change oneself. A being that cannot change itself cannot act. Therefore, if a being is all-knowing it cannot act, and if a being is all-powerful it cannot act. If a being is all-powerful, it is completely impotent."
+  },
+  {
+    "id": "GOD-005",
+    "category": "Philosophy of Religion",
+    "text": "The concept of an all-powerful being is incoherent. For similar reasons, the concept of an all-knowing being is incoherent. What follows from this is not that God doesn't exist, but that to the extent that we conceptualize God as all-knowing and all-powerful, we are conceptualizing Him in an incoherent manner."
+  },
+  {
+    "id": "GOD-006",
+    "category": "Philosophy of Religion",
+    "text": "To the extent that the world falls within the scope of physics, it is entropic—it disintegrates. Energy assumes increasingly disorganized forms (second law of thermodynamics). But to the extent the world falls within the scope of biology, it is counter-entropic."
+  },
+  {
+    "id": "GOD-007",
+    "category": "Philosophy of Religion",
+    "text": "For an organism to grow and develop is for it to assume an increasingly sophisticated and energy-efficient form. What is true of biology is doubly true of psychology. To the extent that an organism has a mental dimension, it is more energy-efficient than it would otherwise be, psychological growth being a particularly extreme way of increasing an organism's level of energy-efficiency."
+  },
+  {
+    "id": "GOD-008",
+    "category": "Philosophy of Religion",
+    "text": "It is only to the extent that the universe is disintegrating—that it is ceasing to be what it is—that it lacks consciousness. Contrariwise, to the extent that the universe is growing—that it is becoming what it truly is—it has consciousness."
+  },
+  {
+    "id": "GOD-009",
+    "category": "Philosophy of Religion",
+    "text": "It is inherent in existence that existence be conscious. It is inherent not in existence, but only in the cessation thereof, that it lack sentience. Given that existence is inherently sentient, there is ipso facto a God, that God being the universe itself."
+  },
+  {
+    "id": "GOD-010",
+    "category": "Philosophy of Religion",
+    "text": "The universe itself, far from being the cold and mechanical being described by physics, is, in the final analysis, pulsating with life and thought. Physics describes only the disintegrating aspect of reality; consciousness and life represent its essential, integrating aspect."
+  },
+  {
+    "id": "OCD-001",
+    "category": "Psychoanalysis",
+    "text": "Obsessive beliefs are pseudo-beliefs, and compulsive acts are pseudo-acts. If a person obsesses about his hatred of someone, that is because he is not yet done with that person. He is still attached to that person. Since he will not admit that fact to himself, this lingering attachment is represented in his consciousness as obsessive hatred."
+  },
+  {
+    "id": "OCD-002",
+    "category": "Psychoanalysis",
+    "text": "If someone obsesses about the idea that someone is listening in on his phone calls, it is because he fears that no one cares about him. If someone is obsessed with such and such, it is because what he really believes is the opposite of such and such. In general, if someone obsessionally believes that such and such, it is because what he actually believes is the opposite."
+  },
+  {
+    "id": "OCD-003",
+    "category": "Psychoanalysis",
+    "text": "If one compulsively does such and such, it is because one's real intention is to do the opposite of such and such. If a person compulsively avoids his ex-girlfriend, it is because he wants to see her. He is afraid that if he runs into her, he will succumb to temptation and reactivate the relationship."
+  },
+  {
+    "id": "OCD-004",
+    "category": "Psychoanalysis",
+    "text": "The son who compulsively dotes on his mother actually hates his mother. If he wholeheartedly loved her, he would be able to tend to her without feeling compelled to do so. But since he does not wholeheartedly love—since, in fact, a part of him utterly hates her—he must be compulsively loving as opposed to actually loving."
+  },
+  {
+    "id": "OCD-005",
+    "category": "Psychoanalysis",
+    "text": "Compulsive love is actually unconscious hatred. When the hatred becomes conscious, any associated compulsions vanish. The essence of OCD is ambivalence. The compulsively doting son both loves and hates his mother."
+  },
+  {
+    "id": "OCD-006",
+    "category": "Psychoanalysis",
+    "text": "Because he loves his mother, his desire not to have lunch with her must express itself circuitously. Perhaps he shows up late for his lunch date. Or perhaps he shows up two hours early, so as to hedge against the possibility of his not showing up at all. He may be compulsively on time—hyper on time—as a way of insulating himself against his wish not to show up."
+  },
+  {
+    "id": "OCD-007",
+    "category": "Psychoanalysis",
+    "text": "Because of emotional polarity within him, the obsessional engages in what Freud refers to as 'doing and undoing.' He does a given thing. Then he undoes it. And then undoes his undoing of it. He starts driving to his mother's house, realizes he left his wallet at home and goes back, then wonders whether he left the sink running and goes back inside again."
+  },
+  {
+    "id": "OCD-008",
+    "category": "Psychoanalysis",
+    "text": "The fear about the stove left on represents undischarged libido. If the son actually has a girlfriend and really wants to ditch mom to spend time with her, his fear about the stove represents his undischarged libido—the stove represents his passionate desire for his girlfriend."
+  },
+  {
+    "id": "OCD-009",
+    "category": "Psychoanalysis",
+    "text": "His 'fear' the stove will explode is really his desire that he—meaning his genital region—will, so to speak, 'explode.' His doing and undoing—his on-again/off-again behavior—itself represents his undischarged libido."
+  },
+  {
+    "id": "OCD-010",
+    "category": "Psychoanalysis",
+    "text": "The doing part of his behavior represents his love for his mother. The undoing represents his antipathy towards her. The compulsiveness that characterizes his behavior represents a stalemate between his love and his hatred. If he loved her more than he hated her, he would simply 'do' (drive there). If he simply hated her, he would simply not do (not head out). But neither emotion has the upper hand, so he both does and undoes."
+  }
+]

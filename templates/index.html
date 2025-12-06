@@ -1,0 +1,194 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>FreudGPT - Thinker's Workshop</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;500;600;700&family=Inter:wght@300;400;500;600&family=Crimson+Pro:ital,wght@0,400;0,500;1,400&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+    <div class="workshop-container">
+        <header class="workshop-header">
+            <div class="header-brand">
+                <div class="brand-icon">📜</div>
+                <div class="brand-text">
+                    <h1>FreudGPT</h1>
+                    <span class="tagline">The Thinker's Workshop</span>
+                </div>
+            </div>
+            <div class="header-actions">
+                <button id="download-chat-btn" class="btn-icon" title="Download Chat">
+                    <span class="icon">📥</span>
+                </button>
+                <button id="clear-chat-btn" class="btn-icon" title="Clear Chat">
+                    <span class="icon">🗑️</span>
+                </button>
+                <button id="settings-toggle" class="btn-icon" title="Settings">
+                    <span class="icon">⚙️</span>
+                </button>
+                <div id="user-status" class="user-status"></div>
+            </div>
+        </header>
+
+        <div id="login-modal" class="modal" style="display: none;">
+            <div class="modal-content scholarly-modal">
+                <div class="modal-header">
+                    <span class="modal-icon">🔑</span>
+                    <h2>Enter the Workshop</h2>
+                </div>
+                <p class="note">Login is optional. It lets you save chat history (coming soon).</p>
+                <input type="text" id="username-input" placeholder="Your name, scholar..." class="scholarly-input">
+                <div class="modal-actions">
+                    <button id="login-submit-btn" class="btn-primary scholarly-btn">Enter</button>
+                    <button id="login-cancel-btn" class="btn-secondary">Perhaps Later</button>
+                </div>
+            </div>
+        </div>
+
+        <main class="workshop-main">
+            <div class="dual-panel-container">
+                <div class="panel-dialogue" id="dialogue-panel">
+                    <div class="panel-header">
+                        <span class="panel-icon">💬</span>
+                        <h2>The Dialogue</h2>
+                    </div>
+                    <div id="messages" class="dialogue-content"></div>
+                </div>
+
+                <div class="panel-archive" id="archive-panel">
+                    <div class="panel-header">
+                        <span class="panel-icon">📚</span>
+                        <h2>The Archive</h2>
+                    </div>
+                    <div id="sources-display" class="archive-content">
+                        <div class="archive-placeholder">
+                            <div class="placeholder-icon">📖</div>
+                            <p>Source texts will appear here as the thinker responds...</p>
+                            <p class="placeholder-hint">Watch the original passages that inform each answer</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="input-section">
+                <div class="controls-bar" id="controls-bar">
+                    <div class="thinker-selector">
+                        <div class="thinker-avatars">
+                            <button class="avatar-btn active" data-db="freud" title="Sigmund Freud">
+                                <div class="avatar-image freud-avatar">👴</div>
+                                <span class="avatar-name">Freud</span>
+                                <span class="avatar-count" id="freud-count">7,187</span>
+                            </button>
+                            <button class="avatar-btn" data-db="kuczynski" title="J.-M. Kuczynski (ZHI)">
+                                <div class="avatar-image zhi-avatar">🤓</div>
+                                <span class="avatar-name">ZHI</span>
+                                <span class="avatar-count" id="zhi-count">8,343</span>
+                            </button>
+                            <button class="avatar-btn" data-db="jung" title="Carl Jung">
+                                <div class="avatar-image jung-avatar">🧔</div>
+                                <span class="avatar-name">Jung</span>
+                                <span class="avatar-count" id="jung-count">197</span>
+                            </button>
+                        </div>
+                    </div>
+
+                    <div class="provider-selector">
+                        <select id="provider-select" class="scholarly-select">
+                            <option value="">Loading...</option>
+                        </select>
+                        <select id="model-select" class="scholarly-select">
+                            <option value="">Default</option>
+                        </select>
+                    </div>
+
+                    <div class="settings-controls">
+                        <div class="scroll-control">
+                            <label>Answer Length</label>
+                            <div class="scroll-slider-container">
+                                <input type="range" id="answer-length" min="100" max="1000" value="500" step="50" class="scroll-slider">
+                                <span id="answer-length-value" class="slider-value">500</span>
+                            </div>
+                        </div>
+                        <div class="quill-control">
+                            <label>Quotes</label>
+                            <div class="quill-container">
+                                <input type="range" id="quote-count" min="1" max="15" value="5" step="1" class="quill-slider">
+                                <span id="quote-count-value" class="slider-value">5</span>
+                            </div>
+                        </div>
+                        <div class="enhanced-toggle">
+                            <label class="spark-toggle">
+                                <input type="checkbox" id="enhanced-mode-toggle" checked>
+                                <span class="spark-switch"></span>
+                                <span class="spark-label">Enhanced</span>
+                            </label>
+                        </div>
+                        <div class="font-size-control">
+                            <label>🔤 Text Size</label>
+                            <div class="font-slider-container">
+                                <input type="range" id="font-size-slider" min="60" max="250" value="100" step="10" class="font-slider">
+                                <span id="font-size-value" class="slider-value">100%</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="compose-area">
+                    <div class="compose-container">
+                        <textarea 
+                            id="user-input" 
+                            placeholder="Pose your question to the thinker..."
+                            rows="3"
+                        ></textarea>
+                        <div class="compose-actions">
+                            <button id="upload-btn" class="btn-compose" title="Upload Document">
+                                <span class="icon">📎</span>
+                            </button>
+                            <button id="submit-btn" class="btn-submit">
+                                <span class="btn-text">Consult</span>
+                                <span class="btn-icon">→</span>
+                            </button>
+                        </div>
+                    </div>
+                    <input type="file" id="file-input" accept=".pdf,.doc,.docx,.txt" hidden>
+                </div>
+            </div>
+        </main>
+
+        <div id="knowledge-panel" class="knowledge-panel" style="display: none;">
+            <div class="knowledge-header">
+                <span class="knowledge-icon">📚</span>
+                <span class="knowledge-title">From the Archives</span>
+            </div>
+            <div class="knowledge-content">
+                <div class="quote-carousel">
+                    <div class="quote-card active">
+                        <div class="quote-text"></div>
+                        <div class="quote-domain"></div>
+                    </div>
+                </div>
+                <div class="fact-strip">
+                    <span class="fact-icon">💡</span>
+                    <span class="fact-text"></span>
+                    <span class="fact-year"></span>
+                </div>
+            </div>
+            <div class="knowledge-progress">
+                <div class="progress-dots"></div>
+            </div>
+        </div>
+
+        <footer class="workshop-footer">
+            <div class="footer-content">
+                <span class="footer-icon">⚗️</span>
+                <p id="footer-stats">Loading philosophical positions...</p>
+            </div>
+        </footer>
+    </div>
+
+    <script src="{{ url_for('static', filename='app.js') }}"></script>
+</body>
+</html>

@@ -1,0 +1,165 @@
+{
+  "works_inventory_additions": [
+    {
+      "work_id": "WORK-039",
+      "title": "Uniquely Individuating Descriptions (and related early papers on reference and conception)",
+      "source_file": "uniquely individuating descriptions.doc",
+      "type": "philosophical_essay",
+      "estimated_pages": 90,
+      "status": "100% extracted",
+      "priority_domains": [
+        "philosophy_of_language",
+        "epistemology",
+        "philosophy_of_mind",
+        "metaphysics"
+      ],
+      "key_innovation": "Descriptivism-compatible causal theory of reference and conception; interlocking uniquely individuating descriptions (UIDs)"
+    },
+    {
+      "work_id": "WORK-040",
+      "title": "How not to be a Fodorean about concepts (and related papers on conceptual atomism)",
+      "source_file": "How not to be a Fodorean about concepts.doc",
+      "type": "philosophical_essay",
+      "estimated_pages": 70,
+      "status": "100% extracted",
+      "priority_domains": [
+        "philosophy_of_mind",
+        "epistemology",
+        "philosophy_of_language"
+      ],
+      "key_innovation": "Refutation of Fodor’s conceptual atomism; positive theory of concepts as sustained by chains of interlocking existence-claims"
+    }
+  ],
+
+  "positions_additions": [
+    {
+      "position_id": "LANG-050",
+      "work_id": "WORK-039",
+      "domain": "philosophy_of_language",
+      "title": "One must possess a uniquely individuating description (UID) to refer to or think about an object",
+      "thesis": "Reference and conception require knowledge of some true existential claim of the form ‘∃x (x uniquely φs & “N” names x)’. Without such a UID there is no reference and no thought about the object.",
+      "consistency": "Perfect alignment with anti-descriptivist semantics but pro-descriptivist epistemology",
+      "key_arguments": [
+        "Even in causal-chain cases (Kripke-style baptism + transmission) the subject always acquires and retains some UID (often indexical and situation-specific).",
+        "Ostensive and descriptive definitions both collapse into knowledge of UIDs.",
+        "Cases of apparent acquisition without description (e.g., overhearing ‘Argo’) still involve implicit UIDs such as ‘the person Smith and Jones are talking about on this occasion’."
+      ],
+      "related_positions": [
+        "EP-127",
+        "MIND-075",
+        "LANG-027"
+      ]
+    },
+    {
+      "position_id": "LANG-051",
+      "work_id": "WORK-039",
+      "domain": "philosophy_of_language",
+      "title": "Proper names are labels, not disguised descriptions, but reference always requires a UID",
+      "thesis": "Semantically, ‘Socrates’ is a rigid label with no descriptive content (Kripke correct), yet epistemically one can only use the label referentially if one knows a UID that singles out its bearer.",
+      "key_arguments": [
+        "Distinction between literal meaning (pure reference) and cognitive significance / conditions of tokening.",
+        "Scope distinctions: wide-scope descriptive information fixes reference but is not part of meaning (S1 vs S2 vs S3)."
+      ],
+      "related_positions": [
+        "LANG-050",
+        "MODAL-023"
+      ]
+    },
+    {
+      "position_id": "LANG-052",
+      "work_id": "WORK-039",
+      "domain": "philosophy_of_language",
+      "title": "Interlocking chains of uniquely individuating descriptions sustain conception over time",
+      "thesis": "The original UID is forgotten but replaced by new, interlocking UIDs that inherit the verifier of the previous ones; at every moment conception involves possession of some current UID.",
+      "key_arguments": [
+        "Fred-at-the-party example: (e1) → (e2) → (e3) → … each new UID interlocks with the previous.",
+        "Recognition consists in seeing that one object satisfies two distinct UIDs.",
+        "Explains Hesperus/Phosphorus cognitive difference without abandoning direct reference."
+      ],
+      "related_positions": [
+        "LANG-050",
+        "EP-128",
+        "MIND-075"
+      ]
+    },
+    {
+      "position_id": "LANG-053",
+      "work_id": "WORK-039",
+      "domain": "philosophy_of_language",
+      "title": "Causal connections are subordinate to knowledge of UIDs",
+      "thesis": "Causal chains are essential but play a subordinate role: they facilitate acquisition and transmission of UIDs; the proximate mechanism of reference/conception is always the subject’s knowledge of a UID.",
+      "related_positions": [
+        "LANG-050",
+        "LANG-052"
+      ]
+    },
+    {
+      "position_id": "MIND-080",
+      "work_id": "WORK-040",
+      "domain": "philosophy_of_mind",
+      "title": "Conceptual atomism is false; no concept is graspable in complete isolation",
+      "thesis": "Possession of any concept presupposes possession of many others; there are no atomic concepts (contra Fodor).",
+      "key_arguments": [
+        "Even apparently simple concepts (redness, phenomenal concepts, square) require rich background conceptual networks.",
+        "Sense-perception itself has descriptive/conceptual structure and presupposes grasp of properties."
+      ],
+      "targets": [
+        "Jerry Fodor (Concepts, 1998)"
+      ],
+      "related_positions": [
+        "EP-128",
+        "MIND-075"
+      ]
+    },
+    {
+      "position_id": "MIND-081",
+      "work_id": "WORK-040",
+      "domain": "philosophy_of_mind",
+      "title": "Conception of an object is sustained by chains of interlocking existence-claims (UIDs)",
+      "thesis": "The positive theory: having a concept of x = currently knowing some true existential claim that uniquely picks out x; these claims form diachronic chains that replace one another while preserving reference.",
+      "key_arguments": [
+        "Start-up UID drops out but is replaced by new interlocking UID.",
+        "Recognition = seeing that one object satisfies two UIDs.",
+        "Accounts for forgetting baptismal circumstances while retaining ability to think about the object."
+      ],
+      "related_positions": [
+        "LANG-052",
+        "EP-127",
+        "EP-128"
+      ]
+    },
+    {
+      "position_id": "MIND-082",
+      "work_id": "WORK-040",
+      "domain": "philosophy_of_mind",
+      "title": "Fodor’s three arguments for atomism all fail",
+      "thesis": "Fodor’s arguments (from informational semantics, from productivity, from compositionality failures) contain non-sequiturs and do not establish conceptual atomism.",
+      "related_positions": [
+        "MIND-080"
+      ]
+    },
+    {
+      "position_id": "EP-150",
+      "work_id": "WORK-039",
+      "domain": "epistemology",
+      "title": "Kripkean causal-historical theory is compatible with (and requires) descriptivism at the epistemic level",
+      "thesis": "Nothing in Naming and Necessity forces abandonment of the view that thought about x requires a uniquely individuating description of x; in fact Kripke’s own account presupposes such descriptions.",
+      "related_positions": [
+        "LANG-050",
+        "LANG-051",
+        "LANG-053"
+      ]
+    },
+    {
+      "position_id": "EP-151",
+      "work_id": "WORK-039",
+      "domain": "epistemology",
+      "title": "Pure non-descriptive conception is impossible",
+      "thesis": "The popular view (derived from misreadings of Kripke) that one can have ‘pure’ thought about an object without any individuating description is false; conception is never descriptively blank.",
+      "related_positions": [
+        "LANG-052",
+        "MIND-081"
+      ]
+    }
+  ]
+}

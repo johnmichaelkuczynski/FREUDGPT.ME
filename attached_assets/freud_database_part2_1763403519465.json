@@ -1,0 +1,1089 @@
+{
+  "metadata": {
+    "philosopher": "Sigmund Freud",
+    "extraction_date": "2024",
+    "source_document": "Freud - Complete Works Part 2",
+    "total_positions": 91,
+    "works_covered": [
+      "Studies on Hysteria (continued)",
+      "The Neuro-Psychoses of Defence",
+      "Heredity and the Aetiology of the Neuroses",
+      "Further Remarks on the Neuro-Psychoses of Defence",
+      "Sexuality in the Aetiology of the Neuroses",
+      "Charcot obituary"
+    ],
+    "domains_covered": [
+      "affect",
+      "anxiety",
+      "classification",
+      "clinical_observation",
+      "clinical_technique",
+      "consciousness",
+      "conversion",
+      "defense",
+      "development",
+      "ego",
+      "ethics",
+      "etiology",
+      "gender",
+      "hallucination",
+      "heredity",
+      "hysteria",
+      "interpretation",
+      "memory",
+      "methodology",
+      "mind_body",
+      "neurasthenia",
+      "neurosis",
+      "obsessions",
+      "phobias",
+      "psychopathology",
+      "psychosis",
+      "psychosomatic",
+      "rationality",
+      "reality",
+      "resistance",
+      "scientific_practice",
+      "sexuality",
+      "symptoms",
+      "therapeutic_goals",
+      "therapy",
+      "transference",
+      "trauma",
+      "unconscious",
+      "will",
+      "wish_fulfillment"
+    ]
+  },
+  "positions": [
+    {
+      "id": "FREUD-0044",
+      "position": "Defense consists in turning a strong idea into a weak one by robbing it of its affect",
+      "domain": [
+        "defense",
+        "affect",
+        "psychopathology"
+      ],
+      "source": "Studies on Hysteria",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0045",
+      "position": "Pathogenic recollections are recognizable by patients describing them as unimportant while uttering them under resistance",
+      "domain": [
+        "clinical_technique",
+        "resistance",
+        "memory"
+      ],
+      "source": "Studies on Hysteria",
+      "type": "clinical_observation"
+    },
+    {
+      "id": "FREUD-0046",
+      "position": "Patients try to disown emerging pathogenic memories by claiming the analyst put them in their head",
+      "domain": [
+        "resistance",
+        "clinical_technique",
+        "defense"
+      ],
+      "source": "Studies on Hysteria",
+      "type": "clinical_observation"
+    },
+    {
+      "id": "FREUD-0047",
+      "position": "The analyst must remain unshakeable and recognize memories despite patients' disavowals and resistance",
+      "domain": [
+        "clinical_technique",
+        "methodology"
+      ],
+      "source": "Studies on Hysteria",
+      "type": "methodological_claim"
+    },
+    {
+      "id": "FREUD-0048",
+      "position": "Hysterical patients of a visual type do not make such difficulties for the analyst as those with obsessions",
+      "domain": [
+        "clinical_technique",
+        "hysteria",
+        "obsessions"
+      ],
+      "source": "Studies on Hysteria",
+      "type": "clinical_observation"
+    },
+    {
+      "id": "FREUD-0049",
+      "position": "Memory pictures become fragmentary and obscure as the patient describes them because describing converts them into words",
+      "domain": [
+        "memory",
+        "clinical_technique",
+        "consciousness"
+      ],
+      "source": "Studies on Hysteria",
+      "type": "clinical_observation"
+    },
+    {
+      "id": "FREUD-0050",
+      "position": "When a memory picture remains obstinately before the patient's inward eye despite description, this indicates important material remains untold",
+      "domain": [
+        "clinical_technique",
+        "memory",
+        "methodology"
+      ],
+      "source": "Studies on Hysteria",
+      "type": "clinical_observation"
+    },
+    {
+      "id": "FREUD-0051",
+      "position": "Pathogenic psychical material is stratified in concentric layers around a pathogenic nucleus",
+      "domain": [
+        "psychopathology",
+        "methodology",
+        "unconscious"
+      ],
+      "source": "Studies on Hysteria",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0052",
+      "position": "Symptoms are overdetermined - a single symptom is determined in several ways by multiple pathogenic threads",
+      "domain": [
+        "psychopathology",
+        "symptoms",
+        "etiology"
+      ],
+      "source": "Studies on Hysteria",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0053",
+      "position": "Pathogenic material is organized according to thought-content through logical threads that take irregular, twisting paths to the nucleus",
+      "domain": [
+        "psychopathology",
+        "unconscious",
+        "methodology"
+      ],
+      "source": "Studies on Hysteria",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0054",
+      "position": "Pathogenic organization behaves not like a foreign body but like an infiltrate whose external strata pass imperceptibly into the normal ego",
+      "domain": [
+        "psychopathology",
+        "ego",
+        "methodology"
+      ],
+      "source": "Studies on Hysteria",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0055",
+      "position": "Treatment does not consist in extirpating pathogenic material but in causing resistance to melt and enabling circulation into cut-off regions",
+      "domain": [
+        "therapy",
+        "clinical_technique",
+        "resistance"
+      ],
+      "source": "Studies on Hysteria",
+      "type": "therapeutic_principle"
+    },
+    {
+      "id": "FREUD-0056",
+      "position": "Only a single memory at a time can enter ego-consciousness through the defile of consciousness",
+      "domain": [
+        "consciousness",
+        "memory",
+        "psychopathology"
+      ],
+      "source": "Studies on Hysteria",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0057",
+      "position": "It is hopeless to try to penetrate directly to the nucleus of the pathogenic organization even if the analyst could guess it",
+      "domain": [
+        "clinical_technique",
+        "methodology",
+        "resistance"
+      ],
+      "source": "Studies on Hysteria",
+      "type": "methodological_claim"
+    },
+    {
+      "id": "FREUD-0058",
+      "position": "The analyst must work from the periphery inward radially while the patient handles the peripheral extension of the work",
+      "domain": [
+        "clinical_technique",
+        "methodology",
+        "therapy"
+      ],
+      "source": "Studies on Hysteria",
+      "type": "methodological_claim"
+    },
+    {
+      "id": "FREUD-0059",
+      "position": "Gaps and imperfections in the patient's account reveal approaches to material in deeper layers",
+      "domain": [
+        "clinical_technique",
+        "methodology",
+        "resistance"
+      ],
+      "source": "Studies on Hysteria",
+      "type": "clinical_observation"
+    },
+    {
+      "id": "FREUD-0060",
+      "position": "Neurosis does not relax the laws of logical connection and sufficient motivation in trains of thought",
+      "domain": [
+        "psychopathology",
+        "neurosis",
+        "rationality"
+      ],
+      "source": "Studies on Hysteria",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0061",
+      "position": "The analyst must reject the theoretical prejudice that hysterics have abnormal brains that throw overboard common psychological laws",
+      "domain": [
+        "methodology",
+        "psychopathology",
+        "hysteria"
+      ],
+      "source": "Studies on Hysteria",
+      "type": "methodological_claim"
+    },
+    {
+      "id": "FREUD-0062",
+      "position": "Once concealed unconscious motives are discovered, nothing puzzling or contrary to rule remains in hysterical thought connections",
+      "domain": [
+        "unconscious",
+        "hysteria",
+        "psychopathology"
+      ],
+      "source": "Studies on Hysteria",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0063",
+      "position": "Transference onto the physician occurs through a false connection when pathogenic wishes link to the analyst through compulsion to associate",
+      "domain": [
+        "transference",
+        "clinical_technique",
+        "therapy"
+      ],
+      "source": "Studies on Hysteria",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0064",
+      "position": "Patients are deceived afresh every time transference repeats, not recognizing the false connection",
+      "domain": [
+        "transference",
+        "clinical_observation",
+        "resistance"
+      ],
+      "source": "Studies on Hysteria",
+      "type": "clinical_observation"
+    },
+    {
+      "id": "FREUD-0065",
+      "position": "Transference must be treated as a new symptom produced on the old model and made conscious to the patient",
+      "domain": [
+        "transference",
+        "clinical_technique",
+        "therapy"
+      ],
+      "source": "Studies on Hysteria",
+      "type": "therapeutic_principle"
+    },
+    {
+      "id": "FREUD-0066",
+      "position": "Transference resistances arise from fear of becoming sexually dependent on the physician",
+      "domain": [
+        "transference",
+        "resistance",
+        "sexuality"
+      ],
+      "source": "Studies on Hysteria",
+      "type": "clinical_observation"
+    },
+    {
+      "id": "FREUD-0067",
+      "position": "Patients must overcome the distressing affect of entertaining forbidden wishes whether in historical or present therapeutic instances",
+      "domain": [
+        "therapy",
+        "affect",
+        "transference"
+      ],
+      "source": "Studies on Hysteria",
+      "type": "therapeutic_principle"
+    },
+    {
+      "id": "FREUD-0068",
+      "position": "Transferences are compulsions and illusions that melt away with the conclusion of analysis",
+      "domain": [
+        "transference",
+        "therapy",
+        "clinical_technique"
+      ],
+      "source": "Studies on Hysteria",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0069",
+      "position": "Failing to make the obstacle of transference clear would give patients a new hysterical symptom in exchange for the spontaneous one",
+      "domain": [
+        "transference",
+        "therapy",
+        "clinical_technique"
+      ],
+      "source": "Studies on Hysteria",
+      "type": "therapeutic_principle"
+    },
+    {
+      "id": "FREUD-0070",
+      "position": "Cathartic psychotherapy gains its justification not from removing pathology but from establishing conditions for healthier functioning",
+      "domain": [
+        "therapy",
+        "therapeutic_goals"
+      ],
+      "source": "Studies on Hysteria",
+      "type": "therapeutic_principle"
+    },
+    {
+      "id": "FREUD-0071",
+      "position": "The goal of therapy is transforming hysterical misery into common unhappiness",
+      "domain": [
+        "therapy",
+        "therapeutic_goals"
+      ],
+      "source": "Studies on Hysteria",
+      "type": "therapeutic_principle"
+    },
+    {
+      "id": "FREUD-0072",
+      "position": "The splitting of consciousness in defence hysteria results from an act of will on the part of the patient, not from innate weakness",
+      "domain": [
+        "hysteria",
+        "defense",
+        "consciousness",
+        "psychopathology"
+      ],
+      "source": "The Neuro-Psychoses of Defence",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0073",
+      "position": "Defence hysteria arises when the ego is faced with an incompatible idea that arouses such distressing affect that the subject decides to forget about it",
+      "domain": [
+        "hysteria",
+        "defense",
+        "affect",
+        "etiology"
+      ],
+      "source": "The Neuro-Psychoses of Defence",
+      "type": "etiological_claim"
+    },
+    {
+      "id": "FREUD-0074",
+      "position": "In females incompatible ideas arise chiefly on the soil of sexual experience and sensation",
+      "domain": [
+        "sexuality",
+        "defense",
+        "gender",
+        "etiology"
+      ],
+      "source": "The Neuro-Psychoses of Defence",
+      "type": "clinical_observation"
+    },
+    {
+      "id": "FREUD-0075",
+      "position": "In defence hysteria, the ego weakens the incompatible idea by transforming its sum of excitation into somatic innervation - this is conversion",
+      "domain": [
+        "hysteria",
+        "defense",
+        "conversion",
+        "psychosomatic"
+      ],
+      "source": "The Neuro-Psychoses of Defence",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0076",
+      "position": "The idea that has been weakened through conversion persists as a weak idea in consciousness or recurs during attacks",
+      "domain": [
+        "hysteria",
+        "conversion",
+        "consciousness"
+      ],
+      "source": "The Neuro-Psychoses of Defence",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0077",
+      "position": "Hysterical conversion can be either total or partial",
+      "domain": [
+        "hysteria",
+        "conversion",
+        "symptoms"
+      ],
+      "source": "The Neuro-Psychoses of Defence",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0078",
+      "position": "Ideational material in hysteria is transformed into chronic symptoms and acute attacks of hysteria",
+      "domain": [
+        "hysteria",
+        "symptoms",
+        "conversion"
+      ],
+      "source": "The Neuro-Psychoses of Defence",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0079",
+      "position": "The conversion mechanism of defence hysteria can be arrived at by an effort of will",
+      "domain": [
+        "hysteria",
+        "defense",
+        "conversion",
+        "will"
+      ],
+      "source": "The Neuro-Psychoses of Defence",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0080",
+      "position": "Defence hysteria and hypnoid hysteria are distinguishable forms with different mechanisms",
+      "domain": [
+        "hysteria",
+        "psychopathology",
+        "classification"
+      ],
+      "source": "The Neuro-Psychoses of Defence",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0081",
+      "position": "In obsessions and phobias, separation of the incompatible idea from its affect occurs, but the affect remains in the psychical sphere",
+      "domain": [
+        "obsessions",
+        "phobias",
+        "affect",
+        "defense"
+      ],
+      "source": "The Neuro-Psychoses of Defence",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0082",
+      "position": "The liberated affect attaches itself to other suitable but not incompatible ideas, producing obsessional ideas or phobias",
+      "domain": [
+        "obsessions",
+        "phobias",
+        "affect",
+        "defense"
+      ],
+      "source": "The Neuro-Psychoses of Defence",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0083",
+      "position": "Transposition of affect is the mechanism of defence in obsessions and phobias",
+      "domain": [
+        "obsessions",
+        "phobias",
+        "defense",
+        "affect"
+      ],
+      "source": "The Neuro-Psychoses of Defence",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0084",
+      "position": "The ego gains less advantage from transposition of affect than from hysterical conversion because the affect remains unaltered and undiminished",
+      "domain": [
+        "defense",
+        "affect",
+        "hysteria",
+        "obsessions"
+      ],
+      "source": "The Neuro-Psychoses of Defence",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0085",
+      "position": "Patients are astonished by their obsessional affects while the physician finds the affect justified but wrongly attached",
+      "domain": [
+        "obsessions",
+        "clinical_observation",
+        "affect"
+      ],
+      "source": "The Neuro-Psychoses of Defence",
+      "type": "clinical_observation"
+    },
+    {
+      "id": "FREUD-0086",
+      "position": "Obsessional affects represent dislodged or transposed affects that can be retranslated into sexual terms",
+      "domain": [
+        "obsessions",
+        "affect",
+        "sexuality",
+        "interpretation"
+      ],
+      "source": "The Neuro-Psychoses of Defence",
+      "type": "interpretive_principle"
+    },
+    {
+      "id": "FREUD-0087",
+      "position": "Liberated anxiety seizes upon common primary phobias of mankind or upon things unmistakably associated with the sexual",
+      "domain": [
+        "phobias",
+        "anxiety",
+        "sexuality",
+        "defense"
+      ],
+      "source": "The Neuro-Psychoses of Defence",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0088",
+      "position": "The separation of idea from affect and the false connection are processes that occur without consciousness",
+      "domain": [
+        "unconscious",
+        "defense",
+        "affect",
+        "psychopathology"
+      ],
+      "source": "The Neuro-Psychoses of Defence",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0089",
+      "position": "The processes of separation and false connection may be physical processes whose psychical consequences present themselves as if psychological changes had occurred",
+      "domain": [
+        "psychopathology",
+        "mind_body",
+        "defense"
+      ],
+      "source": "The Neuro-Psychoses of Defence",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0090",
+      "position": "Patients aware of the sexual origin of their obsessions often keep them secret",
+      "domain": [
+        "obsessions",
+        "sexuality",
+        "clinical_observation"
+      ],
+      "source": "The Neuro-Psychoses of Defence",
+      "type": "clinical_observation"
+    },
+    {
+      "id": "FREUD-0091",
+      "position": "A third method of defence leads to hallucinatory confusion where the ego rejects the incompatible idea together with its affect and behaves as if the idea had never approached it",
+      "domain": [
+        "psychosis",
+        "defense",
+        "hallucination"
+      ],
+      "source": "The Neuro-Psychoses of Defence",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0092",
+      "position": "In hallucinatory psychosis, the ego breaks away from the incompatible idea but this is inseparably attached to reality, so the ego also detaches itself from reality",
+      "domain": [
+        "psychosis",
+        "defense",
+        "reality",
+        "ego"
+      ],
+      "source": "The Neuro-Psychoses of Defence",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0093",
+      "position": "The ego creates for itself a wishful psychosis in hallucinatory confusion as a substitute for the intolerable reality",
+      "domain": [
+        "psychosis",
+        "hallucination",
+        "wish_fulfillment"
+      ],
+      "source": "The Neuro-Psychoses of Defence",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0094",
+      "position": "Confusional psychosis is a defence mechanism available only to egos of particularly abnormal constitution",
+      "domain": [
+        "psychosis",
+        "defense",
+        "ego"
+      ],
+      "source": "The Neuro-Psychoses of Defence",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0095",
+      "position": "Defence neuropsychoses share the precondition that an incompatible idea has obtruded itself on the ego provoking a defensive reaction",
+      "domain": [
+        "defense",
+        "neurosis",
+        "etiology",
+        "psychopathology"
+      ],
+      "source": "The Neuro-Psychoses of Defence",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0096",
+      "position": "The specific form of neurosis depends on whether the sum of excitation is converted into somatic, transposed onto other ideas, or leads to detachment from reality",
+      "domain": [
+        "neurosis",
+        "classification",
+        "defense",
+        "psychopathology"
+      ],
+      "source": "The Neuro-Psychoses of Defence",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0097",
+      "position": "The choice between different pathological outcomes depends on constitutional idiosyncrasy or psychical peculiarity",
+      "domain": [
+        "etiology",
+        "neurosis",
+        "psychopathology"
+      ],
+      "source": "The Neuro-Psychoses of Defence",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0098",
+      "position": "The defensive struggle culminates in a chronic abnormality only if the organic basis is suitable",
+      "domain": [
+        "psychopathology",
+        "etiology",
+        "defense"
+      ],
+      "source": "The Neuro-Psychoses of Defence",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0099",
+      "position": "Defence against an incompatible idea can fail to appear if the nervous system is intact and no serious hereditary taint exists",
+      "domain": [
+        "defense",
+        "etiology",
+        "psychopathology"
+      ],
+      "source": "The Neuro-Psychoses of Defence",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0100",
+      "position": "Whether a neurotic illness occurs depends upon a quantitative factor - the total load on the nervous system compared with its capacity for resistance",
+      "domain": [
+        "etiology",
+        "neurosis",
+        "psychopathology"
+      ],
+      "source": "Heredity and the Aetiology of the Neuroses",
+      "type": "etiological_claim"
+    },
+    {
+      "id": "FREUD-0101",
+      "position": "Heredity acts like a multiplier that increases the dimensions of neurosis but does not determine its form",
+      "domain": [
+        "etiology",
+        "heredity",
+        "neurosis"
+      ],
+      "source": "Heredity and the Aetiology of the Neuroses",
+      "type": "etiological_claim"
+    },
+    {
+      "id": "FREUD-0102",
+      "position": "What form the neurosis assumes is solely determined by the specific aetiological factor arising from sexual life",
+      "domain": [
+        "etiology",
+        "sexuality",
+        "neurosis"
+      ],
+      "source": "Heredity and the Aetiology of the Neuroses",
+      "type": "etiological_claim"
+    },
+    {
+      "id": "FREUD-0103",
+      "position": "Nervous disorders can develop in people who are perfectly healthy and whose family is above reproach, as seen in neurasthenia",
+      "domain": [
+        "etiology",
+        "neurosis",
+        "neurasthenia"
+      ],
+      "source": "Heredity and the Aetiology of the Neuroses",
+      "type": "clinical_observation"
+    },
+    {
+      "id": "FREUD-0104",
+      "position": "Hereditary predisposition is merely a precondition of neurosis, not its specific cause - it cannot explain episodic onset or cessation through treatment",
+      "domain": [
+        "etiology",
+        "heredity",
+        "neurosis",
+        "therapy"
+      ],
+      "source": "Heredity and the Aetiology of the Neuroses",
+      "type": "etiological_claim"
+    },
+    {
+      "id": "FREUD-0105",
+      "position": "The specific aetiology of hysteria is a passive sexual experience before puberty",
+      "domain": [
+        "etiology",
+        "hysteria",
+        "sexuality",
+        "trauma"
+      ],
+      "source": "Heredity and the Aetiology of the Neuroses",
+      "type": "etiological_claim"
+    },
+    {
+      "id": "FREUD-0106",
+      "position": "Hysterical symptoms are always traced back to an event in the subject's sexual life appropriate for producing distressing emotion",
+      "domain": [
+        "hysteria",
+        "etiology",
+        "sexuality",
+        "affect"
+      ],
+      "source": "Heredity and the Aetiology of the Neuroses",
+      "type": "etiological_claim"
+    },
+    {
+      "id": "FREUD-0107",
+      "position": "The specific cause of hysteria is a precocious experience of sexual relations with actual genital excitement from sexual abuse by another person before age eight to ten",
+      "domain": [
+        "hysteria",
+        "etiology",
+        "sexuality",
+        "trauma",
+        "development"
+      ],
+      "source": "Heredity and the Aetiology of the Neuroses",
+      "type": "etiological_claim"
+    },
+    {
+      "id": "FREUD-0108",
+      "position": "Sexual relations between children often continue for years, with the boy repeating practices to which he was subjected by servants or governesses",
+      "domain": [
+        "sexuality",
+        "development",
+        "trauma",
+        "clinical_observation"
+      ],
+      "source": "Heredity and the Aetiology of the Neuroses",
+      "type": "clinical_observation"
+    },
+    {
+      "id": "FREUD-0109",
+      "position": "Passive sexual experience occurring after age eight to ten is no longer able to serve as the foundation of neurosis",
+      "domain": [
+        "etiology",
+        "sexuality",
+        "development",
+        "neurosis"
+      ],
+      "source": "Heredity and the Aetiology of the Neuroses",
+      "type": "clinical_observation"
+    },
+    {
+      "id": "FREUD-0110",
+      "position": "Patients never repeat traumatic sexual stories spontaneously - memories must be extracted piece by piece under energetic pressure and against enormous resistance",
+      "domain": [
+        "clinical_technique",
+        "memory",
+        "resistance",
+        "trauma"
+      ],
+      "source": "Heredity and the Aetiology of the Neuroses",
+      "type": "clinical_observation"
+    },
+    {
+      "id": "FREUD-0111",
+      "position": "While traumatic sexual memories are being awakened, patients become prey to emotion that would be hard to counterfeit",
+      "domain": [
+        "clinical_observation",
+        "affect",
+        "memory",
+        "trauma"
+      ],
+      "source": "Heredity and the Aetiology of the Neuroses",
+      "type": "clinical_observation"
+    },
+    {
+      "id": "FREUD-0112",
+      "position": "The precocious sexual event leaves an indelible imprint represented by a host of symptoms and special features that could be accounted for in no other way",
+      "domain": [
+        "etiology",
+        "trauma",
+        "symptoms",
+        "sexuality"
+      ],
+      "source": "Heredity and the Aetiology of the Neuroses",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0113",
+      "position": "Precocious sexual excitation produces little or no effect at the time but its psychical trace is preserved and awakened at puberty",
+      "domain": [
+        "sexuality",
+        "development",
+        "memory",
+        "trauma"
+      ],
+      "source": "Heredity and the Aetiology of the Neuroses",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0114",
+      "position": "Thanks to changes at puberty, the memory of childhood sexual trauma displays a power completely lacking from the event itself - operating as though it were a contemporary event",
+      "domain": [
+        "memory",
+        "sexuality",
+        "development",
+        "trauma"
+      ],
+      "source": "Heredity and the Aetiology of the Neuroses",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0115",
+      "position": "The awakening of a sexual memory after puberty when the event happened long before forms the only psychological instance of a memory's effect surpassing that of the actual event",
+      "domain": [
+        "memory",
+        "sexuality",
+        "development",
+        "psychopathology"
+      ],
+      "source": "Heredity and the Aetiology of the Neuroses",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0116",
+      "position": "This posthumous action of sexual trauma is an abnormal constellation that touches a weak side of the psychical mechanism and produces pathological effect",
+      "domain": [
+        "trauma",
+        "sexuality",
+        "psychopathology",
+        "memory"
+      ],
+      "source": "Heredity and the Aetiology of the Neuroses",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0117",
+      "position": "The inverse relation between the psychical effect of memory and of the event contains the reason for the memory remaining unconscious",
+      "domain": [
+        "memory",
+        "unconscious",
+        "trauma",
+        "psychopathology"
+      ],
+      "source": "Heredity and the Aetiology of the Neuroses",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0118",
+      "position": "Obsessional neurosis differs from hysteria in that sexual memories relate to actions performed with pleasure rather than passive experiences",
+      "domain": [
+        "obsessions",
+        "hysteria",
+        "sexuality",
+        "etiology"
+      ],
+      "source": "Heredity and the Aetiology of the Neuroses",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0119",
+      "position": "In obsessional neurosis, active sexual experiences in early childhood preceded by passive sexual experiences form the specific aetiology",
+      "domain": [
+        "obsessions",
+        "etiology",
+        "sexuality",
+        "development"
+      ],
+      "source": "Heredity and the Aetiology of the Neuroses",
+      "type": "etiological_claim"
+    },
+    {
+      "id": "FREUD-0120",
+      "position": "The most immediate and practically significant causes of every case of neurotic illness are found in factors arising from sexual life",
+      "domain": [
+        "etiology",
+        "sexuality",
+        "neurosis"
+      ],
+      "source": "Sexuality in the Aetiology of the Neuroses",
+      "type": "etiological_claim"
+    },
+    {
+      "id": "FREUD-0121",
+      "position": "A physician investigating neuroses cannot avoid asking patients about their sexual life and insisting upon receiving a true account",
+      "domain": [
+        "clinical_technique",
+        "methodology",
+        "sexuality"
+      ],
+      "source": "Sexuality in the Aetiology of the Neuroses",
+      "type": "methodological_claim"
+    },
+    {
+      "id": "FREUD-0122",
+      "position": "Objections against inquiring into sexual life express prudery unworthy of a physician that inadequately conceals its weakness behind bad arguments",
+      "domain": [
+        "clinical_technique",
+        "methodology",
+        "ethics"
+      ],
+      "source": "Sexuality in the Aetiology of the Neuroses",
+      "type": "methodological_claim"
+    },
+    {
+      "id": "FREUD-0123",
+      "position": "No one ever becomes neurotic through work or excitement alone - intellectual work is rather a protection against neurasthenia",
+      "domain": [
+        "etiology",
+        "neurasthenia",
+        "neurosis"
+      ],
+      "source": "Sexuality in the Aetiology of the Neuroses",
+      "type": "etiological_claim"
+    },
+    {
+      "id": "FREUD-0124",
+      "position": "The most unremitting intellectual workers remain exempt from neurasthenia",
+      "domain": [
+        "neurasthenia",
+        "etiology",
+        "clinical_observation"
+      ],
+      "source": "Sexuality in the Aetiology of the Neuroses",
+      "type": "clinical_observation"
+    },
+    {
+      "id": "FREUD-0125",
+      "position": "Sexual aetiology makes it possible to understand all details of neurasthenic clinical history including mysterious improvements and incomprehensible deteriorations",
+      "domain": [
+        "neurasthenia",
+        "etiology",
+        "sexuality",
+        "clinical_observation"
+      ],
+      "source": "Sexuality in the Aetiology of the Neuroses",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0126",
+      "position": "Removal from home in hydropathic treatment entails interruption of marital intercourse, making temporary elimination of pathogenic cause possible",
+      "domain": [
+        "therapy",
+        "sexuality",
+        "etiology",
+        "neurasthenia"
+      ],
+      "source": "Sexuality in the Aetiology of the Neuroses",
+      "type": "clinical_observation"
+    },
+    {
+      "id": "FREUD-0127",
+      "position": "With neurasthenia, therapeutic problems must be attacked within the framework of the patient's life, not in hydropathic institutions",
+      "domain": [
+        "therapy",
+        "neurasthenia",
+        "clinical_technique"
+      ],
+      "source": "Sexuality in the Aetiology of the Neuroses",
+      "type": "therapeutic_principle"
+    },
+    {
+      "id": "FREUD-0128",
+      "position": "Masturbation is far commoner among grown-up girls and mature men than generally supposed and produces neurasthenic symptoms",
+      "domain": [
+        "sexuality",
+        "neurasthenia",
+        "etiology"
+      ],
+      "source": "Sexuality in the Aetiology of the Neuroses",
+      "type": "clinical_observation"
+    },
+    {
+      "id": "FREUD-0129",
+      "position": "Coitus interruptus practiced regularly produces neurotic symptoms",
+      "domain": [
+        "sexuality",
+        "etiology",
+        "neurosis"
+      ],
+      "source": "Sexuality in the Aetiology of the Neuroses",
+      "type": "etiological_claim"
+    },
+    {
+      "id": "FREUD-0130",
+      "position": "Natural intercourse during pregnancy provides a curative effect on neurosis",
+      "domain": [
+        "sexuality",
+        "therapy",
+        "neurosis"
+      ],
+      "source": "Sexuality in the Aetiology of the Neuroses",
+      "type": "clinical_observation"
+    },
+    {
+      "id": "FREUD-0131",
+      "position": "Charcot was not a reflective thinker but an artist-scientist who was a 'visuel' - a man who sees",
+      "domain": [
+        "methodology",
+        "scientific_practice"
+      ],
+      "source": "Charcot obituary",
+      "type": "methodological_observation"
+    },
+    {
+      "id": "FREUD-0132",
+      "position": "Charcot's method was to look repeatedly at things he did not understand until suddenly understanding dawned - the apparent chaos gave way to order",
+      "domain": [
+        "methodology",
+        "scientific_practice"
+      ],
+      "source": "Charcot obituary",
+      "type": "methodological_observation"
+    },
+    {
+      "id": "FREUD-0133",
+      "position": "Nosography - the intellectual work of seeing new nosological pictures emerge from apparent chaos - was Charcot's particular gift",
+      "domain": [
+        "methodology",
+        "scientific_practice",
+        "classification"
+      ],
+      "source": "Charcot obituary",
+      "type": "methodological_observation"
+    },
+    {
+      "id": "FREUD-0134",
+      "position": "The greatest satisfaction in science is to see something new - to recognize it as new",
+      "domain": [
+        "methodology",
+        "scientific_practice"
+      ],
+      "source": "Charcot obituary",
+      "type": "methodological_principle"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+[
+  {"id": "R0001", "year": 1920, "strength": 1.0, "premise": "mental processes aim at tension reduction", "conclusion": "regulated by pleasure-principle"},
+  {"id": "R0002", "year": 1920, "strength": 1.0, "premise": "complete metapsychological description", "conclusion": "must include topographical AND dynamic AND economic viewpoints"},
+  {"id": "R0005", "year": 1920, "strength": 0.9, "premise": "psychic apparatus exposed to high excitation", "conclusion": "endeavors to keep excitation constant or low (constancy principle)"},
+  {"id": "R0019", "year": 1920, "strength": 1.0, "premise": "unpleasant experience repeated despite no pleasure potential", "conclusion": "manifestation of repetition-compulsion (beyond pleasure-principle)"},
+  {"id": "R0022", "year": 1920, "strength": 1.0, "premise": "repetition-compulsion observed in transference, play, or fate-neurosis", "conclusion": "proof of daemonic force operating beyond pleasure-principle"},
+  {"id": "R0041", "year": 1920, "strength": 1.0, "premise": "organic instinct observed", "conclusion": "conservative urge to restore earlier state of things"},
+  {"id": "R0050", "year": 1920, "strength": 1.0, "premise": "all instincts are conservative", "conclusion": "all instincts are implicitly death instincts in final aim"},
+  {"id": "R0055", "year": 1920, "strength": 0.95, "premise": "Eros observed (fusion, life-preservation)", "conclusion": "diverts death instinct outward → aggression"},
+  {"id": "R0321", "year": 1915, "strength": 0.9, "premise": "idea intolerable to ego", "conclusion": "repression of idea + affect transformed into anxiety or symptom"},
+  {"id": "R0450", "year": 1923, "strength": 1.0, "premise": "threat of castration perceived", "conclusion": "Oedipus complex dissolved → strong superego formed via identification"},
+  {"id": "R0520", "year": 1926, "strength": 0.95, "premise": "danger situation perceived", "conclusion": "automatic signal-anxiety released"},
+  {"id": "R0999", "year": 1930, "strength": 0.9, "premise": "cultural or technological device promises unlimited gratification with minimal effort", "conclusion": "reactivates infantile narcissistic omnipotence → expect subsequent narcissistic mortification + civilizational discontent"},
+  ...
+]

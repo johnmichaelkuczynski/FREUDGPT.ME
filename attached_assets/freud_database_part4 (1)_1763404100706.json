@@ -1,0 +1,792 @@
+{
+  "metadata": {
+    "philosopher": "Sigmund Freud",
+    "extraction_date": "2024",
+    "source_document": "Freud - Complete Works Part 4",
+    "total_positions": 64,
+    "works_covered": [
+      "The Interpretation of Dreams (continuation and major sections)"
+    ],
+    "domains_covered": [
+      "affect",
+      "association",
+      "attention",
+      "causality",
+      "censorship",
+      "character",
+      "condensation",
+      "consciousness",
+      "development",
+      "displacement",
+      "dream_theory",
+      "dream_thoughts",
+      "dream_work",
+      "essence",
+      "hallucination",
+      "infantile_sexuality",
+      "integration",
+      "intensity",
+      "interpretation",
+      "language",
+      "logic",
+      "memory",
+      "metapsychology",
+      "methodology",
+      "mind",
+      "neurosis",
+      "normality",
+      "opposition",
+      "overdetermination",
+      "perception",
+      "preconscious",
+      "psychical_apparatus",
+      "psychical_locality",
+      "psychical_processes",
+      "psychopathology",
+      "reflex_model",
+      "regression",
+      "representability",
+      "repression",
+      "scientific_method",
+      "sexuality",
+      "sleep",
+      "symbolism",
+      "systems",
+      "temporal_representation",
+      "thought",
+      "thought_processes",
+      "transformation",
+      "unconscious",
+      "volition",
+      "wish_fulfillment"
+    ]
+  },
+  "positions": [
+    {
+      "id": "FREUD-0135",
+      "position": "Verbal malformations in dreams resemble those in paranoia, hysteria, and obsessions, sharing a common source with linguistic tricks performed by children",
+      "domain": [
+        "dream_theory",
+        "psychopathology",
+        "language",
+        "development"
+      ],
+      "source": "The Interpretation of Dreams",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0136",
+      "position": "Analysis of nonsensical verbal forms in dreams particularly exhibits the dream-work's achievements in condensation",
+      "domain": [
+        "dream_theory",
+        "dream_work",
+        "condensation",
+        "methodology"
+      ],
+      "source": "The Interpretation of Dreams",
+      "type": "methodological_claim"
+    },
+    {
+      "id": "FREUD-0137",
+      "position": "Essential dream-thoughts completely replace the dream and would be sufficient in themselves to replace it if there were no censorship",
+      "domain": [
+        "dream_theory",
+        "censorship",
+        "dream_thoughts"
+      ],
+      "source": "The Interpretation of Dreams",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0138",
+      "position": "Dream-thoughts emerge as a complex structure with all the attributes of trains of thought familiar in waking life, often starting from more than one centre",
+      "domain": [
+        "dream_theory",
+        "dream_thoughts",
+        "consciousness"
+      ],
+      "source": "The Interpretation of Dreams",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0139",
+      "position": "Each train of dream-thought is almost invariably accompanied by its contradictory counterpart, linked by antithetical association",
+      "domain": [
+        "dream_theory",
+        "dream_thoughts",
+        "opposition"
+      ],
+      "source": "The Interpretation of Dreams",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0140",
+      "position": "Dreams have no means at their disposal for representing logical relations like 'if', 'because', 'either-or' between dream-thoughts",
+      "domain": [
+        "dream_theory",
+        "dream_work",
+        "logic"
+      ],
+      "source": "The Interpretation of Dreams",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0141",
+      "position": "Dreams disregard logical conjunctions and take over only the substantive content of dream-thoughts - restoration of connections is a task for interpretation",
+      "domain": [
+        "dream_theory",
+        "dream_work",
+        "interpretation"
+      ],
+      "source": "The Interpretation of Dreams",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0142",
+      "position": "The incapacity of dreams to express logical relations lies in the nature of the psychical material out of which dreams are made, similar to plastic arts compared to poetry",
+      "domain": [
+        "dream_theory",
+        "dream_work",
+        "psychical_processes"
+      ],
+      "source": "The Interpretation of Dreams",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0143",
+      "position": "Spoken sentences in dreams are unmodified or slightly modified reproductions of speeches found among recollections in dream-thoughts",
+      "domain": [
+        "dream_theory",
+        "dream_work",
+        "language"
+      ],
+      "source": "The Interpretation of Dreams",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0144",
+      "position": "Dreams reproduce logical connection by simultaneity in time, combining material into a single situation or event",
+      "domain": [
+        "dream_theory",
+        "dream_work",
+        "temporal_representation"
+      ],
+      "source": "The Interpretation of Dreams",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0145",
+      "position": "When dreams show two elements close together, this guarantees some specially intimate connection between what corresponds to them among dream-thoughts",
+      "domain": [
+        "dream_theory",
+        "dream_work",
+        "association",
+        "interpretation"
+      ],
+      "source": "The Interpretation of Dreams",
+      "type": "interpretive_principle"
+    },
+    {
+      "id": "FREUD-0146",
+      "position": "Causal relations are represented in dreams by temporal sequence - either as a sequence of introductory and main dream, or by direct transformation of one image into another",
+      "domain": [
+        "dream_theory",
+        "dream_work",
+        "causality"
+      ],
+      "source": "The Interpretation of Dreams",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0147",
+      "position": "The alternative 'either-or' cannot be expressed in dreams - both alternatives are usually inserted as though they were equally valid",
+      "domain": [
+        "dream_theory",
+        "dream_work",
+        "logic"
+      ],
+      "source": "The Interpretation of Dreams",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0148",
+      "position": "In the great majority of cases, the causal relation is not represented at all but is lost in the confusion of elements in the dreaming process",
+      "domain": [
+        "dream_theory",
+        "dream_work",
+        "causality"
+      ],
+      "source": "The Interpretation of Dreams",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0149",
+      "position": "The most complicated achievements of thought are possible without the assistance of consciousness, as proven by psychoanalysis of hysteria and obsessions",
+      "domain": [
+        "consciousness",
+        "unconscious",
+        "thought",
+        "psychopathology"
+      ],
+      "source": "The Interpretation of Dreams",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0150",
+      "position": "Dream-thoughts may originate from the previous day, proceeding unobserved by consciousness and already completed at sleep onset",
+      "domain": [
+        "dream_theory",
+        "dream_thoughts",
+        "consciousness",
+        "unconscious"
+      ],
+      "source": "The Interpretation of Dreams",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0151",
+      "position": "Becoming conscious is connected with the application of attention, a function only available in a specific quantity",
+      "domain": [
+        "consciousness",
+        "attention",
+        "mind"
+      ],
+      "source": "The Interpretation of Dreams",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0152",
+      "position": "Symbolism plays a part in dreams from the very first - dreamers have symbolism at their disposal from the earliest age",
+      "domain": [
+        "dream_theory",
+        "symbolism",
+        "development"
+      ],
+      "source": "The Interpretation of Dreams",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0153",
+      "position": "Temporal repetition of an act is regularly shown in dreams by numerical multiplication of an object",
+      "domain": [
+        "dream_theory",
+        "dream_work",
+        "temporal_representation",
+        "symbolism"
+      ],
+      "source": "The Interpretation of Dreams",
+      "type": "interpretive_principle"
+    },
+    {
+      "id": "FREUD-0154",
+      "position": "Psychoanalytic research finds no fundamental but only quantitative distinctions between normal and neurotic life",
+      "domain": [
+        "psychopathology",
+        "neurosis",
+        "normality",
+        "methodology"
+      ],
+      "source": "The Interpretation of Dreams",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0155",
+      "position": "Analysis of dreams shows complete identity in mechanisms and symbolism between healthy and sick individuals - repressed complexes operate alike in both",
+      "domain": [
+        "dream_theory",
+        "symbolism",
+        "psychopathology",
+        "repression"
+      ],
+      "source": "The Interpretation of Dreams",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0156",
+      "position": "Naive dreams of healthy people often contain simpler, more perspicuous and characteristic symbolism than those of neurotics",
+      "domain": [
+        "dream_theory",
+        "symbolism",
+        "psychopathology"
+      ],
+      "source": "The Interpretation of Dreams",
+      "type": "clinical_observation"
+    },
+    {
+      "id": "FREUD-0157",
+      "position": "In neurotic dreams, symbolism may be obscure and hard to interpret due to more powerful workings of censorship and more far-reaching dream-distortion",
+      "domain": [
+        "dream_theory",
+        "symbolism",
+        "censorship",
+        "psychopathology"
+      ],
+      "source": "The Interpretation of Dreams",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0158",
+      "position": "Sexual flower symbolism occurs very commonly and symbolizes human sexual organs by blossoms, which are the sexual organs of plants",
+      "domain": [
+        "symbolism",
+        "sexuality",
+        "dream_theory"
+      ],
+      "source": "The Interpretation of Dreams",
+      "type": "interpretive_principle"
+    },
+    {
+      "id": "FREUD-0159",
+      "position": "Gifts of flowers between lovers may have unconscious sexual meaning representing exchange of sexual gifts",
+      "domain": [
+        "symbolism",
+        "sexuality",
+        "unconscious"
+      ],
+      "source": "The Interpretation of Dreams",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0160",
+      "position": "Dreams can express thoughts of which the dreamer is scarcely aware in waking life, particularly thoughts concerned with sensual love and its organs",
+      "domain": [
+        "dream_theory",
+        "unconscious",
+        "sexuality"
+      ],
+      "source": "The Interpretation of Dreams",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0161",
+      "position": "The meaning of symbols and significance of dreams can be arrived at with particular ease from dreams of people uninitiated into psychoanalysis",
+      "domain": [
+        "dream_theory",
+        "symbolism",
+        "interpretation"
+      ],
+      "source": "The Interpretation of Dreams (Ferenczi)",
+      "type": "methodological_observation"
+    },
+    {
+      "id": "FREUD-0162",
+      "position": "Dreams can represent serious thoughts far removed from anything sexual by means of infantile sexual material",
+      "domain": [
+        "dream_theory",
+        "sexuality",
+        "infantile_sexuality",
+        "dream_work"
+      ],
+      "source": "The Interpretation of Dreams",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0163",
+      "position": "In well-formed dreams there is nothing superfluous - every word is a symbol",
+      "domain": [
+        "dream_theory",
+        "dream_work",
+        "symbolism",
+        "condensation"
+      ],
+      "source": "The Interpretation of Dreams",
+      "type": "interpretive_principle"
+    },
+    {
+      "id": "FREUD-0164",
+      "position": "The dream-work proper is not simply more careless or irrational than waking thought - it is completely different qualitatively and not immediately comparable with it",
+      "domain": [
+        "dream_theory",
+        "dream_work",
+        "thought_processes"
+      ],
+      "source": "The Interpretation of Dreams",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0165",
+      "position": "The dream-work does not think, calculate or judge at all - it restricts itself to giving things a new form",
+      "domain": [
+        "dream_theory",
+        "dream_work",
+        "transformation"
+      ],
+      "source": "The Interpretation of Dreams",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0166",
+      "position": "The dream has above all to evade censorship, and the dream-work uses displacement of psychical intensities to the point of a transvaluation of all psychical values",
+      "domain": [
+        "dream_theory",
+        "dream_work",
+        "censorship",
+        "displacement"
+      ],
+      "source": "The Interpretation of Dreams",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0167",
+      "position": "Thoughts must be reproduced exclusively or predominantly in visual and acoustic memory-traces, imposing considerations of representability on the dream-work",
+      "domain": [
+        "dream_theory",
+        "dream_work",
+        "representability",
+        "regression"
+      ],
+      "source": "The Interpretation of Dreams",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0168",
+      "position": "Extensive condensation serves to produce greater intensities than are available in dream-thoughts at night",
+      "domain": [
+        "dream_theory",
+        "dream_work",
+        "condensation",
+        "intensity"
+      ],
+      "source": "The Interpretation of Dreams",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0169",
+      "position": "Little attention is paid to logical relations between thoughts - those relations are given a disguised representation in certain formal characteristics of dreams",
+      "domain": [
+        "dream_theory",
+        "dream_work",
+        "logic"
+      ],
+      "source": "The Interpretation of Dreams",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0170",
+      "position": "Affects attached to dream-thoughts undergo less modification than their ideational content - affects are suppressed or detached from proper ideas",
+      "domain": [
+        "dream_theory",
+        "dream_work",
+        "affect"
+      ],
+      "source": "The Interpretation of Dreams",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0171",
+      "position": "Dreams are nothing other than a particular form of thinking made possible by conditions of the state of sleep - it is the dream-work which creates that form and is the essence of dreaming",
+      "domain": [
+        "dream_theory",
+        "dream_work",
+        "essence"
+      ],
+      "source": "The Interpretation of Dreams",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0172",
+      "position": "Every dream contains the fulfillment of a wish - the dream was preferred to waking reflection because it could show the wished-for situation",
+      "domain": [
+        "dream_theory",
+        "wish_fulfillment"
+      ],
+      "source": "The Interpretation of Dreams (burning child dream)",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0173",
+      "position": "For the sake of wish fulfillment, sleep can be prolonged by one moment - the dream shows what is wished for as still present",
+      "domain": [
+        "dream_theory",
+        "wish_fulfillment",
+        "sleep"
+      ],
+      "source": "The Interpretation of Dreams",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0174",
+      "position": "Many analysts wrongly seek the essence of dreams in latent content, overlooking the distinction between latent dream-thoughts and dream-work",
+      "domain": [
+        "dream_theory",
+        "methodology",
+        "dream_work"
+      ],
+      "source": "The Interpretation of Dreams",
+      "type": "methodological_claim"
+    },
+    {
+      "id": "FREUD-0175",
+      "position": "The content of dreams must have been overdetermined - words spoken in dreams are made up of words actually spoken in lifetime connected with important events",
+      "domain": [
+        "dream_theory",
+        "overdetermination",
+        "memory"
+      ],
+      "source": "The Interpretation of Dreams",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0176",
+      "position": "Memory of dreams is not only fragmentary but positively inaccurate and falsified - we may fill in what was never there with new material",
+      "domain": [
+        "dream_theory",
+        "memory",
+        "methodology"
+      ],
+      "source": "The Interpretation of Dreams",
+      "type": "methodological_observation"
+    },
+    {
+      "id": "FREUD-0177",
+      "position": "Despite untrustworthiness of memory, it is just as important to interpret the smallest, least conspicuous and most uncertain constituents of dreams as the most clearly preserved",
+      "domain": [
+        "dream_theory",
+        "interpretation",
+        "methodology"
+      ],
+      "source": "The Interpretation of Dreams",
+      "type": "methodological_claim"
+    },
+    {
+      "id": "FREUD-0178",
+      "position": "Precisely the most trivial elements of a dream are indispensable to its interpretation - work is held up if attention is not paid to them",
+      "domain": [
+        "dream_theory",
+        "interpretation",
+        "methodology"
+      ],
+      "source": "The Interpretation of Dreams",
+      "type": "methodological_claim"
+    },
+    {
+      "id": "FREUD-0179",
+      "position": "We treat dream texts as Holy Writ what previous writers regarded as arbitrary improvisation hurriedly patched together",
+      "domain": [
+        "dream_theory",
+        "interpretation",
+        "methodology"
+      ],
+      "source": "The Interpretation of Dreams",
+      "type": "methodological_claim"
+    },
+    {
+      "id": "FREUD-0180",
+      "position": "No conclusions upon construction and working methods of the mental instrument can be fully proved from investigation of dreams or any other mental function taken in isolation",
+      "domain": [
+        "methodology",
+        "metapsychology",
+        "scientific_method"
+      ],
+      "source": "The Interpretation of Dreams",
+      "type": "methodological_claim"
+    },
+    {
+      "id": "FREUD-0181",
+      "position": "Psychological hypotheses from dream analysis must remain in suspense until related to findings from other enquiries approaching the same problem from another angle",
+      "domain": [
+        "methodology",
+        "scientific_method",
+        "integration"
+      ],
+      "source": "The Interpretation of Dreams",
+      "type": "methodological_principle"
+    },
+    {
+      "id": "FREUD-0182",
+      "position": "Dreams make use of the present tense in the same manner as day-dreams - the present tense is that in which wishes are represented as fulfilled",
+      "domain": [
+        "dream_theory",
+        "wish_fulfillment",
+        "temporal_representation"
+      ],
+      "source": "The Interpretation of Dreams",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0183",
+      "position": "Not every dream exhibits transformation from idea into sensory image - there are dreams consisting only of thoughts which cannot be denied the essential nature of dreams",
+      "domain": [
+        "dream_theory",
+        "regression",
+        "thought"
+      ],
+      "source": "The Interpretation of Dreams",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0184",
+      "position": "Transformation of ideas into sensory images also occurs in hallucinations and visions in health and as symptoms in psychoneuroses - this relation is not exclusive to dreams",
+      "domain": [
+        "dream_theory",
+        "hallucination",
+        "psychopathology",
+        "regression"
+      ],
+      "source": "The Interpretation of Dreams",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0185",
+      "position": "The scene of action of dreams is different from that of waking ideational life - this makes the special peculiarities of dream-life intelligible",
+      "domain": [
+        "dream_theory",
+        "metapsychology",
+        "psychical_locality"
+      ],
+      "source": "The Interpretation of Dreams (citing Fechner)",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0186",
+      "position": "We picture the mental apparatus as a compound instrument of 'systems' arranged in temporal sequence through which excitation passes",
+      "domain": [
+        "metapsychology",
+        "psychical_apparatus",
+        "systems"
+      ],
+      "source": "The Interpretation of Dreams",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0187",
+      "position": "All psychical activity starts from stimuli and ends in innervations - the apparatus has a sensory and motor end with a sense or direction",
+      "domain": [
+        "metapsychology",
+        "psychical_apparatus",
+        "reflex_model"
+      ],
+      "source": "The Interpretation of Dreams",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0188",
+      "position": "Reflex processes remain the model of every psychical function - the psychical apparatus must be constructed like a reflex apparatus",
+      "domain": [
+        "metapsychology",
+        "reflex_model",
+        "psychical_apparatus"
+      ],
+      "source": "The Interpretation of Dreams",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0189",
+      "position": "We must distribute perception and memory functions onto different systems - a system receives perceptions but retains no trace, while mnemic systems retain permanent modifications",
+      "domain": [
+        "metapsychology",
+        "memory",
+        "perception",
+        "systems"
+      ],
+      "source": "The Interpretation of Dreams",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0190",
+      "position": "Association consists in the fact that excitation is transmitted more readily from one mnemic element to another due to diminished resistances and facilitating paths",
+      "domain": [
+        "metapsychology",
+        "association",
+        "memory"
+      ],
+      "source": "The Interpretation of Dreams",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0191",
+      "position": "The perception system without capacity to retain modifications provides consciousness with sensory qualities, while memories even deeply stamped are themselves unconscious",
+      "domain": [
+        "metapsychology",
+        "consciousness",
+        "memory",
+        "unconscious"
+      ],
+      "source": "The Interpretation of Dreams",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0192",
+      "position": "What we describe as our character is based on memory-traces of impressions, especially those of earliest youth which scarcely ever become conscious",
+      "domain": [
+        "metapsychology",
+        "character",
+        "memory",
+        "development"
+      ],
+      "source": "The Interpretation of Dreams",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0193",
+      "position": "Memories can produce all their effects while in an unconscious condition - when they become conscious they exhibit no sensory quality or very slight quality",
+      "domain": [
+        "metapsychology",
+        "memory",
+        "unconscious",
+        "consciousness"
+      ],
+      "source": "The Interpretation of Dreams",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0194",
+      "position": "Formation of dreams required the hypothesis of two psychical agencies - one submitting the other's activity to criticism involving exclusion from consciousness",
+      "domain": [
+        "dream_theory",
+        "metapsychology",
+        "censorship",
+        "systems"
+      ],
+      "source": "The Interpretation of Dreams",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0195",
+      "position": "The critical agency stands closer to consciousness like a screen between the criticized agency and consciousness, and directs waking life and voluntary actions",
+      "domain": [
+        "metapsychology",
+        "censorship",
+        "consciousness",
+        "preconscious"
+      ],
+      "source": "The Interpretation of Dreams",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0196",
+      "position": "The preconscious system allows excitatory processes to enter consciousness without impediment if certain conditions are fulfilled - it holds the key to voluntary movement",
+      "domain": [
+        "metapsychology",
+        "preconscious",
+        "consciousness",
+        "volition"
+      ],
+      "source": "The Interpretation of Dreams",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0197",
+      "position": "The unconscious system has no access to consciousness except via the preconscious, through which its excitatory process must submit to modifications",
+      "domain": [
+        "metapsychology",
+        "unconscious",
+        "preconscious",
+        "censorship"
+      ],
+      "source": "The Interpretation of Dreams",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0198",
+      "position": "The motive force for producing dreams is supplied by the unconscious system - the dream-wish originates from the Ucs",
+      "domain": [
+        "dream_theory",
+        "unconscious",
+        "wish_fulfillment"
+      ],
+      "source": "The Interpretation of Dreams",
+      "type": "theoretical_claim"
+    }
+  ]
+}

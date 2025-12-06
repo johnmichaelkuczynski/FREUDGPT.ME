@@ -1,0 +1,1478 @@
+{
+  "metadata": {
+    "philosopher": "Sigmund Freud",
+    "extraction_date": "2024",
+    "source_document": "Freud - Complete Works Parts 5 and 6",
+    "total_positions": 105,
+    "works_covered": [
+      "The Interpretation of Dreams (final sections)",
+      "On Dreams",
+      "The Psychopathology of Everyday Life",
+      "Three Essays on the Theory of Sexuality"
+    ],
+    "domains_covered": [
+      "accidental_factors",
+      "acquired",
+      "activity_passivity",
+      "affect",
+      "aim",
+      "amnesia",
+      "anal",
+      "analysis",
+      "anatomy",
+      "ancient_wisdom",
+      "association",
+      "attachment",
+      "auto_erotism",
+      "baby",
+      "biology",
+      "bisexuality",
+      "cathexis",
+      "causality",
+      "characteristics",
+      "childhood",
+      "civilization",
+      "classical_philosophy",
+      "classification",
+      "clinical_observation",
+      "collateral_channels",
+      "comparison",
+      "complex",
+      "compliance",
+      "component_instincts",
+      "compromise",
+      "condensation",
+      "conditions",
+      "conflict",
+      "connection",
+      "consciousness",
+      "constitution",
+      "continuity",
+      "cooperation",
+      "culture",
+      "damming_up",
+      "definition",
+      "degeneracy",
+      "detachment",
+      "determinism",
+      "development",
+      "deviation",
+      "disgust",
+      "displacement",
+      "disposition",
+      "dream_symbolism",
+      "dream_theory",
+      "dream_work",
+      "drive",
+      "dynamics",
+      "education",
+      "emotion",
+      "energy",
+      "epistemology",
+      "eros",
+      "erotogenic_zone",
+      "erotogenic_zones",
+      "etiology",
+      "evolution",
+      "excitation",
+      "exhibitionism",
+      "experience",
+      "external_factors",
+      "feces",
+      "forgetting",
+      "frontier",
+      "function",
+      "gender",
+      "genital",
+      "gift",
+      "heredity",
+      "hermaphroditism",
+      "homosexuality",
+      "hysteria",
+      "independence",
+      "infantile_amnesia",
+      "infantile_sexual_theories",
+      "infantile_sexuality",
+      "innate",
+      "instinct",
+      "intention",
+      "inversion",
+      "language",
+      "latency_period",
+      "libido",
+      "masculinity",
+      "masochism",
+      "masturbation",
+      "meaning",
+      "mechanisms",
+      "memory",
+      "metapsychology",
+      "methodology",
+      "mind_body",
+      "morality",
+      "motivation",
+      "multiplicity",
+      "neglect",
+      "neurosis",
+      "normality",
+      "nourishment",
+      "observation",
+      "ontogenesis",
+      "oral",
+      "pairs",
+      "parapraxis",
+      "pathology",
+      "perception",
+      "perversion",
+      "phases",
+      "phylogenesis",
+      "pleasure",
+      "pleasure_principle",
+      "popular_opinion",
+      "predisposition",
+      "primacy",
+      "primary_process",
+      "prohibition",
+      "projection",
+      "prototype",
+      "psychical_apparatus",
+      "psychical_mechanisms",
+      "psychical_processes",
+      "psychoanalysis",
+      "psychology",
+      "psychoneurosis",
+      "psychopathology",
+      "quality",
+      "reaction_formation",
+      "regression",
+      "regulation",
+      "repression",
+      "repudiation",
+      "return_of_repressed",
+      "rhythm",
+      "roots",
+      "sadism",
+      "satisfaction",
+      "scientific_literature",
+      "scopophilia",
+      "secondary_process",
+      "self_preservation",
+      "self_satisfaction",
+      "sexual_aim",
+      "sexual_instinct",
+      "sexual_object",
+      "sexuality",
+      "shame",
+      "sleep",
+      "source",
+      "speech",
+      "stimulation",
+      "sublimation",
+      "substitute_formation",
+      "superstition",
+      "suppression",
+      "symbolism",
+      "symptom_formation",
+      "symptoms",
+      "thought",
+      "thumb_sucking",
+      "transformation",
+      "unconscious",
+      "universality",
+      "unpleasure",
+      "verbal_memory",
+      "wish",
+      "wish_fulfillment"
+    ]
+  },
+  "positions": [
+    {
+      "id": "FREUD-0200",
+      "position": "The unconscious must be assumed to be the general basis of psychical life, as the larger sphere which includes within it the smaller sphere of the conscious",
+      "domain": [
+        "unconscious",
+        "consciousness",
+        "metapsychology",
+        "psychical_apparatus"
+      ],
+      "source": "The Interpretation of Dreams",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0201",
+      "position": "Everything conscious has an unconscious preliminary stage; whereas what is unconscious may remain at that stage and nevertheless claim to be regarded as having the full value of a psychical process",
+      "domain": [
+        "unconscious",
+        "consciousness",
+        "metapsychology"
+      ],
+      "source": "The Interpretation of Dreams",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0202",
+      "position": "The unconscious is the true psychical reality; in its innermost nature it is as much unknown to us as the reality of the external world",
+      "domain": [
+        "unconscious",
+        "metapsychology",
+        "epistemology"
+      ],
+      "source": "The Interpretation of Dreams",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0203",
+      "position": "Dreams prove that what is suppressed continues to exist in normal people as well as abnormal, and remains capable of psychical functioning",
+      "domain": [
+        "dream_theory",
+        "suppression",
+        "unconscious",
+        "normality",
+        "psychopathology"
+      ],
+      "source": "The Interpretation of Dreams",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0204",
+      "position": "The interpretation of dreams is the royal road to a knowledge of the unconscious activities of the mind",
+      "domain": [
+        "dream_theory",
+        "unconscious",
+        "methodology"
+      ],
+      "source": "The Interpretation of Dreams",
+      "type": "methodological_claim"
+    },
+    {
+      "id": "FREUD-0205",
+      "position": "Functional illnesses do not presuppose the disintegration of the apparatus or the production of fresh splits, but are to be explained dynamically by the strengthening and weakening of components in the interplay of forces",
+      "domain": [
+        "psychopathology",
+        "metapsychology",
+        "psychical_apparatus",
+        "dynamics"
+      ],
+      "source": "The Interpretation of Dreams",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0206",
+      "position": "Consciousness functions as a sense-organ for the perception of psychical qualities",
+      "domain": [
+        "consciousness",
+        "metapsychology",
+        "psychical_apparatus",
+        "perception"
+      ],
+      "source": "The Interpretation of Dreams",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0207",
+      "position": "The Cs. system resembles the perceptual systems in being susceptible to excitation by qualities but incapable of retaining traces of alterations - that is, as having no memory",
+      "domain": [
+        "consciousness",
+        "memory",
+        "perception",
+        "psychical_apparatus"
+      ],
+      "source": "The Interpretation of Dreams",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0208",
+      "position": "Consciousness perceives new qualities and makes a new contribution to directing the mobile quantities of cathexis and distributing them in an expedient fashion",
+      "domain": [
+        "consciousness",
+        "cathexis",
+        "regulation",
+        "psychical_apparatus"
+      ],
+      "source": "The Interpretation of Dreams",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0209",
+      "position": "The unpleasure principle regulates the displacement of cathexes automatically, but consciousness may introduce a second and more discriminating regulation which perfects the efficiency of the apparatus",
+      "domain": [
+        "pleasure_principle",
+        "consciousness",
+        "regulation",
+        "psychical_apparatus"
+      ],
+      "source": "The Interpretation of Dreams",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0210",
+      "position": "Thought-processes acquire quality by being associated with verbal memories, whose residues of quality draw the attention of consciousness to them",
+      "domain": [
+        "thought",
+        "language",
+        "consciousness",
+        "verbal_memory"
+      ],
+      "source": "The Interpretation of Dreams",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0211",
+      "position": "Repression affects memories more easily than perceptions because memories can receive no extra cathexis from the excitation of the psychical sense-organs",
+      "domain": [
+        "repression",
+        "memory",
+        "perception",
+        "cathexis"
+      ],
+      "source": "The Interpretation of Dreams",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0212",
+      "position": "The respect paid to dreams in antiquity is based upon correct psychological insight and is homage to the uncontrolled and indestructible forces in the human mind",
+      "domain": [
+        "dream_theory",
+        "unconscious",
+        "ancient_wisdom"
+      ],
+      "source": "The Interpretation of Dreams",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0213",
+      "position": "What we have discovered by the analysis of dreams is the existence of two fundamentally different kinds of psychical process (primary and secondary), and the fact that these two kinds cooperate in the production of our mental acts",
+      "domain": [
+        "primary_process",
+        "secondary_process",
+        "metapsychology",
+        "psychical_processes"
+      ],
+      "source": "The Interpretation of Dreams",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0214",
+      "position": "Dream-work shows the same processes (condensation, displacement, etc.) that operate in the formation of hysterical symptoms, proving these mechanisms are present in the normal mental apparatus",
+      "domain": [
+        "dream_work",
+        "hysteria",
+        "condensation",
+        "displacement",
+        "normality"
+      ],
+      "source": "The Interpretation of Dreams",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0215",
+      "position": "Dreams function as guardians of sleep by providing psychical consummation for suppressed wishes through representing them as fulfilled",
+      "domain": [
+        "dream_theory",
+        "wish_fulfillment",
+        "sleep",
+        "function"
+      ],
+      "source": "On Dreams",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0216",
+      "position": "The dream provides a compromise which simultaneously satisfies both the suppressed wish and the agency maintaining sleep",
+      "domain": [
+        "dream_theory",
+        "compromise",
+        "wish_fulfillment",
+        "sleep"
+      ],
+      "source": "On Dreams",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0217",
+      "position": "Most dreams of adults are traced back by analysis to erotic wishes, because no other group of instincts has been submitted to such far-reaching suppression by cultural education",
+      "domain": [
+        "dream_theory",
+        "sexuality",
+        "wish_fulfillment",
+        "suppression",
+        "culture"
+      ],
+      "source": "On Dreams",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0218",
+      "position": "Almost every civilized man retains the infantile forms of sexual life in some respect or other, making repressed infantile sexual wishes the most frequent and strongest motive-forces for dream construction",
+      "domain": [
+        "infantile_sexuality",
+        "dream_theory",
+        "repression",
+        "civilization"
+      ],
+      "source": "On Dreams",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0219",
+      "position": "Dream-symbols are used by dreamers speaking the same language, and some extend beyond language use, though dreamers themselves are unaware of the symbols' meaning",
+      "domain": [
+        "dream_symbolism",
+        "unconscious",
+        "universality"
+      ],
+      "source": "On Dreams",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0220",
+      "position": "The forgetting of proper names with substitute names (paramnesia) follows discoverable paths conforming to laws rather than arbitrary psychical choice",
+      "domain": [
+        "forgetting",
+        "parapraxis",
+        "determinism",
+        "psychical_mechanisms"
+      ],
+      "source": "The Psychopathology of Everyday Life",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0221",
+      "position": "The displacement leading to substitute names is not left to arbitrary choice but follows predictable paths, with substitute names connected in discoverable ways to the missing name",
+      "domain": [
+        "displacement",
+        "forgetting",
+        "parapraxis",
+        "determinism"
+      ],
+      "source": "The Psychopathology of Everyday Life",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0222",
+      "position": "Forgetting of names occurs when a motive causes suppression of connected thoughts, and this suppression associates with the name through external connection, causing the name to be forgotten against one's will",
+      "domain": [
+        "forgetting",
+        "suppression",
+        "motivation",
+        "parapraxis",
+        "association"
+      ],
+      "source": "The Psychopathology of Everyday Life",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0223",
+      "position": "Substitute names represent a compromise, reminding one both of what one wanted to forget and what one wanted to remember, showing that the intention to forget was neither complete success nor complete failure",
+      "domain": [
+        "forgetting",
+        "compromise",
+        "substitute_formation",
+        "parapraxis"
+      ],
+      "source": "The Psychopathology of Everyday Life",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0224",
+      "position": "Conditions for forgetting a name with paramnesia include: (1) a disposition for forgetting the name, (2) a process of suppression shortly before, (3) possibility of external association between the name and the previously suppressed element",
+      "domain": [
+        "forgetting",
+        "parapraxis",
+        "suppression",
+        "association",
+        "conditions"
+      ],
+      "source": "The Psychopathology of Everyday Life",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0225",
+      "position": "A suppressed element always strives to assert itself elsewhere, but is successful only when suitable conditions meet it halfway",
+      "domain": [
+        "suppression",
+        "return_of_repressed",
+        "psychical_mechanisms"
+      ],
+      "source": "The Psychopathology of Everyday Life",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0226",
+      "position": "Phenomena of daily life such as forgetting, slips of the tongue, and bungled actions provide a basis for psychopathology in psychology, showing the same mechanisms operate in normal and pathological mental life",
+      "domain": [
+        "parapraxis",
+        "psychopathology",
+        "normality",
+        "methodology"
+      ],
+      "source": "The Psychopathology of Everyday Life",
+      "type": "methodological_claim"
+    },
+    {
+      "id": "FREUD-0227",
+      "position": "Parapraxes (Freudian slips) are not chance events but result from the interference of two different intentions, one of which is kept from consciousness",
+      "domain": [
+        "parapraxis",
+        "determinism",
+        "unconscious",
+        "intention",
+        "conflict"
+      ],
+      "source": "The Psychopathology of Everyday Life",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0228",
+      "position": "Slips of the tongue reveal thoughts the speaker wished to suppress, demonstrating that suppressed material finds indirect pathways to expression",
+      "domain": [
+        "parapraxis",
+        "suppression",
+        "speech",
+        "symptom_formation"
+      ],
+      "source": "The Psychopathology of Everyday Life",
+      "type": "clinical_observation"
+    },
+    {
+      "id": "FREUD-0229",
+      "position": "There is no such thing as arbitrary determination in the mind - even apparently chance psychical events follow deterministic laws",
+      "domain": [
+        "determinism",
+        "psychical_mechanisms",
+        "causality"
+      ],
+      "source": "The Psychopathology of Everyday Life",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0230",
+      "position": "Forgetting is often motivated by unpleasure - we most easily forget what is associated with feelings of unpleasure or what would awaken such feelings if recalled",
+      "domain": [
+        "forgetting",
+        "unpleasure",
+        "motivation",
+        "affect"
+      ],
+      "source": "The Psychopathology of Everyday Life",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0231",
+      "position": "Bungled actions (symptomatic acts) often represent compromises between conscious intentions and unconscious counter-intentions",
+      "domain": [
+        "parapraxis",
+        "compromise",
+        "unconscious",
+        "intention"
+      ],
+      "source": "The Psychopathology of Everyday Life",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0232",
+      "position": "The same psychical mechanisms revealed in neurotic symptoms operate in the everyday mistakes, forgetting, and slips of normal people",
+      "domain": [
+        "parapraxis",
+        "neurosis",
+        "mechanisms",
+        "normality",
+        "continuity"
+      ],
+      "source": "The Psychopathology of Everyday Life",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0233",
+      "position": "Apparently meaningless and arbitrary psychical products always have motivation and significance when subjected to psychoanalytic investigation",
+      "domain": [
+        "determinism",
+        "meaning",
+        "motivation",
+        "methodology"
+      ],
+      "source": "The Psychopathology of Everyday Life",
+      "type": "methodological_claim"
+    },
+    {
+      "id": "FREUD-0234",
+      "position": "The forgetting of names, words, and impressions can regularly be traced to the influence of emotional complexes that remain unconscious",
+      "domain": [
+        "forgetting",
+        "emotion",
+        "complex",
+        "unconscious"
+      ],
+      "source": "The Psychopathology of Everyday Life",
+      "type": "clinical_observation"
+    },
+    {
+      "id": "FREUD-0235",
+      "position": "Superstition is largely concerned with anticipation of misfortune, representing projection of unconscious hostile and envious wishes outward onto external fate",
+      "domain": [
+        "superstition",
+        "projection",
+        "unconscious",
+        "wish"
+      ],
+      "source": "The Psychopathology of Everyday Life",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0236",
+      "position": "The psychopathology of everyday life demonstrates the continuity between normal and abnormal mental functioning, with the same fundamental mechanisms operative in both",
+      "domain": [
+        "psychopathology",
+        "normality",
+        "continuity",
+        "mechanisms"
+      ],
+      "source": "The Psychopathology of Everyday Life",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0237",
+      "position": "Popular opinion's view of the sexual instinct - that it is absent in childhood, sets in at puberty, and aims at sexual union - gives a very false picture containing numerous errors and hasty conclusions",
+      "domain": [
+        "sexuality",
+        "popular_opinion",
+        "infantile_sexuality",
+        "instinct"
+      ],
+      "source": "Three Essays on the Theory of Sexuality",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0238",
+      "position": "Sexual object (the person from whom attraction proceeds) and sexual aim (the act toward which the instinct tends) both show numerous deviations from what is assumed to be normal",
+      "domain": [
+        "sexuality",
+        "sexual_object",
+        "sexual_aim",
+        "deviation",
+        "perversion"
+      ],
+      "source": "Three Essays on the Theory of Sexuality",
+      "type": "clinical_observation"
+    },
+    {
+      "id": "FREUD-0239",
+      "position": "Inversion (homosexuality) demonstrates that sexual object choice is not fixed by nature to the opposite sex, as popular fables suggest",
+      "domain": [
+        "inversion",
+        "homosexuality",
+        "sexual_object",
+        "sexuality"
+      ],
+      "source": "Three Essays on the Theory of Sexuality",
+      "type": "clinical_observation"
+    },
+    {
+      "id": "FREUD-0240",
+      "position": "The sexual instinct and the sexual object are merely soldered together, and this connection is looser than popular assumption suggests",
+      "domain": [
+        "sexuality",
+        "sexual_object",
+        "instinct",
+        "connection"
+      ],
+      "source": "Three Essays on the Theory of Sexuality",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0241",
+      "position": "The findings of psychoanalysis are based entirely upon everyday medical observation, to which psychoanalytic research lends additional depth and scientific significance",
+      "domain": [
+        "methodology",
+        "observation",
+        "psychoanalysis"
+      ],
+      "source": "Three Essays on the Theory of Sexuality",
+      "type": "methodological_claim"
+    },
+    {
+      "id": "FREUD-0242",
+      "position": "The work deliberately remains independent of biological findings, aiming to discover how far psychological investigation can throw light upon the biology of human sexual life",
+      "domain": [
+        "methodology",
+        "psychology",
+        "biology",
+        "independence"
+      ],
+      "source": "Three Essays on the Theory of Sexuality",
+      "type": "methodological_claim"
+    },
+    {
+      "id": "FREUD-0243",
+      "position": "Psychoanalytic method may legitimately lead to opinions differing largely from those based on biological considerations",
+      "domain": [
+        "methodology",
+        "psychoanalysis",
+        "biology"
+      ],
+      "source": "Three Essays on the Theory of Sexuality",
+      "type": "methodological_claim"
+    },
+    {
+      "id": "FREUD-0244",
+      "position": "Preference is given to accidental factors over disposition, and to ontogenesis over phylogenesis, because accidental factors play the principal part in analysis and are subject to its influence",
+      "domain": [
+        "methodology",
+        "accidental_factors",
+        "disposition",
+        "ontogenesis",
+        "phylogenesis"
+      ],
+      "source": "Three Essays on the Theory of Sexuality",
+      "type": "methodological_claim"
+    },
+    {
+      "id": "FREUD-0245",
+      "position": "The enlarged concept of sexuality in psychoanalysis coincides with the Eros of Plato, demonstrating classical precedent for broad conceptions of sexual instinct",
+      "domain": [
+        "sexuality",
+        "eros",
+        "classical_philosophy",
+        "libido"
+      ],
+      "source": "Three Essays on the Theory of Sexuality",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0246",
+      "position": "Inverts vary in behavior from absolute inverts (exclusively same-sex objects) to amphigenic inverts (psychosexual hermaphrodites with objects of either sex) to contingent inverts (capable of same-sex relations under certain conditions)",
+      "domain": [
+        "inversion",
+        "homosexuality",
+        "sexual_object",
+        "classification"
+      ],
+      "source": "Three Essays on the Theory of Sexuality",
+      "type": "clinical_observation"
+    },
+    {
+      "id": "FREUD-0247",
+      "position": "Inversion cannot be regarded as degeneracy in the legitimate sense, as it is found in people with no other serious deviations, in those of high intellectual development and ethical culture, and was prevalent in ancient civilizations",
+      "domain": [
+        "inversion",
+        "degeneracy",
+        "civilization",
+        "normality"
+      ],
+      "source": "Three Essays on the Theory of Sexuality",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0248",
+      "position": "The indiscriminate use of the concept of degeneracy adds nothing to knowledge; degeneracy should only be attributed where several serious deviations are found together and capacity for functioning is severely impaired",
+      "domain": [
+        "degeneracy",
+        "pathology",
+        "classification"
+      ],
+      "source": "Three Essays on the Theory of Sexuality",
+      "type": "methodological_claim"
+    },
+    {
+      "id": "FREUD-0249",
+      "position": "The choice between 'innate' and 'acquired' does not cover all issues involved in inversion - both factors must cooperate rather than being mutually exclusive explanations",
+      "domain": [
+        "inversion",
+        "innate",
+        "acquired",
+        "etiology",
+        "development"
+      ],
+      "source": "Three Essays on the Theory of Sexuality",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0250",
+      "position": "External influences alone cannot explain acquisition of inversion without cooperation of something in the subject himself, since many people subjected to same influences do not become inverted",
+      "domain": [
+        "inversion",
+        "etiology",
+        "predisposition",
+        "experience"
+      ],
+      "source": "Three Essays on the Theory of Sexuality",
+      "type": "etiological_claim"
+    },
+    {
+      "id": "FREUD-0251",
+      "position": "A certain degree of anatomical hermaphroditism occurs normally, with every normal individual showing traces of the apparatus of the opposite sex",
+      "domain": [
+        "bisexuality",
+        "anatomy",
+        "hermaphroditism",
+        "sexuality"
+      ],
+      "source": "Three Essays on the Theory of Sexuality",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0252",
+      "position": "An originally bisexual physical disposition has in evolution become modified into a unisexual one, leaving behind traces of the atrophied sex",
+      "domain": [
+        "bisexuality",
+        "evolution",
+        "sexuality",
+        "disposition"
+      ],
+      "source": "Three Essays on the Theory of Sexuality",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0253",
+      "position": "Inversion and somatic hermaphroditism are on the whole independent of each other - there is no close connection between hypothetical psychical hermaphroditism and established anatomical hermaphroditism",
+      "domain": [
+        "inversion",
+        "bisexuality",
+        "hermaphroditism",
+        "independence"
+      ],
+      "source": "Three Essays on the Theory of Sexuality",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0254",
+      "position": "The most complete mental masculinity can be combined with inversion, showing that sexual object choice is independent of other mental characteristics",
+      "domain": [
+        "inversion",
+        "gender",
+        "masculinity",
+        "independence"
+      ],
+      "source": "Three Essays on the Theory of Sexuality",
+      "type": "clinical_observation"
+    },
+    {
+      "id": "FREUD-0255",
+      "position": "The popular view that the sexual instinct is absent in childhood and only awakens at puberty is not merely a simple error but one that has grave consequences, causing our present ignorance of fundamental sexual conditions",
+      "domain": [
+        "infantile_sexuality",
+        "popular_opinion",
+        "sexuality",
+        "development"
+      ],
+      "source": "Three Essays on the Theory of Sexuality",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0256",
+      "position": "A thorough study of sexual manifestations of childhood would reveal the essential characters of the sexual instinct and show its development course and how it is assembled from various sources",
+      "domain": [
+        "infantile_sexuality",
+        "sexual_instinct",
+        "development",
+        "methodology"
+      ],
+      "source": "Three Essays on the Theory of Sexuality",
+      "type": "methodological_claim"
+    },
+    {
+      "id": "FREUD-0257",
+      "position": "The influence of childhood should be easier to understand and claim consideration before heredity in explaining adult characteristics, yet writers have devoted more attention to phylogenetic than ontogenetic primaeval periods",
+      "domain": [
+        "infantile_sexuality",
+        "ontogenesis",
+        "phylogenesis",
+        "heredity",
+        "development"
+      ],
+      "source": "Three Essays on the Theory of Sexuality",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0258",
+      "position": "Not a single author has clearly recognized the regular existence of a sexual instinct in childhood, and the chapter on sexual development is as a rule omitted in writings on child development",
+      "domain": [
+        "infantile_sexuality",
+        "scientific_literature",
+        "neglect"
+      ],
+      "source": "Three Essays on the Theory of Sexuality",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0259",
+      "position": "Infantile amnesia - the peculiar amnesia which hides the earliest beginnings of childhood up to the sixth or eighth year - is responsible for neglect of infantile sexuality",
+      "domain": [
+        "infantile_amnesia",
+        "childhood",
+        "memory",
+        "infantile_sexuality"
+      ],
+      "source": "Three Essays on the Theory of Sexuality",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0260",
+      "position": "The impressions of childhood that we have forgotten have left the deepest traces on our minds and had a determining effect upon our later development, representing repression rather than real abolition",
+      "domain": [
+        "infantile_amnesia",
+        "childhood",
+        "development",
+        "repression",
+        "determinism"
+      ],
+      "source": "Three Essays on the Theory of Sexuality",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0261",
+      "position": "Infantile amnesia provides a point of comparison between mental states of children and psychoneurotics, and may be brought into relation with the sexual impulses of childhood",
+      "domain": [
+        "infantile_amnesia",
+        "psychoneurosis",
+        "infantile_sexuality",
+        "comparison"
+      ],
+      "source": "Three Essays on the Theory of Sexuality",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0262",
+      "position": "Hysterical amnesia is only explicable by the subject already possessing memory-traces withdrawn from conscious disposal which are connected by an associative link to the forgotten material",
+      "domain": [
+        "hysteria",
+        "amnesia",
+        "repression",
+        "memory",
+        "association"
+      ],
+      "source": "Three Essays on the Theory of Sexuality",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0263",
+      "position": "During the latency period are built up the mental forces which later impede the sexual instinct - disgust, shame, and aesthetic and moral ideals - like dams restricting its flow",
+      "domain": [
+        "latency_period",
+        "development",
+        "reaction_formation",
+        "morality",
+        "disgust",
+        "shame"
+      ],
+      "source": "Three Essays on the Theory of Sexuality",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0264",
+      "position": "The construction of mental dams against sexuality is organically determined and fixed by heredity, and can occasionally occur without any help from education",
+      "domain": [
+        "reaction_formation",
+        "heredity",
+        "development",
+        "sexuality",
+        "latency_period"
+      ],
+      "source": "Three Essays on the Theory of Sexuality",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0265",
+      "position": "These mental constructions emerge at the cost of infantile sexual impulses themselves, whose energy is diverted from sexual use and directed to other ends - a process deserving the name of sublimation",
+      "domain": [
+        "sublimation",
+        "infantile_sexuality",
+        "development",
+        "energy",
+        "transformation"
+      ],
+      "source": "Three Essays on the Theory of Sexuality",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0266",
+      "position": "Powerful components are acquired for every kind of cultural achievement by diversion of sexual instinctual forces from sexual aims to new ones through sublimation",
+      "domain": [
+        "sublimation",
+        "culture",
+        "civilization",
+        "sexuality",
+        "transformation"
+      ],
+      "source": "Three Essays on the Theory of Sexuality",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0267",
+      "position": "The sexual impulses of childhood cannot be utilized since reproductive functions are deferred, and these impulses are perverse - arising from erotogenic zones and arousing unpleasure, evoking opposing mental forces",
+      "domain": [
+        "infantile_sexuality",
+        "perversion",
+        "erotogenic_zones",
+        "unpleasure",
+        "reaction_formation"
+      ],
+      "source": "Three Essays on the Theory of Sexuality",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0268",
+      "position": "Sexual activity makes a child ineducable, which is why educators stigmatize every sexual manifestation as a vice, though they cannot do much against it",
+      "domain": [
+        "infantile_sexuality",
+        "education",
+        "morality",
+        "development"
+      ],
+      "source": "Three Essays on the Theory of Sexuality",
+      "type": "clinical_observation"
+    },
+    {
+      "id": "FREUD-0269",
+      "position": "Thumb-sucking (sensual sucking) consists in rhythmic repetition of sucking contact by the mouth with no purpose of taking nourishment, involving complete absorption of attention and often leading to a motor reaction like an orgasm",
+      "domain": [
+        "infantile_sexuality",
+        "oral",
+        "thumb_sucking",
+        "auto_erotism",
+        "erotogenic_zone"
+      ],
+      "source": "Three Essays on the Theory of Sexuality",
+      "type": "clinical_observation"
+    },
+    {
+      "id": "FREUD-0270",
+      "position": "Many children proceed from thumb-sucking to masturbation, showing continuity between oral and genital sexuality",
+      "domain": [
+        "infantile_sexuality",
+        "oral",
+        "masturbation",
+        "development",
+        "continuity"
+      ],
+      "source": "Three Essays on the Theory of Sexuality",
+      "type": "clinical_observation"
+    },
+    {
+      "id": "FREUD-0271",
+      "position": "The most striking feature of infantile sexual activity is that the instinct is not directed towards other people but obtains satisfaction from the subject's own body - it is auto-erotic",
+      "domain": [
+        "auto_erotism",
+        "infantile_sexuality",
+        "sexual_object",
+        "self_satisfaction"
+      ],
+      "source": "Three Essays on the Theory of Sexuality",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0272",
+      "position": "The child's lips behave like an erotogenic zone, and stimulation by the warm flow of milk is the cause of pleasurable sensation - sexual activity first attaches itself to functions serving self-preservation",
+      "domain": [
+        "erotogenic_zone",
+        "oral",
+        "infantile_sexuality",
+        "attachment",
+        "self_preservation"
+      ],
+      "source": "Three Essays on the Theory of Sexuality",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0273",
+      "position": "To begin with, sexual activity attaches itself to functions serving the purpose of self-preservation and does not become independent of them until later",
+      "domain": [
+        "sexuality",
+        "self_preservation",
+        "independence",
+        "development"
+      ],
+      "source": "Three Essays on the Theory of Sexuality",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0274",
+      "position": "The picture of a baby sinking back satiated from the breast with flushed cheeks and blissful smile persists as a prototype of the expression of sexual satisfaction in later life",
+      "domain": [
+        "oral",
+        "satisfaction",
+        "prototype",
+        "infantile_sexuality"
+      ],
+      "source": "Three Essays on the Theory of Sexuality",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0275",
+      "position": "The need for repeating sexual satisfaction becomes detached from the need for taking nourishment when teeth appear and food is chewed rather than only sucked",
+      "domain": [
+        "oral",
+        "sexuality",
+        "detachment",
+        "nourishment",
+        "development"
+      ],
+      "source": "Three Essays on the Theory of Sexuality",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0276",
+      "position": "Constitutional intensification of the erotogenic significance of the labial region persisting into adulthood produces epicures in kissing, perverse kissing, powerful motives for drinking and smoking, or if repression ensues, disgust at food and hysterical vomiting",
+      "domain": [
+        "oral",
+        "erotogenic_zone",
+        "perversion",
+        "repression",
+        "symptom_formation",
+        "development"
+      ],
+      "source": "Three Essays on the Theory of Sexuality",
+      "type": "etiological_claim"
+    },
+    {
+      "id": "FREUD-0277",
+      "position": "The three essential characteristics of infantile sexual manifestation are: (1) it attaches itself to vital somatic functions, (2) it has no sexual object and is thus auto-erotic, (3) its sexual aim is dominated by an erotogenic zone",
+      "domain": [
+        "infantile_sexuality",
+        "characteristics",
+        "auto_erotism",
+        "erotogenic_zone"
+      ],
+      "source": "Three Essays on the Theory of Sexuality",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0278",
+      "position": "An erotogenic zone is a part of the skin or mucous membrane in which stimuli of a certain sort evoke a feeling of pleasure possessing a particular quality",
+      "domain": [
+        "erotogenic_zone",
+        "pleasure",
+        "stimulation",
+        "definition"
+      ],
+      "source": "Three Essays on the Theory of Sexuality",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0279",
+      "position": "The anal zone shows that erotogenic zones are portions of the skin with heightened excitability innately present, and all erotogenic zones are used to provide a certain amount of pleasure obtained by stimulation according to some rhythm",
+      "domain": [
+        "erotogenic_zone",
+        "anal",
+        "rhythm",
+        "pleasure",
+        "innate"
+      ],
+      "source": "Three Essays on the Theory of Sexuality",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0280",
+      "position": "The anal zone retains considerable susceptibility to genital stimulation throughout life, and intestinal disturbances in childhood have a determining influence on later neurotic symptoms",
+      "domain": [
+        "anal",
+        "erotogenic_zone",
+        "neurosis",
+        "development",
+        "symptom_formation"
+      ],
+      "source": "Three Essays on the Theory of Sexuality",
+      "type": "etiological_claim"
+    },
+    {
+      "id": "FREUD-0281",
+      "position": "Children making use of the anal zone hold back their stool to produce violent muscular contractions and powerful pleasurable stimulation of the mucous membrane as it passes through the anus",
+      "domain": [
+        "anal",
+        "infantile_sexuality",
+        "pleasure",
+        "clinical_observation"
+      ],
+      "source": "Three Essays on the Theory of Sexuality",
+      "type": "clinical_observation"
+    },
+    {
+      "id": "FREUD-0282",
+      "position": "The contents of the bowels are treated as part of the infant's own body, representing his first 'gift' - by producing them he expresses active compliance with environment, by withholding them his disobedience",
+      "domain": [
+        "anal",
+        "feces",
+        "gift",
+        "compliance",
+        "infantile_sexuality"
+      ],
+      "source": "Three Essays on the Theory of Sexuality",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0283",
+      "position": "From being a 'gift' feces later acquire the meaning of 'baby' - for babies, according to one sexual theory of children, are acquired by eating and born through the bowels",
+      "domain": [
+        "anal",
+        "feces",
+        "baby",
+        "infantile_sexual_theories",
+        "symbolism"
+      ],
+      "source": "Three Essays on the Theory of Sexuality",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0284",
+      "position": "The prohibition against getting pleasure from anal activity and its products has a decisive effect on the child's whole development - this is the first occasion the infant glimpses an environment hostile to instinctual impulses and learns to separate his entity from the alien one, carrying out his first repression",
+      "domain": [
+        "anal",
+        "prohibition",
+        "repression",
+        "development",
+        "civilization"
+      ],
+      "source": "Three Essays on the Theory of Sexuality",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0285",
+      "position": "What is 'anal' remains the symbol of everything to be repudiated and excluded from life after the first prohibition against anal pleasure",
+      "domain": [
+        "anal",
+        "symbolism",
+        "repudiation",
+        "civilization"
+      ],
+      "source": "Three Essays on the Theory of Sexuality",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0286",
+      "position": "The genital zone is destined to great things in the future - early infantile masturbation, which scarcely a single individual escapes, establishes the foundations for the future primacy exercised by this erotogenic zone",
+      "domain": [
+        "genital",
+        "masturbation",
+        "infantile_sexuality",
+        "primacy",
+        "universality"
+      ],
+      "source": "Three Essays on the Theory of Sexuality",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0287",
+      "position": "Three phases of infantile masturbation are to be distinguished: the first belongs to early infancy, the second to the brief efflorescence of sexual activity about the fourth year of life, and only the third corresponds to pubertal masturbation",
+      "domain": [
+        "masturbation",
+        "infantile_sexuality",
+        "development",
+        "phases"
+      ],
+      "source": "Three Essays on the Theory of Sexuality",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0288",
+      "position": "Positive and negative perversions can be traced back to a number of component instincts, which are not of a primary nature but are susceptible to further analysis",
+      "domain": [
+        "component_instincts",
+        "perversion",
+        "sexuality",
+        "analysis"
+      ],
+      "source": "Three Essays on the Theory of Sexuality",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0289",
+      "position": "An instinct is provisionally understood as the psychical representative of an endosomatic, continuously flowing source of stimulation, contrasted with a stimulus set up by single excitations from without",
+      "domain": [
+        "instinct",
+        "drive",
+        "definition",
+        "stimulation"
+      ],
+      "source": "Three Essays on the Theory of Sexuality",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0290",
+      "position": "The concept of instinct lies on the frontier between the mental and the physical, representing a measure of the demand made upon the mind for work",
+      "domain": [
+        "instinct",
+        "mind_body",
+        "frontier",
+        "definition"
+      ],
+      "source": "Three Essays on the Theory of Sexuality",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0291",
+      "position": "In itself an instinct is without quality - what distinguishes instincts from one another and endows them with specific qualities is their relation to their somatic sources and to their aims",
+      "domain": [
+        "instinct",
+        "quality",
+        "source",
+        "aim"
+      ],
+      "source": "Three Essays on the Theory of Sexuality",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0292",
+      "position": "The source of an instinct is a process of excitation occurring in an organ and the immediate aim of the instinct lies in the removal of this organic stimulus",
+      "domain": [
+        "instinct",
+        "source",
+        "aim",
+        "excitation"
+      ],
+      "source": "Three Essays on the Theory of Sexuality",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0293",
+      "position": "Erotogenic zones behave in every respect like a portion of the sexual apparatus - in hysteria they become the seat of new sensations and changes in innervation comparable to genital erection",
+      "domain": [
+        "erotogenic_zone",
+        "hysteria",
+        "sexuality",
+        "symptoms"
+      ],
+      "source": "Three Essays on the Theory of Sexuality",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0294",
+      "position": "The eye corresponds to an erotogenic zone in scopophilia and exhibitionism, while the skin assumes this role in components of sexual instinct involving pain and cruelty",
+      "domain": [
+        "erotogenic_zone",
+        "scopophilia",
+        "exhibitionism",
+        "sadism",
+        "masochism"
+      ],
+      "source": "Three Essays on the Theory of Sexuality",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0295",
+      "position": "When libido fails to obtain satisfaction along normal lines, it behaves like a stream whose main bed has become blocked, proceeding to fill up collateral channels which may hitherto have been empty",
+      "domain": [
+        "libido",
+        "perversion",
+        "neurosis",
+        "collateral_channels",
+        "damming_up"
+      ],
+      "source": "Three Essays on the Theory of Sexuality",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0296",
+      "position": "Sexual repression as an internal factor must be put alongside external factors like limitation of freedom and inaccessibility of normal sexual objects, which bring about perversions in persons who might otherwise remain normal",
+      "domain": [
+        "repression",
+        "perversion",
+        "etiology",
+        "external_factors"
+      ],
+      "source": "Three Essays on the Theory of Sexuality",
+      "type": "etiological_claim"
+    },
+    {
+      "id": "FREUD-0297",
+      "position": "Neurosis will always produce its greatest effects when constitution and experience work together in the same direction - what is innate and what is accidentally experienced are not opposing but cooperative factors",
+      "domain": [
+        "neurosis",
+        "constitution",
+        "experience",
+        "etiology",
+        "cooperation"
+      ],
+      "source": "Three Essays on the Theory of Sexuality",
+      "type": "etiological_claim"
+    },
+    {
+      "id": "FREUD-0298",
+      "position": "An unbroken chain bridges the gap between the neuroses in all their manifestations and normality - we are all to some extent hysterics",
+      "domain": [
+        "neurosis",
+        "normality",
+        "continuity",
+        "universality"
+      ],
+      "source": "Three Essays on the Theory of Sexuality",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0299",
+      "position": "The extraordinarily wide dissemination of perversions forces us to suppose that the disposition to perversions is of no great rarity but must form a part of what passes as the normal constitution",
+      "domain": [
+        "perversion",
+        "normality",
+        "disposition",
+        "universality"
+      ],
+      "source": "Three Essays on the Theory of Sexuality",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0300",
+      "position": "There is something innate lying behind the perversions, but it is something innate in everyone as a disposition varying in intensity and increased by influences of actual life",
+      "domain": [
+        "perversion",
+        "disposition",
+        "universality",
+        "innate"
+      ],
+      "source": "Three Essays on the Theory of Sexuality",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0301",
+      "position": "What is innate are the constitutional roots of the sexual instinct - these may grow into actual vehicles of sexual activity (perversions), attract sexual energy as symptoms (neurosis), or through effective restriction bring about normal sexual life",
+      "domain": [
+        "sexuality",
+        "perversion",
+        "neurosis",
+        "normality",
+        "instinct",
+        "roots"
+      ],
+      "source": "Three Essays on the Theory of Sexuality",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0302",
+      "position": "The postulated constitution containing germs of all perversions will only be demonstrable in children - a formula takes shape that the sexuality of neurotics has remained in or been brought back to an infantile state",
+      "domain": [
+        "infantile_sexuality",
+        "perversion",
+        "neurosis",
+        "regression",
+        "constitution"
+      ],
+      "source": "Three Essays on the Theory of Sexuality",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0303",
+      "position": "Every active perversion is accompanied by its passive counterpart in the unconscious - exhibitionists are simultaneously voyeurs, those with repressed sadistic impulses have masochistic determinants of symptoms",
+      "domain": [
+        "perversion",
+        "unconscious",
+        "pairs",
+        "activity_passivity",
+        "sadism",
+        "masochism"
+      ],
+      "source": "Three Essays on the Theory of Sexuality",
+      "type": "clinical_observation"
+    },
+    {
+      "id": "FREUD-0304",
+      "position": "In any fairly marked case of psychoneurosis, a considerable number of perverse instincts are usually found, with traces of them all, though the degree of development of each is independent of the others",
+      "domain": [
+        "psychoneurosis",
+        "perversion",
+        "component_instincts",
+        "multiplicity"
+      ],
+      "source": "Three Essays on the Theory of Sexuality",
+      "type": "clinical_observation"
+    }
+  ]
+}

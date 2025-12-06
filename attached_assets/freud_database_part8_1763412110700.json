@@ -1,0 +1,1367 @@
+{
+  "database_info": {
+    "part": 8,
+    "total_positions": 185,
+    "id_range": "FREUD-0631 to FREUD-0815",
+    "sources_covered": [
+      "The Taboo of Virginity (1918)",
+      "The Psycho-Analytic View of Psychogenic Disturbance of Vision (1910)",
+      "Psycho-Analytic Notes on an Autobiographical Account of a Case of Paranoia (Schreber) (1911)",
+      "The Handling of Dream-Interpretation in Psycho-Analysis (1911)",
+      "The Dynamics of Transference (1912)",
+      "Recommendations to Physicians Practising Psycho-Analysis (1912)",
+      "On Beginning the Treatment (1913)",
+      "Remembering, Repeating and Working-Through (1914)",
+      "Observations on Transference-Love (1915)",
+      "Dreams in Folklore (with Oppenheim) (1911)",
+      "Formulations on the Two Principles of Mental Functioning (1911)",
+      "Types of Onset of Neurosis (1912)",
+      "Contributions to a Discussion on Masturbation (1912)",
+      "The Occurrence in Dreams of Material from Fairy Tales (1913)",
+      "The Theme of the Three Caskets (1913)",
+      "Two Lies Told by Children (1913)",
+      "The Disposition to Obsessional Neurosis (1913)",
+      "Totem and Taboo (1913)",
+      "The Claims of Psycho-Analysis to Scientific Interest (1913)",
+      "Observations and Examples from Analytic Practice (1913)",
+      "Fausse Reconnaissance (Déjà Raconté) (1914)",
+      "The Moses of Michelangelo (1914)",
+      "Some Reflections on Schoolboy Psychology (1914)",
+      "Various shorter papers and prefaces"
+    ],
+    "primary_domains": [
+      "psychoanalytic_technique",
+      "transference",
+      "resistance",
+      "papers_on_technique",
+      "paranoia",
+      "narcissistic_neuroses",
+      "projection",
+      "metapsychology",
+      "reality_principle",
+      "pleasure_principle",
+      "types_of_neurosis",
+      "disposition_to_obsessional_neurosis",
+      "totemism",
+      "taboo",
+      "incest",
+      "ambivalence",
+      "animism",
+      "omnipotence_of_thoughts",
+      "cultural_theory",
+      "religion",
+      "castration_complex",
+      "penis_envy",
+      "defloration",
+      "virginity_taboo",
+      "repetition_compulsion",
+      "working_through",
+      "transference_love",
+      "dream_interpretation_technique",
+      "fairy_tales",
+      "symbolism",
+      "art",
+      "remembering",
+      "acting_out"
+    ],
+    "extraction_date": "2025",
+    "notes": "Comprehensive extraction from Parts 10-11 of Freud's Complete Works covering the crucial period 1910-1914, including the major Papers on Technique series, the Schreber case on paranoia and narcissistic neuroses, metapsychological foundations, the monumental Totem and Taboo, and various clinical and cultural applications."
+  },
+  "positions": [
+    {
+      "id": "FREUD-0631",
+      "position": "Penis envy in women originates in an early developmental phase where girls envy their brothers their sign of masculinity and feel at a disadvantage and humiliated because of the lack of it (or its diminished size) in themselves.",
+      "domains": ["penis_envy", "castration_complex", "female_psychology", "sexual_development"],
+      "source": "The Taboo of Virginity (1918)",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0632",
+      "position": "The 'masculine protest' in women - the wish to be masculine - represents a developmental phase closer to original narcissism than to object-love.",
+      "domains": ["penis_envy", "narcissism", "female_psychology", "sexual_development"],
+      "source": "The Taboo of Virginity (1918)",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0633",
+      "position": "During the masculine phase, little girls often make no secret of their penis envy nor of the hostility towards their favoured brothers which arises from it, even attempting to urinate standing upright to prove equality.",
+      "domains": ["penis_envy", "female_psychology", "clinical_observation", "sexual_development"],
+      "source": "The Taboo of Virginity (1918)",
+      "type": "clinical_observation"
+    },
+    {
+      "id": "FREUD-0634",
+      "position": "The wish for a child in girls develops as a substitute for the wish to have a penis - the girl's libido is redirected from wanting a penis to wanting a child from the father.",
+      "domains": ["penis_envy", "female_psychology", "sexual_development", "object_choice"],
+      "source": "The Taboo of Virginity (1918)",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0635",
+      "position": "The first act of intercourse can activate a woman's wish to castrate her sexual partner and keep his penis for herself, representing the return of archaic penis envy.",
+      "domains": ["penis_envy", "castration_complex", "female_psychology", "sexuality"],
+      "source": "The Taboo of Virginity (1918)",
+      "type": "clinical_observation"
+    },
+    {
+      "id": "FREUD-0636",
+      "position": "Behind penis envy lies women's hostile bitterness against men, which never completely disappears in the relations between the sexes and is clearly indicated in the strivings and literary productions of 'emancipated' women.",
+      "domains": ["penis_envy", "female_psychology", "ambivalence", "cultural_observation"],
+      "source": "The Taboo of Virginity (1918)",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0637",
+      "position": "A woman's immature sexuality is discharged onto the man who first makes her acquainted with the sexual act, which accounts for the paradoxical hostile reaction to defloration.",
+      "domains": ["virginity_taboo", "defloration", "female_psychology", "sexuality"],
+      "source": "The Taboo of Virginity (1918)",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0638",
+      "position": "The taboo of virginity among primitive peoples is reasonable given that it protects the future husband from the dangerous archaic reaction unleashed by defloration.",
+      "domains": ["virginity_taboo", "defloration", "cultural_theory", "anthropology"],
+      "source": "The Taboo of Virginity (1918)",
+      "type": "interpretive_principle"
+    },
+    {
+      "id": "FREUD-0639",
+      "position": "In uncommonly large numbers of cases, women remain frigid and unhappy in first marriages, whereas after dissolution they become tender wives able to make second husbands happy - the archaic hostile reaction has exhausted itself on the first object.",
+      "domains": ["frigidity", "marriage", "defloration", "clinical_observation"],
+      "source": "The Taboo of Virginity (1918)",
+      "type": "clinical_observation"
+    },
+    {
+      "id": "FREUD-0640",
+      "position": "Defloration has not only the civilized consequence of binding the woman to the man, but also unleashes an archaic reaction of hostility toward him which can assume pathological forms and create inhibitions in married life.",
+      "domains": ["defloration", "virginity_taboo", "female_psychology", "marriage"],
+      "source": "The Taboo of Virginity (1918)",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0641",
+      "position": "Some women remain in bondage to their first husbands not through affection but because they have not completed their revenge upon them, and have not even brought the impulses for vengeance to consciousness.",
+      "domains": ["defloration", "unconscious", "revenge", "female_psychology"],
+      "source": "The Taboo of Virginity (1918)",
+      "type": "clinical_observation"
+    },
+    {
+      "id": "FREUD-0642",
+      "position": "In psychogenic disturbances of vision, the eyes have not only perceived changes in the external world important for self-preservation, but also qualities of objects which led to their being chosen as objects of love - their 'charms.'",
+      "domains": ["psychogenic_disturbance", "vision", "instincts", "ego_instincts"],
+      "source": "The Psycho-Analytic View of Psychogenic Disturbance of Vision (1910)",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0643",
+      "position": "Psychogenic visual disturbances occur when the sexual component instinct of looking (scopophilia) has drawn upon itself the whole of the libido, such that the ego-instincts can no longer receive their share of cathexis for the eye's function.",
+      "domains": ["psychogenic_disturbance", "scopophilia", "instincts", "conversion"],
+      "source": "The Psycho-Analytic View of Psychogenic Disturbance of Vision (1910)",
+      "type": "etiological_claim"
+    },
+    {
+      "id": "FREUD-0644",
+      "position": "The ego's repression of the scopophilic sexual component instinct results in a rebellion by the ego-instincts, which refuse their function and thus produce the disturbance of vision - 'if you want to use the organ for bad sexual pleasure, you shall not use it at all.'",
+      "domains": ["repression", "conversion", "psychogenic_disturbance", "ego_instincts"],
+      "source": "The Psycho-Analytic View of Psychogenic Disturbance of Vision (1910)",
+      "type": "etiological_claim"
+    },
+    {
+      "id": "FREUD-0645",
+      "position": "The paranoid forms of dementia praecox (schizophrenia) are characterized by two fundamental features: megalomania and diversion of interest from the external world (people and things).",
+      "domains": ["paranoia", "dementia_praecox", "schizophrenia", "megalomania", "narcissism"],
+      "source": "Psycho-Analytic Notes on an Autobiographical Account of a Case of Paranoia (Schreber) (1911)",
+      "type": "clinical_observation"
+    },
+    {
+      "id": "FREUD-0646",
+      "position": "The detachment of libido from objects without its replacement by new ones leads to megalomania - the libido that has been withdrawn from the external world is directed to the ego, producing an attitude termed narcissism.",
+      "domains": ["narcissism", "megalomania", "libido", "paranoia", "dementia_praecox"],
+      "source": "Psycho-Analytic Notes on an Autobiographical Account of a Case of Paranoia (Schreber) (1911)",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0647",
+      "position": "Megalomania represents a return to an earlier stage of libidinal development in which the child's own ego was his only sexual object - a revival of infantile narcissism.",
+      "domains": ["narcissism", "megalomania", "sexual_development", "regression"],
+      "source": "Psycho-Analytic Notes on an Autobiographical Account of a Case of Paranoia (Schreber) (1911)",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0648",
+      "position": "Paranoia decomposes in the same way that hysteria condenses - paranoia resolves into their elements what hysteria combines. In paranoia, internal perceptions (feelings and thought-processes) are projected outward as though they were external perceptions.",
+      "domains": ["paranoia", "projection", "hysteria", "mechanism"],
+      "source": "Psycho-Analytic Notes on an Autobiographical Account of a Case of Paranoia (Schreber) (1911)",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0649",
+      "position": "The fundamental language of paranoia transforms the formula 'I (a man) love him (a man)' through various grammatical modifications: by contradiction ('I do not love him - I hate him'), by projection ('He hates/persecutes me'), by erotic delusion ('I do not love him - I love her'), and by jealousy delusion.",
+      "domains": ["paranoia", "projection", "homosexuality", "delusion", "persecution"],
+      "source": "Psycho-Analytic Notes on an Autobiographical Account of a Case of Paranoia (Schreber) (1911)",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0650",
+      "position": "The persecutor in paranoia is ultimately revealed to be someone the patient once loved - the proposition 'I hate him' becomes through projection 'He hates (persecutes) me, which will justify me in hating him.'",
+      "domains": ["paranoia", "projection", "persecution", "homosexuality"],
+      "source": "Psycho-Analytic Notes on an Autobiographical Account of a Case of Paranoia (Schreber) (1911)",
+      "type": "interpretive_principle"
+    },
+    {
+      "id": "FREUD-0651",
+      "position": "In Schreber's case, the persecutor Flechsig was a father-substitute, and the delusion worked by transforming the proposition 'I (a man) love him (my father)' into 'I do not love him - I hate him, because HE PERSECUTES ME.'",
+      "domains": ["paranoia", "projection", "father_complex", "schreber_case", "persecution"],
+      "source": "Psycho-Analytic Notes on an Autobiographical Account of a Case of Paranoia (Schreber) (1911)",
+      "type": "clinical_observation"
+    },
+    {
+      "id": "FREUD-0652",
+      "position": "The core conflict in paranoia is the defense against a homosexual wishful phantasy of loving a man, with the libidinal attachment having undergone fixation at the stage of narcissism.",
+      "domains": ["paranoia", "homosexuality", "narcissism", "fixation", "defense"],
+      "source": "Psycho-Analytic Notes on an Autobiographical Account of a Case of Paranoia (Schreber) (1911)",
+      "type": "etiological_claim"
+    },
+    {
+      "id": "FREUD-0653",
+      "position": "The disposition to paranoia lies somewhere between the stages of auto-erotism, narcissism, and homosexuality, representing fixation at the narcissistic stage of development.",
+      "domains": ["paranoia", "narcissism", "disposition", "homosexuality", "fixation"],
+      "source": "Psycho-Analytic Notes on an Autobiographical Account of a Case of Paranoia (Schreber) (1911)",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0654",
+      "position": "In Schreber's cosmology and theology, his delusional system represents an attempt at reconstruction - an attempt to recover the lost objects and re-establish libidinal relations, though in a pathological form.",
+      "domains": ["paranoia", "delusion", "reconstruction", "schreber_case"],
+      "source": "Psycho-Analytic Notes on an Autobiographical Account of a Case of Paranoia (Schreber) (1911)",
+      "type": "interpretive_principle"
+    },
+    {
+      "id": "FREUD-0655",
+      "position": "Schreber's emasculation phantasy - his transformation into a woman - represents a feminine attitude toward his father (originally) and his physician (subsequently), fulfilling the repressed homosexual wish.",
+      "domains": ["paranoia", "homosexuality", "schreber_case", "femininity", "emasculation"],
+      "source": "Psycho-Analytic Notes on an Autobiographical Account of a Case of Paranoia (Schreber) (1911)",
+      "type": "clinical_observation"
+    },
+    {
+      "id": "FREUD-0656",
+      "position": "Schreber's splitting of his God into an upper and lower god (Ormuzd and Ahriman) mirrors the father-complex splitting into the idealized father and the hated father.",
+      "domains": ["paranoia", "schreber_case", "father_complex", "splitting", "god_representation"],
+      "source": "Psycho-Analytic Notes on an Autobiographical Account of a Case of Paranoia (Schreber) (1911)",
+      "type": "interpretive_principle"
+    },
+    {
+      "id": "FREUD-0657",
+      "position": "The sun in Schreber's delusional system is a sublimated father-symbol - the denial of the original human object is never completely successful, and father-symbols break through in the delusion.",
+      "domains": ["paranoia", "symbolism", "father_complex", "sublimation", "schreber_case"],
+      "source": "Psycho-Analytic Notes on an Autobiographical Account of a Case of Paranoia (Schreber) (1911)",
+      "type": "interpretive_principle"
+    },
+    {
+      "id": "FREUD-0658",
+      "position": "The mechanism of symptom-formation in paranoia is projection - internal perceptions are suppressed and their content, after undergoing distortion, enters consciousness as external perceptions.",
+      "domains": ["paranoia", "projection", "symptom_formation", "mechanism"],
+      "source": "Psycho-Analytic Notes on an Autobiographical Account of a Case of Paranoia (Schreber) (1911)",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0659",
+      "position": "In normal psychological life, projection plays a role in our comprehension of other people's mental processes and our interpretations of their motivations, demonstrating that projection is not solely a pathological mechanism.",
+      "domains": ["projection", "normal_psychology", "mechanism"],
+      "source": "Psycho-Analytic Notes on an Autobiographical Account of a Case of Paranoia (Schreber) (1911)",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0660",
+      "position": "The etiology of paranoia is not exclusively homosexual - the gender of the persecutor may vary, and the specific form of paranoia (erotomaniac, persecutory, jealous) depends upon the grammatical modification of the rejected homosexual proposition.",
+      "domains": ["paranoia", "etiology", "homosexuality", "types_of_paranoia"],
+      "source": "Psycho-Analytic Notes on an Autobiographical Account of a Case of Paranoia (Schreber) (1911)",
+      "type": "etiological_claim"
+    },
+    {
+      "id": "FREUD-0661",
+      "position": "Dreams may be used in analysis like any other day's residue, but the analyst must not attach particular importance to them and should never force their interpretation upon the patient.",
+      "domains": ["dream_interpretation_technique", "psychoanalytic_technique", "therapeutic_principle"],
+      "source": "The Handling of Dream-Interpretation in Psycho-Analysis (1911)",
+      "type": "methodological_claim"
+    },
+    {
+      "id": "FREUD-0662",
+      "position": "Over-valuation of dreams by the analyst leads the patient into a state where he brings nothing but dreams and relies entirely on dream-life, to the neglect of dealing directly with resistances and the analytic work on waking life.",
+      "domains": ["dream_interpretation_technique", "psychoanalytic_technique", "resistance"],
+      "source": "The Handling of Dream-Interpretation in Psycho-Analysis (1911)",
+      "type": "therapeutic_principle"
+    },
+    {
+      "id": "FREUD-0663",
+      "position": "The interpretation of a dream should not be pursued unless it serves the analysis - dreams are used as vehicles for revealing unconscious material, not as ends in themselves.",
+      "domains": ["dream_interpretation_technique", "psychoanalytic_technique", "therapeutic_principle"],
+      "source": "The Handling of Dream-Interpretation in Psycho-Analysis (1911)",
+      "type": "methodological_claim"
+    },
+    {
+      "id": "FREUD-0664",
+      "position": "The patient who makes use of his dreams as an evasion from reality and the treatment must be disabused of this tendency - dreams should aid the work, not replace it.",
+      "domains": ["dream_interpretation_technique", "resistance", "psychoanalytic_technique"],
+      "source": "The Handling of Dream-Interpretation in Psycho-Analysis (1911)",
+      "type": "therapeutic_principle"
+    },
+    {
+      "id": "FREUD-0665",
+      "position": "Transference arises spontaneously in all human relationships and in the patient's relations to the physician - it is the most powerful ally and the most formidable source of resistance in psycho-analytic treatment.",
+      "domains": ["transference", "psychoanalytic_technique", "resistance"],
+      "source": "The Dynamics of Transference (1912)",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0666",
+      "position": "Each person develops a stereotyped method of conducting himself in sexual life (a 'psychical attitude' or 'transference pattern') through the combined operation of innate disposition and influences experienced in childhood, determining how he conducts himself in love throughout life.",
+      "domains": ["transference", "love", "character", "sexual_development"],
+      "source": "The Dynamics of Transference (1912)",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0667",
+      "position": "If someone's need for love is not entirely satisfied by reality, he must direct his libidinal anticipatory ideas to every new person who appears, and it is highly probable that both portions of his libido (conscious and unconscious) participate in this attitude.",
+      "domains": ["transference", "libido", "object_choice", "love"],
+      "source": "The Dynamics of Transference (1912)",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0668",
+      "position": "It is perfectly normal that the libido-cathexis of someone who is partly unsatisfied should be directed by anticipation to the person of the physician - this cathexis will attach itself to one of the 'imagos' or stereotyped patterns already present in the patient.",
+      "domains": ["transference", "libido", "physician_patient_relationship", "imago"],
+      "source": "The Dynamics of Transference (1912)",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0669",
+      "position": "The physician becomes attached in the patient's mind to one of the 'imagos' of people by whom he was accustomed to be treated with affection (typically the father or mother imago), and under this assimilation the transference develops.",
+      "domains": ["transference", "imago", "father_complex", "mother_complex"],
+      "source": "The Dynamics of Transference (1912)",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0670",
+      "position": "Transference in analysis is of two types: where it is of affectionate or friendly content that is admissible to consciousness, it becomes the vehicle of success and serves as the motive force of the joint work; but where it consists of unconscious erotic impulses, it becomes a resistance.",
+      "domains": ["transference", "resistance", "psychoanalytic_technique", "erotic_transference"],
+      "source": "The Dynamics of Transference (1912)",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0671",
+      "position": "The struggle over transference-resistance constitutes the main work of the analysis - it is in this struggle that the patient must be convinced of the existence and power of his unconscious feelings.",
+      "domains": ["transference", "resistance", "psychoanalytic_technique", "therapeutic_principle"],
+      "source": "The Dynamics of Transference (1912)",
+      "type": "methodological_claim"
+    },
+    {
+      "id": "FREUD-0672",
+      "position": "The unconscious impulses do not want to be remembered as the treatment desires them to be, but endeavor to reproduce themselves in accordance with the timelessness of the unconscious and its capacity for hallucination - the patient seeks to act them out in the transference.",
+      "domains": ["transference", "unconscious", "repetition", "acting_out"],
+      "source": "The Dynamics of Transference (1912)",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0673",
+      "position": "In severe cases, the unconscious impulses make use of the transference as their chief resistance to the treatment, transforming the most powerful ally into the greatest obstacle.",
+      "domains": ["transference", "resistance", "psychoanalytic_technique"],
+      "source": "The Dynamics of Transference (1912)",
+      "type": "clinical_observation"
+    },
+    {
+      "id": "FREUD-0674",
+      "position": "Transference is the battlefield on which all the contending forces must meet - it is in the handling of the transference that the fate of the analysis is decided.",
+      "domains": ["transference", "psychoanalytic_technique", "therapeutic_principle"],
+      "source": "The Dynamics of Transference (1912)",
+      "type": "methodological_claim"
+    },
+    {
+      "id": "FREUD-0675",
+      "position": "The psycho-analyst should be opaque to his patients and, like a mirror, should show them nothing but what is shown to him - revealing nothing about himself and remaining a blank screen for projection.",
+      "domains": ["psychoanalytic_technique", "therapeutic_principle", "neutrality"],
+      "source": "Recommendations to Physicians Practising Psycho-Analysis (1912)",
+      "type": "methodological_claim"
+    },
+    {
+      "id": "FREUD-0676",
+      "position": "The doctor should withhold all conscious influences from his capacity to attend and give himself over completely to his 'unconscious memory' - maintaining an attitude of 'evenly-suspended attention' to all that one hears.",
+      "domains": ["psychoanalytic_technique", "therapeutic_principle", "attention"],
+      "source": "Recommendations to Physicians Practising Psycho-Analysis (1912)",
+      "type": "methodological_claim"
+    },
+    {
+      "id": "FREUD-0677",
+      "position": "The analyst should not direct his notice toward particular elements or make selections based on expectations or inclinations - as soon as attention is deliberately concentrated, one begins to select and follows inclination, which is precisely what must not be done.",
+      "domains": ["psychoanalytic_technique", "therapeutic_principle", "attention", "selection"],
+      "source": "Recommendations to Physicians Practising Psycho-Analysis (1912)",
+      "type": "methodological_claim"
+    },
+    {
+      "id": "FREUD-0678",
+      "position": "The rule for the analyst is to be the counterpart to the fundamental rule of psycho-analysis for the patient: the patient should communicate everything without selection or omission; the analyst should catch everything with his 'evenly-suspended attention' without privileging anything.",
+      "domains": ["psychoanalytic_technique", "therapeutic_principle", "fundamental_rule"],
+      "source": "Recommendations to Physicians Practising Psycho-Analysis (1912)",
+      "type": "methodological_claim"
+    },
+    {
+      "id": "FREUD-0679",
+      "position": "The analyst's unconscious is able to reconstruct the patient's unconscious from the derivatives of the unconscious which are communicated to him - the analyst uses his own unconscious as an instrument to understand the patient's unconscious.",
+      "domains": ["psychoanalytic_technique", "unconscious", "therapeutic_principle"],
+      "source": "Recommendations to Physicians Practising Psycho-Analysis (1912)",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0680",
+      "position": "The analyst must not tolerate in himself any resistances which hold back from consciousness what has been perceived by his unconscious - if the analyst has not fully analyzed his own complexes and resistances, they will interfere with his perception of the patient's material.",
+      "domains": ["psychoanalytic_technique", "counter_transference", "analyst_psychology"],
+      "source": "Recommendations to Physicians Practising Psycho-Analysis (1912)",
+      "type": "methodological_claim"
+    },
+    {
+      "id": "FREUD-0681",
+      "position": "Every analyst should begin his activity with a self-analysis and continually carry it deeper while making observations on his patients - anyone who fails to produce results in self-analysis should recognize his unfitness to treat patients by analysis.",
+      "domains": ["psychoanalytic_technique", "self_analysis", "training_analysis", "methodological_claim"],
+      "source": "Recommendations to Physicians Practising Psycho-Analysis (1912)",
+      "type": "methodological_claim"
+    },
+    {
+      "id": "FREUD-0682",
+      "position": "The analyst should not take notes during sessions, as selection of material for notation interferes with evenly-suspended attention and introduces a disturbing element into the relationship.",
+      "domains": ["psychoanalytic_technique", "therapeutic_principle", "note_taking"],
+      "source": "Recommendations to Physicians Practising Psycho-Analysis (1912)",
+      "type": "methodological_claim"
+    },
+    {
+      "id": "FREUD-0683",
+      "position": "The analyst must not attempt to remember particular material or fix his expectation on particular outcomes - memory works best when it functions spontaneously rather than being deliberately strained.",
+      "domains": ["psychoanalytic_technique", "therapeutic_principle", "memory"],
+      "source": "Recommendations to Physicians Practising Psycho-Analysis (1912)",
+      "type": "methodological_claim"
+    },
+    {
+      "id": "FREUD-0684",
+      "position": "The analyst should not engage in scientific investigation during treatment - attempts to understand theoretically during the session interfere with therapeutic listening and introduce counter-transference elements.",
+      "domains": ["psychoanalytic_technique", "therapeutic_principle", "scientific_research"],
+      "source": "Recommendations to Physicians Practising Psycho-Analysis (1912)",
+      "type": "methodological_claim"
+    },
+    {
+      "id": "FREUD-0685",
+      "position": "No analyst can take a patient further than he has gone himself in his own analysis - the analyst's unresolved conflicts set limits to what he can accomplish with patients.",
+      "domains": ["psychoanalytic_technique", "training_analysis", "limitations"],
+      "source": "Recommendations to Physicians Practising Psycho-Analysis (1912)",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0686",
+      "position": "The analyst should avoid therapeutic ambition - the need to achieve cures or produce impressive results introduces personal motives that interfere with neutral analytic work.",
+      "domains": ["psychoanalytic_technique", "therapeutic_principle", "neutrality"],
+      "source": "Recommendations to Physicians Practising Psycho-Analysis (1912)",
+      "type": "methodological_claim"
+    },
+    {
+      "id": "FREUD-0687",
+      "position": "Anyone who wishes to carry out analyses must conduct himself as emotionlessly as a surgeon performing an operation - the surgeon puts aside all his feelings including his human sympathy while focusing on the single aim of performing the operation as skillfully as possible.",
+      "domains": ["psychoanalytic_technique", "therapeutic_principle", "neutrality"],
+      "source": "Recommendations to Physicians Practising Psycho-Analysis (1912)",
+      "type": "methodological_claim"
+    },
+    {
+      "id": "FREUD-0688",
+      "position": "Patients repeat in the transference all unwanted occurrences and painful emotions rather than remembering them as something belonging to the past - this is the essence of 'acting out' or 'agieren.'",
+      "domains": ["repetition_compulsion", "transference", "acting_out", "remembering"],
+      "source": "Remembering, Repeating and Working-Through (1914)",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0689",
+      "position": "The greater the resistance, the more extensively will acting out (repetition) replace remembering - in the most extreme cases, the patient does not remember anything at all but 'acts out' everything.",
+      "domains": ["repetition_compulsion", "acting_out", "resistance", "remembering"],
+      "source": "Remembering, Repeating and Working-Through (1914)",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0690",
+      "position": "The patient reproduces material not as a memory but as an action - he repeats it without knowing that he is repeating it, demonstrating that the repressed seeks to be reproduced in present experience rather than remembered as past.",
+      "domains": ["repetition_compulsion", "acting_out", "repression", "remembering"],
+      "source": "Remembering, Repeating and Working-Through (1914)",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0691",
+      "position": "The transference creates an intermediate region between illness and real life through which the transition from one to the other is made - the transference is a piece of real experience but artificially constructed with provisional character.",
+      "domains": ["transference", "psychoanalytic_technique", "therapeutic_principle"],
+      "source": "Remembering, Repeating and Working-Through (1914)",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0692",
+      "position": "The main instrument for curbing the patient's compulsion to repeat and transforming it into a motive for remembering is the handling of the transference - allowing repetition to unfold in the transference under controlled conditions permits analytic work on it.",
+      "domains": ["repetition_compulsion", "transference", "psychoanalytic_technique", "working_through"],
+      "source": "Remembering, Repeating and Working-Through (1914)",
+      "type": "therapeutic_principle"
+    },
+    {
+      "id": "FREUD-0693",
+      "position": "Working-through the resistances is the part of the work that effects the greatest changes in the patient and distinguishes analytic treatment from any kind of treatment by suggestion.",
+      "domains": ["working_through", "resistance", "psychoanalytic_technique", "suggestion"],
+      "source": "Remembering, Repeating and Working-Through (1914)",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0694",
+      "position": "Even after the patient has recognized a resistance and its interpretation, he must work through it - overcome it by continuing the analytic work under its dominance until it has been gradually exhausted.",
+      "domains": ["working_through", "resistance", "psychoanalytic_technique"],
+      "source": "Remembering, Repeating and Working-Through (1914)",
+      "type": "therapeutic_principle"
+    },
+    {
+      "id": "FREUD-0695",
+      "position": "The working-through of resistances is in practice an arduous task and a trial of patience for the patient and analyst alike, yet it is the part of the work that brings about the most enduring changes.",
+      "domains": ["working_through", "resistance", "psychoanalytic_technique"],
+      "source": "Remembering, Repeating and Working-Through (1914)",
+      "type": "therapeutic_principle"
+    },
+    {
+      "id": "FREUD-0696",
+      "position": "When the analyst perceives that the patient is experiencing an intense feeling of love for himself in the transference, this transference-love should neither be gratified nor suppressed, but should be handled as something unreal - an inevitable transference phenomenon to be traced back to its unconscious sources.",
+      "domains": ["transference_love", "erotic_transference", "psychoanalytic_technique", "therapeutic_principle"],
+      "source": "Observations on Transference-Love (1915)",
+      "type": "methodological_claim"
+    },
+    {
+      "id": "FREUD-0697",
+      "position": "The patient's falling in love with the analyst is induced by the analytic situation and is not to be attributed to the charms of the analyst's own person - it has the character of a compulsion deriving from the patient's infantile fixations.",
+      "domains": ["transference_love", "erotic_transference", "infantile_fixation"],
+      "source": "Observations on Transference-Love (1915)",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0698",
+      "position": "The patient's love in the transference is genuine and not less real for being transference - it has most of the qualities of genuine falling in love, though it is determined by infantile prototypes and lacks concern for reality.",
+      "domains": ["transference_love", "erotic_transference", "reality"],
+      "source": "Observations on Transference-Love (1915)",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0699",
+      "position": "The analyst must not yield to the patient's demands for love gratification, but equally must not brutally rebuff or express contempt for the patient's feelings - the analytic situation demands that both abstinence and respect be maintained.",
+      "domains": ["transference_love", "psychoanalytic_technique", "therapeutic_principle", "abstinence"],
+      "source": "Observations on Transference-Love (1915)",
+      "type": "methodological_claim"
+    },
+    {
+      "id": "FREUD-0700",
+      "position": "If the analyst yielded to the patient's demands for love, it would be a victory for the patient but a complete defeat for the treatment - the analyst would have repeated the patient's infantile pattern without enabling any real insight or change.",
+      "domains": ["transference_love", "psychoanalytic_technique", "therapeutic_principle"],
+      "source": "Observations on Transference-Love (1915)",
+      "type": "methodological_claim"
+    },
+    {
+      "id": "FREUD-0701",
+      "position": "The analyst's task is to keep the patient's transference-love in check and use it analytically - to show the patient that this love is determined by infantile fixations and to help trace it back to its unconscious roots.",
+      "domains": ["transference_love", "psychoanalytic_technique", "therapeutic_principle", "interpretation"],
+      "source": "Observations on Transference-Love (1915)",
+      "type": "methodological_claim"
+    },
+    {
+      "id": "FREUD-0702",
+      "position": "The psychical apparatus is governed first by the pleasure principle - the automatic regulation by feelings belonging to the pleasure-unpleasure series, with unpleasure relating to an increase in excitation and pleasure to a diminution.",
+      "domains": ["pleasure_principle", "metapsychology", "psychical_apparatus"],
+      "source": "Formulations on the Two Principles of Mental Functioning (1911)",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0703",
+      "position": "The pleasure principle proves inefficacious for the ego's self-preservation in the external world, as it seeks immediate gratification without regard for reality - a state of merely wishing cannot be sustained, as needs persist and become urgent.",
+      "domains": ["pleasure_principle", "reality_principle", "ego", "self_preservation"],
+      "source": "Formulations on the Two Principles of Mental Functioning (1911)",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0704",
+      "position": "The reality principle represents a modification of the pleasure principle - what is presented in the mind is no longer what is agreeable but what is real, even if it should be disagreeable, securing eventual pleasure through detour rather than immediate gratification.",
+      "domains": ["reality_principle", "pleasure_principle", "metapsychology", "ego"],
+      "source": "Formulations on the Two Principles of Mental Functioning (1911)",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0705",
+      "position": "With the introduction of the reality principle, one species of thought-activity was split off - phantasy remains dominated by the pleasure principle alone and continues seeking immediate wish-fulfillment free from reality-testing.",
+      "domains": ["phantasy", "reality_principle", "pleasure_principle", "thought"],
+      "source": "Formulations on the Two Principles of Mental Functioning (1911)",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0706",
+      "position": "The replacement of the pleasure principle by the reality principle brings about a series of adaptations: development of attention, notation and memory, judgment as reality-testing, thought as experimental action, and motor discharge delayed for purposive action.",
+      "domains": ["reality_principle", "ego_functions", "thought", "metapsychology"],
+      "source": "Formulations on the Two Principles of Mental Functioning (1911)",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0707",
+      "position": "The supersession of the pleasure principle by the reality principle is not sudden or universal but affects different mental impulses to differing degrees - the sexual instincts remain governed by the pleasure principle for much longer.",
+      "domains": ["reality_principle", "pleasure_principle", "sexual_instincts"],
+      "source": "Formulations on the Two Principles of Mental Functioning (1911)",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0708",
+      "position": "Education can be described as an incitement to the conquest of the pleasure principle and its replacement by the reality principle - it seeks the individual's benefit and accelerates a developmental transition that would otherwise occur spontaneously.",
+      "domains": ["education", "reality_principle", "pleasure_principle", "development"],
+      "source": "Formulations on the Two Principles of Mental Functioning (1911)",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0709",
+      "position": "Art represents a reconciliation of the two principles in a unique way - the artist turns from reality toward phantasy, but finds a way back by shaping phantasies into new realities that gain social value.",
+      "domains": ["art", "phantasy", "reality_principle", "pleasure_principle", "sublimation"],
+      "source": "Formulations on the Two Principles of Mental Functioning (1911)",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0710",
+      "position": "The replacement of the pleasure principle by the reality principle does not dethrone the former but only safeguards it - a momentary pleasure with uncertain results is given up, but only to gain a later assured pleasure through regard for reality.",
+      "domains": ["reality_principle", "pleasure_principle", "metapsychology"],
+      "source": "Formulations on the Two Principles of Mental Functioning (1911)",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0711",
+      "position": "Neurosis onset can occur through frustration - when reality refuses satisfaction of sexual needs, driving the libido to regressive paths of satisfaction and symptom-formation.",
+      "domains": ["types_of_neurosis", "neurosis_onset", "frustration", "etiology"],
+      "source": "Types of Onset of Neurosis (1912)",
+      "type": "etiological_claim"
+    },
+    {
+      "id": "FREUD-0712",
+      "position": "Neurosis can onset following developmental changes requiring increased libidinal demands beyond the person's capacity (as at puberty, menopause, or at critical life transitions), representing onset through excess demand.",
+      "domains": ["types_of_neurosis", "neurosis_onset", "development", "etiology"],
+      "source": "Types of Onset of Neurosis (1912)",
+      "type": "etiological_claim"
+    },
+    {
+      "id": "FREUD-0713",
+      "position": "Neurosis onset through inhibition of development occurs when the subject remains arrested at an earlier stage of psychosexual development and cannot advance to more mature forms of satisfaction.",
+      "domains": ["types_of_neurosis", "neurosis_onset", "developmental_arrest", "fixation"],
+      "source": "Types of Onset of Neurosis (1912)",
+      "type": "etiological_claim"
+    },
+    {
+      "id": "FREUD-0714",
+      "position": "Traumatic neuroses onset when a single powerful experience overwhelms the ego's capacity for mastery, breaking through stimulus protection and creating lasting disturbance.",
+      "domains": ["types_of_neurosis", "neurosis_onset", "trauma", "etiology"],
+      "source": "Types of Onset of Neurosis (1912)",
+      "type": "etiological_claim"
+    },
+    {
+      "id": "FREUD-0715",
+      "position": "The common factor in all types of neurosis onset is the inability of the ego to master the quantity of excitation confronting it, whether from external frustration, developmental demands, fixation, or trauma.",
+      "domains": ["types_of_neurosis", "neurosis_onset", "ego", "etiology"],
+      "source": "Types of Onset of Neurosis (1912)",
+      "type": "etiological_claim"
+    },
+    {
+      "id": "FREUD-0716",
+      "position": "The disposition to obsessional neurosis lies in a pre-genital organization of the libido, in which sadism and anal erotism play the principal parts.",
+      "domains": ["disposition_to_obsessional_neurosis", "pre_genital_organization", "sadism", "anal_erotism"],
+      "source": "The Disposition to Obsessional Neurosis (1913)",
+      "type": "etiological_claim"
+    },
+    {
+      "id": "FREUD-0717",
+      "position": "In obsessional neurosis, there has been a regression from the genital stage to the earlier sadistic-anal stage, transforming loving impulses into hostile ones and sexual aims into destructive ones.",
+      "domains": ["obsessional_neurosis", "regression", "sadism", "anal_stage"],
+      "source": "The Disposition to Obsessional Neurosis (1913)",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0718",
+      "position": "The chronological sequence of libidinal development (oral, sadistic-anal, genital) suggests that obsessional neurosis requires fixation to have occurred at the sadistic-anal stage before the genital organization was reached.",
+      "domains": ["disposition_to_obsessional_neurosis", "libidinal_development", "fixation", "chronology"],
+      "source": "The Disposition to Obsessional Neurosis (1913)",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0719",
+      "position": "The ambivalence characteristic of obsessional neurosis originates in the sadistic-anal phase where love and hate, tenderness and aggressivity, are not yet differentiated and coexist in the same impulse.",
+      "domains": ["obsessional_neurosis", "ambivalence", "sadism", "anal_stage"],
+      "source": "The Disposition to Obsessional Neurosis (1913)",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0720",
+      "position": "The temporal relation between the onset of the ego's repressive activity and the level of libidinal organization determines the choice of neurosis - premature ego development relative to libido development predisposes to obsessional neurosis.",
+      "domains": ["disposition_to_obsessional_neurosis", "ego_development", "choice_of_neurosis"],
+      "source": "The Disposition to Obsessional Neurosis (1913)",
+      "type": "etiological_claim"
+    },
+    {
+      "id": "FREUD-0721",
+      "position": "In savage races, the first system of human thought (animism) assumes that everything in nature is animate like the self and populated by spirits - the world is conceived on the model of the ego.",
+      "domains": ["animism", "primitive_thought", "cultural_theory", "totemism"],
+      "source": "Totem and Taboo (1913) - Animism, Magic and the Omnipotence of Thoughts",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0722",
+      "position": "Animism represents a psychological system organizing not only natural phenomena but also the technique for dealing with them - through magic, which assumes that physical processes follow the laws of mental life.",
+      "domains": ["animism", "magic", "primitive_thought", "cultural_theory"],
+      "source": "Totem and Taboo (1913) - Animism, Magic and the Omnipotence of Thoughts",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0723",
+      "position": "Magic operates by two principles: the law of similarity (like produces like, effects resemble causes) and the law of contact or contagion (things once in contact continue to act on each other at a distance).",
+      "domains": ["magic", "animism", "primitive_thought", "association"],
+      "source": "Totem and Taboo (1913) - Animism, Magic and the Omnipotence of Thoughts",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0724",
+      "position": "The omnipotence of thoughts is the primitive belief that wishes and thoughts can directly alter reality - the overvaluation of mental acts as if they were equivalent to real acts.",
+      "domains": ["omnipotence_of_thoughts", "primitive_thought", "magic", "narcissism"],
+      "source": "Totem and Taboo (1913) - Animism, Magic and the Omnipotence of Thoughts",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0725",
+      "position": "The omnipotence of thoughts persists in obsessional neurosis, where patients believe their hostile wishes can cause real harm and must be undone by compulsive rituals - demonstrating that this archaic mode returns in neurosis.",
+      "domains": ["omnipotence_of_thoughts", "obsessional_neurosis", "magical_thinking", "regression"],
+      "source": "Totem and Taboo (1913) - Animism, Magic and the Omnipotence of Thoughts",
+      "type": "clinical_observation"
+    },
+    {
+      "id": "FREUD-0726",
+      "position": "The development of human world-views follows three stages: the animistic (mythological), the religious, and the scientific, corresponding to the stages of libidinal development - narcissistic, object-finding, and maturity.",
+      "domains": ["cultural_theory", "animism", "religion", "science", "libidinal_development"],
+      "source": "Totem and Taboo (1913) - Animism, Magic and the Omnipotence of Thoughts",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0727",
+      "position": "The taboo is the oldest form of human moral restriction, predating religion and having two opposed meanings: sacred/consecrated and uncanny/dangerous/forbidden/unclean.",
+      "domains": ["taboo", "moral_restriction", "ambivalence", "cultural_theory"],
+      "source": "Totem and Taboo (1913) - Taboo and Emotional Ambivalence",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0728",
+      "position": "Taboo prohibitions are different from religious or moral prohibitions - they have no foundation in divine command but impose their own authority, with violation producing automatic punishment through internal necessity.",
+      "domains": ["taboo", "prohibition", "conscience", "cultural_theory"],
+      "source": "Totem and Taboo (1913) - Taboo and Emotional Ambivalence",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0729",
+      "position": "The most ancient and important taboo prohibitions are the two fundamental laws of totemism: not to kill the totem animal and to avoid sexual intercourse with members of the totem clan of the opposite sex.",
+      "domains": ["taboo", "totemism", "incest", "parricide", "cultural_theory"],
+      "source": "Totem and Taboo (1913) - The Horror of Incest",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0730",
+      "position": "The exogamy connected with the totem represents the most drastic measure preventing incest that could possibly have been devised - it prevents not only sexual intercourse with mother and sisters but with all female members of the clan.",
+      "domains": ["totemism", "exogamy", "incest", "taboo", "cultural_theory"],
+      "source": "Totem and Taboo (1913) - The Horror of Incest",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0731",
+      "position": "The incest taboo must have originated from a powerful incestuous desire - what is not desired does not need to be forbidden with such intensity and universality.",
+      "domains": ["incest", "taboo", "desire", "prohibition"],
+      "source": "Totem and Taboo (1913) - The Horror of Incest",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0732",
+      "position": "The ambivalence toward the tabooed object is fundamental - the taboo person or thing is simultaneously desired and feared, attractive and dangerous, generating opposed emotional attitudes.",
+      "domains": ["taboo", "ambivalence", "desire", "fear"],
+      "source": "Totem and Taboo (1913) - Taboo and Emotional Ambivalence",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0733",
+      "position": "Taboo observances in primitive peoples are remarkably similar to obsessional symptoms in neurotics - both involve prohibitions, renunciations, isolation, ceremonials, and the fear that violation will be magically punished.",
+      "domains": ["taboo", "obsessional_neurosis", "ritual", "cultural_theory"],
+      "source": "Totem and Taboo (1913) - Taboo and Emotional Ambivalence",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0734",
+      "position": "The psychological basis of taboo is ambivalent emotional attitudes - every taboo conceals a desire, and the prohibition protects against acting on the unconscious wish.",
+      "domains": ["taboo", "ambivalence", "unconscious_desire", "prohibition"],
+      "source": "Totem and Taboo (1913) - Taboo and Emotional Ambivalence",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0735",
+      "position": "The treatment of enemies in primitive cultures reveals that they are simultaneously feared and revered - the taboos surrounding conquered enemies show that the victor both desires to harm and fears retaliation.",
+      "domains": ["taboo", "enemies", "ambivalence", "cultural_observation"],
+      "source": "Totem and Taboo (1913) - Taboo and Emotional Ambivalence",
+      "type": "interpretive_principle"
+    },
+    {
+      "id": "FREUD-0736",
+      "position": "Rulers are subject to elaborate taboos because their subjects harbor both veneration and hostile impulses toward them - the taboo protects the ruler but also restricts him, expressing the ambivalence of the subject's attitude.",
+      "domains": ["taboo", "rulers", "ambivalence", "cultural_theory"],
+      "source": "Totem and Taboo (1913) - Taboo and Emotional Ambivalence",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0737",
+      "position": "The taboo of the dead arises from ambivalence - survivors both mourn and harbor hostile feelings toward the deceased, and project these hostile wishes onto the ghost or spirit, which is then feared.",
+      "domains": ["taboo", "death", "mourning", "ambivalence", "projection"],
+      "source": "Totem and Taboo (1913) - Taboo and Emotional Ambivalence",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0738",
+      "position": "Conscience originates from ambivalence toward loved persons - the need to restrict hostile impulses toward those we love forms the basis of moral conscience and taboo observance.",
+      "domains": ["conscience", "ambivalence", "moral_development", "taboo"],
+      "source": "Totem and Taboo (1913) - Taboo and Emotional Ambivalence",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0739",
+      "position": "The totem animal is a substitute for the father - totemism represents an early form of father-worship where the father's authority is projected onto an animal ancestor.",
+      "domains": ["totemism", "father_complex", "religion", "cultural_theory"],
+      "source": "Totem and Taboo (1913) - The Return of Totemism in Childhood",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0740",
+      "position": "The origin of totemism lies in the primal crime - in the remote past, the primal father was killed and eaten by his sons, who banded together against the father's monopoly over women and his tyrannical rule.",
+      "domains": ["totemism", "primal_horde", "parricide", "cultural_theory", "origins"],
+      "source": "Totem and Taboo (1913) - The Return of Totemism in Childhood",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0741",
+      "position": "After the parricide, the sons experienced remorse and guilt - they both hated the father who stood as an obstacle to their power and sexual wishes, but also loved and admired him.",
+      "domains": ["totemism", "parricide", "ambivalence", "guilt", "father_complex"],
+      "source": "Totem and Taboo (1913) - The Return of Totemism in Childhood",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0742",
+      "position": "The taboo against killing the totem (father-substitute) and the prohibition of incest (renunciation of the women) represent deferred obedience to the father - the sons grant to the father in death the authority they had fought against in life.",
+      "domains": ["totemism", "taboo", "deferred_obedience", "father_complex"],
+      "source": "Totem and Taboo (1913) - The Return of Totemism in Childhood",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0743",
+      "position": "The totem meal, in which the totem animal is ceremonially killed and eaten by all clan members, represents a repetition and commemoration of the original parricide - a reenactment of the primal crime.",
+      "domains": ["totemism", "totem_meal", "ritual", "parricide", "identification"],
+      "source": "Totem and Taboo (1913) - The Return of Totemism in Childhood",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0744",
+      "position": "By eating the father (totem animal), the sons achieve identification with him and acquire a portion of his strength - the totemic system is based on preserving the memory of the father through periodic renewal of the crime.",
+      "domains": ["totemism", "identification", "totem_meal", "father_complex"],
+      "source": "Totem and Taboo (1913) - The Return of Totemism in Childhood",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0745",
+      "position": "Religion originates in the son's guilt over parricide - the totem animal is replaced by a god, and the son's ambivalence finds expression in the alternation of defiance and submission toward the deity.",
+      "domains": ["religion", "totemism", "guilt", "god", "father_complex"],
+      "source": "Totem and Taboo (1913) - The Return of Totemism in Childhood",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0746",
+      "position": "The Christian communion, in which believers consume the body and blood of Christ, represents the direct heir of the totem meal - it repeats the incorporation of the father-god to achieve union with him.",
+      "domains": ["religion", "totemism", "communion", "identification", "father_complex"],
+      "source": "Totem and Taboo (1913) - The Return of Totemism in Childhood",
+      "type": "interpretive_principle"
+    },
+    {
+      "id": "FREUD-0747",
+      "position": "Social organization originates in the brothers' renunciation of the women they had liberated by killing the father - to prevent fighting among themselves, they established exogamy and restricted each other's access to incestuous objects.",
+      "domains": ["social_organization", "exogamy", "totemism", "incest", "cultural_origins"],
+      "source": "Totem and Taboo (1913) - The Return of Totemism in Childhood",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0748",
+      "position": "The sense of guilt arising from the primal parricide has been inherited through phylogeny and persists in humanity's unconscious - it forms the basis of religion, morality, and social organization.",
+      "domains": ["guilt", "phylogenesis", "cultural_theory", "unconscious", "inheritance"],
+      "source": "Totem and Taboo (1913) - The Return of Totemism in Childhood",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0749",
+      "position": "The Oedipus complex is the nucleus of neurosis because it recapitulates humanity's primal experience - the child's wishes to kill the father and possess the mother repeat the original crime that founded human civilization.",
+      "domains": ["oedipus_complex", "neurosis", "cultural_theory", "phylogenesis"],
+      "source": "Totem and Taboo (1913) - The Return of Totemism in Childhood",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0750",
+      "position": "Children's animal phobias represent a displacement of fear and ambivalence from the father onto an animal substitute - the phobic animal is always a father-surrogate.",
+      "domains": ["phobia", "animal_phobia", "father_complex", "displacement", "totemism"],
+      "source": "Totem and Taboo (1913) - The Return of Totemism in Childhood",
+      "type": "clinical_observation"
+    },
+    {
+      "id": "FREUD-0751",
+      "position": "The development of culture rests on restrictions placed on instinctual satisfaction - the renunciations imposed by totemism (no parricide, no incest) form the foundation of all subsequent moral and social development.",
+      "domains": ["cultural_development", "instinct_renunciation", "totemism", "morality"],
+      "source": "Totem and Taboo (1913) - The Return of Totemism in Childhood",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0752",
+      "position": "Psycho-analysis has demonstrated that the first impulses of a child are incestuous and that such wishes persist in the unconscious throughout life, forming the nucleus of later neurotic conflict.",
+      "domains": ["incest", "childhood_sexuality", "oedipus_complex", "unconscious"],
+      "source": "Totem and Taboo (1913) - The Horror of Incest",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0753",
+      "position": "The individual's emotional attitude toward the totem recapitulates the child's emotional attitude toward the father - the ambivalence, fear, and veneration directed toward the totem mirror the Oedipus complex.",
+      "domains": ["totemism", "oedipus_complex", "father_complex", "ambivalence", "ontogeny"],
+      "source": "Totem and Taboo (1913) - The Return of Totemism in Childhood",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0764",
+      "position": "In the theme of the three caskets (Merchant of Venice, King Lear, Judgment of Paris), the choice among three women represents the choice among three essential forms of woman in man's life: the mother who bears him, the beloved who is his equal, and death who receives him.",
+      "domains": ["symbolism", "mythology", "three_women", "mother", "death"],
+      "source": "The Theme of the Three Caskets (1913)",
+      "type": "interpretive_principle"
+    },
+    {
+      "id": "FREUD-0755",
+      "position": "The third casket (lead) represents death - it is chosen because it symbolizes silence, pallor, and muteness, all attributes of death. The reversal in the myths (choosing the 'best' rather than 'death') represents wish-fulfillment against the reality of mortality.",
+      "domains": ["symbolism", "death", "wish_fulfillment", "mythology"],
+      "source": "The Theme of the Three Caskets (1913)",
+      "type": "interpretive_principle"
+    },
+    {
+      "id": "FREUD-0756",
+      "position": "The three Fates (Moirae) - Clotho who spins the thread of life, Lachesis who measures it, and Atropos who cuts it - represent the three aspects of the mother: creator, maintainer, and destroyer.",
+      "domains": ["mythology", "mother", "death", "fates", "symbolism"],
+      "source": "The Theme of the Three Caskets (1913)",
+      "type": "interpretive_principle"
+    },
+    {
+      "id": "FREUD-0757",
+      "position": "The Goddess of Death in mythology is derived from the Goddess of Love - the Greeks' Aphrodite and Romans' Venus originally possessed attributes of death deities, showing the connection between love and death.",
+      "domains": ["mythology", "love", "death", "goddess", "symbolism"],
+      "source": "The Theme of the Three Caskets (1913)",
+      "type": "interpretive_principle"
+    },
+    {
+      "id": "FREUD-0758",
+      "position": "Man's relationship with the three women recapitulates his relationship with the mother throughout life - she is the woman who bears him (mother), the woman who loves him (beloved replacing the mother), and Mother Earth who receives him in death.",
+      "domains": ["mother", "death", "love", "symbolism", "life_cycle"],
+      "source": "The Theme of the Three Caskets (1913)",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0759",
+      "position": "The transformation in myths from terrifying Death to desirable Love represents the operation of wish-fulfillment - the myth replaces what we fear (death) with what we desire (love), allowing us to contemplate mortality.",
+      "domains": ["mythology", "wish_fulfillment", "death", "love", "defense"],
+      "source": "The Theme of the Three Caskets (1913)",
+      "type": "interpretive_principle"
+    },
+    {
+      "id": "FREUD-0760",
+      "position": "Fausse reconnaissance ('déjà raconté') - the feeling of having already told something that one is currently relating - represents a compromise formation between the impulse to tell something important from the past and the resistance against revealing it.",
+      "domains": ["parapraxis", "déjà_vu", "resistance", "memory"],
+      "source": "Fausse Reconnaissance (Déjà Raconté) (1914)",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0761",
+      "position": "The 'déjà raconté' experience allows the person to enjoy the satisfaction of having revealed the important material (as though it had been told) while maintaining the repression (since it actually remains untold).",
+      "domains": ["parapraxis", "déjà_vu", "repression", "compromise_formation"],
+      "source": "Fausse Reconnaissance (Déjà Raconté) (1914)",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0762",
+      "position": "The Moses of Michelangelo represents Moses after his return from Sinai, in the moment of checking his anger at seeing the people worshiping the golden calf - the statue captures the instant of controlling intense affect.",
+      "domains": ["art", "affect", "sculpture", "interpretation"],
+      "source": "The Moses of Michelangelo (1914)",
+      "type": "interpretive_principle"
+    },
+    {
+      "id": "FREUD-0763",
+      "position": "Michelangelo modified the traditional Moses by depicting him restraining his anger rather than giving way to it - the statue shows a Moses who has overcome passion in favor of duty, representing the artist's own psychological conflict.",
+      "domains": ["art", "affect_control", "duty", "passion"],
+      "source": "The Moses of Michelangelo (1914)",
+      "type": "interpretive_principle"
+    },
+    {
+      "id": "FREUD-0764",
+      "position": "The meaning of great works of art can be discovered through minute observation of small details and features - trivial details often betray the creator's unconscious intentions more clearly than obvious features.",
+      "domains": ["art", "interpretation", "details", "unconscious"],
+      "source": "The Moses of Michelangelo (1914)",
+      "type": "methodological_claim"
+    },
+    {
+      "id": "FREUD-0765",
+      "position": "Art works affect us powerfully by arousing the same emotional state in us that existed in the artist during creation - we reconstruct the artist's psychological process from studying the work itself.",
+      "domains": ["art", "affect", "artist_psychology", "aesthetic_response"],
+      "source": "The Moses of Michelangelo (1914)",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0766",
+      "position": "Dreams commonly incorporate material from fairy tales and myths, which serve as collective repositories of typical human experiences and unconscious phantasies shared across cultures.",
+      "domains": ["dreams", "fairy_tales", "mythology", "collective_unconscious"],
+      "source": "The Occurrence in Dreams of Material from Fairy Tales (1913)",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0767",
+      "position": "Fairy tales and myths provide ready-made symbolic expressions for unconscious phantasies - the dreamer borrows from this cultural storehouse to express personal unconscious material.",
+      "domains": ["dreams", "fairy_tales", "symbolism", "mythology"],
+      "source": "The Occurrence in Dreams of Material from Fairy Tales (1913)",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0768",
+      "position": "The recurrence of the same themes in fairy tales across different cultures demonstrates that these tales express universal unconscious phantasies and typical human experiences.",
+      "domains": ["fairy_tales", "mythology", "universal_phantasies", "cultural_theory"],
+      "source": "The Occurrence in Dreams of Material from Fairy Tales (1913)",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0769",
+      "position": "Children's lies can serve defensive purposes - the child may lie to protect himself from punishment or to deny painful reality, and such lies should be understood as defensive operations rather than simple moral failures.",
+      "domains": ["lies", "children", "defense", "moral_development"],
+      "source": "Two Lies Told by Children (1913)",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0770",
+      "position": "Some children's lies represent phantasy formations that have broken through into consciousness and been asserted as reality - the child confuses wish-fulfillment phantasy with actual events.",
+      "domains": ["lies", "children", "phantasy", "reality_testing"],
+      "source": "Two Lies Told by Children (1913)",
+      "type": "clinical_observation"
+    },
+    {
+      "id": "FREUD-0771",
+      "position": "Overly harsh moral demands and punishment for lying may intensify rather than cure the tendency to lie - the child needs understanding of the phantasy behind the lie rather than pure condemnation.",
+      "domains": ["lies", "children", "moral_development", "punishment"],
+      "source": "Two Lies Told by Children (1913)",
+      "type": "therapeutic_principle"
+    },
+    {
+      "id": "FREUD-0772",
+      "position": "In masturbation, both physical and psychological factors play roles - the act may serve to discharge sexual tension but also represents phantasy fulfillment and may become a vehicle for expressing unconscious wishes.",
+      "domains": ["masturbation", "sexuality", "phantasy", "autoerotic"],
+      "source": "Contributions to a Discussion on Masturbation (1912)",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0773",
+      "position": "The harm in masturbation lies not in the physical act itself but in the excessive sense of guilt it produces, which may interfere with later sexual development and contribute to neurotic disposition.",
+      "domains": ["masturbation", "guilt", "sexual_development", "neurosis"],
+      "source": "Contributions to a Discussion on Masturbation (1912)",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0774",
+      "position": "Psycho-analysis claims interest from philosophy because it compels philosophy to take account of unconscious mental processes - any theory of mind that neglects the unconscious is inadequate.",
+      "domains": ["philosophy", "unconscious", "epistemology", "psychoanalysis"],
+      "source": "The Claims of Psycho-Analysis to Scientific Interest (1913)",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0775",
+      "position": "For philology and the study of language, psycho-analysis reveals that linguistic symbols and expressions often preserve ancient meanings connected to the body and sexual functions, with symbolism being rooted in unconscious equation of disparate objects.",
+      "domains": ["philology", "language", "symbolism", "unconscious"],
+      "source": "The Claims of Psycho-Analysis to Scientific Interest (1913)",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0776",
+      "position": "Psycho-analysis has interest for biology in demonstrating the fundamental bisexuality of human beings - both physical and psychological bisexual tendencies are present and influence sexual development and object-choice.",
+      "domains": ["biology", "bisexuality", "sexual_development"],
+      "source": "The Claims of Psycho-Analysis to Scientific Interest (1913)",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0777",
+      "position": "For the history of civilization, psycho-analysis shows that the development of culture depends upon restriction of instinctual satisfaction - cultural progress requires instinctual renunciation and sublimation.",
+      "domains": ["cultural_development", "civilization", "instinct", "sublimation"],
+      "source": "The Claims of Psycho-Analysis to Scientific Interest (1913)",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0778",
+      "position": "In the study of religion, psycho-analysis demonstrates that religious beliefs and practices derive from the same sources as neurotic symptoms - both represent attempts to master infantile conflicts, particularly those relating to the father.",
+      "domains": ["religion", "father_complex", "neurosis", "cultural_theory"],
+      "source": "The Claims of Psycho-Analysis to Scientific Interest (1913)",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0779",
+      "position": "Psycho-analysis shows that mythology and folklore preserve collective unconscious phantasies - myths represent disguised wish-fulfillments of whole peoples, just as dreams represent wish-fulfillments of individuals.",
+      "domains": ["mythology", "folklore", "collective_phantasy", "wish_fulfillment"],
+      "source": "The Claims of Psycho-Analysis to Scientific Interest (1913)",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0780",
+      "position": "For aesthetics, psycho-analysis reveals that artistic creation involves regression to primary process thinking combined with masterful form - the artist reconciles infantile pleasure sources with mature technique.",
+      "domains": ["aesthetics", "art", "creativity", "primary_process", "regression"],
+      "source": "The Claims of Psycho-Analysis to Scientific Interest (1913)",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0781",
+      "position": "In education, psycho-analysis shows that early childhood experiences have lasting effects on character formation - education should aim at optimal management of instinctual forces rather than mere suppression.",
+      "domains": ["education", "childhood", "character_formation", "instinct"],
+      "source": "The Claims of Psycho-Analysis to Scientific Interest (1913)",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0782",
+      "position": "Psycho-analysis demonstrates to sociology that individual psychology and group psychology are fundamentally connected - social institutions arise from attempts to solve common psychological problems.",
+      "domains": ["sociology", "group_psychology", "social_institutions"],
+      "source": "The Claims of Psycho-Analysis to Scientific Interest (1913)",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0783",
+      "position": "For jurisprudence, psycho-analysis shows that the concept of responsibility requires consideration of unconscious motivation - legal responsibility cannot be determined without understanding the unconscious forces behind actions.",
+      "domains": ["jurisprudence", "law", "responsibility", "unconscious_motivation"],
+      "source": "The Claims of Psycho-Analysis to Scientific Interest (1913)",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0784",
+      "position": "In psychiatry, psycho-analysis has shown that mental disorders previously thought meaningless have psychological meaning - every symptom serves a purpose in the patient's mental economy.",
+      "domains": ["psychiatry", "symptom_meaning", "mental_disorder"],
+      "source": "The Claims of Psycho-Analysis to Scientific Interest (1913)",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0785",
+      "position": "The position in which a person wakes from a dream often relates to the content of the dream and may represent a bodily expression of what was dreamed.",
+      "domains": ["dreams", "body_position", "dream_content", "somatic_expression"],
+      "source": "Observations and Examples from Analytic Practice (1913)",
+      "type": "clinical_observation"
+    },
+    {
+      "id": "FREUD-0786",
+      "position": "Self-criticism by neurotics often represents an internalized critical voice (superego precursor) directed against forbidden instinctual wishes - the patient attacks himself to avoid punishment from outside.",
+      "domains": ["self_criticism", "neurosis", "superego", "internalization"],
+      "source": "Observations and Examples from Analytic Practice (1913)",
+      "type": "clinical_observation"
+    },
+    {
+      "id": "FREUD-0787",
+      "position": "Dreams may condense or expand the representation of time - years may be represented as moments or moments as extended periods, reflecting the timelessness of unconscious processes.",
+      "domains": ["dreams", "time", "condensation", "unconscious"],
+      "source": "Observations and Examples from Analytic Practice (1913)",
+      "type": "clinical_observation"
+    },
+    {
+      "id": "FREUD-0788",
+      "position": "Two rooms in a dream often represent the two openings of the female body (mouth and genitals) or the transformation from 'two' (breasts, buttocks) to 'one' (genitals), expressing sexual symbolism through spatial representation.",
+      "domains": ["dreams", "symbolism", "female_body", "rooms"],
+      "source": "Observations and Examples from Analytic Practice (1913)",
+      "type": "interpretive_principle"
+    },
+    {
+      "id": "FREUD-0789",
+      "position": "Fragmentary dreams that seem incomplete often defend against disturbing material by breaking off the dream narrative before reaching the anxiety-producing conclusion.",
+      "domains": ["dreams", "defense", "anxiety", "fragmentation"],
+      "source": "Observations and Examples from Analytic Practice (1913)",
+      "type": "interpretive_principle"
+    },
+    {
+      "id": "FREUD-0790",
+      "position": "Dreams about dead people often fulfill wishes about their death or express guilt over having wished for their death - the dreamer's relationship with the deceased is re-experienced in the dream.",
+      "domains": ["dreams", "death", "wish", "guilt", "dead_people"],
+      "source": "Observations and Examples from Analytic Practice (1913)",
+      "type": "interpretive_principle"
+    },
+    {
+      "id": "FREUD-0791",
+      "position": "When symptoms of the illness appear in the dream, this often indicates that the symptoms are being used as day-residues to express unconscious wish-fulfillment - the symptom becomes material for dream-work.",
+      "domains": ["dreams", "symptoms", "wish_fulfillment", "day_residue"],
+      "source": "Observations and Examples from Analytic Practice (1913)",
+      "type": "interpretive_principle"
+    },
+    {
+      "id": "FREUD-0792",
+      "position": "Overcoats in dreams typically symbolize condoms - the dream expresses sexual wishes or anxieties about sexual intercourse through the overcoat representation.",
+      "domains": ["dreams", "symbolism", "sexuality", "overcoat", "condom"],
+      "source": "Observations and Examples from Analytic Practice (1913)",
+      "type": "interpretive_principle"
+    },
+    {
+      "id": "FREUD-0793",
+      "position": "Shoes in dreams commonly represent the female genitals - dirty, torn, or disgraced shoes (feet) express devaluation or disgust toward sexuality.",
+      "domains": ["dreams", "symbolism", "female_genitals", "shoes"],
+      "source": "Observations and Examples from Analytic Practice (1913)",
+      "type": "interpretive_principle"
+    },
+    {
+      "id": "FREUD-0794",
+      "position": "The representation of ages in dreams often condenses different time periods - a person may appear simultaneously at different ages, or one person's age may represent another's, expressing temporal displacement.",
+      "domains": ["dreams", "time", "age", "condensation", "displacement"],
+      "source": "Observations and Examples from Analytic Practice (1913)",
+      "type": "interpretive_principle"
+    },
+    {
+      "id": "FREUD-0795",
+      "position": "Dreams with an unrecognized precipitating cause often conceal distressing current events that the dreamer wishes to deny - the manifest dream obscures its connection to recent trauma.",
+      "domains": ["dreams", "trauma", "denial", "precipitating_cause"],
+      "source": "Observations and Examples from Analytic Practice (1913)",
+      "type": "interpretive_principle"
+    },
+    {
+      "id": "FREUD-0796",
+      "position": "In folklore dreams, particularly those about bodily functions and sexuality, the dream-symbolism reveals unconscious equations between disparate bodily products and sexual elements that are shared across cultures.",
+      "domains": ["dreams", "folklore", "symbolism", "sexuality", "body"],
+      "source": "Dreams in Folklore (with Oppenheim) (1911)",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0797",
+      "position": "Penis symbolism appears commonly in folklore dreams through representations of elongated objects, tools, and weapons - the symbolic equation is evident across different cultural traditions.",
+      "domains": ["dreams", "folklore", "penis_symbolism", "phallic_symbols"],
+      "source": "Dreams in Folklore (with Oppenheim) (1911)",
+      "type": "interpretive_principle"
+    },
+    {
+      "id": "FREUD-0798",
+      "position": "Faeces symbolism in dreams and folklore equates excrement with gold, money, and gifts - the unconscious preserves the infantile equation between bodily products and valuable possessions.",
+      "domains": ["dreams", "folklore", "faeces_symbolism", "anal_erotism", "money"],
+      "source": "Dreams in Folklore (with Oppenheim) (1911)",
+      "type": "interpretive_principle"
+    },
+    {
+      "id": "FREUD-0799",
+      "position": "Dreams about finding treasure typically represent wish-fulfillments related to anal erotism and the discovery of one's own body - the treasure symbolizes valuable bodily products or sexual organs.",
+      "domains": ["dreams", "treasure", "anal_erotism", "body_discovery", "wish_fulfillment"],
+      "source": "Dreams in Folklore (with Oppenheim) (1911)",
+      "type": "interpretive_principle"
+    },
+    {
+      "id": "FREUD-0800",
+      "position": "The ring in dreams and folklore commonly symbolizes the female genitals - stories about magic rings or rings of fidelity express unconscious phantasies about female sexuality.",
+      "domains": ["dreams", "folklore", "ring_symbolism", "female_genitals"],
+      "source": "Dreams in Folklore (with Oppenheim) (1911)",
+      "type": "interpretive_principle"
+    },
+    {
+      "id": "FREUD-0801",
+      "position": "Educational experiences in adolescence (particularly at gymnasium/secondary school) leave lasting impressions because they occur during a time of heightened emotional receptivity and when the personality is being formed.",
+      "domains": ["education", "adolescence", "character_formation", "teachers"],
+      "source": "Some Reflections on Schoolboy Psychology (1914)",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0802",
+      "position": "Teachers inevitably serve as father-substitutes for their students - the student's emotional relationship with teachers recapitulates and is determined by his relationship with his father.",
+      "domains": ["education", "teachers", "father_substitute", "transference"],
+      "source": "Some Reflections on Schoolboy Psychology (1914)",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0803",
+      "position": "Students transfer onto their teachers the ambivalent feelings they harbor toward their fathers - they both admire and rebel against teachers with the same ambivalence that characterizes the father-son relationship.",
+      "domains": ["education", "ambivalence", "father_complex", "teachers", "transference"],
+      "source": "Some Reflections on Schoolboy Psychology (1914)",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0804",
+      "position": "The liberation from parental authority is one of the most necessary but also most painful achievements of development - education aids this process by providing other authority figures (teachers) through whom the conflict with the father can be partially worked through.",
+      "domains": ["education", "parental_authority", "development", "father_complex"],
+      "source": "Some Reflections on Schoolboy Psychology (1914)",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0805",
+      "position": "Former students' idealization of certain teachers and scorn for others reflects not the objective merits of these teachers but the students' own emotional needs and conflicts projected onto them.",
+      "domains": ["education", "idealization", "projection", "teachers"],
+      "source": "Some Reflections on Schoolboy Psychology (1914)",
+      "type": "clinical_observation"
+    },
+    {
+      "id": "FREUD-0806",
+      "position": "The significant psychological influence of teachers derives not from their knowledge but from their personalities - students are affected by the teacher as a person rather than by the subject matter taught.",
+      "domains": ["education", "personality", "teachers", "influence"],
+      "source": "Some Reflections on Schoolboy Psychology (1914)",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0807",
+      "position": "School experiences gain their significance from the fact that they represent the student's first major encounter with social organization outside the family - the school is the training ground for adult social life.",
+      "domains": ["education", "socialization", "school", "development"],
+      "source": "Some Reflections on Schoolboy Psychology (1914)",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0808",
+      "position": "Students' ambivalent feelings toward their teachers protect them from being overwhelmed by exclusive attachment to their fathers - the distribution of ambivalence across multiple authority figures is developmentally beneficial.",
+      "domains": ["education", "ambivalence", "father_complex", "teachers", "development"],
+      "source": "Some Reflections on Schoolboy Psychology (1914)",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0809",
+      "position": "The psycho-analytic view of psychogenic disturbance demonstrates that conversion symptoms occur when the ego-instincts are overwhelmed by sexual instincts - the organ 'struck with repression' becomes unable to fulfill its ego-function.",
+      "domains": ["conversion", "ego_instincts", "sexual_instincts", "repression", "psychogenic_disturbance"],
+      "source": "The Psycho-Analytic View of Psychogenic Disturbance of Vision (1910)",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0810",
+      "position": "The selection of the organ for conversion symptom is not arbitrary but determined by the specific role that organ plays in both ego-preservation and sexual gratification - the organ must serve both instinctual groups.",
+      "domains": ["conversion", "organ_selection", "somatic_compliance", "symptom_formation"],
+      "source": "The Psycho-Analytic View of Psychogenic Disturbance of Vision (1910)",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0811",
+      "position": "The relation of the eye to objects combines both functions - perception for self-preservation and scopophilic sexual pleasure - which is why it becomes a site for conversion symptoms when these functions conflict.",
+      "domains": ["conversion", "vision", "scopophilia", "ego_instincts", "sexual_instincts"],
+      "source": "The Psycho-Analytic View of Psychogenic Disturbance of Vision (1910)",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0812",
+      "position": "In Schreber's delusional system, his transformation into God's wife and the subsequent redemption of the world through bearing divine offspring represents the ultimate fulfillment of his feminine homosexual wish toward his father, sublimated into religious-cosmic significance.",
+      "domains": ["paranoia", "schreber_case", "homosexuality", "delusion", "sublimation", "megalomania"],
+      "source": "Psycho-Analytic Notes on an Autobiographical Account of a Case of Paranoia (Schreber) (1911)",
+      "type": "clinical_observation"
+    },
+    {
+      "id": "FREUD-0813",
+      "position": "The voices (Stimmenhören) experienced in paranoia and related conditions represent the auditory perception of thoughts - what should remain internal mental processes break through into consciousness as external voices.",
+      "domains": ["paranoia", "hallucination", "voices", "thought_disorder", "projection"],
+      "source": "Psycho-Analytic Notes on an Autobiographical Account of a Case of Paranoia (Schreber) (1911)",
+      "type": "theoretical_claim"
+    },
+    {
+      "id": "FREUD-0814",
+      "position": "Schreber's concept of 'soul murder' (Seelenmord) represents his unconscious perception of the psychological danger posed by submission to homosexual wishes - the fear that yielding to these wishes would destroy his masculine identity.",
+      "domains": ["paranoia", "schreber_case", "homosexuality", "castration_anxiety", "soul_murder"],
+      "source": "Psycho-Analytic Notes on an Autobiographical Account of a Case of Paranoia (Schreber) (1911)",
+      "type": "interpretive_principle"
+    },
+    {
+      "id": "FREUD-0815",
+      "position": "The successful adaptation to reality in paranoia's reconstruction phase should not be mistaken for recovery - the delusional system represents a new pathological equilibrium rather than restoration of normal functioning.",
+      "domains": ["paranoia", "delusion", "reconstruction", "adaptation", "prognosis"],
+      "source": "Psycho-Analytic Notes on an Autobiographical Account of a Case of Paranoia (Schreber) (1911)",
+      "type": "clinical_observation"
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+I'm reading both documents now and extracting. Here's the complete addition:
+
+---
+
+**WORK-005: SELECTED PAPERS ON HYSTERIA AND OTHER PSYCHONEUROSES (1893-1906) - 43 POSITIONS**
+
+**MENTAL CAUSATION (8 positions): MENT-001 to MENT-008**
+- MENT-001: Hysterical symptoms have purely psychical causes from traumatic experiences
+- MENT-002: Repressed ideas can exert causal power producing physical symptoms (conversion)
+- MENT-003: Mental splitting creates separate streams of consciousness operating independently
+- MENT-004: Unconscious ideas maintain causal efficacy when excluded from conscious awareness
+- MENT-005: Symptom-formation mechanism involves symbolic representation
+- MENT-006: Symptoms are overdetermined - multiple psychical paths converge on each symptom
+- MENT-007: Every symptom detail has psychological motivation and significance
+- MENT-008: Psychical determinism - all mental phenomena have psychological causes
+
+**MEMORY THEORY (7 positions): MEMR-001 to MEMR-007**
+- MEMR-001: Traumatic memories retain affective charge even when not consciously recalled
+- MEMR-002: Abreaction (discharge of affect) necessary for memory to lose pathogenic power
+- MEMR-003: Memories can be "strangulated" - retained without emotional discharge
+- MEMR-004: Hypnosis can recover memories inaccessible to normal recall
+- MEMR-005: Memory traces can be distorted but retain essential content in unconscious
+- MEMR-006: Pathogenic memories lie ready "close by" in easily approachable associations
+- MEMR-007: Forgotten pathogenic ideas always exist and are merely excluded from association
+
+**SEXUAL ETIOLOGY (6 positions): SEXE-001 to SEXE-006**
+- SEXE-001: Sexual factors play primary etiological role in neuroses
+- SEXE-002: Sexual development begins in childhood, not at puberty
+- SEXE-003: Sexual trauma in childhood has specific pathogenic effects
+- SEXE-004: Infantile sexual experiences dictate course of later sexual life after maturity
+- SEXE-005: Concept of sexuality must be broadened beyond genital intercourse to infantile pleasures
+- SEXE-006: Sexual constitution placed in place of general neuropathic predisposition
+
+**DEFENSE MECHANISM (7 positions): DEFE-001 to DEFE-007**
+- DEFE-001: Psychic force (ego repugnance) crowds pathogenic ideas from association
+- DEFE-002: Defense mechanisms protect ego from ideas incompatible with moral self-conception
+- DEFE-003: Ego actively defends against threatening ideas through repression
+- DEFE-004: Splitting of consciousness results from intentional act of will (defense)
+- DEFE-005: Conversion is bringing about at cost of recollected affects
+- DEFE-006: Defense succeeds by weakening strong idea and robbing it of affect
+- DEFE-007: Repression serves to free individual from unbearable presentations
+
+**THERAPEUTIC THEORY (8 positions): THER-001 to THER-008**
+- THER-001: Cathartic method - bringing repressed material to consciousness with affect produces therapeutic benefit
+- THER-002: Talking cure works by allowing symbolic verbal expression of what was expressed somatically
+- THER-003: Physician must overcome patient resistance through persistent inquiry
+- THER-004: Therapeutic success requires patient to consciously confront repressed trauma
+- THER-005: Pressure procedure can reveal pathogenic reminiscences without hypnosis
+- THER-006: Therapy abrogates efficacy of non-ab-reacted presentation by affording outlet through speech
+- THER-007: Therapy brings material to associative correction by drawing into normal consciousness
+- THER-008: Psychoanalytic method enables removal of symptoms by making unconscious conscious
+
+**CONSCIOUSNESS STRUCTURE (7 positions): CONS-001 to CONS-007**
+- CONS-001: Consciousness not coextensive with mental life - unconscious contains active mental content
+- CONS-002: Hypnoid states create conditions for pathological ideation separate from normal consciousness
+- CONS-003: Ideas can be inadmissible to consciousness due to incompatibility with ego
+- CONS-004: Boundary between conscious and unconscious maintained by active psychological forces
+- CONS-005: Double consciousness or splitting is fundamental characteristic of hysteria
+- CONS-006: Splitting of consciousness exists rudimentarily in every hysteria
+- CONS-007: Hypnoid states represent higher organization as rudimentary second consciousness
+
+---
+
+**TOTAL FOR DATABASE v5: 223 POSITIONS FROM 5 WORKS ACROSS 26 DOMAINS**

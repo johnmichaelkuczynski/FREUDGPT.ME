@@ -1,0 +1,2019 @@
+{
+  "positions": [
+    {
+      "id": "FREUD-0816",
+      "position": "Psycho-analysis is Freud's creation and remains fundamentally associated with his name, distinguishing it from the theories of Adler and Jung which are not properly psycho-analytic",
+      "domains": [
+        "metapsychology",
+        "psychoanalytic_history",
+        "theoretical_identity"
+      ],
+      "source": "On the History of the Psycho-Analytic Movement (1914)",
+      "type": "methodological_claim",
+      "notes": "Freud asserts sole authority over what constitutes psychoanalysis, excluding deviant theories"
+    },
+    {
+      "id": "FREUD-0817",
+      "position": "The theory of repression is the cornerstone on which the whole structure of psycho-analysis rests, and anyone who cannot accept repression cannot belong to psychoanalysis",
+      "domains": [
+        "repression",
+        "psychoanalytic_theory",
+        "theoretical_foundations"
+      ],
+      "source": "On the History of the Psycho-Analytic Movement (1914)",
+      "type": "theoretical_claim",
+      "notes": "Repression identified as non-negotiable central concept"
+    },
+    {
+      "id": "FREUD-0818",
+      "position": "The theory of resistance and repression, of the unconscious, of the aetiological significance of sexual life and of the importance of infantile experiences constitute the principal subject-matter of psycho-analysis and the foundations of its theory",
+      "domains": [
+        "unconscious",
+        "sexuality",
+        "infantile_sexuality",
+        "repression",
+        "resistance",
+        "theoretical_foundations"
+      ],
+      "source": "On the History of the Psycho-Analytic Movement (1914)",
+      "type": "theoretical_claim",
+      "notes": "Core pillars of psychoanalytic theory enumerated"
+    },
+    {
+      "id": "FREUD-0819",
+      "position": "Adler's theory replaces sexual motivation with the 'masculine protest' and 'neurotic character', thereby abandoning the foundations of psycho-analysis while claiming to improve it",
+      "domains": [
+        "critique_of_rivals",
+        "sexuality",
+        "motivation"
+      ],
+      "source": "On the History of the Psycho-Analytic Movement (1914)",
+      "type": "theoretical_claim",
+      "notes": "Critique of Adler's deviation from psychoanalytic foundations"
+    },
+    {
+      "id": "FREUD-0820",
+      "position": "Jung's modifications dissolve the findings of psycho-analysis by reinterpreting the Oedipus complex symbolically rather than literally, thereby making it a mere figure of speech rather than an actual childhood experience",
+      "domains": [
+        "critique_of_rivals",
+        "oedipus_complex",
+        "symbolism"
+      ],
+      "source": "On the History of the Psycho-Analytic Movement (1914)",
+      "type": "theoretical_claim",
+      "notes": "Critique of Jung's symbolic reinterpretation of core concepts"
+    },
+    {
+      "id": "FREUD-0821",
+      "position": "Jung's denial of infantile sexuality and his recasting of libido as general psychic energy represent a complete abandonment of psychoanalytic principles, making his system incompatible with psycho-analysis",
+      "domains": [
+        "critique_of_rivals",
+        "infantile_sexuality",
+        "libido",
+        "metapsychology"
+      ],
+      "source": "On the History of the Psycho-Analytic Movement (1914)",
+      "type": "theoretical_claim",
+      "notes": "Fundamental incompatibility of Jung's revisions with psychoanalysis"
+    },
+    {
+      "id": "FREUD-0822",
+      "position": "The history of psycho-analysis falls into two phases: in the first, Freud worked alone; in the second, after 1907, the movement expanded internationally with collaborators who both advanced and threatened the integrity of the theory",
+      "domains": [
+        "psychoanalytic_history",
+        "institutional_development"
+      ],
+      "source": "On the History of the Psycho-Analytic Movement (1914)",
+      "type": "methodological_claim",
+      "notes": "Historical periodization of psychoanalytic movement"
+    },
+    {
+      "id": "FREUD-0823",
+      "position": "Psycho-analysis necessarily arouses resistances because it challenges narcissism by showing that the ego is not master in its own house, following earlier blows to human narcissism from Copernicus and Darwin",
+      "domains": [
+        "resistance",
+        "narcissism",
+        "psychoanalytic_theory"
+      ],
+      "source": "On the History of the Psycho-Analytic Movement (1914)",
+      "type": "theoretical_claim",
+      "notes": "Psychoanalysis as third great narcissistic wound to humanity"
+    },
+    {
+      "id": "FREUD-0824",
+      "position": "The technique of free association, where patients report everything that comes to mind without selection, is the fundamental method of psycho-analytic investigation, replacing hypnosis",
+      "domains": [
+        "psychoanalytic_technique",
+        "free_association",
+        "methodology"
+      ],
+      "source": "On the History of the Psycho-Analytic Movement (1914)",
+      "type": "methodological_claim",
+      "notes": "Free association as replacement for hypnosis in technique"
+    },
+    {
+      "id": "FREUD-0825",
+      "position": "Dream-interpretation is the via regia (royal road) to knowledge of the unconscious and remains the most secure foundation of psycho-analysis",
+      "domains": [
+        "dreams",
+        "unconscious",
+        "psychoanalytic_technique"
+      ],
+      "source": "On the History of the Psycho-Analytic Movement (1914)",
+      "type": "methodological_claim",
+      "notes": "Dreams as privileged access to unconscious confirmed"
+    },
+    {
+      "id": "FREUD-0826",
+      "position": "Parapraxes (slips of the tongue, pen, forgetting, bungled actions, etc.) are not mere accidents or chance events but have psychological meaning and arise from the interference of two different intentions",
+      "domains": [
+        "parapraxis",
+        "determinism",
+        "psychopathology_of_everyday_life"
+      ],
+      "source": "Introductory Lectures on Psycho-Analysis, Lecture II-III (1916-1917)",
+      "type": "theoretical_claim",
+      "notes": "Fundamental thesis of psychical determinism applied to everyday errors"
+    },
+    {
+      "id": "FREUD-0827",
+      "position": "In slips of the tongue, an intention interferes with another intention, producing a compromise formation where both intentions are partially expressed in the resultant speech error",
+      "domains": [
+        "parapraxis",
+        "compromise_formation",
+        "speech_errors"
+      ],
+      "source": "Introductory Lectures on Psycho-Analysis, Lecture II (1916-1917)",
+      "type": "theoretical_claim",
+      "notes": "Mechanism of slip formations explained"
+    },
+    {
+      "id": "FREUD-0828",
+      "position": "The disturbing intention in parapraxes may be a direct contrary intention (saying the opposite of what is intended) or may be entirely unrelated content that intrudes from another psychological complex",
+      "domains": [
+        "parapraxis",
+        "intention",
+        "psychical_conflict"
+      ],
+      "source": "Introductory Lectures on Psycho-Analysis, Lecture II (1916-1917)",
+      "type": "theoretical_claim",
+      "notes": "Two types of interfering intentions in parapraxes distinguished"
+    },
+    {
+      "id": "FREUD-0829",
+      "position": "The forgetting of intentions (forgetting to do something) regularly derives from a counter-will or contrary intention, though the person is typically unaware of this opposing motive",
+      "domains": [
+        "forgetting",
+        "intention",
+        "counter_will",
+        "unconscious"
+      ],
+      "source": "Introductory Lectures on Psycho-Analysis, Lecture III (1916-1917)",
+      "type": "theoretical_claim",
+      "notes": "Forgetting of intentions as manifestation of unconscious opposition"
+    },
+    {
+      "id": "FREUD-0830",
+      "position": "The forgetting of names often occurs when the name is associatively connected to material that the person wishes to avoid or that arouses painful affect, even when the connection is indirect or symbolic",
+      "domains": [
+        "forgetting",
+        "names",
+        "repression",
+        "affect"
+      ],
+      "source": "Introductory Lectures on Psycho-Analysis, Lecture III (1916-1917)",
+      "type": "clinical_observation",
+      "notes": "Mechanism of name-forgetting involving affective associations"
+    },
+    {
+      "id": "FREUD-0831",
+      "position": "Losing or mislaying objects is frequently a sacrifice to Fate, an unconscious attempt to ward off feared losses by voluntarily sacrificing something of lesser importance",
+      "domains": [
+        "losing_objects",
+        "parapraxis",
+        "unconscious_intention",
+        "magical_thinking"
+      ],
+      "source": "Introductory Lectures on Psycho-Analysis, Lecture III (1916-1917)",
+      "type": "interpretive_principle",
+      "notes": "Losing objects as unconscious propitiation or defiance"
+    },
+    {
+      "id": "FREUD-0832",
+      "position": "Bungled actions that appear to be mere clumsiness often fulfill wishes that should be denied, with the intention disguising itself as a lucky accident",
+      "domains": [
+        "bungled_actions",
+        "parapraxis",
+        "wish_fulfillment",
+        "unconscious"
+      ],
+      "source": "Introductory Lectures on Psycho-Analysis, Lecture III (1916-1917)",
+      "type": "theoretical_claim",
+      "notes": "Bungled actions as disguised wish-fulfillments"
+    },
+    {
+      "id": "FREUD-0833",
+      "position": "The study of parapraxes demonstrates that there are mental purposes or intentions operating in people without their conscious knowledge, forcing us to accept the hypothesis of unconscious mental processes",
+      "domains": [
+        "unconscious",
+        "parapraxis",
+        "determinism",
+        "methodology"
+      ],
+      "source": "Introductory Lectures on Psycho-Analysis, Lecture IV (1916-1917)",
+      "type": "theoretical_claim",
+      "notes": "Parapraxes as proof of unconscious mental processes"
+    },
+    {
+      "id": "FREUD-0834",
+      "position": "Superstitious people who believe in chance and omens are correct in sensing that external events have meaning, but they project outward what psycho-analysis finds inward—that seemingly chance psychical events have internal psychological causation",
+      "domains": [
+        "determinism",
+        "superstition",
+        "projection",
+        "psychical_causation"
+      ],
+      "source": "Introductory Lectures on Psycho-Analysis, Lecture IV (1916-1917)",
+      "type": "theoretical_claim",
+      "notes": "Superstition as displaced recognition of psychical determinism"
+    },
+    {
+      "id": "FREUD-0835",
+      "position": "The apparently arbitrary choice of numbers that someone 'freely' selects is actually determined by unconscious thoughts and associations, proving that even seemingly random mental acts follow deterministic laws",
+      "domains": [
+        "determinism",
+        "free_will",
+        "unconscious",
+        "psychical_causation"
+      ],
+      "source": "Introductory Lectures on Psycho-Analysis, Lecture IV (1916-1917)",
+      "type": "clinical_observation",
+      "notes": "Number choices demonstrate psychical determinism"
+    },
+    {
+      "id": "FREUD-0836",
+      "position": "Dreams are not somatic but psychical phenomena, the products of the dreamer's own mental activity with sense and meaning that can be uncovered through psycho-analytic interpretation",
+      "domains": [
+        "dreams",
+        "dream_theory",
+        "psychical_phenomena"
+      ],
+      "source": "Introductory Lectures on Psycho-Analysis, Lecture V (1916-1917)",
+      "type": "theoretical_claim",
+      "notes": "Dreams as meaningful psychical productions, not somatic noise"
+    },
+    {
+      "id": "FREUD-0837",
+      "position": "The manifest content of the dream (what the dreamer remembers and reports) differs from the latent dream-thoughts (the unconscious meaning), and the dream-work transforms the latter into the former through specific mechanisms",
+      "domains": [
+        "dreams",
+        "dream_work",
+        "manifest_content",
+        "latent_thoughts"
+      ],
+      "source": "Introductory Lectures on Psycho-Analysis, Lecture VI (1916-1917)",
+      "type": "theoretical_claim",
+      "notes": "Fundamental distinction between manifest and latent dream content"
+    },
+    {
+      "id": "FREUD-0838",
+      "position": "The technique of dream interpretation requires the dreamer to free-associate to each element of the manifest dream without criticism, allowing the latent thoughts to emerge through these associations",
+      "domains": [
+        "dreams",
+        "dream_interpretation",
+        "free_association",
+        "technique"
+      ],
+      "source": "Introductory Lectures on Psycho-Analysis, Lecture VI (1916-1917)",
+      "type": "methodological_claim",
+      "notes": "Free association as method for dream interpretation"
+    },
+    {
+      "id": "FREUD-0839",
+      "position": "Dreams regularly fulfill wishes, though the wish may be disguised or distorted; even anxiety dreams and punishment dreams represent wish-fulfillments, though of a complex kind",
+      "domains": [
+        "dreams",
+        "wish_fulfillment",
+        "dream_theory"
+      ],
+      "source": "Introductory Lectures on Psycho-Analysis, Lecture VIII (1916-1917)",
+      "type": "theoretical_claim",
+      "notes": "Universal wish-fulfillment theory of dreams"
+    },
+    {
+      "id": "FREUD-0840",
+      "position": "The dream-censorship is a psychical force that distorts the latent dream-thoughts to make them acceptable to consciousness, operating like a political censorship that modifies communications to make them permissible",
+      "domains": [
+        "dreams",
+        "censorship",
+        "distortion",
+        "repression"
+      ],
+      "source": "Introductory Lectures on Psycho-Analysis, Lecture IX (1916-1917)",
+      "type": "theoretical_claim",
+      "notes": "Dream-censorship mechanism explained by political analogy"
+    },
+    {
+      "id": "FREUD-0841",
+      "position": "Dream-distortion increases with the intensity of censorship; transparent dreams occur when censorship is weak (as in children or when waking wishes align with unconscious wishes), while highly distorted dreams indicate strong censorship",
+      "domains": [
+        "dreams",
+        "censorship",
+        "distortion",
+        "dream_work"
+      ],
+      "source": "Introductory Lectures on Psycho-Analysis, Lecture IX (1916-1917)",
+      "type": "theoretical_claim",
+      "notes": "Degree of distortion proportional to strength of censorship"
+    },
+    {
+      "id": "FREUD-0842",
+      "position": "Dream-symbolism represents a primitive, archaic mode of expression where certain manifest elements regularly stand for particular latent contents (e.g., houses for the human body, rooms for women, climbing for sexual intercourse)",
+      "domains": [
+        "dreams",
+        "symbolism",
+        "archaic_thinking",
+        "interpretation"
+      ],
+      "source": "Introductory Lectures on Psycho-Analysis, Lectures X-XI (1916-1917)",
+      "type": "theoretical_claim",
+      "notes": "Symbolism as pre-linguistic mode of representation in dreams"
+    },
+    {
+      "id": "FREUD-0843",
+      "position": "The majority of dream-symbols are sexual in nature, with an overwhelming preponderance of symbols representing the male genital organ, female genitals, and the sexual act itself",
+      "domains": [
+        "dreams",
+        "symbolism",
+        "sexuality",
+        "sexual_symbolism"
+      ],
+      "source": "Introductory Lectures on Psycho-Analysis, Lectures X-XI (1916-1917)",
+      "type": "clinical_observation",
+      "notes": "Sexual content dominates dream symbolism"
+    },
+    {
+      "id": "FREUD-0844",
+      "position": "Dream-symbols are not peculiar to dreams but appear in myths, fairy-tales, jokes, folklore, and everyday speech, suggesting a universal symbolic language rooted in phylogenetic inheritance",
+      "domains": [
+        "symbolism",
+        "dreams",
+        "mythology",
+        "universal_symbolism",
+        "phylogenetic_inheritance"
+      ],
+      "source": "Introductory Lectures on Psycho-Analysis, Lecture XI (1916-1917)",
+      "type": "theoretical_claim",
+      "notes": "Symbolic mode shared across cultural phenomena"
+    },
+    {
+      "id": "FREUD-0845",
+      "position": "The dream-work employs four main mechanisms: condensation (multiple latent elements compressed into single manifest element), displacement (psychical intensity transferred from important to trivial elements), considerations of representability (abstract thoughts converted to visual images), and secondary revision (logical facade imposed post-hoc)",
+      "domains": [
+        "dreams",
+        "dream_work",
+        "condensation",
+        "displacement",
+        "primary_process"
+      ],
+      "source": "Introductory Lectures on Psycho-Analysis, Lectures XI-XIV (1916-1917)",
+      "type": "theoretical_claim",
+      "notes": "Four principal mechanisms of dream-work enumerated"
+    },
+    {
+      "id": "FREUD-0846",
+      "position": "Condensation in dreams allows a single manifest element to represent multiple latent thoughts simultaneously, creating the remarkable compression that makes manifest dreams much shorter than latent content",
+      "domains": [
+        "dreams",
+        "condensation",
+        "dream_work"
+      ],
+      "source": "Introductory Lectures on Psycho-Analysis, Lecture XII (1916-1917)",
+      "type": "theoretical_claim",
+      "notes": "Condensation mechanism produces economy of dream representation"
+    },
+    {
+      "id": "FREUD-0847",
+      "position": "Displacement in dreams transfers psychical value from important elements to unimportant ones, making what is trivial prominent and what is significant peripheral, thereby evading censorship",
+      "domains": [
+        "dreams",
+        "displacement",
+        "dream_work",
+        "censorship"
+      ],
+      "source": "Introductory Lectures on Psycho-Analysis, Lecture XII (1916-1917)",
+      "type": "theoretical_claim",
+      "notes": "Displacement as mechanism for evading dream-censorship"
+    },
+    {
+      "id": "FREUD-0848",
+      "position": "The requirement of representability forces dream-thoughts to be translated into predominantly visual images, favoring concrete over abstract content and creating the hallucinatory quality of dreams",
+      "domains": [
+        "dreams",
+        "representability",
+        "visual_imagery",
+        "dream_work"
+      ],
+      "source": "Introductory Lectures on Psycho-Analysis, Lecture XIII (1916-1917)",
+      "type": "theoretical_claim",
+      "notes": "Visual representation required by nature of dreaming"
+    },
+    {
+      "id": "FREUD-0849",
+      "position": "Secondary revision attempts to impose logical coherence and narrative structure on the incoherent dream material after the fact, creating the false impression that dreams are more organized than they actually are",
+      "domains": [
+        "dreams",
+        "secondary_revision",
+        "dream_work"
+      ],
+      "source": "Introductory Lectures on Psycho-Analysis, Lecture XIII (1916-1917)",
+      "type": "theoretical_claim",
+      "notes": "Secondary revision as post-hoc rationalization of dream content"
+    },
+    {
+      "id": "FREUD-0850",
+      "position": "Dreams invariably include a day's residue—recent impressions from waking life—but these are never the true instigator of the dream; rather, they provide material through which unconscious infantile wishes achieve expression",
+      "domains": [
+        "dreams",
+        "day_residue",
+        "infantile_wishes",
+        "dream_instigation"
+      ],
+      "source": "Introductory Lectures on Psycho-Analysis, Lecture XIV (1916-1917)",
+      "type": "theoretical_claim",
+      "notes": "Day residues as vehicles for unconscious infantile wishes"
+    },
+    {
+      "id": "FREUD-0851",
+      "position": "Every dream is instigated by an unconscious infantile wish that seeks fulfillment; adult rational wishes alone cannot produce dreams but must connect with these deeper infantile sources",
+      "domains": [
+        "dreams",
+        "infantile_wishes",
+        "wish_fulfillment",
+        "unconscious"
+      ],
+      "source": "Introductory Lectures on Psycho-Analysis, Lecture XIV (1916-1917)",
+      "type": "theoretical_claim",
+      "notes": "Infantile wishes as necessary condition for dreaming"
+    },
+    {
+      "id": "FREUD-0852",
+      "position": "Dreams perform the function of preserving sleep by converting disturbing stimuli (internal or external) into dream images that allow sleep to continue, making the dream the guardian of sleep",
+      "domains": [
+        "dreams",
+        "sleep",
+        "wish_fulfillment",
+        "dream_function"
+      ],
+      "source": "Introductory Lectures on Psycho-Analysis, Lecture XIV (1916-1917)",
+      "type": "theoretical_claim",
+      "notes": "Dreams as sleep-preserving mechanisms"
+    },
+    {
+      "id": "FREUD-0853",
+      "position": "Anxiety dreams do not contradict wish-fulfillment theory; they occur when censorship fails partially, allowing repressed wishes to emerge with sufficient clarity to provoke anxiety, or when the ego fulfills its own wish to punish forbidden desires",
+      "domains": [
+        "dreams",
+        "anxiety_dreams",
+        "wish_fulfillment",
+        "censorship"
+      ],
+      "source": "Introductory Lectures on Psycho-Analysis, Lecture XIV (1916-1917)",
+      "type": "theoretical_claim",
+      "notes": "Anxiety dreams reconciled with wish-fulfillment theory"
+    },
+    {
+      "id": "FREUD-0854",
+      "position": "Punishment dreams represent the fulfillment of a wish on the part of the censoring agency (superego) to punish the person for harboring forbidden wishes, thus still conforming to wish-fulfillment theory",
+      "domains": [
+        "dreams",
+        "punishment_dreams",
+        "guilt",
+        "wish_fulfillment",
+        "superego"
+      ],
+      "source": "Introductory Lectures on Psycho-Analysis, Lecture XIV (1916-1917)",
+      "type": "theoretical_claim",
+      "notes": "Punishment dreams as fulfillments of self-punitive wishes"
+    },
+    {
+      "id": "FREUD-0855",
+      "position": "The archaic, regressive character of dreams shows that dreaming reverts to earlier modes of mental functioning, employing primary process mechanisms and primitive forms of thought characteristic of childhood and unconscious mental life",
+      "domains": [
+        "dreams",
+        "regression",
+        "primary_process",
+        "archaic_thinking"
+      ],
+      "source": "Introductory Lectures on Psycho-Analysis, Lecture XV (1916-1917)",
+      "type": "theoretical_claim",
+      "notes": "Dreams as regression to primitive mental organization"
+    },
+    {
+      "id": "FREUD-0856",
+      "position": "Symptoms, like dreams and parapraxes, are meaningful psychical products that can be interpreted; they represent compromise formations between repressed wishes and the forces of repression",
+      "domains": [
+        "symptoms",
+        "neurosis",
+        "compromise_formation",
+        "interpretation"
+      ],
+      "source": "Introductory Lectures on Psycho-Analysis, Lecture XVII (1916-1917)",
+      "type": "theoretical_claim",
+      "notes": "Symptoms as interpretable compromise formations"
+    },
+    {
+      "id": "FREUD-0857",
+      "position": "Neurotic symptoms always have sense and meaning relating to the patient's life experiences; they are substitutes for satisfactions that have been renounced in reality",
+      "domains": [
+        "symptoms",
+        "neurosis",
+        "meaning",
+        "substitutive_satisfaction"
+      ],
+      "source": "Introductory Lectures on Psycho-Analysis, Lecture XVII (1916-1917)",
+      "type": "theoretical_claim",
+      "notes": "Symptoms as meaningful substitutes for real satisfactions"
+    },
+    {
+      "id": "FREUD-0858",
+      "position": "The fixation of libido at early developmental points creates predispositions to neurosis; when libido is frustrated in adult life, it regresses to these fixation points, producing neurotic symptoms",
+      "domains": [
+        "fixation",
+        "regression",
+        "libido",
+        "neurosis",
+        "aetiology"
+      ],
+      "source": "Introductory Lectures on Psycho-Analysis, Lecture XVIII-XIX (1916-1917)",
+      "type": "theoretical_claim",
+      "notes": "Fixation and regression as aetiological factors in neurosis"
+    },
+    {
+      "id": "FREUD-0859",
+      "position": "Sexual development proceeds through a series of stages (oral, anal, phallic) before reaching the genital stage, with each stage capable of becoming a fixation point to which libido may later regress",
+      "domains": [
+        "sexual_development",
+        "developmental_stages",
+        "fixation",
+        "libido"
+      ],
+      "source": "Introductory Lectures on Psycho-Analysis, Lectures XIX-XX (1916-1917)",
+      "type": "theoretical_claim",
+      "notes": "Pregenital stages as potential fixation points"
+    },
+    {
+      "id": "FREUD-0860",
+      "position": "Infantile sexuality is characterized by component instincts (oral, anal, sadistic, scopophilic, exhibitionistic) that only gradually become organized under genital primacy; neurosis represents a failure of this organization",
+      "domains": [
+        "infantile_sexuality",
+        "component_instincts",
+        "sexual_development",
+        "neurosis"
+      ],
+      "source": "Introductory Lectures on Psycho-Analysis, Lecture XX (1916-1917)",
+      "type": "theoretical_claim",
+      "notes": "Component instincts and their organization in development"
+    },
+    {
+      "id": "FREUD-0861",
+      "position": "The Oedipus complex—the child's erotic attachment to the parent of the opposite sex and hostile attitude toward the same-sex parent—is universal and forms the nuclear complex of the neuroses",
+      "domains": [
+        "oedipus_complex",
+        "infantile_sexuality",
+        "neurosis"
+      ],
+      "source": "Introductory Lectures on Psycho-Analysis, Lecture XXI (1916-1917)",
+      "type": "theoretical_claim",
+      "notes": "Oedipus complex as universal nuclear complex"
+    },
+    {
+      "id": "FREUD-0862",
+      "position": "The aetiology of neurosis requires multiple factors working in a 'complemental series': hereditary constitutional factors, infantile experiences producing fixations, and precipitating adult frustrations that trigger regression",
+      "domains": [
+        "aetiology",
+        "complemental_series",
+        "neurosis",
+        "constitutional_factors",
+        "infantile_experience"
+      ],
+      "source": "Introductory Lectures on Psycho-Analysis, Lecture XXII (1916-1917)",
+      "type": "theoretical_claim",
+      "notes": "Multiple aetiological factors in complemental series"
+    },
+    {
+      "id": "FREUD-0863",
+      "position": "Neurosis results from frustration (Versagung) when the libido is denied satisfaction in reality, but not all frustration produces neurosis—only when no adequate substitute satisfaction can be found and when ego-libido conflict develops",
+      "domains": [
+        "neurosis",
+        "frustration",
+        "aetiology",
+        "libido"
+      ],
+      "source": "Introductory Lectures on Psycho-Analysis, Lecture XXII (1916-1917)",
+      "type": "aetiological_claim",
+      "notes": "Frustration as precipitating cause of neurosis"
+    },
+    {
+      "id": "FREUD-0864",
+      "position": "The libido that is frustrated in reality flows backward (regresses) to earlier fixation points, reactivating infantile wishes and modes of satisfaction that then become the source of symptom formation",
+      "domains": [
+        "regression",
+        "libido",
+        "neurosis",
+        "symptom_formation"
+      ],
+      "source": "Introductory Lectures on Psycho-Analysis, Lecture XXII-XXIII (1916-1917)",
+      "type": "theoretical_claim",
+      "notes": "Regression of libido in neurosis formation"
+    },
+    {
+      "id": "FREUD-0865",
+      "position": "Symptoms arise from conflict between ego instincts (self-preservative) and sexual instincts (libido); the ego represses unacceptable libidinal demands, but the repressed libido returns in the form of symptoms",
+      "domains": [
+        "symptoms",
+        "instinct_theory",
+        "ego_libido_conflict",
+        "repression"
+      ],
+      "source": "Introductory Lectures on Psycho-Analysis, Lecture XXIII (1916-1917)",
+      "type": "theoretical_claim",
+      "notes": "Ego-libido conflict as basis of symptom formation"
+    },
+    {
+      "id": "FREUD-0866",
+      "position": "The pleasure principle governs unconscious mental processes, demanding immediate satisfaction, while the reality principle, developed by the ego, requires postponement and modification of satisfaction according to external conditions",
+      "domains": [
+        "pleasure_principle",
+        "reality_principle",
+        "metapsychology",
+        "ego_functions"
+      ],
+      "source": "Introductory Lectures on Psycho-Analysis, Lecture XXIII (1916-1917)",
+      "type": "theoretical_claim",
+      "notes": "Two principles governing mental functioning"
+    },
+    {
+      "id": "FREUD-0867",
+      "position": "Phantasy (imagination) represents a domain where the pleasure principle continues to reign unchallenged, providing substitute satisfactions and serving as the bridge between unfulfilled wishes and symptoms",
+      "domains": [
+        "phantasy",
+        "pleasure_principle",
+        "symptom_formation"
+      ],
+      "source": "Introductory Lectures on Psycho-Analysis, Lecture XXIII (1916-1917)",
+      "type": "theoretical_claim",
+      "notes": "Phantasy as pleasure-principle preserve"
+    },
+    {
+      "id": "FREUD-0868",
+      "position": "Symptoms have two sides: they provide substitute sexual satisfaction for repressed libido (pleasure gain), but they also involve suffering that satisfies the need for punishment (guilt)",
+      "domains": [
+        "symptoms",
+        "sexual_satisfaction",
+        "punishment",
+        "guilt"
+      ],
+      "source": "Introductory Lectures on Psycho-Analysis, Lecture XXIV (1916-1917)",
+      "type": "theoretical_claim",
+      "notes": "Dual nature of symptoms as satisfaction and punishment"
+    },
+    {
+      "id": "FREUD-0869",
+      "position": "Common nervous states (neurasthenia, anxiety neurosis) differ from psychoneuroses in that their symptoms are directly produced by disturbed sexual physiology (actual neuroses) rather than being psychical products requiring interpretation",
+      "domains": [
+        "actual_neuroses",
+        "neurasthenia",
+        "anxiety_neurosis",
+        "nosology"
+      ],
+      "source": "Introductory Lectures on Psycho-Analysis, Lecture XXIV (1916-1917)",
+      "type": "theoretical_claim",
+      "notes": "Distinction between actual neuroses and psychoneuroses"
+    },
+    {
+      "id": "FREUD-0870",
+      "position": "Anxiety in neurosis arises from undischarged libido that has been transformed directly into anxiety—libido that cannot find adequate release is converted into the affect of anxiety",
+      "domains": [
+        "anxiety",
+        "libido",
+        "transformation",
+        "anxiety_neurosis"
+      ],
+      "source": "Introductory Lectures on Psycho-Analysis, Lecture XXV (1916-1917)",
+      "type": "theoretical_claim",
+      "notes": "Libido transformation theory of anxiety"
+    },
+    {
+      "id": "FREUD-0871",
+      "position": "There are three types of anxiety: realistic anxiety (fear of external danger), neurotic anxiety (fear of one's own libido), and moral anxiety (fear of the superego/conscience)",
+      "domains": [
+        "anxiety",
+        "types_of_anxiety",
+        "realistic_anxiety",
+        "neurotic_anxiety",
+        "moral_anxiety"
+      ],
+      "source": "Introductory Lectures on Psycho-Analysis, Lecture XXV (1916-1917)",
+      "type": "theoretical_claim",
+      "notes": "Three forms of anxiety distinguished"
+    },
+    {
+      "id": "FREUD-0872",
+      "position": "Symptoms have the character of a 'secondary gain from illness' beyond their primary function; they become integrated into the ego and serve various purposes (excuse for failure, means of dominating others, self-punishment), making the patient resist giving them up",
+      "domains": [
+        "symptoms",
+        "secondary_gain",
+        "resistance",
+        "illness_advantage"
+      ],
+      "source": "Introductory Lectures on Psycho-Analysis, Lecture XXIV (1916-1917)",
+      "type": "clinical_observation",
+      "notes": "Secondary gain maintains symptoms despite suffering"
+    },
+    {
+      "id": "FREUD-0873",
+      "position": "Libido-theory distinguishes between ego-libido (narcissistic libido directed toward the self) and object-libido (directed toward external objects), with the two in inverse relationship",
+      "domains": [
+        "libido_theory",
+        "narcissism",
+        "object_libido",
+        "ego_libido"
+      ],
+      "source": "Introductory Lectures on Psycho-Analysis, Lecture XXVI (1916-1917)",
+      "type": "theoretical_claim",
+      "notes": "Two forms of libido and their reciprocal relationship"
+    },
+    {
+      "id": "FREUD-0874",
+      "position": "Transference occurs in all human relationships as stereotyped editions of emotional impulses and reactions from childhood, but in analysis it becomes concentrated on the analyst and must be recognized and interpreted",
+      "domains": [
+        "transference",
+        "psychoanalytic_technique",
+        "childhood_prototypes"
+      ],
+      "source": "Introductory Lectures on Psycho-Analysis, Lecture XXVII (1916-1917)",
+      "type": "theoretical_claim",
+      "notes": "Transference as universal phenomenon intensified in analysis"
+    },
+    {
+      "id": "FREUD-0875",
+      "position": "Transference can manifest as positive (affectionate, loving) or negative (hostile, antagonistic); both forms must be recognized and worked through in analysis, as unrecognized transference becomes resistance",
+      "domains": [
+        "transference",
+        "positive_transference",
+        "negative_transference",
+        "resistance"
+      ],
+      "source": "Introductory Lectures on Psycho-Analysis, Lecture XXVII (1916-1917)",
+      "type": "clinical_observation",
+      "notes": "Two forms of transference and their technical handling"
+    },
+    {
+      "id": "FREUD-0876",
+      "position": "Analytic therapy works by making the unconscious conscious, filling gaps in memory, overcoming resistances, and thus liberating repressed libido from its pathological fixations to become available for reality satisfactions",
+      "domains": [
+        "psychoanalytic_therapy",
+        "technique",
+        "therapeutic_mechanism",
+        "making_unconscious_conscious"
+      ],
+      "source": "Introductory Lectures on Psycho-Analysis, Lecture XXVII-XXVIII (1916-1917)",
+      "type": "therapeutic_principle",
+      "notes": "Mechanism of analytic cure through making unconscious conscious"
+    },
+    {
+      "id": "FREUD-0877",
+      "position": "Psycho-analytic therapy does not create something new but removes obstacles (repressions, resistances) that prevent normal development, allowing libido to flow into more adaptive channels",
+      "domains": [
+        "psychoanalytic_therapy",
+        "therapeutic_mechanism",
+        "repression"
+      ],
+      "source": "Introductory Lectures on Psycho-Analysis, Lecture XXVIII (1916-1917)",
+      "type": "therapeutic_principle",
+      "notes": "Therapy as removal of pathological obstacles"
+    },
+    {
+      "id": "FREUD-0878",
+      "position": "The analyst must maintain neutrality and abstinence, neither gratifying the patient's wishes nor imposing his own values, serving as a mirror that reflects only what is shown to him",
+      "domains": [
+        "psychoanalytic_technique",
+        "analyst_neutrality",
+        "abstinence",
+        "mirror_principle"
+      ],
+      "source": "Introductory Lectures on Psycho-Analysis, Lecture XXVII-XXVIII (1916-1917)",
+      "type": "methodological_claim",
+      "notes": "Fundamental rule of analyst neutrality"
+    },
+    {
+      "id": "FREUD-0879",
+      "position": "Hysterical symptoms result from the conversion of psychical excitation into somatic innervation, with the symptom expressing a repressed sexual phantasy through a bodily manifestation",
+      "domains": [
+        "hysteria",
+        "conversion",
+        "symptoms",
+        "somatic_expression"
+      ],
+      "source": "Introductory Lectures on Psycho-Analysis, Lecture XXIV (1916-1917)",
+      "type": "theoretical_claim",
+      "notes": "Conversion mechanism in hysteria"
+    },
+    {
+      "id": "FREUD-0880",
+      "position": "Obsessional neurosis differs from hysteria in employing different defense mechanisms: instead of conversion, it uses displacement, reaction-formation, isolation, and undoing to manage repressed impulses",
+      "domains": [
+        "obsessional_neurosis",
+        "defense_mechanisms",
+        "displacement",
+        "reaction_formation"
+      ],
+      "source": "Introductory Lectures on Psycho-Analysis, Lecture XVI-XVII (1916-1917)",
+      "type": "theoretical_claim",
+      "notes": "Distinctive defense mechanisms of obsessional neurosis"
+    },
+    {
+      "id": "FREUD-0881",
+      "position": "In obsessional neurosis, regression typically goes back to the sadistic-anal stage, producing characteristic ambivalence, omnipotence of thoughts, and ritualistic behaviors",
+      "domains": [
+        "obsessional_neurosis",
+        "regression",
+        "sadistic_anal_stage",
+        "ambivalence"
+      ],
+      "source": "Introductory Lectures on Psycho-Analysis (1916-1917)",
+      "type": "theoretical_claim",
+      "notes": "Regression point determines obsessional neurosis features"
+    },
+    {
+      "id": "FREUD-0882",
+      "position": "The choice of neurosis (whether someone develops hysteria, obsessional neurosis, or another form) depends primarily on the point of fixation to which libido regresses when frustrated in adult life",
+      "domains": [
+        "choice_of_neurosis",
+        "fixation",
+        "regression",
+        "nosology"
+      ],
+      "source": "Introductory Lectures on Psycho-Analysis (1916-1917)",
+      "type": "theoretical_claim",
+      "notes": "Fixation point determines type of neurosis"
+    },
+    {
+      "id": "FREUD-0883",
+      "position": "Perversions represent direct expressions of component instincts that have not been subordinated to genital organization, whereas neuroses are 'the negative of perversions'—the same instincts repressed rather than directly gratified",
+      "domains": [
+        "perversion",
+        "neurosis",
+        "component_instincts",
+        "repression"
+      ],
+      "source": "Introductory Lectures on Psycho-Analysis (1916-1917)",
+      "type": "theoretical_claim",
+      "notes": "Complementary relationship between perversion and neurosis"
+    },
+    {
+      "id": "FREUD-0884",
+      "position": "Narcissism represents a stage in libidinal development where the subject takes his own body and ego as love-object before directing love toward external objects",
+      "domains": [
+        "narcissism",
+        "libido_theory",
+        "development",
+        "self_love"
+      ],
+      "source": "Introductory Lectures on Psycho-Analysis, Lecture XXVI (1916-1917)",
+      "type": "theoretical_claim",
+      "notes": "Narcissism as developmental stage"
+    },
+    {
+      "id": "FREUD-0885",
+      "position": "In narcissistic neuroses (including dementia praecox, paranoia, and melancholia), libido is withdrawn from external objects and turned back upon the ego, making transference impossible and these conditions largely inaccessible to psycho-analytic treatment",
+      "domains": [
+        "narcissistic_neuroses",
+        "narcissism",
+        "transference",
+        "therapeutic_limitations"
+      ],
+      "source": "Introductory Lectures on Psycho-Analysis, Lecture XXVI (1916-1917)",
+      "type": "theoretical_claim",
+      "notes": "Narcissistic withdrawal prevents transference formation"
+    },
+    {
+      "id": "FREUD-0886",
+      "position": "Sublimation is the process by which sexual instinctual energy is deflected from sexual aims and directed toward socially valuable achievements in art, science, and culture, providing an alternative to repression",
+      "domains": [
+        "sublimation",
+        "instinct",
+        "cultural_achievement",
+        "defense_mechanisms"
+      ],
+      "source": "Introductory Lectures on Psycho-Analysis (1916-1917)",
+      "type": "theoretical_claim",
+      "notes": "Sublimation as socially productive instinct modification"
+    },
+    {
+      "id": "FREUD-0887",
+      "position": "The capacity for sublimation varies considerably between individuals, and insufficient capacity for sublimation is an important factor in neurosis predisposition",
+      "domains": [
+        "sublimation",
+        "neurosis",
+        "constitutional_factors",
+        "capacity"
+      ],
+      "source": "Introductory Lectures on Psycho-Analysis (1916-1917)",
+      "type": "aetiological_claim",
+      "notes": "Limited sublimation capacity predisposes to neurosis"
+    },
+    {
+      "id": "FREUD-0888",
+      "position": "Identification is the earliest form of emotional tie with another person and plays a crucial role in the formation of the ego, as the child assimilates aspects of important figures (particularly parents) into his own personality",
+      "domains": [
+        "identification",
+        "ego_formation",
+        "object_relations",
+        "development"
+      ],
+      "source": "Introductory Lectures on Psycho-Analysis (1916-1917)",
+      "type": "theoretical_claim",
+      "notes": "Identification as basis of ego formation"
+    },
+    {
+      "id": "FREUD-0889",
+      "position": "The superego (conscience, ego-ideal) forms through identification with parental authority, internalizing their prohibitions and commands, and thereafter exercises internal moral censorship independent of external authority",
+      "domains": [
+        "superego",
+        "conscience",
+        "identification",
+        "moral_development"
+      ],
+      "source": "Introductory Lectures on Psycho-Analysis (1916-1917)",
+      "type": "theoretical_claim",
+      "notes": "Superego formation through parental identification"
+    },
+    {
+      "id": "FREUD-0890",
+      "position": "Guilt (unconscious sense of guilt) arises from conflict between ego and superego, particularly when forbidden oedipal wishes persist in the unconscious, and this guilt can manifest as need for punishment leading to self-sabotage",
+      "domains": [
+        "guilt",
+        "superego",
+        "oedipus_complex",
+        "self_punishment"
+      ],
+      "source": "Introductory Lectures on Psycho-Analysis (1916-1917)",
+      "type": "theoretical_claim",
+      "notes": "Unconscious guilt and need for punishment"
+    },
+    {
+      "id": "FREUD-0891",
+      "position": "Repetition compulsion drives individuals to repeat painful experiences, traumas, and unsatisfying patterns of behavior, suggesting forces beyond the pleasure principle",
+      "domains": [
+        "repetition_compulsion",
+        "trauma",
+        "beyond_pleasure_principle"
+      ],
+      "source": "Introductory Lectures on Psycho-Analysis (1916-1917)",
+      "type": "clinical_observation",
+      "notes": "Compulsion to repeat transcends pleasure principle"
+    },
+    {
+      "id": "FREUD-0892",
+      "position": "Resistance arises from the ego's need to maintain repressions and avoid the unpleasure that would result from becoming conscious of repressed material; this resistance must be systematically overcome in analysis",
+      "domains": [
+        "resistance",
+        "ego",
+        "repression",
+        "psychoanalytic_technique"
+      ],
+      "source": "Introductory Lectures on Psycho-Analysis (1916-1917)",
+      "type": "therapeutic_principle",
+      "notes": "Resistance as manifestation of ongoing repression"
+    },
+    {
+      "id": "FREUD-0893",
+      "position": "The fundamental rule of psycho-analysis requires the patient to say everything that comes to mind without selection or criticism (free association), no matter how trivial, embarrassing, or apparently irrelevant",
+      "domains": [
+        "free_association",
+        "fundamental_rule",
+        "psychoanalytic_technique"
+      ],
+      "source": "Introductory Lectures on Psycho-Analysis (1916-1917)",
+      "type": "methodological_claim",
+      "notes": "Free association as basic technical requirement"
+    },
+    {
+      "id": "FREUD-0894",
+      "position": "Interpretation should be given only when the material is near consciousness and strong resistance has been overcome; premature interpretation provokes increased resistance and is therapeutically counterproductive",
+      "domains": [
+        "interpretation",
+        "timing",
+        "resistance",
+        "psychoanalytic_technique"
+      ],
+      "source": "Introductory Lectures on Psycho-Analysis (1916-1917)",
+      "type": "therapeutic_principle",
+      "notes": "Proper timing essential for effective interpretation"
+    },
+    {
+      "id": "FREUD-0895",
+      "position": "Working-through requires repeated examination of resistances and conflicts from different angles over time; intellectual understanding alone (intellectual insight) is insufficient for therapeutic change",
+      "domains": [
+        "working_through",
+        "resistance",
+        "therapeutic_process",
+        "insight"
+      ],
+      "source": "Introductory Lectures on Psycho-Analysis (1916-1917)",
+      "type": "therapeutic_principle",
+      "notes": "Working-through necessary beyond intellectual understanding"
+    },
+    {
+      "id": "FREUD-0896",
+      "position": "Psycho-analysis cannot abbreviate treatment or produce rapid cures because the pathological structures took years to form and require correspondingly lengthy work to dissolve",
+      "domains": [
+        "psychoanalytic_therapy",
+        "duration",
+        "therapeutic_limitations"
+      ],
+      "source": "Introductory Lectures on Psycho-Analysis (1916-1917)",
+      "type": "methodological_claim",
+      "notes": "Extended treatment duration necessitated by pathology formation"
+    },
+    {
+      "id": "FREUD-0897",
+      "position": "The goal of psycho-analytic treatment is to strengthen the ego, expand its organization, make it independent of the superego, widen its field of perception, and extend its organization so that it can appropriate fresh portions of the id",
+      "domains": [
+        "therapeutic_goals",
+        "ego",
+        "id",
+        "superego",
+        "psychoanalytic_therapy"
+      ],
+      "source": "Introductory Lectures on Psycho-Analysis (1916-1917)",
+      "type": "therapeutic_principle",
+      "notes": "Structural goals of analytic treatment"
+    },
+    {
+      "id": "FREUD-0898",
+      "position": "Psycho-analysis is not a Weltanschauung (world-view) but a specialized scientific method for investigating unconscious mental processes; it accepts the worldview of science in general",
+      "domains": [
+        "psychoanalysis",
+        "methodology",
+        "science",
+        "weltanschauung"
+      ],
+      "source": "Introductory Lectures on Psycho-Analysis (1916-1917)",
+      "type": "methodological_claim",
+      "notes": "Psychoanalysis as scientific method not philosophy"
+    },
+    {
+      "id": "FREUD-0899",
+      "position": "Bisexuality (constitutional presence of both masculine and feminine dispositions) is universal in humans and plays a role in all neurotic conflict, as repression often targets the opposite-sex component of the personality",
+      "domains": [
+        "bisexuality",
+        "constitutional_factors",
+        "neurosis",
+        "gender"
+      ],
+      "source": "Introductory Lectures on Psycho-Analysis (1916-1917)",
+      "type": "theoretical_claim",
+      "notes": "Constitutional bisexuality factor in neurosis"
+    },
+    {
+      "id": "FREUD-0900",
+      "position": "The castration complex in boys (fear of losing the penis as punishment) and penis envy in girls (resentment at lacking the male organ) are universal phenomena arising from phallic stage experiences and profoundly shape subsequent development",
+      "domains": [
+        "castration_complex",
+        "penis_envy",
+        "phallic_stage",
+        "gender_development"
+      ],
+      "source": "Introductory Lectures on Psycho-Analysis (1916-1917)",
+      "type": "theoretical_claim",
+      "notes": "Universal castration complex and penis envy"
+    },
+    {
+      "id": "FREUD-0901",
+      "position": "Female sexual development is more complicated than male development because girls must change both their leading erotogenic zone (from clitoris to vagina) and their love-object (from mother to father), making them more vulnerable to developmental disturbances",
+      "domains": [
+        "female_sexuality",
+        "sexual_development",
+        "gender_differences"
+      ],
+      "source": "Introductory Lectures on Psycho-Analysis (1916-1917)",
+      "type": "theoretical_claim",
+      "notes": "Greater complexity of female development"
+    },
+    {
+      "id": "FREUD-0902",
+      "position": "The concept of psychical reality distinguishes the reality of unconscious phantasies and wishes, which have causal efficacy in producing symptoms, from material reality; phantasies are psychically real even when materially false",
+      "domains": [
+        "psychical_reality",
+        "phantasy",
+        "material_reality",
+        "metapsychology"
+      ],
+      "source": "Introductory Lectures on Psycho-Analysis (1916-1917)",
+      "type": "theoretical_claim",
+      "notes": "Psychical reality concept distinguishes phantasy effectiveness"
+    },
+    {
+      "id": "FREUD-0903",
+      "position": "The economic point of view in metapsychology concerns quantities of psychical energy (cathexis), their distribution, and transformations; symptoms represent particular distributions of libidinal energy",
+      "domains": [
+        "metapsychology",
+        "economic_viewpoint",
+        "cathexis",
+        "psychical_energy"
+      ],
+      "source": "Introductory Lectures on Psycho-Analysis (1916-1917)",
+      "type": "theoretical_claim",
+      "notes": "Economic dimension of metapsychology"
+    },
+    {
+      "id": "FREUD-0904",
+      "position": "The dynamic point of view concerns the forces and conflicts between psychical agencies (ego, id, superego) and between instinctual impulses and defenses",
+      "domains": [
+        "metapsychology",
+        "dynamic_viewpoint",
+        "psychical_conflict",
+        "agencies"
+      ],
+      "source": "Introductory Lectures on Psycho-Analysis (1916-1917)",
+      "type": "theoretical_claim",
+      "notes": "Dynamic dimension of metapsychology"
+    },
+    {
+      "id": "FREUD-0905",
+      "position": "The topographical point of view concerns the organization of mental processes into systems (conscious, preconscious, unconscious) with different characteristics and laws of functioning",
+      "domains": [
+        "metapsychology",
+        "topographical_viewpoint",
+        "mental_systems",
+        "unconscious"
+      ],
+      "source": "Introductory Lectures on Psycho-Analysis (1916-1917)",
+      "type": "theoretical_claim",
+      "notes": "Topographical dimension of metapsychology"
+    },
+    {
+      "id": "FREUD-0906",
+      "position": "Memory-traces are organized in multiple registrations and systems; what becomes conscious is only the most recent version, while earlier versions persist in the unconscious and may remain active",
+      "domains": [
+        "memory",
+        "memory_traces",
+        "unconscious",
+        "mental_organization"
+      ],
+      "source": "Introductory Lectures on Psycho-Analysis (1916-1917)",
+      "type": "theoretical_claim",
+      "notes": "Multiple registration of memories in mental systems"
+    },
+    {
+      "id": "FREUD-0907",
+      "position": "Preconscious processes can become conscious through attention, while unconscious processes are barred from consciousness by repression and can only become conscious after the lifting of repression",
+      "domains": [
+        "preconscious",
+        "unconscious",
+        "consciousness",
+        "repression",
+        "mental_systems"
+      ],
+      "source": "Introductory Lectures on Psycho-Analysis (1916-1917)",
+      "type": "theoretical_claim",
+      "notes": "Distinction between preconscious and unconscious accessibility"
+    },
+    {
+      "id": "FREUD-0908",
+      "position": "The unconscious system operates according to primary process (disregarding logic, allowing contradictions, timeless, replacing external by psychical reality), while the preconscious/conscious operates by secondary process (logical, temporal, reality-oriented)",
+      "domains": [
+        "unconscious",
+        "primary_process",
+        "secondary_process",
+        "mental_systems"
+      ],
+      "source": "Introductory Lectures on Psycho-Analysis (1916-1917)",
+      "type": "theoretical_claim",
+      "notes": "Contrasting laws of primary and secondary process"
+    },
+    {
+      "id": "FREUD-0909",
+      "position": "Affects and emotions become detached from their original ideational content through repression and may attach to different ideas, explaining why people often have strong feelings whose origin they cannot identify",
+      "domains": [
+        "affect",
+        "emotion",
+        "repression",
+        "displacement"
+      ],
+      "source": "Introductory Lectures on Psycho-Analysis (1916-1917)",
+      "type": "theoretical_claim",
+      "notes": "Affective displacement through repression"
+    },
+    {
+      "id": "FREUD-0910",
+      "position": "Screen memories are apparently innocent childhood memories that conceal more significant repressed material through symbolic substitution or condensation of multiple memories",
+      "domains": [
+        "screen_memories",
+        "childhood_memory",
+        "repression",
+        "symbolism"
+      ],
+      "source": "Introductory Lectures on Psycho-Analysis (1916-1917)",
+      "type": "clinical_observation",
+      "notes": "Screen memories as disguised significant material"
+    },
+    {
+      "id": "FREUD-0911",
+      "position": "Childhood amnesia (the inability to remember experiences before age 3-5) results from repression of infantile sexual experiences and represents the foundation for later neurotic amnesias",
+      "domains": [
+        "childhood_amnesia",
+        "infantile_sexuality",
+        "repression",
+        "memory"
+      ],
+      "source": "Introductory Lectures on Psycho-Analysis (1916-1917)",
+      "type": "theoretical_claim",
+      "notes": "Repression produces childhood amnesia"
+    },
+    {
+      "id": "FREUD-0912",
+      "position": "Psychical conflict is inevitable in humans because sexual instincts demand satisfaction while ego instincts require adaptation to reality and social norms, making some form of instinct modification (repression, sublimation, or compromise) necessary",
+      "domains": [
+        "psychical_conflict",
+        "instinct_theory",
+        "ego_instincts",
+        "sexual_instincts"
+      ],
+      "source": "Introductory Lectures on Psycho-Analysis (1916-1917)",
+      "type": "theoretical_claim",
+      "notes": "Structural necessity of psychical conflict in humans"
+    },
+    {
+      "id": "FREUD-0913",
+      "position": "The sense of reality undergoes development from initial hallucinatory wish-fulfillment (where wished-for objects are simply hallucinated) to reality-testing (where the ego learns to distinguish perception from phantasy)",
+      "domains": [
+        "reality_principle",
+        "development",
+        "reality_testing",
+        "hallucination"
+      ],
+      "source": "Introductory Lectures on Psycho-Analysis (1916-1917)",
+      "type": "theoretical_claim",
+      "notes": "Development of reality sense from hallucination to testing"
+    },
+    {
+      "id": "FREUD-0914",
+      "position": "Attention is an ego function that scans both external perceptions and internal processes, directing cathexis toward significant stimuli and away from irrelevant ones",
+      "domains": [
+        "attention",
+        "ego_functions",
+        "cathexis",
+        "perception"
+      ],
+      "source": "Introductory Lectures on Psycho-Analysis (1916-1917)",
+      "type": "theoretical_claim",
+      "notes": "Attention as selective cathexis distribution"
+    },
+    {
+      "id": "FREUD-0915",
+      "position": "Judgment is a later ego function that decides whether a given idea is true or false (correspondence with reality) and whether a given object should be taken in or spat out (acceptance or rejection)",
+      "domains": [
+        "judgment",
+        "ego_functions",
+        "reality_testing"
+      ],
+      "source": "Introductory Lectures on Psycho-Analysis (1916-1917)",
+      "type": "theoretical_claim",
+      "notes": "Judgment as reality assessment and object evaluation"
+    },
+    {
+      "id": "FREUD-0916",
+      "position": "Thought originated as a substitute for hallucinatory wish-fulfillment, allowing experimental action with small amounts of psychical energy before committing to real action",
+      "domains": [
+        "thought",
+        "ego_functions",
+        "experimental_action",
+        "reality_principle"
+      ],
+      "source": "Introductory Lectures on Psycho-Analysis (1916-1917)",
+      "type": "theoretical_claim",
+      "notes": "Thought as trial action with minimal energy"
+    },
+    {
+      "id": "FREUD-0917",
+      "position": "Inhibition is a restriction of ego function imposed to avoid conflict with id, superego, or external reality; different inhibitions arise depending on which agency is being appeased",
+      "domains": [
+        "inhibition",
+        "ego",
+        "conflict",
+        "symptoms"
+      ],
+      "source": "Introductory Lectures on Psycho-Analysis (1916-1917)",
+      "type": "theoretical_claim",
+      "notes": "Inhibition as preventive restriction of function"
+    },
+    {
+      "id": "FREUD-0918",
+      "position": "Sexual symbolism is remarkably limited and constant across individuals and cultures, suggesting phylogenetic inheritance rather than individual creation",
+      "domains": [
+        "symbolism",
+        "phylogenetic_inheritance",
+        "universality",
+        "sexuality"
+      ],
+      "source": "Introductory Lectures on Psycho-Analysis (1916-1917)",
+      "type": "theoretical_claim",
+      "notes": "Symbol constancy suggests inherited meanings"
+    },
+    {
+      "id": "FREUD-0919",
+      "position": "Neurotic symptoms regularly have multiple determinants (overdetermination), expressing several different unconscious meanings simultaneously through a single manifestation",
+      "domains": [
+        "symptoms",
+        "overdetermination",
+        "multiple_meanings",
+        "neurosis"
+      ],
+      "source": "Introductory Lectures on Psycho-Analysis (1916-1917)",
+      "type": "clinical_observation",
+      "notes": "Symptoms multiply determined by convergent meanings"
+    },
+    {
+      "id": "FREUD-0920",
+      "position": "The somatic compliance in hysteria refers to the body's provision of a suitable location for symptom expression based on previous illness, constitutional factors, or symbolic appropriateness",
+      "domains": [
+        "hysteria",
+        "conversion",
+        "somatic_compliance",
+        "symptom_choice"
+      ],
+      "source": "Introductory Lectures on Psycho-Analysis (1916-1917)",
+      "type": "clinical_observation",
+      "notes": "Body provides locus for hysterical symptoms"
+    },
+    {
+      "id": "FREUD-0921",
+      "position": "Hysterical identification allows a person to express through symptoms not only her own repressed wishes but also those of other people with whom she identifies (as in epidemic hysteria)",
+      "domains": [
+        "hysteria",
+        "identification",
+        "symptoms",
+        "contagion"
+      ],
+      "source": "Introductory Lectures on Psycho-Analysis (1916-1917)",
+      "type": "clinical_observation",
+      "notes": "Identification mechanism in hysterical contagion"
+    },
+    {
+      "id": "FREUD-0922",
+      "position": "The economic factor (quantity of libidinal energy) is as important as qualitative factors in determining symptom formation; sometimes quantitative increase alone can produce pathology",
+      "domains": [
+        "economic_viewpoint",
+        "libido",
+        "symptom_formation",
+        "quantitative_factors"
+      ],
+      "source": "Introductory Lectures on Psycho-Analysis (1916-1917)",
+      "type": "theoretical_claim",
+      "notes": "Quantity of excitation critical in pathogenesis"
+    },
+    {
+      "id": "FREUD-0923",
+      "position": "Primal phantasies (primal scene, castration, seduction) show such regularity and universality that they must be regarded as phylogenetic schemata, with individual experience merely filling in inherited structures",
+      "domains": [
+        "primal_phantasies",
+        "phylogenetic_inheritance",
+        "primal_scene",
+        "seduction",
+        "castration"
+      ],
+      "source": "Introductory Lectures on Psycho-Analysis (1916-1917)",
+      "type": "theoretical_claim",
+      "notes": "Primal phantasies as phylogenetic inheritance"
+    },
+    {
+      "id": "FREUD-0924",
+      "position": "The compulsion neurotic's omnipotence of thoughts treats mental acts as equivalent to physical acts, believing that thinking something can make it happen or prevent it, showing regression to animistic thinking",
+      "domains": [
+        "obsessional_neurosis",
+        "omnipotence_of_thoughts",
+        "magical_thinking",
+        "animism"
+      ],
+      "source": "Introductory Lectures on Psycho-Analysis (1916-1917)",
+      "type": "clinical_observation",
+      "notes": "Magical thinking in obsessional neurosis"
+    },
+    {
+      "id": "FREUD-0925",
+      "position": "Reaction-formation produces traits that are the opposite of repressed instinctual aims (e.g., excessive cleanliness as defense against anal-erotic impulses, excessive sympathy as defense against cruelty)",
+      "domains": [
+        "reaction_formation",
+        "defense_mechanisms",
+        "character_formation"
+      ],
+      "source": "Introductory Lectures on Psycho-Analysis (1916-1917)",
+      "type": "theoretical_claim",
+      "notes": "Reaction-formation produces opposite traits"
+    },
+    {
+      "id": "FREUD-0926",
+      "position": "Isolation in obsessional neurosis separates an idea from its affect, allowing the idea to remain conscious while the associated feeling is repressed, producing apparently emotionless thoughts about disturbing content",
+      "domains": [
+        "isolation",
+        "obsessional_neurosis",
+        "defense_mechanisms",
+        "affect"
+      ],
+      "source": "Introductory Lectures on Psycho-Analysis (1916-1917)",
+      "type": "theoretical_claim",
+      "notes": "Isolation severs idea-affect connection"
+    },
+    {
+      "id": "FREUD-0927",
+      "position": "Undoing is an obsessional mechanism where a second action symbolically cancels or negates a first action, as if the first had not occurred (e.g., compulsive rituals)",
+      "domains": [
+        "undoing",
+        "obsessional_neurosis",
+        "defense_mechanisms",
+        "ritual"
+      ],
+      "source": "Introductory Lectures on Psycho-Analysis (1916-1917)",
+      "type": "theoretical_claim",
+      "notes": "Undoing cancels forbidden action symbolically"
+    },
+    {
+      "id": "FREUD-0928",
+      "position": "Ambivalence (simultaneous love and hate toward the same object) is particularly intense at the sadistic-anal stage and is characteristic of obsessional neurosis where it produces doubting, indecision, and opposing compulsions",
+      "domains": [
+        "ambivalence",
+        "obsessional_neurosis",
+        "sadistic_anal_stage",
+        "love_hate"
+      ],
+      "source": "Introductory Lectures on Psycho-Analysis (1916-1917)",
+      "type": "clinical_observation",
+      "notes": "Ambivalence characteristic of obsessional neurosis"
+    },
+    {
+      "id": "FREUD-0929",
+      "position": "The talking cure works because putting things into words creates an avenue from unconscious to conscious, and words themselves are derivatives of preconscious processes that can bridge the gap between systems",
+      "domains": [
+        "talking_cure",
+        "verbalization",
+        "consciousness",
+        "therapeutic_mechanism"
+      ],
+      "source": "Introductory Lectures on Psycho-Analysis (1916-1917)",
+      "type": "therapeutic_principle",
+      "notes": "Verbalization enables unconscious-conscious connection"
+    },
+    {
+      "id": "FREUD-0930",
+      "position": "Acting out is the tendency to discharge unconscious impulses in action rather than remembering them, particularly manifest in transference where patients repeat rather than recollect childhood patterns",
+      "domains": [
+        "acting_out",
+        "repetition",
+        "transference",
+        "resistance"
+      ],
+      "source": "Introductory Lectures on Psycho-Analysis (1916-1917)",
+      "type": "clinical_observation",
+      "notes": "Acting out as substitute for remembering"
+    },
+    {
+      "id": "FREUD-0931",
+      "position": "The negative therapeutic reaction occurs when clinical improvement produces increased guilt and self-punishment in some patients, paradoxically making them worse when treatment succeeds",
+      "domains": [
+        "negative_therapeutic_reaction",
+        "guilt",
+        "self_punishment",
+        "therapeutic_obstacles"
+      ],
+      "source": "Introductory Lectures on Psycho-Analysis (1916-1917)",
+      "type": "clinical_observation",
+      "notes": "Improvement provokes guilt-driven deterioration"
+    },
+    {
+      "id": "FREUD-0932",
+      "position": "Psycho-analysis can be applied beyond therapy to understanding cultural products (art, literature, myth, religion), social phenomena, and normal psychology, making it a general psychology of mental functioning",
+      "domains": [
+        "applied_psychoanalysis",
+        "cultural_applications",
+        "general_psychology"
+      ],
+      "source": "Introductory Lectures on Psycho-Analysis (1916-1917)",
+      "type": "methodological_claim",
+      "notes": "Psychoanalysis as general psychology applicable widely"
+    },
+    {
+      "id": "FREUD-0933",
+      "position": "The artist creates as substitute satisfaction for repressed wishes, using his works to express unconscious phantasies in socially acceptable form, achieving both personal gratification and social recognition",
+      "domains": [
+        "art",
+        "sublimation",
+        "artist_psychology",
+        "phantasy"
+      ],
+      "source": "Introductory Lectures on Psycho-Analysis (1916-1917)",
+      "type": "theoretical_claim",
+      "notes": "Art as sublimated expression of unconscious phantasy"
+    },
+    {
+      "id": "FREUD-0934",
+      "position": "Religion represents a collective obsessional neurosis arising from the same conflicts (oedipal guilt, ambivalence toward father) that produce individual obsessional neurosis, offering ritualized defenses against forbidden wishes",
+      "domains": [
+        "religion",
+        "obsessional_neurosis",
+        "cultural_applications",
+        "ritual"
+      ],
+      "source": "Introductory Lectures on Psycho-Analysis (1916-1917)",
+      "type": "theoretical_claim",
+      "notes": "Religion as cultural analogue of obsessional neurosis"
+    },
+    {
+      "id": "FREUD-0935",
+      "position": "Education should aim to help the child find a middle path between unrestricted instinctual expression (which would make civilization impossible) and excessive repression (which produces neurosis)",
+      "domains": [
+        "education",
+        "applied_psychoanalysis",
+        "child_development",
+        "sublimation"
+      ],
+      "source": "Introductory Lectures on Psycho-Analysis (1916-1917)",
+      "type": "methodological_claim",
+      "notes": "Educational goal of optimal instinct management"
+    },
+    {
+      "id": "FREUD-0936",
+      "position": "The therapeutic aim is not to eliminate conflict but to help the ego make better choices about managing conflicts, replacing pathological solutions (symptoms) with adaptive ones (reality satisfactions, sublimations)",
+      "domains": [
+        "therapeutic_goals",
+        "conflict_resolution",
+        "adaptation",
+        "ego_strength"
+      ],
+      "source": "Introductory Lectures on Psycho-Analysis (1916-1917)",
+      "type": "therapeutic_principle",
+      "notes": "Therapy enables better conflict management not conflict elimination"
+    },
+    {
+      "id": "FREUD-0937",
+      "position": "Character traits are precipitates of abandoned object-cathexes, formed when the ego responds to loss of an object by identifying with it and taking on its characteristics",
+      "domains": [
+        "character_formation",
+        "identification",
+        "object_loss",
+        "ego_development"
+      ],
+      "source": "Introductory Lectures on Psycho-Analysis (1916-1917)",
+      "type": "theoretical_claim",
+      "notes": "Character formed through identificatory response to loss"
+    },
+    {
+      "id": "FREUD-0938",
+      "position": "The constitutional factor (innate variations in instinctual strength, capacity for sublimation, ego resilience) always plays a role in neurosis aetiology and explains why similar experiences produce different outcomes in different individuals",
+      "domains": [
+        "constitutional_factors",
+        "aetiology",
+        "individual_differences",
+        "innate_factors"
+      ],
+      "source": "Introductory Lectures on Psycho-Analysis (1916-1917)",
+      "type": "aetiological_claim",
+      "notes": "Constitutional variation accounts for individual differences"
+    },
+    {
+      "id": "FREUD-0939",
+      "position": "Dementia praecox (schizophrenia) involves profound narcissistic withdrawal where libido is retracted from objects and turned inward to such degree that reality-contact is lost and internal phantasy world becomes predominant",
+      "domains": [
+        "dementia_praecox",
+        "schizophrenia",
+        "narcissistic_withdrawal",
+        "reality_loss"
+      ],
+      "source": "Introductory Lectures on Psycho-Analysis (1916-1917)",
+      "type": "clinical_observation",
+      "notes": "Schizophrenia as extreme narcissistic regression"
+    },
+    {
+      "id": "FREUD-0940",
+      "position": "Melancholia results when loss of an object is handled not by mourning but by narcissistic identification, with the ego setting up the lost object inside itself and then directing ambivalent feelings (particularly hatred) against this internalized object, thus attacking itself",
+      "domains": [
+        "melancholia",
+        "identification",
+        "narcissism",
+        "self_hatred",
+        "mourning"
+      ],
+      "source": "Introductory Lectures on Psycho-Analysis (1916-1917)",
+      "type": "theoretical_claim",
+      "notes": "Melancholia as narcissistic identification with lost object"
+    },
+    {
+      "id": "FREUD-0941",
+      "position": "Normal mourning and pathological melancholia share the feature of reaction to object-loss, but mourning works through the loss gradually while melancholia involves regression to narcissistic identification",
+      "domains": [
+        "mourning",
+        "melancholia",
+        "object_loss",
+        "pathology_vs_normality"
+      ],
+      "source": "Introductory Lectures on Psycho-Analysis (1916-1917)",
+      "type": "theoretical_claim",
+      "notes": "Mourning and melancholia distinguished by mechanism"
+    },
+    {
+      "id": "FREUD-0942",
+      "position": "Paranoia results from projection of repressed homosexual impulses onto a persecutor, transforming 'I love him' (forbidden) into 'He hates me' (acceptable but persecutory)",
+      "domains": [
+        "paranoia",
+        "projection",
+        "homosexuality",
+        "persecution"
+      ],
+      "source": "Introductory Lectures on Psycho-Analysis (1916-1917)",
+      "type": "theoretical_claim",
+      "notes": "Paranoid mechanism via homosexual projection"
+    },
+    {
+      "id": "FREUD-0943",
+      "position": "The theory of instincts is our mythology; instincts are mythical entities, magnificent in their indefiniteness, yet indispensable for understanding mental processes",
+      "domains": [
+        "instinct_theory",
+        "metapsychology",
+        "theoretical_foundations",
+        "methodology"
+      ],
+      "source": "Introductory Lectures on Psycho-Analysis (1916-1917)",
+      "type": "methodological_claim",
+      "notes": "Instinct theory acknowledged as provisional construct"
+    },
+    {
+      "id": "FREUD-0944",
+      "position": "Psycho-analysis has no Weltanschauung of its own but shares the scientific Weltanschauung, characterized by emphasis on external world, rejection of illusions, and acceptance that our picture of reality is incomplete and revisable",
+      "domains": [
+        "weltanschauung",
+        "science",
+        "psychoanalysis",
+        "methodology"
+      ],
+      "source": "Introductory Lectures on Psycho-Analysis (1916-1917)",
+      "type": "methodological_claim",
+      "notes": "Psychoanalysis aligned with scientific worldview"
+    },
+    {
+      "id": "FREUD-0945",
+      "position": "The pleasure-unpleasure principle governs primary process, seeking immediate discharge of tension (pleasure) and avoiding increase in tension (unpleasure), without regard for reality or consequences",
+      "domains": [
+        "pleasure_principle",
+        "primary_process",
+        "unpleasure",
+        "mental_functioning"
+      ],
+      "source": "Introductory Lectures on Psycho-Analysis (1916-1917)",
+      "type": "theoretical_claim",
+      "notes": "Pleasure principle seeks tension discharge"
+    },
+    {
+      "id": "FREUD-0946",
+      "position": "Reality adaptation requires that pleasure be postponed, immediate satisfactions renounced, and unpleasure temporarily tolerated in service of greater long-term advantage",
+      "domains": [
+        "reality_principle",
+        "adaptation",
+        "postponement",
+        "civilization"
+      ],
+      "source": "Introductory Lectures on Psycho-Analysis (1916-1917)",
+      "type": "theoretical_claim",
+      "notes": "Reality principle requires frustration tolerance"
+    },
+    {
+      "id": "FREUD-0947",
+      "position": "The sexual instinct is particularly resistant to education and taming by the reality principle, maintaining its pressure toward immediate satisfaction even when ego interests require renunciation",
+      "domains": [
+        "sexual_instinct",
+        "reality_principle",
+        "instinct_theory",
+        "resistance_to_education"
+      ],
+      "source": "Introductory Lectures on Psycho-Analysis (1916-1917)",
+      "type": "theoretical_claim",
+      "notes": "Sexual instinct resists reality-principle modification"
+    },
+    {
+      "id": "FREUD-0948",
+      "position": "The common feature of all psychical phenomena studied by psycho-analysis (dreams, parapraxes, symptoms, jokes) is that they represent compromises between opposing mental forces, making compromise-formation the fundamental pattern of unconscious expression",
+      "domains": [
+        "compromise_formation",
+        "psychical_conflict",
+        "symptoms",
+        "dreams",
+        "fundamental_patterns"
+      ],
+      "source": "Introductory Lectures on Psycho-Analysis (1916-1917)",
+      "type": "theoretical_claim",
+      "notes": "Compromise-formation as universal pattern"
+    },
+    {
+      "id": "FREUD-0949",
+      "position": "Sexuality in the psycho-analytic sense (sexuelle, Eros) is broader than genital sexuality, encompassing all pleasurable bodily sensations and the full range of libidinal strivings including infantile, component, and perverse sexualities",
+      "domains": [
+        "sexuality",
+        "libido",
+        "eros",
+        "expanded_definition"
+      ],
+      "source": "Introductory Lectures on Psycho-Analysis (1916-1917)",
+      "type": "theoretical_claim",
+      "notes": "Expanded conception of sexuality beyond genitality"
+    },
+    {
+      "id": "FREUD-0950",
+      "position": "The distinction between ego-instincts (self-preservative) and sexual instincts (species-preservative) represents the fundamental duality driving psychical conflict, though this distinction may require future revision",
+      "domains": [
+        "instinct_theory",
+        "ego_instincts",
+        "sexual_instincts",
+        "dualism"
+      ],
+      "source": "Introductory Lectures on Psycho-Analysis (1916-1917)",
+      "type": "theoretical_claim",
+      "notes": "Instinctual dualism as basis of conflict"
+    },
+    {
+      "id": "FREUD-0951",
+      "position": "The incompatibility between civilization's demands and instinctual nature creates universal discontent, making some degree of neurosis or sublimation inevitable in civilized life",
+      "domains": [
+        "civilization",
+        "instinct",
+        "neurosis",
+        "sublimation",
+        "cultural_theory"
+      ],
+      "source": "Introductory Lectures on Psycho-Analysis (1916-1917)",
+      "type": "theoretical_claim",
+      "notes": "Civilization-instinct conflict produces universal strain"
+    },
+    {
+      "id": "FREUD-0952",
+      "position": "Dreams are the normal prototype of all pathological mental products—they show in miniature all the mechanisms (regression, displacement, condensation, symbolism, compromise-formation) that operate in neurotic symptom-formation",
+      "domains": [
+        "dreams",
+        "neurosis",
+        "mechanisms",
+        "prototype"
+      ],
+      "source": "Introductory Lectures on Psycho-Analysis (1916-1917)",
+      "type": "theoretical_claim",
+      "notes": "Dreams exemplify mechanisms of all pathology"
+    },
+    {
+      "id": "FREUD-0953",
+      "position": "The forgetting of proper names demonstrates that apparently arbitrary failures of memory follow deterministic laws, being caused by specific interfering thoughts even when the person is unaware of these thoughts",
+      "domains": [
+        "forgetting",
+        "names",
+        "determinism",
+        "unconscious_causation"
+      ],
+      "source": "Introductory Lectures on Psycho-Analysis (1916-1917)",
+      "type": "clinical_observation",
+      "notes": "Name-forgetting proves unconscious causation"
+    },
+    {
+      "id": "FREUD-0954",
+      "position": "Slips of the tongue often reveal what the speaker really thinks or feels despite conscious intentions to conceal it, making them a form of inadvertent self-betrayal",
+      "domains": [
+        "slips_of_tongue",
+        "parapraxis",
+        "self_betrayal",
+        "unconscious_truth"
+      ],
+      "source": "Introductory Lectures on Psycho-Analysis (1916-1917)",
+      "type": "clinical_observation",
+      "notes": "Slips reveal concealed thoughts"
+    },
+    {
+      "id": "FREUD-0955",
+      "position": "Adler's individual psychology represents a defection from psycho-analysis because it denies infantile sexuality, eliminates the unconscious, rejects repression, and reduces all motivation to ego-striving (will to power), thereby abandoning the foundations that define psychoanalysis",
+      "domains": [
+        "critique_of_rivals",
+        "individual_psychology",
+        "adler",
+        "theoretical_identity"
+      ],
+      "source": "On the History of the Psycho-Analytic Movement (1914)",
+      "type": "theoretical_claim",
+      "notes": "Adler's system incompatible with psychoanalysis"
+    },
+    {
+      "id": "FREUD-0956",
+      "position": "Jung's analytic psychology dissolves psycho-analysis by reinterpreting libido as general life-energy rather than sexual energy, treating the Oedipus complex as symbolic rather than literal, and denying the reality of infantile sexuality",
+      "domains": [
+        "critique_of_rivals",
+        "analytical_psychology",
+        "jung",
+        "theoretical_identity"
+      ],
+      "source": "On the History of the Psycho-Analytic Movement (1914)",
+      "type": "theoretical_claim",
+      "notes": "Jung's revisions destroy psychoanalytic foundations"
+    },
+    {
+      "id": "FREUD-0957",
+      "position": "The controversies with Adler and Jung demonstrate that the core principles of psycho-analysis (unconscious, repression, infantile sexuality, transference) are non-negotiable—anyone rejecting these cannot properly call their work psychoanalysis",
+      "domains": [
+        "psychoanalytic_theory",
+        "theoretical_identity",
+        "core_principles",
+        "controversies"
+      ],
+      "source": "On the History of the Psycho-Analytic Movement (1914)",
+      "type": "methodological_claim",
+      "notes": "Core principles define psychoanalytic identity"
+    },
+    {
+      "id": "FREUD-0958",
+      "position": "Psycho-analysis began in 1895-1896 with Freud's recognition that hysterical symptoms have sexual meaning and arise from repressed sexual traumas, though the seduction theory was later revised",
+      "domains": [
+        "psychoanalytic_history",
+        "origins",
+        "hysteria",
+        "seduction_theory"
+      ],
+      "source": "On the History of the Psycho-Analytic Movement (1914)",
+      "type": "methodological_claim",
+      "notes": "Dating psychoanalysis origin to sexual etiology recognition"
+    },
+    {
+      "id": "FREUD-0959",
+      "position": "The recognition that patients' reports of childhood seduction were often phantasies rather than real events led to the discovery of infantile sexuality and psychical reality, representing a crucial theoretical advance",
+      "domains": [
+        "seduction_theory",
+        "infantile_sexuality",
+        "psychical_reality",
+        "theoretical_development"
+      ],
+      "source": "On the History of the Psycho-Analytic Movement (1914)",
+      "type": "theoretical_claim",
+      "notes": "Seduction theory error led to major discoveries"
+    },
+    {
+      "id": "FREUD-0960",
+      "position": "Free association emerged as the fundamental method when Freud abandoned hypnosis, asking patients to report everything that came to mind, thereby providing access to unconscious material through the chain of associations",
+      "domains": [
+        "free_association",
+        "methodology",
+        "hypnosis",
+        "technique_development"
+      ],
+      "source": "On the History of the Psycho-Analytic Movement (1914)",
+      "type": "methodological_claim",
+      "notes": "Free association replaced hypnosis as basic method"
+    },
+    {
+      "id": "FREUD-0961",
+      "position": "The interpretation of a dream requires that the dreamer associate freely to each element, not that the analyst impose symbolic meanings; fixed symbolic translations without associations are insufficient",
+      "domains": [
+        "dream_interpretation",
+        "free_association",
+        "symbolism",
+        "technique"
+      ],
+      "source": "Introductory Lectures on Psycho-Analysis (1916-1917)",
+      "type": "methodological_claim",
+      "notes": "Individual associations required despite universal symbols"
+    },
+    {
+      "id": "FREUD-0962",
+      "position": "Children's dreams are typically undistorted wish-fulfillments because the censorship is not yet strong, showing directly what later becomes disguised in adult dreams",
+      "domains": [
+        "dreams",
+        "children",
+        "wish_fulfillment",
+        "censorship"
+      ],
+      "source": "Introductory Lectures on Psycho-Analysis (1916-1917)",
+      "type": "clinical_observation",
+      "notes": "Children's dreams reveal undisguised wishes"
+    },
+    {
+      "id": "FREUD-0963",
+      "position": "Dreams incorporate recent waking impressions (day-residues) not because these are important in themselves but because they provide convenient material through which deeper unconscious wishes can express themselves",
+      "domains": [
+        "dreams",
+        "day_residues",
+        "dream_formation",
+        "unconscious_wishes"
+      ],
+      "source": "Introductory Lectures on Psycho-Analysis (1916-1917)",
+      "type": "theoretical_claim",
+      "notes": "Day-residues serve unconscious wishes"
+    },
+    {
+      "id": "FREUD-0964",
+      "position": "The manifest dream is typically much shorter than the latent dream-thoughts it represents, demonstrating massive condensation through which multiple meanings are compressed into single images",
+      "domains": [
+        "dreams",
+        "condensation",
+        "manifest_content",
+        "latent_thoughts"
+      ],
+      "source": "Introductory Lectures on Psycho-Analysis (1916-1917)",
+      "type": "clinical_observation",
+      "notes": "Condensation produces economy of dream representation"
+    },
+    {
+      "id": "FREUD-0965",
+      "position": "Dreams show preference for representing abstract relationships and logical connections through spatial arrangements, simultaneity, or transformations rather than through language",
+      "domains": [
+        "dreams",
+        "representability",
+        "spatial_representation",
+        "abstract_thought"
+      ],
+      "source": "Introductory Lectures on Psycho-Analysis (1916-1917)",
+      "type": "clinical_observation",
+      "notes": "Dreams translate logic into visual spatial forms"
+    },
+    {
+      "id": "FREUD-0966",
+      "position": "The interpretation of symptoms follows the same principles as dream interpretation, treating the symptom as a manifest content concealing latent meanings that emerge through patient's associations",
+      "domains": [
+        "symptoms",
+        "interpretation",
+        "technique",
+        "dream_interpretation"
+      ],
+      "source": "Introductory Lectures on Psycho-Analysis (1916-1917)",
+      "type": "methodological_claim",
+      "notes": "Symptom interpretation parallels dream interpretation"
+    },
+    {
+      "id": "FREUD-0967",
+      "position": "Symptom-formation serves as a substitute satisfaction when normal satisfaction is blocked, but the satisfaction gained is distorted, partial, and inseparable from suffering",
+      "domains": [
+        "symptoms",
+        "substitute_satisfaction",
+        "neurosis",
+        "pathological_satisfaction"
+      ],
+      "source": "Introductory Lectures on Psycho-Analysis (1916-1917)",
+      "type": "theoretical_claim",
+      "notes": "Symptoms provide distorted satisfaction"
+    },
+    {
+      "id": "FREUD-0968",
+      "position": "The strength required to maintain repression is drawn from the ego's supply of energy, weakening the ego and reducing its capacity for adaptation and sublimation",
+      "domains": [
+        "repression",
+        "ego",
+        "energy",
+        "adaptation"
+      ],
+      "source": "Introductory Lectures on Psycho-Analysis (1916-1917)",
+      "type": "theoretical_claim",
+      "notes": "Repression depletes ego resources"
+    },
+    {
+      "id": "FREUD-0969",
+      "position": "Successful analysis liberates the energy bound in maintaining repressions, making it available for ego functions, adaptation, and sublimation",
+      "domains": [
+        "psychoanalytic_therapy",
+        "energy",
+        "liberation",
+        "sublimation"
+      ],
+      "source": "Introductory Lectures on Psycho-Analysis (1916-1917)",
+      "type": "therapeutic_principle",
+      "notes": "Analysis frees bound energy"
+    },
+    {
+      "id": "FREUD-0970",
+      "position": "Not all conflicts produce neurosis—only when the ego's capacity is overwhelmed, when regression to infantile fixation-points occurs, and when substitute satisfactions fail to provide adequate relief",
+      "domains": [
+        "neurosis",
+        "aetiology",
+        "ego_capacity",
+        "pathogenesis"
+      ],
+      "source": "Introductory Lectures on Psycho-Analysis (1916-1917)",
+      "type": "aetiological_claim",
+      "notes": "Multiple conditions required for neurosis development"
+    },
+    {
+      "id": "FREUD-0971",
+      "position": "The therapeutic process requires not just intellectual insight but emotional working-through, where resistances are repeatedly encountered and overcome until the patient can genuinely accept and integrate the unconscious material",
+      "domains": [
+        "therapeutic_process",
+        "working_through",
+        "emotional_insight",
+        "resistance"
+      ],
+      "source": "Introductory Lectures on Psycho-Analysis (1916-1917)",
+      "type": "therapeutic_principle",
+      "notes": "Emotional working-through exceeds intellectual knowledge"
+    }
+  ]
+}

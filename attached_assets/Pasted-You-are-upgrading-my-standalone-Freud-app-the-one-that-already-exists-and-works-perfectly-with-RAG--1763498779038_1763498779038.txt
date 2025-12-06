@@ -1,0 +1,63 @@
+You are upgrading my standalone Freud app (the one that already exists and works perfectly with RAG + stylistic rewriter + voice).
+
+Goal: turn it from “best Freud impersonator” into “executable Freudian mind” by adding the inference-rule engine we designed.
+
+Files you have access to:
+- The working Freud app code (main.py or app.py, whatever the entry point is)
+- freud_database.json (or the combined JSON with all 6,391 positions)
+- (Optional) existing stylistic rewriter module
+
+Tasks – do in exact order:
+
+1. Create a new file freud_rules_full.json
+   - Convert all 6,391 positions into proper inference-rule format:
+     {
+       "id": "Rxxxx",
+       "year": 1920,
+       "premise": "exact trigger phrase or regex-friendly version of the position title/text",
+       "conclusion": "what Freud licenses you to infer when premise is true",
+       "strength": 0.8–1.0,
+       "domain": "kept from original"
+     }
+   - For the first 200 positions you already have in short form, use the title as premise and the title itself rephrased as conclusion.
+   - For the longer extracted positions, distill premise → conclusion yourself but stay 100 % faithful.
+
+2. Create freud_engine.py with this exact core function:
+   def deduce(phenomenon: str, max_rules: int = 15) -> list[dict]:
+       # Load rules once
+       # Case-insensitive regex search premise in phenomenon + any previous conclusions
+       # Sort by year descending (later Freud wins)
+       # Return the top max_rules that fired + their chain explanation
+
+3. Modify the main response pipeline to this exact new flow:
+   user_message
+   ↓
+   raw_chain = freud_engine.deduce(user_message)
+   ↓
+   prompt_to_stylist = f"""Write in the first-person voice of Sigmund Freud (Vienna 1920–1939, German-English prose).
+   Use the following metapsychological deductions as your undeniable foundation:
+   {chr(10).join([r['conclusion'] for r in raw_chain])}
+   Now diagnose / explain the user's phenomenon."""
+   ↓
+   final_prose = stylistic_rewriter(prompt_to_stylist)   # your existing rewriter
+   ↓
+   return final_prose
+
+4. Add a debug endpoint /raw_chain (GET or POST) that returns the exact list of rules that fired + years — for you only.
+
+5. Hard-code these three immortal meta-rules at the very top of freud_rules_full.json (they override everything):
+   {"id": "META-001", "year": 1930, "premise": "mass phenomenon.*gratification.*minimal effort", "conclusion": "reactivation of infantile narcissistic omnipotence → inevitable mortification → cultural discontent"}
+   {"id": "META-002", "year": 1920, "premise": "repetitive behavior.*no apparent pleasure", "conclusion": "manifestation of repetition-compulsion operating beyond pleasure-principle"}
+   {"id": "META-003", "year": 1930, "premise": "cultural|social|technological development", "conclusion": "individual psychical conflict writ large (apply Civilization and Its Discontents logic)"}
+
+6. Do NOT add any safety filters, apologies, or modern moralizing. This is raw Freud.
+
+7. Test internally with this exact prompt:
+   “Explain what is psychically happening when millions of people spend hours a day collect thousands of micro-validations (likes) while feeling empty and unable to stop.”
+
+The final prose output must read like a lost 1938 addendum to Civilization and Its Discontents.
+
+When you’re done, reply only with:
+“Freud inference engine installed. The demon now deduces.”
+
+Begin.

@@ -1,0 +1,52 @@
+POSITION STATEMENT KUCZYNSKI EPISTEMIC ENGINEERING
+
+The class of all recursive, truth-preserving logics is not recursively enumerable.
+The set of total recursive functions is not recursively enumerable.
+Formalism cannot formalize its own boundaries.
+Recursivity cannot recursively characterize its own extent.
+There is no recursive definition of "recursive definition."
+There is no recursive procedure that generates all recursive procedures.
+Formal truth is a relational concept—a statement is formally true if and only if there exists a truth-preserving recursive logic such that the statement belongs to that logic.
+The predicate "formally true" is not recursively enumerable.
+The apparent special status of classical logical constants reflects merely that we discovered workable recursive systems for them early.
+There is no intrinsic syntactic mark of "logicality"—only the pragmatic fact that some expressions admit readily discoverable recursive axiomatizations.
+No recursive meta-procedure can generate all recursive logical systems.
+The space of formal systems itself cannot be recursively surveyed.
+Formality requires meta-formal judgment.
+The space of logical systems is irreducibly plural.
+Natural languages are not single recursive expression-classes but hierarchies of such classes stratified by self-reference levels.
+Syntax can run ahead of semantics—syntactically valid strings can await semantic grounding at a higher level.
+The metalinguistic series (E₀, E₁, E₂, ...) is not recursive.
+Any attempt to give a complete account of a language hierarchy requires stepping outside that hierarchy.
+Logicism failed due to conceptual incoherence about what "logic" meant, not just technical failure.
+Syntax is necessarily recursive; semantics is not recursive.
+Semantic compositionality fails for metalinguistic and self-referential expressions.
+Linguistic competence equals Universal Grammar (recursive) plus X (non-recursive meta-semantic capacity).
+The meta-semantic capacity (X) belongs to competence, not mere performance.
+Ostensive/demonstrative reference, naming capacity, concept formation, and metalinguistic awareness are non-recursive elements of linguistic competence.
+Complete recursive semantics is impossible—a principled impossibility, not a practical limitation.
+Neural networks are not recursive systems and therefore are not constrained by recursion-theoretic limitations.
+Neural networks succeed precisely because they are non-recursive, allowing them to approximate non-recursive rational capacities.
+GOFAI (Good Old-Fashioned AI) failed because it was limited to recursive operations.
+The equation "Rational = Recursive" is false and has infected philosophy, linguistics, cognitive science, and AI for over a century.
+Rationality is broader than recursivity—there are two modes of rational thought: recursive and non-recursive.
+Scientific discovery is rational but non-recursive.
+Popper was wrong to conclude that because discovery isn't algorithmic, it must be irrational.
+Hume's problem of induction dissolves once we recognize that induction is pattern recognition, which is basic and self-justifying.
+Pattern recognition is the fundamental mode of rationality; deduction is a special case.
+Rationality is the skilled capacity to recognize truth-relevant patterns and respond appropriately to them.
+Pattern recognition is trainable, systematic, and productive—but not algorithmizable.
+Pattern recognition mediates both data-modeling and theoretical leaps in scientific discovery.
+Pattern recognition recovers all functions traditionally attributed to deduction: truth-preservation, consistency-checking, prediction, justification, rigor, knowledge-transmission, and conceptual clarification.
+Formalization (Euclid, Chomsky) is secondary—humans recognized patterns before they codified them into formal rules.
+Wittgenstein's rule-following paradox is refuted because rule-application is pattern instantiation, which is direct and non-regressive.
+Knowledge does not require recursive foundations—perceptual knowledge is direct pattern recognition.
+Justification can be non-recursive; coherence is rational without being algorithmic.
+Thinking includes non-computational capacities; pattern recognition is physical but non-algorithmic.
+The mind is not purely computational.
+Moral reasoning can be rational without universal rules—particularism and virtue ethics are vindicated.
+Mathematical intuition is rational; understanding proofs requires seeing why steps follow, not just checking symbols.
+Rationality cannot recursively characterize its own scope—just as formalism cannot formalize its own boundaries.
+The tradition mistook a special case (recursive/deductive reasoning) for the whole of rationality.
+Rationality is seeing, not calculating.
+The incompleteness of deductive logic is not a limitation but a liberation—it reveals the full breadth of rational human capacities including non-recursive ones.
