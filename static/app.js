@@ -125,6 +125,58 @@ class ThinkerWorkshop {
         document.getElementById('clear-chat-btn').addEventListener('click', () => {
             this.clearChat();
         });
+        
+        document.getElementById('close-knowledge-panel').addEventListener('click', () => {
+            this.hideKnowledgePanel();
+        });
+        
+        this.archiveFontSize = 100;
+        document.getElementById('archive-font-down').addEventListener('click', () => {
+            this.adjustArchiveFontSize(-10);
+        });
+        document.getElementById('archive-font-up').addEventListener('click', () => {
+            this.adjustArchiveFontSize(10);
+        });
+        this.loadArchiveFontSize();
+    }
+    
+    hideKnowledgePanel() {
+        this.knowledgePanel.style.display = 'none';
+        if (this.quoteRotationInterval) {
+            clearInterval(this.quoteRotationInterval);
+            this.quoteRotationInterval = null;
+        }
+        if (this.factRotationInterval) {
+            clearInterval(this.factRotationInterval);
+            this.factRotationInterval = null;
+        }
+    }
+    
+    adjustArchiveFontSize(delta) {
+        this.archiveFontSize = Math.max(50, Math.min(150, this.archiveFontSize + delta));
+        document.getElementById('archive-font-size').textContent = this.archiveFontSize + '%';
+        this.applyArchiveFontSize();
+        localStorage.setItem('freudgpt-archive-font-size', this.archiveFontSize);
+    }
+    
+    applyArchiveFontSize() {
+        const scale = this.archiveFontSize / 100;
+        const baseFontSize = 0.85 * scale;
+        document.querySelectorAll('.quote-text').forEach(el => {
+            el.style.fontSize = baseFontSize + 'em';
+        });
+        document.querySelectorAll('.source-text').forEach(el => {
+            el.style.fontSize = (0.9 * scale) + 'em';
+        });
+    }
+    
+    loadArchiveFontSize() {
+        const saved = localStorage.getItem('freudgpt-archive-font-size');
+        if (saved) {
+            this.archiveFontSize = parseInt(saved);
+            document.getElementById('archive-font-size').textContent = this.archiveFontSize + '%';
+            this.applyArchiveFontSize();
+        }
     }
     
     selectThinker(database) {

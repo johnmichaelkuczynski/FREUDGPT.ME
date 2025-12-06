@@ -206,6 +206,38 @@ body::before {
     font-weight: 500;
     color: var(--parchment);
     letter-spacing: 1px;
+    flex: 1;
+}
+
+.archive-font-control {
+    display: flex;
+    align-items: center;
+    gap: 6px;
+    margin-left: auto;
+}
+
+.archive-font-control .font-btn {
+    background: rgba(114, 47, 55, 0.4);
+    border: 1px solid rgba(201, 162, 39, 0.3);
+    color: var(--parchment);
+    font-size: 0.75em;
+    padding: 4px 8px;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: var(--transition-smooth);
+    font-weight: 600;
+}
+
+.archive-font-control .font-btn:hover {
+    background: var(--burgundy);
+    border-color: var(--gold);
+}
+
+#archive-font-size {
+    font-size: 0.7em;
+    color: var(--text-muted);
+    min-width: 32px;
+    text-align: center;
 }
 
 .dialogue-content {
@@ -1128,6 +1160,32 @@ body::before {
     align-items: center;
     gap: 10px;
     border-bottom: 1px solid rgba(201, 162, 39, 0.2);
+    position: relative;
+}
+
+.knowledge-close {
+    position: absolute;
+    right: 12px;
+    top: 50%;
+    transform: translateY(-50%);
+    background: rgba(114, 47, 55, 0.6);
+    border: 1px solid rgba(201, 162, 39, 0.3);
+    color: var(--parchment);
+    font-size: 1.4em;
+    width: 32px;
+    height: 32px;
+    border-radius: 50%;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: var(--transition-smooth);
+    line-height: 1;
+}
+
+.knowledge-close:hover {
+    background: var(--burgundy);
+    border-color: var(--gold);
 }
 
 .knowledge-icon {
@@ -1181,8 +1239,8 @@ body::before {
 .quote-text {
     font-family: var(--font-quote);
     color: var(--text-secondary);
-    font-size: 1.0em;
-    line-height: 1.6;
+    font-size: 0.85em;
+    line-height: 1.5;
     font-style: normal;
     margin-bottom: 0;
 }
