@@ -1181,8 +1181,8 @@ body::before {
 .quote-text {
     font-family: var(--font-quote);
     color: var(--text-secondary);
-    font-size: 1.4em;
-    line-height: 1.7;
+    font-size: 1.0em;
+    line-height: 1.6;
     font-style: normal;
     margin-bottom: 0;
 }
