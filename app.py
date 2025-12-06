@@ -555,6 +555,41 @@ NEVER break character or add meta-commentary about the task. Simply present the 
         traceback.print_exc()
         return jsonify({'error': str(e)}), 500
 
+_curated_fact_positions = None
+
+def load_curated_fact_positions():
+    """Load curated philosophical position statements for the fact strip."""
+    global _curated_fact_positions
+    if _curated_fact_positions is not None:
+        return _curated_fact_positions
+    
+    import re
+    _curated_fact_positions = []
+    curated_file = 'data/curated_fact_positions.txt'
+    
+    try:
+        with open(curated_file, 'r', encoding='utf-8') as f:
+            content = f.read()
+        
+        lines = content.split('\n')
+        for line in lines:
+            line = line.strip()
+            match = re.match(r'^\d+\.\s+(.+)$', line)
+            if match:
+                statement = match.group(1).strip()
+                if len(statement) >= 30 and len(statement) <= 400:
+                    _curated_fact_positions.append({
+                        'text': statement,
+                        'id': 'ZHI'
+                    })
+        
+        print(f"Loaded {len(_curated_fact_positions)} curated fact positions")
+    except Exception as e:
+        print(f"Error loading curated positions: {e}")
+        _curated_fact_positions = []
+    
+    return _curated_fact_positions
+
 @app.route('/api/random-quotes', methods=['GET'])
 def get_random_quotes():
     """Return random philosophical quotes/insights for the Knowledge Panel during wait time.
@@ -579,15 +614,19 @@ def get_random_quotes():
                 'id': pos.get('position_id', '')
             })
     
-    short_positions_raw = searcher.get_random_positions(count=100, min_len=30, max_len=400)
-    short_positions = []
-    for pos in short_positions_raw:
-        text = pos.get('text', '')
-        if text:
-            short_positions.append({
-                'text': text,
-                'id': pos.get('position_id', '')
-            })
+    curated_positions = load_curated_fact_positions()
+    if curated_positions:
+        short_positions = random.sample(curated_positions, min(100, len(curated_positions)))
+    else:
+        short_positions_raw = searcher.get_random_positions(count=100, min_len=30, max_len=400)
+        short_positions = []
+        for pos in short_positions_raw:
+            text = pos.get('text', '')
+            if text:
+                short_positions.append({
+                    'text': text,
+                    'id': pos.get('position_id', '')
+                })
     
     return jsonify({
         'quotes': quotes,
