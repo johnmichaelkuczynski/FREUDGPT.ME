@@ -97,10 +97,19 @@ class SemanticSearch:
         if self.embeddings_path:
             base_path = self.embeddings_path.replace('.pkl', '')
             dir_path = os.path.dirname(self.embeddings_path) or '.'
+            
+            def natural_sort_key(filename):
+                """Sort files by part number then chunk number for correct ordering"""
+                import re
+                match = re.search(r'_part(\d+)_chunk(\d+)', filename)
+                if match:
+                    return (int(match.group(1)), int(match.group(2)))
+                return (0, 0)
+            
             chunk_files = sorted([
                 f for f in os.listdir(dir_path)
                 if f.startswith(os.path.basename(base_path) + '_part') and f.endswith('.pkl')
-            ])
+            ], key=natural_sort_key)
             
             if chunk_files:
                 print(f"Loading chunked embeddings from {len(chunk_files)} files...")
