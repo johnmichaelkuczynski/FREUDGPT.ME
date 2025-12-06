@@ -32,33 +32,7 @@ except ImportError:
     docx = None
 
 import re
-import urllib.request
-import tarfile
 
-def ensure_embeddings():
-    embed_url = os.environ.get("EMBED_URL")
-    if not embed_url:
-        print("❌ ERROR: EMBED_URL not set.")
-        return
-
-    save_path = "embeddings.tar.gz"
-
-    if os.path.exists("embeddings") and os.listdir("embeddings"):
-        print("✔ Embeddings already present, skipping download.")
-        return
-
-    print("⬇ Downloading embeddings from:", embed_url)
-    urllib.request.urlretrieve(embed_url, save_path)
-
-    print("📦 Extracting embeddings...")
-    with tarfile.open(save_path, "r:gz") as t:
-        t.extractall("embeddings")
-
-    print("✔ Embeddings ready.\n")
-
-ensure_embeddings()
-
-semantic = SemanticSearch("embeddings")
 
 def detect_explicit_requirements(question, default_length, default_quotes):
     """
