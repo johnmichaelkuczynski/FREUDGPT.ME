@@ -118,8 +118,8 @@ print("Configuring semantic search systems (lazy-loaded on first request)...")
 
 databases = {
     'kuczynski': SemanticSearch(
-        'data/KUCZYNSKI_V2_DATABASE.json', 
-        'data/kuczynski_v2_embeddings.pkl'
+        'data/KUCZYNSKI_COMPREHENSIVE_DATABASE.json', 
+        'data/KUCZYNSKI_COMPREHENSIVE_EMBEDDINGS.pkl'
     ),
     'freud': SemanticSearch(
         'data/FREUD_DATABASE_UNIFIED.json', 
