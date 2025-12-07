@@ -104,6 +104,9 @@ class SemanticSearch:
                 match = re.search(r'_part(\d+)_chunk(\d+)', filename)
                 if match:
                     return (int(match.group(1)), int(match.group(2)))
+                match = re.search(r'_part(\d+)\.pkl$', filename)
+                if match:
+                    return (int(match.group(1)), 0)
                 return (0, 0)
             
             chunk_files = sorted([
