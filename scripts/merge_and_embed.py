@@ -56,6 +56,7 @@ def load_5works_positions():
         for p in positions:
             converted.append({
                 "id": p.get("position_id", ""),
+                "position_id": p.get("position_id", ""),
                 "statement": p.get("claim", p.get("text", "")),
                 "verbatim_quote": p.get("quote", p.get("text", "")),
                 "position_type": p.get("position_type", "claim"),
@@ -80,6 +81,7 @@ def load_existing_v2_positions():
         for p in positions:
             converted.append({
                 "id": p.get("position_id", ""),
+                "position_id": p.get("position_id", ""),
                 "statement": p.get("text", ""),
                 "verbatim_quote": p.get("text", ""),
                 "position_type": "claim",
@@ -91,6 +93,33 @@ def load_existing_v2_positions():
         return converted
     except Exception as e:
         print(f"  Error loading V2 positions: {e}")
+        return []
+
+def load_v42_positions():
+    """Load positions from v42 database (contains canonical IDs like LMCC-323)"""
+    try:
+        with open("data/KUCZYNSKI_PHILOSOPHICAL_DATABASE_v42_WITH_BATCH11.json", 'r') as f:
+            data = json.load(f)
+        
+        positions = data.get("positions", [])
+        print(f"  Loaded {len(positions)} positions from v42 database")
+        
+        converted = []
+        for p in positions:
+            converted.append({
+                "id": p.get("position_id", ""),
+                "position_id": p.get("position_id", ""),
+                "statement": p.get("thesis", ""),
+                "verbatim_quote": p.get("thesis", ""),
+                "position_type": "claim",
+                "work_title": p.get("source", "Unknown"),
+                "work_id": "kuc-v42",
+                "keywords": [],
+                "topic_area": p.get("domain", "philosophy")
+            })
+        return converted
+    except Exception as e:
+        print(f"  Error loading v42 positions: {e}")
         return []
 
 def deduplicate_positions(positions):
@@ -164,13 +193,22 @@ def main():
     v2_positions = load_existing_v2_positions()
     print(f"Total from V2: {len(v2_positions)}")
     
-    all_positions = extracted + fiveworks + v2_positions
+    print("\nLoading v42 database (canonical IDs)...")
+    v42_positions = load_v42_positions()
+    print(f"Total from v42: {len(v42_positions)}")
+    
+    all_positions = extracted + fiveworks + v2_positions + v42_positions
     print(f"\nTotal before deduplication: {len(all_positions)}")
     
     unique = deduplicate_positions(all_positions)
     print(f"Total after deduplication: {len(unique)}")
     
     for i, p in enumerate(unique):
+        original_id = p.get("position_id") or p.get("id") or ""
+        if original_id:
+            p["position_id"] = original_id
+        else:
+            p["position_id"] = f"kuc-{i+1:05d}"
         p["id"] = f"kuc-{i+1:05d}"
     
     embeddings = generate_embeddings(unique)
@@ -183,7 +221,10 @@ def main():
     
     works = {}
     for p in unique:
-        w = p.get("work_title", "Unknown")[:50]
+        w = p.get("work_title", "Unknown")
+        if isinstance(w, list):
+            w = w[0] if w else "Unknown"
+        w = str(w)[:50]
         works[w] = works.get(w, 0) + 1
     print("\nPositions by work:")
     for w, c in sorted(works.items(), key=lambda x: -x[1]):
