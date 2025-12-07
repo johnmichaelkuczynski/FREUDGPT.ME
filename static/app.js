@@ -209,11 +209,10 @@ class ThinkerWorkshop {
     
     loadSavedFontSize() {
         const saved = localStorage.getItem('freudgpt-font-size');
-        if (saved) {
-            this.fontSizeSlider.value = saved;
-            this.fontSizeValue.textContent = saved + '%';
-            this.applyFontSize(saved);
-        }
+        const fontSize = saved || '130';
+        this.fontSizeSlider.value = fontSize;
+        this.fontSizeValue.textContent = fontSize + '%';
+        this.applyFontSize(fontSize);
     }
     
     async loadDatabases() {

@@ -166,7 +166,7 @@ body::before {
 }
 
 .panel-dialogue {
-    flex: 6;
+    flex: 7;
     display: flex;
     flex-direction: column;
     background: linear-gradient(145deg, rgba(45, 45, 45, 0.6) 0%, rgba(35, 35, 35, 0.8) 100%);
@@ -177,7 +177,7 @@ body::before {
 }
 
 .panel-archive {
-    flex: 4;
+    flex: 3;
     display: flex;
     flex-direction: column;
     background: linear-gradient(145deg, rgba(244, 236, 216, 0.08) 0%, rgba(232, 220, 198, 0.05) 100%);
@@ -526,11 +526,11 @@ body::before {
     display: flex;
     align-items: center;
     justify-content: space-between;
-    gap: 20px;
-    padding: 15px 20px;
+    gap: 15px;
+    padding: 8px 15px;
     background: rgba(45, 45, 45, 0.6);
-    border-radius: 12px;
-    margin-bottom: 15px;
+    border-radius: 10px;
+    margin-bottom: 10px;
     border: 1px solid rgba(201, 162, 39, 0.1);
     flex-wrap: wrap;
 }
@@ -548,11 +548,11 @@ body::before {
     display: flex;
     flex-direction: column;
     align-items: center;
-    gap: 4px;
-    padding: 10px 16px;
+    gap: 2px;
+    padding: 6px 12px;
     background: rgba(255, 255, 255, 0.03);
     border: 2px solid transparent;
-    border-radius: 12px;
+    border-radius: 10px;
     cursor: pointer;
     transition: var(--transition-smooth);
 }
