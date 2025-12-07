@@ -68,6 +68,8 @@ class ThinkerWorkshop {
         this.setupEventListeners();
         this.initPanelResize();
         this.loadPanelSizes();
+        this.initInputResize();
+        this.loadInputHeight();
         this.loadDatabases();
         this.loadProviders();
         this.checkSession();
@@ -163,6 +165,100 @@ class ThinkerWorkshop {
                 if (sizes.archive) this.archivePanel.style.flex = sizes.archive;
             } catch (e) {
                 console.log('Could not load panel sizes');
+            }
+        }
+    }
+    
+    initInputResize() {
+        const inputResizeHandle = document.getElementById('input-resize-handle');
+        const inputSection = document.getElementById('input-section');
+        const dualPanelContainer = document.querySelector('.dual-panel-container');
+        const workshopMain = document.querySelector('.workshop-main');
+        
+        if (!inputResizeHandle || !inputSection || !dualPanelContainer) return;
+        
+        let isResizing = false;
+        let startY = 0;
+        let startInputHeight = 0;
+        let startPanelHeight = 0;
+        
+        const startResize = (e) => {
+            isResizing = true;
+            startY = e.clientY || e.touches[0].clientY;
+            startInputHeight = inputSection.offsetHeight;
+            startPanelHeight = dualPanelContainer.offsetHeight;
+            inputResizeHandle.classList.add('dragging');
+            document.body.style.cursor = 'row-resize';
+            document.body.style.userSelect = 'none';
+            e.preventDefault();
+        };
+        
+        const doResize = (e) => {
+            if (!isResizing) return;
+            
+            const clientY = e.clientY || (e.touches && e.touches[0].clientY);
+            if (!clientY) return;
+            
+            const deltaY = startY - clientY;
+            
+            const minInputHeight = 80;
+            const maxInputHeight = 400;
+            
+            let newInputHeight = startInputHeight + deltaY;
+            newInputHeight = Math.max(minInputHeight, Math.min(maxInputHeight, newInputHeight));
+            
+            inputSection.style.maxHeight = newInputHeight + 'px';
+            
+            if (newInputHeight <= 100) {
+                inputSection.classList.add('collapsed');
+            } else {
+                inputSection.classList.remove('collapsed');
+            }
+        };
+        
+        const stopResize = () => {
+            if (!isResizing) return;
+            isResizing = false;
+            inputResizeHandle.classList.remove('dragging');
+            document.body.style.cursor = '';
+            document.body.style.userSelect = '';
+            
+            this.saveInputHeight();
+        };
+        
+        inputResizeHandle.addEventListener('mousedown', startResize);
+        inputResizeHandle.addEventListener('touchstart', startResize);
+        
+        document.addEventListener('mousemove', doResize);
+        document.addEventListener('touchmove', doResize);
+        
+        document.addEventListener('mouseup', stopResize);
+        document.addEventListener('touchend', stopResize);
+    }
+    
+    saveInputHeight() {
+        const inputSection = document.getElementById('input-section');
+        if (inputSection) {
+            const height = inputSection.style.maxHeight || 'auto';
+            const collapsed = inputSection.classList.contains('collapsed');
+            localStorage.setItem('freudgpt-input-height', JSON.stringify({ height, collapsed }));
+        }
+    }
+    
+    loadInputHeight() {
+        const saved = localStorage.getItem('freudgpt-input-height');
+        if (saved) {
+            try {
+                const data = JSON.parse(saved);
+                const inputSection = document.getElementById('input-section');
+                if (inputSection && data.height) {
+                    inputSection.style.maxHeight = data.height;
+                    if (data.collapsed) {
+                        inputSection.classList.add('collapsed');
+                    }
+                }
+            } catch (e) {
+                console.log('Could not load input height');
             }
         }
     }

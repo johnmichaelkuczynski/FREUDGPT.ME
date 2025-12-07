@@ -198,6 +198,54 @@ body::before {
     color: white;
 }
 
+.input-resize-handle {
+    height: 10px;
+    background: var(--border);
+    cursor: row-resize;
+    transition: background 0.2s ease;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-shrink: 0;
+    border-radius: 8px 8px 0 0;
+    margin-top: 5px;
+}
+
+.input-resize-handle:hover,
+.input-resize-handle.dragging {
+    background: var(--primary);
+}
+
+.input-resize-handle .resize-grip {
+    color: var(--text-muted);
+    font-size: 12px;
+    letter-spacing: 2px;
+    line-height: 1;
+}
+
+.input-resize-handle:hover .resize-grip,
+.input-resize-handle.dragging .resize-grip {
+    color: white;
+}
+
+.input-section {
+    flex-shrink: 0;
+    transition: max-height 0.1s ease;
+    overflow: hidden;
+}
+
+.input-section.collapsed .controls-bar {
+    display: none;
+}
+
+.input-section.collapsed .compose-area {
+    padding: 10px 20px;
+}
+
+.input-section.collapsed .compose-container textarea {
+    padding: 10px 15px;
+}
+
 .panel-dialogue {
     flex: var(--dialogue-flex, 7);
     display: flex;
