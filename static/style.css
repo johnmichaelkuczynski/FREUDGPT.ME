@@ -418,12 +418,12 @@ body::before {
 }
 
 .message-user .message-bubble {
-    background: #115E59;
-    border: 1px solid #0D4F4A;
+    background: var(--bg-card);
+    border: 1px solid var(--border);
     border-radius: 16px 16px 4px 16px;
     padding: 16px 20px;
     max-width: 85%;
-    color: #FFFFFF;
+    color: var(--text-primary);
     font-weight: 500;
     font-size: 1.05em;
 }
