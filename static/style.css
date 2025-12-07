@@ -339,12 +339,13 @@ body::before {
 }
 
 .message-user .message-bubble {
-    background: var(--primary);
-    border: 1px solid var(--primary-hover);
+    background: var(--text-primary);
+    border: 1px solid var(--text-primary);
     border-radius: 16px 16px 4px 16px;
     padding: 16px 20px;
     max-width: 85%;
     color: #FFFFFF;
+    font-weight: 500;
 }
 
 .message-assistant {
