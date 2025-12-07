@@ -12,9 +12,9 @@ FreudGPT is an intelligent conversational AI application that delivers in-depth,
 ## System Architecture
 
 ### UI/UX: The Thinker's Workshop
-- **Theme**: Dark Academia with a color palette of deep burgundy, charcoal, parchment, and gold accents.
+- **Theme**: Bright Wellness with a color palette of deep teal (#0F766E), warm off-white (#FFFDFB), light mint (#F0FDFA), and coral-orange accents (#F97316).
 - **Typography**: Playfair Display (headings), Inter (body), Crimson Pro (quotes).
-- **Layout**: Dual-panel design with "The Dialogue" (60%) for real-time AI responses and "The Archive" (40%) for synchronized source texts.
+- **Layout**: Dual-panel design with "The Dialogue" (70%) for real-time AI responses and "The Archive" (30%) for synchronized source texts.
 - **Interactive Features**: Avatar-based thinker selection, knowledge panel popups during wait times, source highlighting, styled controls for response length and Enhanced Mode, and in-app reader for viewing full philosophical works.
 - **In-App Reader**: Source links open a modal reader displaying the complete work text from the `texts/` folder (27 Kuczynski works available). Features include text search with highlighting, adjustable font sizes, and keyboard navigation.
 - **Animations**: Orbiting thinker emojis, typewriter streaming effects, and smooth panel transitions.
@@ -29,6 +29,7 @@ FreudGPT is an intelligent conversational AI application that delivers in-depth,
 - **Design Decisions**: Emphasizes faithful representation of thinkers' styles, token-by-token streaming, a simplified data model focusing on philosophical positions, and CPU-only PyTorch for Replit compatibility.
 
 ## Recent Progress (December 2025)
+- **UI Color Scheme Overhaul**: Transformed from dark academia to bright wellness theme with teal, mint, and coral-orange colors for a fresh, modern look
 - **Memory-Optimized Lazy Loading**: Startup memory reduced from 500+ MB to ~166 MB for Render deployment compatibility (512 MB limit). Databases and embeddings now lazy-load on first query, not at startup. Random-quotes endpoint uses cached positions without loading embeddings.
 - **Answer Quality Significantly Improved**: Prompt hardening now requires VERBATIM quotes only, forbids invented terminology, and enforces exact formulations from the database
 - **Canonical Query Mapping**: Force-injects correct positions for key philosophical queries (proposition composition, truth/instantiation) bypassing semantic search limitations; retrieval depth increased to top_k=15
