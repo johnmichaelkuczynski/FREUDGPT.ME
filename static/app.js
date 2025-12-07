@@ -201,17 +201,17 @@ class ThinkerWorkshop {
             
             const deltaY = clientY - startY;
             
-            const minInputHeight = 120;
+            const minInputHeight = 180;
             const maxInputHeight = 450;
             
             let newInputHeight = startInputHeight - deltaY;
             newInputHeight = Math.max(minInputHeight, Math.min(maxInputHeight, newInputHeight));
             
             inputSection.style.height = newInputHeight + 'px';
-            inputSection.style.minHeight = newInputHeight + 'px';
-            inputSection.style.maxHeight = newInputHeight + 'px';
+            inputSection.style.minHeight = minInputHeight + 'px';
+            inputSection.style.maxHeight = maxInputHeight + 'px';
             
-            if (newInputHeight <= 150) {
+            if (newInputHeight <= 200) {
                 inputSection.classList.add('collapsed');
             } else {
                 inputSection.classList.remove('collapsed');
@@ -255,8 +255,8 @@ class ThinkerWorkshop {
                 const inputSection = document.getElementById('input-section');
                 if (inputSection && data.height && data.height !== 'auto') {
                     inputSection.style.height = data.height;
-                    inputSection.style.minHeight = data.height;
-                    inputSection.style.maxHeight = data.height;
+                    inputSection.style.minHeight = '180px';
+                    inputSection.style.maxHeight = '450px';
                     if (data.collapsed) {
                         inputSection.classList.add('collapsed');
                     }
