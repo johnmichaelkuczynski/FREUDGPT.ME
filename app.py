@@ -600,7 +600,7 @@ def get_random_quotes():
     
     searcher = databases[database]
     
-    archive_positions = searcher.get_random_positions(count=count * 2, min_len=100, max_len=800)
+    archive_positions = searcher.get_random_positions(count=count * 2, min_len=300, max_len=2400)
     quotes = []
     for pos in archive_positions[:count]:
         text = pos.get('text', '')
@@ -715,8 +715,8 @@ INSTRUCTION: These deductions are NOT optional suggestions. They are the {infras
 
 """
     
-    excerpts = "\n\n".join([
-        f"POSITION {i+1} (ID: {p['position_id']}, Domain: {p['domain']}, Relevance: {p.get('similarity', 0):.2f}):\nTitle: {p['title']}\n{p['text']}"
+    excerpts = "\n\n---\n\n".join([
+        f"[{p['domain']}] {p['title']}\n{p['text']}"
         for i, p in enumerate(positions)
     ])
     
@@ -840,7 +840,7 @@ GOOD: "As Goodman highlighted through his 'grue' argument..."
 
 NEVER fabricate connections between unrelated topics. NEVER output preambles, assessments, or meta-commentary.
 
-RETRIEVED POSITIONS:
+SOURCE MATERIALS:
 {excerpts}
 
 USER QUESTION:
@@ -1005,7 +1005,7 @@ Examples of FORBIDDEN phrases:
 
 Think of yourself as {thinker_name} writing a new passage that could fit seamlessly into the existing corpus.
 
-RETRIEVED POSITIONS (USE CONTENT ONLY, NEVER REFERENCE):
+SOURCE MATERIALS (USE CONTENT ONLY, NEVER REFERENCE BY NUMBER):
 {excerpts}
 
 USER QUESTION:
