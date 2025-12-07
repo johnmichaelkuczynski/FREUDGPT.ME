@@ -558,7 +558,6 @@ class ThinkerWorkshop {
                     <span class="source-id">${source.id || `Source ${index + 1}`}</span>
                 </div>
                 <div class="source-text">${source.text}</div>
-                ${source.domain ? `<div class="source-attribution">${source.domain}</div>` : ''}
             </div>
         `).join('');
         
