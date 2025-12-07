@@ -62,12 +62,109 @@ class ThinkerWorkshop {
         this.readerModal = null;
         this.createReaderModal();
         
+        this.resizeHandle = document.getElementById('panel-resize-handle');
+        this.dualPanelContainer = document.querySelector('.dual-panel-container');
+        
         this.setupEventListeners();
+        this.initPanelResize();
+        this.loadPanelSizes();
         this.loadDatabases();
         this.loadProviders();
         this.checkSession();
         this.showWelcomeMessage();
         this.loadSavedFontSize();
+    }
+    
+    initPanelResize() {
+        if (!this.resizeHandle || !this.dialoguePanel || !this.archivePanel) return;
+        
+        let isResizing = false;
+        let startX = 0;
+        let startDialogueWidth = 0;
+        let startArchiveWidth = 0;
+        
+        const startResize = (e) => {
+            isResizing = true;
+            startX = e.clientX || e.touches[0].clientX;
+            startDialogueWidth = this.dialoguePanel.offsetWidth;
+            startArchiveWidth = this.archivePanel.offsetWidth;
+            this.resizeHandle.classList.add('dragging');
+            document.body.style.cursor = 'col-resize';
+            document.body.style.userSelect = 'none';
+            e.preventDefault();
+        };
+        
+        const doResize = (e) => {
+            if (!isResizing) return;
+            
+            const clientX = e.clientX || (e.touches && e.touches[0].clientX);
+            if (!clientX) return;
+            
+            const deltaX = clientX - startX;
+            const containerWidth = this.dualPanelContainer.offsetWidth;
+            
+            let newDialogueWidth = startDialogueWidth + deltaX;
+            let newArchiveWidth = startArchiveWidth - deltaX;
+            
+            const minDialogue = 300;
+            const minArchive = 200;
+            
+            if (newDialogueWidth < minDialogue) {
+                newDialogueWidth = minDialogue;
+                newArchiveWidth = containerWidth - minDialogue - this.resizeHandle.offsetWidth;
+            }
+            if (newArchiveWidth < minArchive) {
+                newArchiveWidth = minArchive;
+                newDialogueWidth = containerWidth - minArchive - this.resizeHandle.offsetWidth;
+            }
+            
+            const dialogueFlex = newDialogueWidth / containerWidth * 10;
+            const archiveFlex = newArchiveWidth / containerWidth * 10;
+            
+            this.dialoguePanel.style.flex = dialogueFlex;
+            this.archivePanel.style.flex = archiveFlex;
+        };
+        
+        const stopResize = () => {
+            if (!isResizing) return;
+            isResizing = false;
+            this.resizeHandle.classList.remove('dragging');
+            document.body.style.cursor = '';
+            document.body.style.userSelect = '';
+            
+            this.savePanelSizes();
+        };
+        
+        this.resizeHandle.addEventListener('mousedown', startResize);
+        this.resizeHandle.addEventListener('touchstart', startResize);
+        
+        document.addEventListener('mousemove', doResize);
+        document.addEventListener('touchmove', doResize);
+        
+        document.addEventListener('mouseup', stopResize);
+        document.addEventListener('touchend', stopResize);
+    }
+    
+    savePanelSizes() {
+        const dialogueFlex = this.dialoguePanel.style.flex || '7';
+        const archiveFlex = this.archivePanel.style.flex || '3';
+        localStorage.setItem('freudgpt-panel-sizes', JSON.stringify({
+            dialogue: dialogueFlex,
+            archive: archiveFlex
+        }));
+    }
+    
+    loadPanelSizes() {
+        const saved = localStorage.getItem('freudgpt-panel-sizes');
+        if (saved) {
+            try {
+                const sizes = JSON.parse(saved);
+                if (sizes.dialogue) this.dialoguePanel.style.flex = sizes.dialogue;
+                if (sizes.archive) this.archivePanel.style.flex = sizes.archive;
+            } catch (e) {
+                console.log('Could not load panel sizes');
+            }
+        }
     }
     
     setupEventListeners() {

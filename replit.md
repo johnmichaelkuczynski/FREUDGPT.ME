@@ -29,6 +29,7 @@ FreudGPT is an intelligent conversational AI application that delivers in-depth,
 - **Design Decisions**: Emphasizes faithful representation of thinkers' styles, token-by-token streaming, a simplified data model focusing on philosophical positions, and CPU-only PyTorch for Replit compatibility.
 
 ## Recent Progress (December 2025)
+- **Resizable Panels**: Users can now drag the divider between "The Dialogue" and "The Archive" panels to adjust their widths. Sizes persist across sessions via localStorage.
 - **UI Color Scheme Overhaul**: Transformed from dark academia to bright wellness theme with teal, mint, and coral-orange colors for a fresh, modern look
 - **Memory-Optimized Lazy Loading**: Startup memory reduced from 500+ MB to ~166 MB for Render deployment compatibility (512 MB limit). Databases and embeddings now lazy-load on first query, not at startup. Random-quotes endpoint uses cached positions without loading embeddings.
 - **Answer Quality Significantly Improved**: Prompt hardening now requires VERBATIM quotes only, forbids invented terminology, and enforces exact formulations from the database

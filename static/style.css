@@ -75,7 +75,7 @@ body::before {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: 15px 30px;
+    padding: var(--header-padding, 15px) 30px;
     background: var(--bg-elevated);
     border-bottom: 1px solid var(--border);
     backdrop-filter: blur(10px);
@@ -166,31 +166,61 @@ body::before {
 
 .dual-panel-container {
     display: flex;
-    gap: 12px;
+    gap: 0;
     flex: 1;
     min-height: 0;
 }
 
+.panel-resize-handle {
+    width: 8px;
+    background: var(--border);
+    cursor: col-resize;
+    transition: background 0.2s ease;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-shrink: 0;
+}
+
+.panel-resize-handle:hover,
+.panel-resize-handle.dragging {
+    background: var(--primary);
+}
+
+.panel-resize-handle::after {
+    content: '⋮';
+    color: var(--text-muted);
+    font-size: 14px;
+}
+
+.panel-resize-handle:hover::after,
+.panel-resize-handle.dragging::after {
+    color: white;
+}
+
 .panel-dialogue {
-    flex: 7;
+    flex: var(--dialogue-flex, 7);
     display: flex;
     flex-direction: column;
     background: var(--bg-elevated);
-    border-radius: 16px;
+    border-radius: 16px 0 0 16px;
     border: 1px solid var(--border);
     overflow: hidden;
     box-shadow: var(--shadow-soft);
+    min-width: 300px;
 }
 
 .panel-archive {
-    flex: 3;
+    flex: var(--archive-flex, 3);
     display: flex;
     flex-direction: column;
     background: var(--bg-card);
-    border-radius: 16px;
+    border-radius: 0 16px 16px 0;
     border: 1px solid var(--border);
+    border-left: none;
     overflow: hidden;
     box-shadow: var(--shadow-soft);
+    min-width: 200px;
 }
 
 .panel-header {
@@ -1146,8 +1176,8 @@ body::before {
     right: 20px;
     top: 50%;
     transform: translateY(-50%);
-    width: 520px;
-    max-height: 85vh;
+    width: var(--popup-width, 380px);
+    max-height: 70vh;
     background: var(--bg-elevated);
     border-radius: 16px;
     box-shadow: var(--shadow-medium);
@@ -1226,8 +1256,8 @@ body::before {
 }
 
 .quote-carousel {
-    min-height: 400px;
-    max-height: 55vh;
+    min-height: 200px;
+    max-height: 45vh;
     margin-bottom: 16px;
     overflow-y: auto;
 }
@@ -1235,13 +1265,13 @@ body::before {
 .quote-card {
     background: var(--bg-card);
     border-radius: 12px;
-    padding: 28px;
+    padding: 20px;
     border-left: 4px solid var(--primary);
     opacity: 0;
     transform: translateY(10px);
     transition: all 0.4s ease;
     display: none;
-    min-height: 300px;
+    min-height: 150px;
 }
 
 .quote-card.active {
