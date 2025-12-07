@@ -199,17 +199,19 @@ class ThinkerWorkshop {
             const clientY = e.clientY || (e.touches && e.touches[0].clientY);
             if (!clientY) return;
             
-            const deltaY = startY - clientY;
+            const deltaY = clientY - startY;
             
-            const minInputHeight = 80;
-            const maxInputHeight = 400;
+            const minInputHeight = 120;
+            const maxInputHeight = 450;
             
-            let newInputHeight = startInputHeight + deltaY;
+            let newInputHeight = startInputHeight - deltaY;
             newInputHeight = Math.max(minInputHeight, Math.min(maxInputHeight, newInputHeight));
             
+            inputSection.style.height = newInputHeight + 'px';
+            inputSection.style.minHeight = newInputHeight + 'px';
             inputSection.style.maxHeight = newInputHeight + 'px';
             
-            if (newInputHeight <= 100) {
+            if (newInputHeight <= 150) {
                 inputSection.classList.add('collapsed');
             } else {
                 inputSection.classList.remove('collapsed');
@@ -239,7 +241,7 @@ class ThinkerWorkshop {
     saveInputHeight() {
         const inputSection = document.getElementById('input-section');
         if (inputSection) {
-            const height = inputSection.style.maxHeight || 'auto';
+            const height = inputSection.style.height || 'auto';
             const collapsed = inputSection.classList.contains('collapsed');
             localStorage.setItem('freudgpt-input-height', JSON.stringify({ height, collapsed }));
         }
@@ -251,7 +253,9 @@ class ThinkerWorkshop {
             try {
                 const data = JSON.parse(saved);
                 const inputSection = document.getElementById('input-section');
-                if (inputSection && data.height) {
+                if (inputSection && data.height && data.height !== 'auto') {
+                    inputSection.style.height = data.height;
+                    inputSection.style.minHeight = data.height;
                     inputSection.style.maxHeight = data.height;
                     if (data.collapsed) {
                         inputSection.classList.add('collapsed');

@@ -230,7 +230,8 @@ body::before {
 
 .input-section {
     flex-shrink: 0;
-    transition: max-height 0.1s ease;
+    display: flex;
+    flex-direction: column;
     overflow: hidden;
 }
 
@@ -239,11 +240,28 @@ body::before {
 }
 
 .input-section.collapsed .compose-area {
-    padding: 10px 20px;
+    padding: 8px 15px;
+    flex: 1;
+}
+
+.input-section.collapsed .compose-container {
+    height: 100%;
 }
 
 .input-section.collapsed .compose-container textarea {
-    padding: 10px 15px;
+    padding: 8px 12px;
+    min-height: 40px;
+}
+
+.input-section .compose-area {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+}
+
+.input-section .compose-container {
+    flex: 1;
+    display: flex;
 }
 
 .panel-dialogue {
