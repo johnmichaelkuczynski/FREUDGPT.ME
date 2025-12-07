@@ -547,6 +547,12 @@ body::before {
     border-color: var(--primary);
 }
 
+.copy-btn.copied {
+    background: rgba(34, 197, 94, 0.2);
+    border-color: #22C55E;
+    color: #16A34A;
+}
+
 .source-item {
     background: var(--bg-elevated);
     border: 1px solid var(--border);

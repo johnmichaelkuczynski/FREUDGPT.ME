@@ -1093,6 +1093,11 @@ class ThinkerWorkshop {
         const buttonContainer = document.createElement('div');
         buttonContainer.className = 'download-buttons';
         
+        const copyBtn = document.createElement('button');
+        copyBtn.className = 'download-btn copy-btn';
+        copyBtn.textContent = '📋 Copy';
+        copyBtn.onclick = () => this.copyResponseToClipboard(messageDiv, copyBtn);
+        
         const downloadMdBtn = document.createElement('button');
         downloadMdBtn.className = 'download-btn';
         downloadMdBtn.textContent = '💾 Markdown';
@@ -1103,9 +1108,48 @@ class ThinkerWorkshop {
         downloadTxtBtn.textContent = '💾 Text';
         downloadTxtBtn.onclick = () => this.downloadExchange(messageDiv, userQuestion, 'txt');
         
+        buttonContainer.appendChild(copyBtn);
         buttonContainer.appendChild(downloadMdBtn);
         buttonContainer.appendChild(downloadTxtBtn);
         bubble.appendChild(buttonContainer);
+    }
+    
+    async copyResponseToClipboard(messageDiv, button) {
+        const assistantText = messageDiv.querySelector('.message-text').textContent;
+        
+        try {
+            await navigator.clipboard.writeText(assistantText);
+            const originalText = button.textContent;
+            button.textContent = '✓ Copied!';
+            button.classList.add('copied');
+            setTimeout(() => {
+                button.textContent = originalText;
+                button.classList.remove('copied');
+            }, 2000);
+        } catch (err) {
+            const textArea = document.createElement('textarea');
+            textArea.value = assistantText;
+            textArea.style.position = 'fixed';
+            textArea.style.left = '-9999px';
+            document.body.appendChild(textArea);
+            textArea.select();
+            try {
+                document.execCommand('copy');
+                const originalText = button.textContent;
+                button.textContent = '✓ Copied!';
+                button.classList.add('copied');
+                setTimeout(() => {
+                    button.textContent = originalText;
+                    button.classList.remove('copied');
+                }, 2000);
+            } catch (e) {
+                button.textContent = '✗ Failed';
+                setTimeout(() => {
+                    button.textContent = '📋 Copy';
+                }, 2000);
+            }
+            document.body.removeChild(textArea);
+        }
     }
     
     downloadExchange(messageDiv, userQuestion, format = 'md') {
